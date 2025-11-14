@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_081",
+    "label": "water",
+    "caption": "A girl is sitting on the beach and staring at the ocean .",
+    "imgs_paths": {
+        "../data/augmented/water/water_081/water_081.jpg": [],
+        "../data/augmented/water/water_081/water_081_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/augmented/water/water_081/water_081_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

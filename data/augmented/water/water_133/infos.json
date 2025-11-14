@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_133",
+    "label": "water",
+    "caption": "A group of friends ride the current in a raft .",
+    "imgs_paths": {
+        "../data/augmented/water/water_133/water_133.jpg": [],
+        "../data/augmented/water/water_133/water_133_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/water/water_133/water_133_color.jpg": [
+            "brightness"
+        ]
+    }
+}

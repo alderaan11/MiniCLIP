@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_130",
+    "label": "bike",
+    "caption": "A BMX biker flies in the air off of a ramp .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_130/bike_130.jpg": [],
+        "../data/augmented/bike/bike_130/bike_130_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_130/bike_130_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

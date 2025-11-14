@@ -1,0 +1,20 @@
+{
+    "img_stem": "dog_063",
+    "label": "dog",
+    "caption": "a brown dog is leaping into a garden swimming pool .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_063/dog_063.jpg": [],
+        "../data/augmented/dog/dog_063/dog_063_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_063/dog_063_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

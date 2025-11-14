@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_016",
+    "label": "ball",
+    "caption": "A man in red shorts jumping in back of a volleyball net .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_016/ball_016.jpg": [],
+        "../data/augmented/ball/ball_016/ball_016_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_016/ball_016_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

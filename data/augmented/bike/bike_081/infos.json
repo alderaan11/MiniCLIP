@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_081",
+    "label": "bike",
+    "caption": "A man in a blue jacket bikes down a forest path .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_081/bike_081.jpg": [],
+        "../data/augmented/bike/bike_081/bike_081_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_081/bike_081_color.jpg": [
+            "contrast"
+        ]
+    }
+}

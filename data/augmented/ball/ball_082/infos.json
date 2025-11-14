@@ -1,0 +1,14 @@
+{
+    "img_stem": "ball_082",
+    "label": "ball",
+    "caption": "A black and brown dog is running out of the surf .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_082/ball_082.jpg": [],
+        "../data/augmented/ball/ball_082/ball_082_spatial.jpg": [
+            "h_flip"
+        ],
+        "../data/augmented/ball/ball_082/ball_082_color.jpg": [
+            "bw"
+        ]
+    }
+}

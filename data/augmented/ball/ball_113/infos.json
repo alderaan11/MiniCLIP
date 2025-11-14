@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_113",
+    "label": "ball",
+    "caption": "A group of young boys playing soccer .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_113/ball_113.jpg": [],
+        "../data/augmented/ball/ball_113/ball_113_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/augmented/ball/ball_113/ball_113_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

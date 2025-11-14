@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_145",
+    "label": "water",
+    "caption": "A boy high in the air above the dirt and water near the red rock cliffs .",
+    "imgs_paths": {
+        "../data/augmented/water/water_145/water_145.jpg": [],
+        "../data/augmented/water/water_145/water_145_spatial.jpg": [
+            "crop"
+        ],
+        "../data/augmented/water/water_145/water_145_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

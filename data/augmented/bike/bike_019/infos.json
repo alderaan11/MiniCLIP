@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_019",
+    "label": "bike",
+    "caption": "A team of dogs , and a woman following on a bike .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_019/bike_019.jpg": [],
+        "../data/augmented/bike/bike_019/bike_019_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/augmented/bike/bike_019/bike_019_color.jpg": [
+            "bw"
+        ]
+    }
+}

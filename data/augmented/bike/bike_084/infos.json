@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_084",
+    "label": "bike",
+    "caption": "A bike rider jumping off his bike , doing a trick",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_084/bike_084.jpg": [],
+        "../data/augmented/bike/bike_084/bike_084_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/bike/bike_084/bike_084_color.jpg": [
+            "bw"
+        ]
+    }
+}

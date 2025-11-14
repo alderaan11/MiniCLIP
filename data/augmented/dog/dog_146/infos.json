@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_146",
+    "label": "dog",
+    "caption": "a couple dogs in and around a small lake of water near a highway",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_146/dog_146.jpg": [],
+        "../data/augmented/dog/dog_146/dog_146_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/augmented/dog/dog_146/dog_146_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

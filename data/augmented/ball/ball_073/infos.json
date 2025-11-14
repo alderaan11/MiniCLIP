@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_073",
+    "label": "ball",
+    "caption": "A dog attempting to chew on a red ball .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_073/ball_073.jpg": [],
+        "../data/augmented/ball/ball_073/ball_073_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/augmented/ball/ball_073/ball_073_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

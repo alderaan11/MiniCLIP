@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_094",
+    "label": "ball",
+    "caption": "a determined girl is hitting a volleyball",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_094/ball_094.jpg": [],
+        "../data/augmented/ball/ball_094/ball_094_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_094/ball_094_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

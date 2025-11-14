@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_073",
+    "label": "water",
+    "caption": "A man in a scuba suit holds a box .",
+    "imgs_paths": {
+        "../data/augmented/water/water_073/water_073.jpg": [],
+        "../data/augmented/water/water_073/water_073_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/augmented/water/water_073/water_073_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

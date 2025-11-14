@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_077",
+    "label": "dog",
+    "caption": "A brown dog on a leash runs through the white water .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_077/dog_077.jpg": [],
+        "../data/augmented/dog/dog_077/dog_077_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_077/dog_077_color.jpg": [
+            "brightness"
+        ]
+    }
+}

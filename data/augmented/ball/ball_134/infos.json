@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_134",
+    "label": "ball",
+    "caption": "Oklahoma University 's Sooners football team playing against a rival .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_134/ball_134.jpg": [],
+        "../data/augmented/ball/ball_134/ball_134_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_134/ball_134_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

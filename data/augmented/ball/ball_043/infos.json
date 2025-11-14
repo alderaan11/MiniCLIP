@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_043",
+    "label": "ball",
+    "caption": "a child in a red coat is holding an armful of snow in front of a house .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_043/ball_043.jpg": [],
+        "../data/augmented/ball/ball_043/ball_043_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/ball/ball_043/ball_043_color.jpg": [
+            "bw"
+        ]
+    }
+}

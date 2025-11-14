@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_142",
+    "label": "dog",
+    "caption": "A big hound dog walking on a log in the woods .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_142/dog_142.jpg": [],
+        "../data/augmented/dog/dog_142/dog_142_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_142/dog_142_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_013",
+    "label": "ball",
+    "caption": "A boy in red and blue shorts is trying to catch a soccer ball while running in sand .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_013/ball_013.jpg": [],
+        "../data/augmented/ball/ball_013/ball_013_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_013/ball_013_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

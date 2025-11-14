@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_085",
+    "label": "dog",
+    "caption": "a dog in a red jacket is running on the grass .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_085/dog_085.jpg": [],
+        "../data/augmented/dog/dog_085/dog_085_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_085/dog_085_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

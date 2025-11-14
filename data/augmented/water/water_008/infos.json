@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_008",
+    "label": "water",
+    "caption": "The children are playing in the water .",
+    "imgs_paths": {
+        "../data/augmented/water/water_008/water_008.jpg": [],
+        "../data/augmented/water/water_008/water_008_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/water/water_008/water_008_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

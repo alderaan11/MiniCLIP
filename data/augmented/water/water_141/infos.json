@@ -1,0 +1,20 @@
+{
+    "img_stem": "water_141",
+    "label": "water",
+    "caption": "boats out on the water on a foggyday",
+    "imgs_paths": {
+        "../data/augmented/water/water_141/water_141.jpg": [],
+        "../data/augmented/water/water_141/water_141_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_141/water_141_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_092",
+    "label": "dog",
+    "caption": "A brown dog laying on a blue cover .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_092/dog_092.jpg": [],
+        "../data/augmented/dog/dog_092/dog_092_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_092/dog_092_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

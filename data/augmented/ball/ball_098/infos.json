@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_098",
+    "label": "ball",
+    "caption": "A dog runs through green grass with a tennis ball in its mouth .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_098/ball_098.jpg": [],
+        "../data/augmented/ball/ball_098/ball_098_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_098/ball_098_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

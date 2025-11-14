@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_125",
+    "label": "ball",
+    "caption": "There is a college player being tackled in a game .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_125/ball_125.jpg": [],
+        "../data/augmented/ball/ball_125/ball_125_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_125/ball_125_color.jpg": [
+            "bw"
+        ]
+    }
+}

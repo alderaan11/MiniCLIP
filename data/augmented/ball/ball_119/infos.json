@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_119",
+    "label": "ball",
+    "caption": "A football game .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_119/ball_119.jpg": [],
+        "../data/augmented/ball/ball_119/ball_119_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_119/ball_119_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

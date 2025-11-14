@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_017",
+    "label": "dog",
+    "caption": "A black and white dog is attempting to catch a yellow and purple object in a low cut yard .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_017/dog_017.jpg": [],
+        "../data/augmented/dog/dog_017/dog_017_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/dog/dog_017/dog_017_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

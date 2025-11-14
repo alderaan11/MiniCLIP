@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_070",
+    "label": "bike",
+    "caption": "A female on a bike is wearing black wings , and a metal halo , while others walk by .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_070/bike_070.jpg": [],
+        "../data/augmented/bike/bike_070/bike_070_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_070/bike_070_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_062",
+    "label": "ball",
+    "caption": "A boy runs in a race while onlookers watch .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_062/ball_062.jpg": [],
+        "../data/augmented/ball/ball_062/ball_062_spatial.jpg": [
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_062/ball_062_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

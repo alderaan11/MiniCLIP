@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_079",
+    "label": "ball",
+    "caption": "An Asian girl and boy playing on with a yellow ball on a black and white floor .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_079/ball_079.jpg": [],
+        "../data/augmented/ball/ball_079/ball_079_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_079/ball_079_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_030",
+    "label": "water",
+    "caption": "About 12 kids and a few adults get splashed by an off camera source .",
+    "imgs_paths": {
+        "../data/augmented/water/water_030/water_030.jpg": [],
+        "../data/augmented/water/water_030/water_030_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/water/water_030/water_030_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

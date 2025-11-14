@@ -1,0 +1,14 @@
+{
+    "img_stem": "dog_038",
+    "label": "dog",
+    "caption": "A brown and white dog stands outside while it snows .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_038/dog_038.jpg": [],
+        "../data/augmented/dog/dog_038/dog_038_spatial.jpg": [
+            "h_flip"
+        ],
+        "../data/augmented/dog/dog_038/dog_038_color.jpg": [
+            "bw"
+        ]
+    }
+}

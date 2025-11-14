@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_136",
+    "label": "water",
+    "caption": "A black dog carrying a colorful ball swims .",
+    "imgs_paths": {
+        "../data/augmented/water/water_136/water_136.jpg": [],
+        "../data/augmented/water/water_136/water_136_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/augmented/water/water_136/water_136_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

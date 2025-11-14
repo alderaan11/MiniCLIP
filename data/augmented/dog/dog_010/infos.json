@@ -1,0 +1,20 @@
+{
+    "img_stem": "dog_010",
+    "label": "dog",
+    "caption": "A black dog running in the surf .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_010/dog_010.jpg": [],
+        "../data/augmented/dog/dog_010/dog_010_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_010/dog_010_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

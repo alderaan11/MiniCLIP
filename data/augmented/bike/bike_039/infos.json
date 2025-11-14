@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_039",
+    "label": "bike",
+    "caption": "A cyclist wearing a red helmet is riding on the pavement .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_039/bike_039.jpg": [],
+        "../data/augmented/bike/bike_039/bike_039_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_039/bike_039_color.jpg": [
+            "bw"
+        ]
+    }
+}

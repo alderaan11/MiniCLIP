@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_007",
+    "label": "bike",
+    "caption": "Bicyclists are standing at an intersection .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_007/bike_007.jpg": [],
+        "../data/augmented/bike/bike_007/bike_007_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_007/bike_007_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

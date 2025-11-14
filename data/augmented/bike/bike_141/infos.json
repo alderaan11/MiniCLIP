@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_141",
+    "label": "bike",
+    "caption": "A group of bicyclists racing .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_141/bike_141.jpg": [],
+        "../data/augmented/bike/bike_141/bike_141_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_141/bike_141_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

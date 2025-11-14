@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_069",
+    "label": "water",
+    "caption": "A group of people in a boat , white water rafting .",
+    "imgs_paths": {
+        "../data/augmented/water/water_069/water_069.jpg": [],
+        "../data/augmented/water/water_069/water_069_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_069/water_069_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

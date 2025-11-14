@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_092",
+    "label": "ball",
+    "caption": "A basketball player in a duke uniform looks up .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_092/ball_092.jpg": [],
+        "../data/augmented/ball/ball_092/ball_092_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_092/ball_092_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

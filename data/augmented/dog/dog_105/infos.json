@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_105",
+    "label": "dog",
+    "caption": "A white dog and a black dog in a field .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_105/dog_105.jpg": [],
+        "../data/augmented/dog/dog_105/dog_105_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_105/dog_105_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

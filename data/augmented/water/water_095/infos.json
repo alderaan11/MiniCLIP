@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_095",
+    "label": "water",
+    "caption": "A guy waterskiing behind a boat .",
+    "imgs_paths": {
+        "../data/augmented/water/water_095/water_095.jpg": [],
+        "../data/augmented/water/water_095/water_095_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_095/water_095_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

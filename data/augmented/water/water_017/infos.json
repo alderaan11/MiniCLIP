@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_017",
+    "label": "water",
+    "caption": "A child painting a picture .",
+    "imgs_paths": {
+        "../data/augmented/water/water_017/water_017.jpg": [],
+        "../data/augmented/water/water_017/water_017_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_017/water_017_color.jpg": [
+            "bw"
+        ]
+    }
+}

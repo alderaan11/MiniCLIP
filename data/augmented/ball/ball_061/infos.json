@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_061",
+    "label": "ball",
+    "caption": "A black dog is leaping from a cylindrical hay bale .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_061/ball_061.jpg": [],
+        "../data/augmented/ball/ball_061/ball_061_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/ball/ball_061/ball_061_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

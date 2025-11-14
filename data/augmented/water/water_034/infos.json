@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_034",
+    "label": "water",
+    "caption": "A boy sitting in water .",
+    "imgs_paths": {
+        "../data/augmented/water/water_034/water_034.jpg": [],
+        "../data/augmented/water/water_034/water_034_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/water/water_034/water_034_color.jpg": [
+            "bw"
+        ]
+    }
+}

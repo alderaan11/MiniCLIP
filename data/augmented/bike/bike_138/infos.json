@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_138",
+    "label": "bike",
+    "caption": "A boy makes a jump with a dirt bike with the sun setting behind him .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_138/bike_138.jpg": [],
+        "../data/augmented/bike/bike_138/bike_138_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_138/bike_138_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

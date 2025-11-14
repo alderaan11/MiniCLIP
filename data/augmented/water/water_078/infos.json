@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_078",
+    "label": "water",
+    "caption": "a man in red shorts is walking along rocks by a river carrying a stick .",
+    "imgs_paths": {
+        "../data/augmented/water/water_078/water_078.jpg": [],
+        "../data/augmented/water/water_078/water_078_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/water/water_078/water_078_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

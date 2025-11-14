@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_024",
+    "label": "dog",
+    "caption": "A brown dog plays in a deep pile of snow .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_024/dog_024.jpg": [],
+        "../data/augmented/dog/dog_024/dog_024_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/dog/dog_024/dog_024_color.jpg": [
+            "bw"
+        ]
+    }
+}

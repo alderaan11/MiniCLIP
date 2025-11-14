@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_010",
+    "label": "ball",
+    "caption": "A man in a field backed by american flags .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_010/ball_010.jpg": [],
+        "../data/augmented/ball/ball_010/ball_010_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/augmented/ball/ball_010/ball_010_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_066",
+    "label": "dog",
+    "caption": "The two dogs are running through a field of flowers .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_066/dog_066.jpg": [],
+        "../data/augmented/dog/dog_066/dog_066_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_066/dog_066_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

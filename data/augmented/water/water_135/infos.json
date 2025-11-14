@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_135",
+    "label": "water",
+    "caption": "A paraglider soars near a cliff and over a body of water .",
+    "imgs_paths": {
+        "../data/augmented/water/water_135/water_135.jpg": [],
+        "../data/augmented/water/water_135/water_135_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/water/water_135/water_135_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

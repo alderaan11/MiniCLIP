@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_009",
+    "label": "water",
+    "caption": "a boy cleans the bubbles off his face .",
+    "imgs_paths": {
+        "../data/augmented/water/water_009/water_009.jpg": [],
+        "../data/augmented/water/water_009/water_009_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_009/water_009_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

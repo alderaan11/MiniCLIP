@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_043",
+    "label": "water",
+    "caption": "A girl floating wearing a life vest .",
+    "imgs_paths": {
+        "../data/augmented/water/water_043/water_043.jpg": [],
+        "../data/augmented/water/water_043/water_043_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_043/water_043_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

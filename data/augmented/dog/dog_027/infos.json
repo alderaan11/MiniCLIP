@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_027",
+    "label": "dog",
+    "caption": "A black and white dog drinking water from a water spray .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_027/dog_027.jpg": [],
+        "../data/augmented/dog/dog_027/dog_027_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_027/dog_027_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

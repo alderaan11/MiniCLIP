@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_108",
+    "label": "bike",
+    "caption": "A dirt biker leaps through the air .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_108/bike_108.jpg": [],
+        "../data/augmented/bike/bike_108/bike_108_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_108/bike_108_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

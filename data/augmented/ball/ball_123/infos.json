@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_123",
+    "label": "ball",
+    "caption": "A coach at a game .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_123/ball_123.jpg": [],
+        "../data/augmented/ball/ball_123/ball_123_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_123/ball_123_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

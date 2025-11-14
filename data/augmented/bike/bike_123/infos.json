@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_123",
+    "label": "bike",
+    "caption": "A biker rides on a dirt road .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_123/bike_123.jpg": [],
+        "../data/augmented/bike/bike_123/bike_123_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_123/bike_123_color.jpg": [
+            "bw"
+        ]
+    }
+}

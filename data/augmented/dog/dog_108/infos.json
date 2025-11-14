@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_108",
+    "label": "dog",
+    "caption": "The two dogs are in the water retrieving a stick .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_108/dog_108.jpg": [],
+        "../data/augmented/dog/dog_108/dog_108_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_108/dog_108_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

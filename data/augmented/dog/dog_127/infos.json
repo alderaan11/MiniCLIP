@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_127",
+    "label": "dog",
+    "caption": "A man and a dog sit on a bench near a body of water .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_127/dog_127.jpg": [],
+        "../data/augmented/dog/dog_127/dog_127_spatial.jpg": [
+            "h_flip"
+        ],
+        "../data/augmented/dog/dog_127/dog_127_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

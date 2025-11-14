@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_147",
+    "label": "ball",
+    "caption": "A bunch of football players , and a crowd .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_147/ball_147.jpg": [],
+        "../data/augmented/ball/ball_147/ball_147_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_147/ball_147_color.jpg": [
+            "bw"
+        ]
+    }
+}

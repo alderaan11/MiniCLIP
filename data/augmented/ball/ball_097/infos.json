@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_097",
+    "label": "ball",
+    "caption": "A child wearing a yellow jacket is jumping down from a rock .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_097/ball_097.jpg": [],
+        "../data/augmented/ball/ball_097/ball_097_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_097/ball_097_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

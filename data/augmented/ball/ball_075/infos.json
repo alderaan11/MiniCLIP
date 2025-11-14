@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_075",
+    "label": "ball",
+    "caption": "Adults in winter jackets and hats swing brooms at a little yellow ball while a black dog looks on .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_075/ball_075.jpg": [],
+        "../data/augmented/ball/ball_075/ball_075_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/augmented/ball/ball_075/ball_075_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

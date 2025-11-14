@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_112",
+    "label": "dog",
+    "caption": "A black puppy is biting a tree limb .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_112/dog_112.jpg": [],
+        "../data/augmented/dog/dog_112/dog_112_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_112/dog_112_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

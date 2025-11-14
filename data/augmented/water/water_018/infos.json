@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_018",
+    "label": "water",
+    "caption": "A child playing with a fountain at the beach .",
+    "imgs_paths": {
+        "../data/augmented/water/water_018/water_018.jpg": [],
+        "../data/augmented/water/water_018/water_018_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_018/water_018_color.jpg": [
+            "bw"
+        ]
+    }
+}

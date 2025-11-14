@@ -1,0 +1,14 @@
+{
+    "img_stem": "ball_128",
+    "label": "ball",
+    "caption": "A group of football players are playing football .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_128/ball_128.jpg": [],
+        "../data/augmented/ball/ball_128/ball_128_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_128/ball_128_color.jpg": []
+    }
+}

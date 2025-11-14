@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_007",
+    "label": "dog",
+    "caption": "A brown dog chases the water from a sprinkler on a lawn .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_007/dog_007.jpg": [],
+        "../data/augmented/dog/dog_007/dog_007_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_007/dog_007_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

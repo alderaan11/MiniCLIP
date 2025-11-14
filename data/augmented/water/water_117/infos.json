@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_117",
+    "label": "water",
+    "caption": "A girl in a bikini and sneakers makes her way out of the water and onto the rocks .",
+    "imgs_paths": {
+        "../data/augmented/water/water_117/water_117.jpg": [],
+        "../data/augmented/water/water_117/water_117_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/water/water_117/water_117_color.jpg": [
+            "bw"
+        ]
+    }
+}

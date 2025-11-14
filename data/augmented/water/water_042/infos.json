@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_042",
+    "label": "water",
+    "caption": "A boy and a girl are standing on a river bank facing the water .",
+    "imgs_paths": {
+        "../data/augmented/water/water_042/water_042.jpg": [],
+        "../data/augmented/water/water_042/water_042_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_042/water_042_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

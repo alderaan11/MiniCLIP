@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_076",
+    "label": "dog",
+    "caption": "A black and white dog jumping into a pool after tennis balls .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_076/dog_076.jpg": [],
+        "../data/augmented/dog/dog_076/dog_076_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_076/dog_076_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

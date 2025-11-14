@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_087",
+    "label": "dog",
+    "caption": "A black dog retrieves a cloth from a streambed .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_087/dog_087.jpg": [],
+        "../data/augmented/dog/dog_087/dog_087_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_087/dog_087_color.jpg": [
+            "bw"
+        ]
+    }
+}

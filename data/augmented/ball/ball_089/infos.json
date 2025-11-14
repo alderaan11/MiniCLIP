@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_089",
+    "label": "ball",
+    "caption": "A girl is buried under several playground balls .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_089/ball_089.jpg": [],
+        "../data/augmented/ball/ball_089/ball_089_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/augmented/ball/ball_089/ball_089_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

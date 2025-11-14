@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_071",
+    "label": "ball",
+    "caption": "A young girl in a green shirt is running in a gym .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_071/ball_071.jpg": [],
+        "../data/augmented/ball/ball_071/ball_071_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_071/ball_071_color.jpg": [
+            "bw"
+        ]
+    }
+}

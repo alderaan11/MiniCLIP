@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_018",
+    "label": "bike",
+    "caption": "A black and white dog lies on the ground next to a little girl on a red bicycle in the woods .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_018/bike_018.jpg": [],
+        "../data/augmented/bike/bike_018/bike_018_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/bike/bike_018/bike_018_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

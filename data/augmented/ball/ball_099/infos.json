@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_099",
+    "label": "ball",
+    "caption": "A brown dog plays with a bright orange ball in the snow .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_099/ball_099.jpg": [],
+        "../data/augmented/ball/ball_099/ball_099_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_099/ball_099_color.jpg": [
+            "bw"
+        ]
+    }
+}

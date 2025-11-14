@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_074",
+    "label": "dog",
+    "caption": "A brown dog is bending down trying to drink from a jet of water .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_074/dog_074.jpg": [],
+        "../data/augmented/dog/dog_074/dog_074_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_074/dog_074_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

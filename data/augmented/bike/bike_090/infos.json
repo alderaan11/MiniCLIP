@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_090",
+    "label": "bike",
+    "caption": "A group of young people pose for a group photo while a man does a bike jump .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_090/bike_090.jpg": [],
+        "../data/augmented/bike/bike_090/bike_090_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_090/bike_090_color.jpg": [
+            "saturation"
+        ]
+    }
+}

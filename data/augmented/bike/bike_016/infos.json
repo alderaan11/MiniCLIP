@@ -1,0 +1,14 @@
+{
+    "img_stem": "bike_016",
+    "label": "bike",
+    "caption": "A motorcycle racer leans his bike .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_016/bike_016.jpg": [],
+        "../data/augmented/bike/bike_016/bike_016_spatial.jpg": [
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_016/bike_016_color.jpg": [
+            "bw"
+        ]
+    }
+}

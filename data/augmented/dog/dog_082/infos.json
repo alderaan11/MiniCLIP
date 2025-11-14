@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_082",
+    "label": "dog",
+    "caption": "A girl carries a lot through the grass .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_082/dog_082.jpg": [],
+        "../data/augmented/dog/dog_082/dog_082_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_082/dog_082_color.jpg": [
+            "saturation"
+        ]
+    }
+}

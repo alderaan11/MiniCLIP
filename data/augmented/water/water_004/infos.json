@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_004",
+    "label": "water",
+    "caption": "A man and a baby are in a yellow kayak on water .",
+    "imgs_paths": {
+        "../data/augmented/water/water_004/water_004.jpg": [],
+        "../data/augmented/water/water_004/water_004_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/water/water_004/water_004_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

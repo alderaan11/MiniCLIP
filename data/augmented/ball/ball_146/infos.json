@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_146",
+    "label": "ball",
+    "caption": "A football player clutches the ball while running down the field .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_146/ball_146.jpg": [],
+        "../data/augmented/ball/ball_146/ball_146_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/augmented/ball/ball_146/ball_146_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

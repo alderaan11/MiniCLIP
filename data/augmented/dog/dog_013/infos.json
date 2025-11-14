@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_013",
+    "label": "dog",
+    "caption": "A black dog and a brown dog are jumping up to catch a red toy .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_013/dog_013.jpg": [],
+        "../data/augmented/dog/dog_013/dog_013_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_013/dog_013_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

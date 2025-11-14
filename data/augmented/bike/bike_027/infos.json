@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_027",
+    "label": "bike",
+    "caption": "Adults and children stand and play in front of steps near a wooded area .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_027/bike_027.jpg": [],
+        "../data/augmented/bike/bike_027/bike_027_spatial.jpg": [
+            "crop"
+        ],
+        "../data/augmented/bike/bike_027/bike_027_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

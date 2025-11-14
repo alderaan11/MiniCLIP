@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_134",
+    "label": "dog",
+    "caption": "A brown , black , and tan dog run in the ocean .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_134/dog_134.jpg": [],
+        "../data/augmented/dog/dog_134/dog_134_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_134/dog_134_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

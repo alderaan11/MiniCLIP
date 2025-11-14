@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_047",
+    "label": "dog",
+    "caption": "A dog jumping into a swimming pool .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_047/dog_047.jpg": [],
+        "../data/augmented/dog/dog_047/dog_047_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_047/dog_047_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

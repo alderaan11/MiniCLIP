@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_032",
+    "label": "ball",
+    "caption": "A spotted dog , a black dog , and a puppy converging on a tennis ball .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_032/ball_032.jpg": [],
+        "../data/augmented/ball/ball_032/ball_032_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_032/ball_032_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

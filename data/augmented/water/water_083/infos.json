@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_083",
+    "label": "water",
+    "caption": "children playing at the beach",
+    "imgs_paths": {
+        "../data/augmented/water/water_083/water_083.jpg": [],
+        "../data/augmented/water/water_083/water_083_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/augmented/water/water_083/water_083_color.jpg": [
+            "bw"
+        ]
+    }
+}

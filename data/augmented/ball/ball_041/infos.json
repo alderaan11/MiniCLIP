@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_041",
+    "label": "ball",
+    "caption": "Two dachshunds , one black the other brown , run on grass .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_041/ball_041.jpg": [],
+        "../data/augmented/ball/ball_041/ball_041_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_041/ball_041_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

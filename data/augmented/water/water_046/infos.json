@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_046",
+    "label": "water",
+    "caption": "A backpacker walks down a rocky mountain .",
+    "imgs_paths": {
+        "../data/augmented/water/water_046/water_046.jpg": [],
+        "../data/augmented/water/water_046/water_046_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_046/water_046_color.jpg": [
+            "bw"
+        ]
+    }
+}

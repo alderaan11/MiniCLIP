@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_068",
+    "label": "dog",
+    "caption": "A black and grey dog runs in a field with its tongue hanging out .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_068/dog_068.jpg": [],
+        "../data/augmented/dog/dog_068/dog_068_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_068/dog_068_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

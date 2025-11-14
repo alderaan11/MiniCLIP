@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_131",
+    "label": "water",
+    "caption": "A brown dog wades into a lake to retrieve a stick .",
+    "imgs_paths": {
+        "../data/augmented/water/water_131/water_131.jpg": [],
+        "../data/augmented/water/water_131/water_131_spatial.jpg": [
+            "crop"
+        ],
+        "../data/augmented/water/water_131/water_131_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

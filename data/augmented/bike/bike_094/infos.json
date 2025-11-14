@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_094",
+    "label": "bike",
+    "caption": "A girl in a pink bicycle rides in front of a restaraunt .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_094/bike_094.jpg": [],
+        "../data/augmented/bike/bike_094/bike_094_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_094/bike_094_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

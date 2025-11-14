@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_145",
+    "label": "dog",
+    "caption": "A little white dog begs .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_145/dog_145.jpg": [],
+        "../data/augmented/dog/dog_145/dog_145_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_145/dog_145_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

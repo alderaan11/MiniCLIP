@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_134",
+    "label": "bike",
+    "caption": "A biker patiently waits as his friend bikes ahead of him .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_134/bike_134.jpg": [],
+        "../data/augmented/bike/bike_134/bike_134_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/bike/bike_134/bike_134_color.jpg": [
+            "bw"
+        ]
+    }
+}

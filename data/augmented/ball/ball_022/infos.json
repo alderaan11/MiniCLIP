@@ -1,0 +1,14 @@
+{
+    "img_stem": "ball_022",
+    "label": "ball",
+    "caption": "A group of kids in red and white playing soccer .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_022/ball_022.jpg": [],
+        "../data/augmented/ball/ball_022/ball_022_spatial.jpg": [
+            "crop"
+        ],
+        "../data/augmented/ball/ball_022/ball_022_color.jpg": [
+            "saturation"
+        ]
+    }
+}

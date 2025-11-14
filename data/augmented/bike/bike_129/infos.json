@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_129",
+    "label": "bike",
+    "caption": "a dirt biker stands in the sunset .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_129/bike_129.jpg": [],
+        "../data/augmented/bike/bike_129/bike_129_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_129/bike_129_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

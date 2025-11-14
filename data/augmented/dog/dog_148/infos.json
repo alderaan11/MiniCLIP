@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_148",
+    "label": "dog",
+    "caption": "A brown and black dog playing in the snow .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_148/dog_148.jpg": [],
+        "../data/augmented/dog/dog_148/dog_148_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_148/dog_148_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

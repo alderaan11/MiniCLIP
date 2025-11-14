@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_143",
+    "label": "water",
+    "caption": "A black and brown dog is playing on the ice at the edge of a lake .",
+    "imgs_paths": {
+        "../data/augmented/water/water_143/water_143.jpg": [],
+        "../data/augmented/water/water_143/water_143_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/augmented/water/water_143/water_143_color.jpg": [
+            "bw"
+        ]
+    }
+}

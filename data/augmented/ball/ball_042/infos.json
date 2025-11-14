@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_042",
+    "label": "ball",
+    "caption": "A brown dog playing with a tennis ball",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_042/ball_042.jpg": [],
+        "../data/augmented/ball/ball_042/ball_042_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/ball/ball_042/ball_042_color.jpg": [
+            "bw"
+        ]
+    }
+}

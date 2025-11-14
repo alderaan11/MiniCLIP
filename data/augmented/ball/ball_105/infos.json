@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_105",
+    "label": "ball",
+    "caption": "A man in swim trunks hits a ball with a paddle , while on the beach .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_105/ball_105.jpg": [],
+        "../data/augmented/ball/ball_105/ball_105_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_105/ball_105_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

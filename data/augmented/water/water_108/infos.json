@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_108",
+    "label": "water",
+    "caption": "black dogs jump in pool to a hand .",
+    "imgs_paths": {
+        "../data/augmented/water/water_108/water_108.jpg": [],
+        "../data/augmented/water/water_108/water_108_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_108/water_108_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

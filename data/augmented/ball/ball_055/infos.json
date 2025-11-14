@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_055",
+    "label": "ball",
+    "caption": "A black and white dog is playing with a ball on a lawn .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_055/ball_055.jpg": [],
+        "../data/augmented/ball/ball_055/ball_055_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_055/ball_055_color.jpg": [
+            "bw"
+        ]
+    }
+}

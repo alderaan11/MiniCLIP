@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_116",
+    "label": "bike",
+    "caption": "A closeup of a man riding his bicycle through the forest .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_116/bike_116.jpg": [],
+        "../data/augmented/bike/bike_116/bike_116_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_116/bike_116_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_024",
+    "label": "water",
+    "caption": "A boy in a wetsuit jumps into a pool with a bald man .",
+    "imgs_paths": {
+        "../data/augmented/water/water_024/water_024.jpg": [],
+        "../data/augmented/water/water_024/water_024_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_024/water_024_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

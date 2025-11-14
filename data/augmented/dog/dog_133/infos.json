@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_133",
+    "label": "dog",
+    "caption": "A black dog runs on green grass with its mouth open .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_133/dog_133.jpg": [],
+        "../data/augmented/dog/dog_133/dog_133_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_133/dog_133_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

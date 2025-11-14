@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_110",
+    "label": "water",
+    "caption": "A man in a maroon bathing suit swings on a rope on a lake .",
+    "imgs_paths": {
+        "../data/augmented/water/water_110/water_110.jpg": [],
+        "../data/augmented/water/water_110/water_110_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/water/water_110/water_110_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

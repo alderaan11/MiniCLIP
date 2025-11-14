@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_129",
+    "label": "dog",
+    "caption": "A black and white dog runs around a farm animal inside a fenced yard .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_129/dog_129.jpg": [],
+        "../data/augmented/dog/dog_129/dog_129_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_129/dog_129_color.jpg": [
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_049",
+    "label": "dog",
+    "caption": "A black dog and a brown dog playing in tall weeds .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_049/dog_049.jpg": [],
+        "../data/augmented/dog/dog_049/dog_049_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/augmented/dog/dog_049/dog_049_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

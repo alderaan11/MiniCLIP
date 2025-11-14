@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_099",
+    "label": "dog",
+    "caption": "A black dog in front of a white dog walking on a path in a forest .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_099/dog_099.jpg": [],
+        "../data/augmented/dog/dog_099/dog_099_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_099/dog_099_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

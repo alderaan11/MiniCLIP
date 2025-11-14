@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_128",
+    "label": "water",
+    "caption": "A girl falling off a yellow and blue water tube .",
+    "imgs_paths": {
+        "../data/augmented/water/water_128/water_128.jpg": [],
+        "../data/augmented/water/water_128/water_128_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/augmented/water/water_128/water_128_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

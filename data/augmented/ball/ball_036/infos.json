@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_036",
+    "label": "ball",
+    "caption": "Two boys in a field kicking a soccer ball .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_036/ball_036.jpg": [],
+        "../data/augmented/ball/ball_036/ball_036_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_036/ball_036_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

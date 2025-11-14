@@ -1,0 +1,13 @@
+{
+    "img_stem": "bike_143",
+    "label": "bike",
+    "caption": "A dirt bike rider catches some air going off a large hill",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_143/bike_143.jpg": [],
+        "../data/augmented/bike/bike_143/bike_143_spatial.jpg": [],
+        "../data/augmented/bike/bike_143/bike_143_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

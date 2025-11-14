@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_096",
+    "label": "bike",
+    "caption": "A motocross rider is on a dirt hill .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_096/bike_096.jpg": [],
+        "../data/augmented/bike/bike_096/bike_096_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/bike/bike_096/bike_096_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

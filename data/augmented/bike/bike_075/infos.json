@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_075",
+    "label": "bike",
+    "caption": "A girl in a pink dress rides her bike along a white picket fence .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_075/bike_075.jpg": [],
+        "../data/augmented/bike/bike_075/bike_075_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_075/bike_075_color.jpg": [
+            "bw"
+        ]
+    }
+}

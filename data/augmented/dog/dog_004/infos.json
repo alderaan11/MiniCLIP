@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_004",
+    "label": "dog",
+    "caption": "A dog shakes its head near the shore , a red ball next to it .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_004/dog_004.jpg": [],
+        "../data/augmented/dog/dog_004/dog_004_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_004/dog_004_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

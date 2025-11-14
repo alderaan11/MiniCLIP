@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_005",
+    "label": "dog",
+    "caption": "A black dog leaps over a log .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_005/dog_005.jpg": [],
+        "../data/augmented/dog/dog_005/dog_005_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_005/dog_005_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

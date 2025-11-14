@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_135",
+    "label": "ball",
+    "caption": "A college football game is in progress .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_135/ball_135.jpg": [],
+        "../data/augmented/ball/ball_135/ball_135_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/ball/ball_135/ball_135_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

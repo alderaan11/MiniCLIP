@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_070",
+    "label": "dog",
+    "caption": "A brown dog is sitting in some long grass .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_070/dog_070.jpg": [],
+        "../data/augmented/dog/dog_070/dog_070_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_070/dog_070_color.jpg": [
+            "bw"
+        ]
+    }
+}

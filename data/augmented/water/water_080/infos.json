@@ -1,0 +1,14 @@
+{
+    "img_stem": "water_080",
+    "label": "water",
+    "caption": "A little boy plays with a water toy while others watch .",
+    "imgs_paths": {
+        "../data/augmented/water/water_080/water_080.jpg": [],
+        "../data/augmented/water/water_080/water_080_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_080/water_080_color.jpg": []
+    }
+}

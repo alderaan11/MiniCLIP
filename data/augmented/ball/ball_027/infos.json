@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_027",
+    "label": "ball",
+    "caption": "A brown and white dog trotting down the road in autumn .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_027/ball_027.jpg": [],
+        "../data/augmented/ball/ball_027/ball_027_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_027/ball_027_color.jpg": [
+            "contrast"
+        ]
+    }
+}

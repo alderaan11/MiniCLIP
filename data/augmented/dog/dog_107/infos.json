@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_107",
+    "label": "dog",
+    "caption": "A black and white dog is jumping up to catch a toy as another dog watches .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_107/dog_107.jpg": [],
+        "../data/augmented/dog/dog_107/dog_107_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_107/dog_107_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

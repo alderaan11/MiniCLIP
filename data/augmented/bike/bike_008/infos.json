@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_008",
+    "label": "bike",
+    "caption": "A man on bicycle riding down a rocky hill .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_008/bike_008.jpg": [],
+        "../data/augmented/bike/bike_008/bike_008_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/bike/bike_008/bike_008_color.jpg": [
+            "bw"
+        ]
+    }
+}

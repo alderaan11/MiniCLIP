@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_027",
+    "label": "water",
+    "caption": "A girl in a coral shirt with glasses is smiling while leaning against a fence .",
+    "imgs_paths": {
+        "../data/augmented/water/water_027/water_027.jpg": [],
+        "../data/augmented/water/water_027/water_027_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/augmented/water/water_027/water_027_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

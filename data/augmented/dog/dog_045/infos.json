@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_045",
+    "label": "dog",
+    "caption": "A small brown and black dog",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_045/dog_045.jpg": [],
+        "../data/augmented/dog/dog_045/dog_045_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/augmented/dog/dog_045/dog_045_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

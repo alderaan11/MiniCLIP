@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_099",
+    "label": "water",
+    "caption": "A black and white dog plays in the water .",
+    "imgs_paths": {
+        "../data/augmented/water/water_099/water_099.jpg": [],
+        "../data/augmented/water/water_099/water_099_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/water/water_099/water_099_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

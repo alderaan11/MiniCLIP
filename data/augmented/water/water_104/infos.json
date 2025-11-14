@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_104",
+    "label": "water",
+    "caption": "A dog swims towards a waterfall .",
+    "imgs_paths": {
+        "../data/augmented/water/water_104/water_104.jpg": [],
+        "../data/augmented/water/water_104/water_104_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/water/water_104/water_104_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

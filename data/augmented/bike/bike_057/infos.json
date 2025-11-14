@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_057",
+    "label": "bike",
+    "caption": "A man on a motorcycle going around a corner .",
+    "imgs_paths": {
+        "../data/augmented/bike/bike_057/bike_057.jpg": [],
+        "../data/augmented/bike/bike_057/bike_057_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/augmented/bike/bike_057/bike_057_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

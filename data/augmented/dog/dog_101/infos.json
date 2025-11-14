@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_101",
+    "label": "dog",
+    "caption": "One dog shaking the water off , getting a second dog wet",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_101/dog_101.jpg": [],
+        "../data/augmented/dog/dog_101/dog_101_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_101/dog_101_color.jpg": [
+            "bw"
+        ]
+    }
+}

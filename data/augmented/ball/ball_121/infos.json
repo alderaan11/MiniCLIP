@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_121",
+    "label": "ball",
+    "caption": "A discouraged looking football coach .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_121/ball_121.jpg": [],
+        "../data/augmented/ball/ball_121/ball_121_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_121/ball_121_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_052",
+    "label": "dog",
+    "caption": "A dog in a number six jersey is running through a field .",
+    "imgs_paths": {
+        "../data/augmented/dog/dog_052/dog_052.jpg": [],
+        "../data/augmented/dog/dog_052/dog_052_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/dog/dog_052/dog_052_color.jpg": [
+            "bw"
+        ]
+    }
+}

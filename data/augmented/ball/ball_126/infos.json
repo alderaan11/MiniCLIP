@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_126",
+    "label": "ball",
+    "caption": "A cheerleader dressed in red smiles and cheers .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_126/ball_126.jpg": [],
+        "../data/augmented/ball/ball_126/ball_126_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/augmented/ball/ball_126/ball_126_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

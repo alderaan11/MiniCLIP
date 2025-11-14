@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_129",
+    "label": "ball",
+    "caption": "A coach talks to a football player during a timeout .",
+    "imgs_paths": {
+        "../data/augmented/ball/ball_129/ball_129.jpg": [],
+        "../data/augmented/ball/ball_129/ball_129_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/augmented/ball/ball_129/ball_129_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}
