@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_024",
+    "label": "bike",
+    "caption": "A group of people ride bikes while holding onto large trash bags .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_024/bike_024.jpg": []
+    }
+}

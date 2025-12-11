@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_007",
+    "label": "water",
+    "caption": "A girl in pigtails splashes in the shallow water .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_007/water_007.jpg": []
+    }
+}

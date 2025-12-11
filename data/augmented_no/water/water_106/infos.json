@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_106",
+    "label": "water",
+    "caption": "A child in a striped shirt gleefully plays among some water fountains .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_106/water_106.jpg": []
+    }
+}

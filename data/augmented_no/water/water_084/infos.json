@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_084",
+    "label": "water",
+    "caption": "A woman is walking past an artificial waterfall .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_084/water_084.jpg": []
+    }
+}

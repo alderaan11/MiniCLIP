@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_091",
+    "label": "ball",
+    "caption": "The dog with the green collar and ball is running behind the dog with the red collar",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_091/ball_091.jpg": []
+    }
+}

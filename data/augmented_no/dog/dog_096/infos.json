@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_096",
+    "label": "dog",
+    "caption": "A brown dog carrying a black object .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_096/dog_096.jpg": []
+    }
+}

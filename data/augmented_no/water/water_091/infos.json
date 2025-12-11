@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_091",
+    "label": "water",
+    "caption": "A male and a female are leaning against railing looking off with the ocean in the background",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_091/water_091.jpg": []
+    }
+}

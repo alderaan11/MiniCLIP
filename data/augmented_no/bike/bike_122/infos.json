@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_122",
+    "label": "bike",
+    "caption": "A man doing a wheelie on a motorcycle .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_122/bike_122.jpg": []
+    }
+}

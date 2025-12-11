@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_080",
+    "label": "water",
+    "caption": "A little boy plays with a water toy while others watch .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_080/water_080.jpg": []
+    }
+}

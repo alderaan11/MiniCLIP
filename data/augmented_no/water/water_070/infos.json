@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_070",
+    "label": "water",
+    "caption": "A kayaker wearing a blue wetsuit and black helmet paddles his yellow kayak in murky rolling rapids .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_070/water_070.jpg": []
+    }
+}

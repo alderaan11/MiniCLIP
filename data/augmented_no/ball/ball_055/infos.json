@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_055",
+    "label": "ball",
+    "caption": "A black and white dog is playing with a ball on a lawn .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_055/ball_055.jpg": []
+    }
+}

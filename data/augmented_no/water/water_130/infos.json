@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_130",
+    "label": "water",
+    "caption": "a big tan dog running threw the shallow water with a stick in his mouth .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_130/water_130.jpg": []
+    }
+}

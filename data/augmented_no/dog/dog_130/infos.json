@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_130",
+    "label": "dog",
+    "caption": "A brown and white dog is standing in the river by the bank .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_130/dog_130.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_140",
+    "label": "bike",
+    "caption": "Two dirt bike riders in midair .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_140/bike_140.jpg": []
+    }
+}

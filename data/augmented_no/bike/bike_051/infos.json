@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_051",
+    "label": "bike",
+    "caption": "A boy in a costume is sitting on a bike .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_051/bike_051.jpg": []
+    }
+}

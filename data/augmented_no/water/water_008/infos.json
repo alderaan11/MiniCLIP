@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_008",
+    "label": "water",
+    "caption": "The children are playing in the water .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_008/water_008.jpg": []
+    }
+}

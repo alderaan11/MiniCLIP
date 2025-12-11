@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_018",
+    "label": "dog",
+    "caption": "A white and black dog and a brown dog in sandy terrain .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_018/dog_018.jpg": []
+    }
+}

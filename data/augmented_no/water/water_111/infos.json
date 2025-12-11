@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_111",
+    "label": "water",
+    "caption": "A guy in swimming trunks flying on a rope swing above a lake .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_111/water_111.jpg": []
+    }
+}

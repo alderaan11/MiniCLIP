@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_021",
+    "label": "dog",
+    "caption": "A bulldog , a sheep dog , and a boxer standing in a yard .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_021/dog_021.jpg": []
+    }
+}

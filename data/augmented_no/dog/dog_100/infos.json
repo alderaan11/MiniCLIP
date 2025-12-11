@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_100",
+    "label": "dog",
+    "caption": "A dog is running along a beach on a sunny day .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_100/dog_100.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_118",
+    "label": "ball",
+    "caption": "A boy plays basketball .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_118/ball_118.jpg": []
+    }
+}

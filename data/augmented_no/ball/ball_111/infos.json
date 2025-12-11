@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_111",
+    "label": "ball",
+    "caption": "A dog runs for a ball thrown by a small boy .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_111/ball_111.jpg": []
+    }
+}

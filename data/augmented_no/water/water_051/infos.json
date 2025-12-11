@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_051",
+    "label": "water",
+    "caption": "kids play in a blue tub full of water outside",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_051/water_051.jpg": []
+    }
+}

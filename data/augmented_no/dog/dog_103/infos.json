@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_103",
+    "label": "dog",
+    "caption": "Two big German Shephard dogs play in the water .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_103/dog_103.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_033",
+    "label": "ball",
+    "caption": "Four boys doing a cannonball jump in unison into the pool .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_033/ball_033.jpg": []
+    }
+}

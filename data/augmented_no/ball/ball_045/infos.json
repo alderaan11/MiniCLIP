@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_045",
+    "label": "ball",
+    "caption": "A brown and white dog holds a tennis ball in his mouth .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_045/ball_045.jpg": []
+    }
+}

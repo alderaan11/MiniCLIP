@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_134",
+    "label": "water",
+    "caption": "A man paddling in water .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_134/water_134.jpg": []
+    }
+}

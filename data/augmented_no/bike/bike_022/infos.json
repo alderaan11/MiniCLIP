@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_022",
+    "label": "bike",
+    "caption": "A fluffy white dog on a leash with its owner riding a bike .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_022/bike_022.jpg": []
+    }
+}

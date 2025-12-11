@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_006",
+    "label": "ball",
+    "caption": "A little girl in a colorful dress is playing with a blue and red soccer ball .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_006/ball_006.jpg": []
+    }
+}

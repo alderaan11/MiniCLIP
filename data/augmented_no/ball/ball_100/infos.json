@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_100",
+    "label": "ball",
+    "caption": "A brown dog is playing with a red toy while another brown dog bounds towards the camera .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_100/ball_100.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_125",
+    "label": "ball",
+    "caption": "There is a college player being tackled in a game .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_125/ball_125.jpg": []
+    }
+}

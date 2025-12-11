@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_017",
+    "label": "dog",
+    "caption": "A black and white dog is attempting to catch a yellow and purple object in a low cut yard .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_017/dog_017.jpg": []
+    }
+}

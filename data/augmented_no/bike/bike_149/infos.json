@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_149",
+    "label": "bike",
+    "caption": "A looker on catches a motocross bike on its side after a spill while another races by .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_149/bike_149.jpg": []
+    }
+}

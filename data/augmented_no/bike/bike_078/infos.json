@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_078",
+    "label": "bike",
+    "caption": "A bike rider is doing a stunt on a bicycle over a forest .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_078/bike_078.jpg": []
+    }
+}

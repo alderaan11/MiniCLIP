@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_096",
+    "label": "bike",
+    "caption": "A motocross rider is on a dirt hill .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_096/bike_096.jpg": []
+    }
+}

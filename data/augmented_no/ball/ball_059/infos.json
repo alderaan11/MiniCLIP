@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_059",
+    "label": "ball",
+    "caption": "A boy standing and watching a group of people on a basketball court .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_059/ball_059.jpg": []
+    }
+}

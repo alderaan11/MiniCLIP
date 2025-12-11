@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_120",
+    "label": "water",
+    "caption": "A boy in a large pool .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_120/water_120.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_027",
+    "label": "bike",
+    "caption": "Adults and children stand and play in front of steps near a wooded area .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_027/bike_027.jpg": []
+    }
+}

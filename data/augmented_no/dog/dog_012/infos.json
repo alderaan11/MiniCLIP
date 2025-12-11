@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_012",
+    "label": "dog",
+    "caption": "A black dog carries a green toy in his mouth as he walks through the grass .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_012/dog_012.jpg": []
+    }
+}

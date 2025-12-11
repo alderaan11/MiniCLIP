@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_113",
+    "label": "bike",
+    "caption": "A bike racer hold up a hand while riding a motorcycle .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_113/bike_113.jpg": []
+    }
+}

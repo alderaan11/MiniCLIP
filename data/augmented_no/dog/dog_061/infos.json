@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_061",
+    "label": "dog",
+    "caption": "A black and a white dog on the snow .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_061/dog_061.jpg": []
+    }
+}

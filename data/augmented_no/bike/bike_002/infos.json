@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_002",
+    "label": "bike",
+    "caption": "A cyclist is riding a bicycle on a curved road up a hill .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_002/bike_002.jpg": []
+    }
+}

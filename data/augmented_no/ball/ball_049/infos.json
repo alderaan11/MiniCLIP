@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_049",
+    "label": "ball",
+    "caption": "A goalie tries to catch a ball during a soccer game .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_049/ball_049.jpg": []
+    }
+}

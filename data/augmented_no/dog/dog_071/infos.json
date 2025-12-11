@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_071",
+    "label": "dog",
+    "caption": "A brown dog stands in a lush field with the stunning clouds and mountains behind it .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_071/dog_071.jpg": []
+    }
+}

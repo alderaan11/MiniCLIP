@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_029",
+    "label": "bike",
+    "caption": "A lady in a white hat and sunglasses riding a bicycle .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_029/bike_029.jpg": []
+    }
+}

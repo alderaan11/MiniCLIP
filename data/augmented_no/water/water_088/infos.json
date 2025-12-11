@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_088",
+    "label": "water",
+    "caption": "A black and white spotted dog is jumping over the small stream of water .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_088/water_088.jpg": []
+    }
+}

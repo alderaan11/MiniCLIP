@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_017",
+    "label": "bike",
+    "caption": "A girl in a pink shirt is riding a bicycle in traffic .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_017/bike_017.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_042",
+    "label": "ball",
+    "caption": "A brown dog playing with a tennis ball",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_042/ball_042.jpg": []
+    }
+}

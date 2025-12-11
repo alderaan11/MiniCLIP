@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_114",
+    "label": "water",
+    "caption": "A black dog in the water",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_114/water_114.jpg": []
+    }
+}

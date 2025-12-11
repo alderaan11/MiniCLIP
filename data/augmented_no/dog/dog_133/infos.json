@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_133",
+    "label": "dog",
+    "caption": "A black dog runs on green grass with its mouth open .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_133/dog_133.jpg": []
+    }
+}

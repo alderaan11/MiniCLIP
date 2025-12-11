@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_139",
+    "label": "water",
+    "caption": "A backpacker standing near water at dusk .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_139/water_139.jpg": []
+    }
+}

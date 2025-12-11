@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_012",
+    "label": "ball",
+    "caption": "A boy with a green balloon is standing outside of a large building .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_012/ball_012.jpg": []
+    }
+}

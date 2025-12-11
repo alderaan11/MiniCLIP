@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_079",
+    "label": "dog",
+    "caption": "A black and white dog jumping into a pool .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_079/dog_079.jpg": []
+    }
+}

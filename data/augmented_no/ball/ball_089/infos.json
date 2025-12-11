@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_089",
+    "label": "ball",
+    "caption": "A girl is buried under several playground balls .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_089/ball_089.jpg": []
+    }
+}

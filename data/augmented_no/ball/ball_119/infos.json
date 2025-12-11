@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_119",
+    "label": "ball",
+    "caption": "A football game .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_119/ball_119.jpg": []
+    }
+}

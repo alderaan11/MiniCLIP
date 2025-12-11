@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_150",
+    "label": "ball",
+    "caption": "A football player in blue and one in red play in a game .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_150/ball_150.jpg": []
+    }
+}

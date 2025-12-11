@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_106",
+    "label": "dog",
+    "caption": "A wet white dog is splashing in the water with a stick in its mouth .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_106/dog_106.jpg": []
+    }
+}

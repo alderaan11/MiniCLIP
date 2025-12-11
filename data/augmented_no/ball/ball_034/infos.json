@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_034",
+    "label": "ball",
+    "caption": "A baby boy plays outside with a blue toy .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_034/ball_034.jpg": []
+    }
+}

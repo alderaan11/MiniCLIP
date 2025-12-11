@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_066",
+    "label": "bike",
+    "caption": "A boy mountain bikes down a trail .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_066/bike_066.jpg": []
+    }
+}

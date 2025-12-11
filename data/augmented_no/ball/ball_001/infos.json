@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_001",
+    "label": "ball",
+    "caption": "A crowd watching air balloons at night .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_001/ball_001.jpg": []
+    }
+}

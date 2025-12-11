@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_089",
+    "label": "water",
+    "caption": "The iguanas wrestled along the rocky water bank .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_089/water_089.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_111",
+    "label": "dog",
+    "caption": "A black and white dog climbs a leaning tree trunk .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_111/dog_111.jpg": []
+    }
+}

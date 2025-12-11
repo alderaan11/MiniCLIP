@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_090",
+    "label": "ball",
+    "caption": "A little girl dances in a room with balloons on the floor .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_090/ball_090.jpg": []
+    }
+}

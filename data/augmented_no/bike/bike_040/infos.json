@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_040",
+    "label": "bike",
+    "caption": "A dirt biker pushes his motorcycle up a rock while another rider watches .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_040/bike_040.jpg": []
+    }
+}

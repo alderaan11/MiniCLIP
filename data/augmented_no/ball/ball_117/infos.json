@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_117",
+    "label": "ball",
+    "caption": "A furocious female tennis player about to hit a tennis ball in the air .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_117/ball_117.jpg": []
+    }
+}

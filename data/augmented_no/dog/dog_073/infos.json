@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_073",
+    "label": "dog",
+    "caption": "A puppy plays with an adult dog in the snow .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_073/dog_073.jpg": []
+    }
+}

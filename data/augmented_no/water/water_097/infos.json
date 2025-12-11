@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_097",
+    "label": "water",
+    "caption": "A boy is wakeboarding on a lake with one hand .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_097/water_097.jpg": []
+    }
+}

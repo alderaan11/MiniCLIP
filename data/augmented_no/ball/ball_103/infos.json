@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_103",
+    "label": "ball",
+    "caption": "A person has just thrown a snowball and hit someone in the back .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_103/ball_103.jpg": []
+    }
+}

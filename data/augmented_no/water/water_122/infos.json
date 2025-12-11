@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_122",
+    "label": "water",
+    "caption": "A big brown dog floats in a canoe on the river at sunset .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_122/water_122.jpg": []
+    }
+}

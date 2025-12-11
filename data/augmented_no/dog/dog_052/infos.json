@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_052",
+    "label": "dog",
+    "caption": "A dog in a number six jersey is running through a field .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_052/dog_052.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_131",
+    "label": "water",
+    "caption": "A brown dog wades into a lake to retrieve a stick .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_131/water_131.jpg": []
+    }
+}

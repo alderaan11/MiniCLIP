@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_108",
+    "label": "bike",
+    "caption": "A dirt biker leaps through the air .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_108/bike_108.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_027",
+    "label": "dog",
+    "caption": "A black and white dog drinking water from a water spray .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_027/dog_027.jpg": []
+    }
+}

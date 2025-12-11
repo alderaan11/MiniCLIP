@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_142",
+    "label": "ball",
+    "caption": "A football player is in action among other players .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_142/ball_142.jpg": []
+    }
+}

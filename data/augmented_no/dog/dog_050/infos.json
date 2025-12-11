@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_050",
+    "label": "dog",
+    "caption": "A brown dog jumping in the air on a brown plain .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_050/dog_050.jpg": []
+    }
+}

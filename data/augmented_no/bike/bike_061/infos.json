@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_061",
+    "label": "bike",
+    "caption": "A couple ride bikes next to an orange fence by the ocean .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_061/bike_061.jpg": []
+    }
+}

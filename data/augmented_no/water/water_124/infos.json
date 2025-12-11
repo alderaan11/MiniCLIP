@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_124",
+    "label": "water",
+    "caption": "A group of people jump into a lake in unison .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_124/water_124.jpg": []
+    }
+}

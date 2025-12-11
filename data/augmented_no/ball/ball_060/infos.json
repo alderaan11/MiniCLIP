@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_060",
+    "label": "ball",
+    "caption": "a dog chases a red ball .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_060/ball_060.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_111",
+    "label": "bike",
+    "caption": "A bicycle stunt jump is being perforced in a city .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_111/bike_111.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_023",
+    "label": "bike",
+    "caption": "A man is cycling on the road .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_023/bike_023.jpg": []
+    }
+}

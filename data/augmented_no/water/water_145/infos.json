@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_145",
+    "label": "water",
+    "caption": "A boy high in the air above the dirt and water near the red rock cliffs .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_145/water_145.jpg": []
+    }
+}

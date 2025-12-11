@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_027",
+    "label": "ball",
+    "caption": "A brown and white dog trotting down the road in autumn .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_027/ball_027.jpg": []
+    }
+}

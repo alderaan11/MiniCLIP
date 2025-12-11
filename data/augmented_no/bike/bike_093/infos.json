@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_093",
+    "label": "bike",
+    "caption": "A man on a motorcycle riding on his back tire .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_093/bike_093.jpg": []
+    }
+}

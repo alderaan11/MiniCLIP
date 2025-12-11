@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_059",
+    "label": "dog",
+    "caption": "A group of dogs pull a person on a dog sled up a hill .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_059/dog_059.jpg": []
+    }
+}

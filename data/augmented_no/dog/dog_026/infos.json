@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_026",
+    "label": "dog",
+    "caption": "A blond dog and a black and white dog run in a dirt field .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_026/dog_026.jpg": []
+    }
+}

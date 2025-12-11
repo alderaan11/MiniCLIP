@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_102",
+    "label": "water",
+    "caption": "A boy in a swimsuit walking in the sand towards the water",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_102/water_102.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_120",
+    "label": "bike",
+    "caption": "A man rides a motorcycle on a track .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_120/bike_120.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_045",
+    "label": "bike",
+    "caption": "A biker is wearing all black gear with buildings and a tree with no leaves nearby .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_045/bike_045.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_019",
+    "label": "dog",
+    "caption": "A black and white dog catches a toy in midair .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_019/dog_019.jpg": []
+    }
+}

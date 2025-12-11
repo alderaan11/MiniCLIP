@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_011",
+    "label": "bike",
+    "caption": "A man in street racer armor is examining the tire of another racer 's motorbike .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_011/bike_011.jpg": []
+    }
+}

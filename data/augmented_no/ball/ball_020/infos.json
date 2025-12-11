@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_020",
+    "label": "ball",
+    "caption": "Boys kicking soccer ball in the grass under a tree",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_020/ball_020.jpg": []
+    }
+}

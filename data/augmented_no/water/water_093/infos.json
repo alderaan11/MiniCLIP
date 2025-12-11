@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_093",
+    "label": "water",
+    "caption": "A couple of people are standing and the person in the red coat is pointing at the body of water .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_093/water_093.jpg": []
+    }
+}

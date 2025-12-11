@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_004",
+    "label": "dog",
+    "caption": "A dog shakes its head near the shore , a red ball next to it .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_004/dog_004.jpg": []
+    }
+}

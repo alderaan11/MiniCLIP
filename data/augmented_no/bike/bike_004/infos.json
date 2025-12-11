@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_004",
+    "label": "bike",
+    "caption": "A bicyclist riding on a city street .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_004/bike_004.jpg": []
+    }
+}

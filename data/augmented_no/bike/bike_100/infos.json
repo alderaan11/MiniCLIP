@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_100",
+    "label": "bike",
+    "caption": "A boy in a blue shirt and white helmet is riding a white bike .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_100/bike_100.jpg": []
+    }
+}

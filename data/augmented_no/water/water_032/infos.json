@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_032",
+    "label": "water",
+    "caption": "A man is pulled behind a boat on a knee board while another doing the same begins to fall .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_032/water_032.jpg": []
+    }
+}

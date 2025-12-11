@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_068",
+    "label": "ball",
+    "caption": "A dog gets ready to catch a yellow ball while standing in the sand .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_068/ball_068.jpg": []
+    }
+}

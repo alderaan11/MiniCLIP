@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_143",
+    "label": "water",
+    "caption": "A black and brown dog is playing on the ice at the edge of a lake .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_143/water_143.jpg": []
+    }
+}

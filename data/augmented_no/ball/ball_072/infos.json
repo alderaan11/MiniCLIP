@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_072",
+    "label": "ball",
+    "caption": "A big black dog carries a blue ball while two Corgis run at his side .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_072/ball_072.jpg": []
+    }
+}

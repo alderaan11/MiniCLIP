@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_073",
+    "label": "ball",
+    "caption": "A dog attempting to chew on a red ball .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_073/ball_073.jpg": []
+    }
+}

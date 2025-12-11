@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_102",
+    "label": "bike",
+    "caption": "A brindle pitbull holds a dirt bike tire in its mouth .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_102/bike_102.jpg": []
+    }
+}

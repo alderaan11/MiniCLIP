@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_009",
+    "label": "ball",
+    "caption": "A girl in a green dress plays with a Hello Kitty balloon .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_009/ball_009.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_060",
+    "label": "water",
+    "caption": "A fisherman is reeling his rod while another relaxes in a boat on water .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_060/water_060.jpg": []
+    }
+}

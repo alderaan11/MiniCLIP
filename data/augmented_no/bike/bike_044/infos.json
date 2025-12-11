@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_044",
+    "label": "bike",
+    "caption": "Four bicyclists ride along a dirt road between two wire fences .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_044/bike_044.jpg": []
+    }
+}

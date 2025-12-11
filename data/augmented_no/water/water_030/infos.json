@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_030",
+    "label": "water",
+    "caption": "About 12 kids and a few adults get splashed by an off camera source .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_030/water_030.jpg": []
+    }
+}

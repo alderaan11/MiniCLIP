@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_093",
+    "label": "dog",
+    "caption": "A brown dog and two black dogs in an overgrown grassy field .",
+    "imgs_paths": {
+        "../data/augmented_no/dog/dog_093/dog_093.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_130",
+    "label": "ball",
+    "caption": "A coach speaking to a football player while everyone watches .",
+    "imgs_paths": {
+        "../data/augmented_no/ball/ball_130/ball_130.jpg": []
+    }
+}

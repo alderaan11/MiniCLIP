@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_087",
+    "label": "water",
+    "caption": "A group of people stand in the sand looking out at the water .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_087/water_087.jpg": []
+    }
+}

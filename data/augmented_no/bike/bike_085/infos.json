@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_085",
+    "label": "bike",
+    "caption": "A small child on riding toy and a larger child on a small bicycle with training wheels .",
+    "imgs_paths": {
+        "../data/augmented_no/bike/bike_085/bike_085.jpg": []
+    }
+}

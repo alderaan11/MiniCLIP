@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_020",
+    "label": "water",
+    "caption": "A small girl spins in the waves in the bright sun .",
+    "imgs_paths": {
+        "../data/augmented_no/water/water_020/water_020.jpg": []
+    }
+}
