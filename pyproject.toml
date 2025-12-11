@@ -5,16 +5,22 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "accelerate==0.26.1",
+    "graphviz>=0.21",
     "ipykernel>=7.1.0",
     "jupyter-server>=2.17.0",
     "notebook>=7.4.7",
     "numpy<2",
     "pandas>=2.3.3",
     "pydantic>=2.12.4",
+    "pydot>=4.0.1",
     "requests>=2.32.5",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
-    "torch==2.2.2",
-    "torchvision==0.17.2",
+    "tensorflow>=2.18.1",
+    "tf-keras>=2.18.0",
+    "torch==2.6",
+    "torchvision>=0.21.0",
     "tqdm>=4.67.1",
+    "transformers==4.45.2",
 ]
