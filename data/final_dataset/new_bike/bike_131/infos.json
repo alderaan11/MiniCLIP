@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_131",
+    "label": "bike",
+    "caption": "The BMX biker soared through the air, performing a daring stunt off the edge of a worn ramp in a sun-drenched skatepark. The rider's bike, adorned with colorful decals and bold graphics, seemed to be flying alongside its owner as they both hurtled towards the ground. In the background, other bikers could be seen cheering on their friend as he landed his trick with impressive skill.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_131/new_bike_131.jpg": [],
+        "../data/final_dataset/new_bike/bike_131/new_bike_131_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_131/new_bike_131_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_009",
+    "label": "ball",
+    "caption": "A young black dog, its fur fluffed up with excitement, leaps into the air in pursuit of a red rubber ball tied to a rope toy. The ball bounces and twirls out of control as the energetic canine chases after it, its tail wagging wildly behind. The scene is set against a bright summer afternoon backdrop, with a few scattered leaves on the grass beneath the dog's paws.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_009/new_ball_009.jpg": [],
+        "../data/final_dataset/new_ball/ball_009/new_ball_009_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_009/new_ball_009_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

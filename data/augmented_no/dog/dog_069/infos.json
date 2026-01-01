@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_069",
-    "label": "dog",
-    "caption": "dogs running on a cold but sunny morning",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_069/dog_069.jpg": []
-    }
-}

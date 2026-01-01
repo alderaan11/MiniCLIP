@@ -1,0 +1,14 @@
+{
+    "img_stem": "water_077",
+    "label": "water",
+    "caption": "A child swims with a woman .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_077/base_water_077.jpg": [],
+        "../data/final_dataset/base_water/water_077/base_water_077_spatial.jpg": [
+            "h_flip"
+        ],
+        "../data/final_dataset/base_water/water_077/base_water_077_color.jpg": [
+            "bw"
+        ]
+    }
+}

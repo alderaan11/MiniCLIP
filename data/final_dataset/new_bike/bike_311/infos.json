@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_311",
+    "label": "bike",
+    "caption": "The sun casts a warm glow over the public skate and bike park, where a cyclist has just launched themselves into the air off a ramp, their bike soaring through the sky as they perform a daring stunt. The wheels of their bike are momentarily suspended above the ground, leaving a trail of dust behind them as they ride back down to earth. In the background, other cyclists can be seen riding and playing on various obstacles, adding to the lively atmosphere of the park.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_311/new_bike_311.jpg": [],
+        "../data/final_dataset/new_bike/bike_311/new_bike_311_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_311/new_bike_311_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

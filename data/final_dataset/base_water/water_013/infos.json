@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_013",
+    "label": "water",
+    "caption": "A woman dressed in a blue jacket and blue jeans rides a brown horse near a frozen lake and snow-covered mountain .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_013/base_water_013.jpg": [],
+        "../data/final_dataset/base_water/water_013/base_water_013_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_013/base_water_013_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

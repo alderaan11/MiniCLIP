@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_142",
+    "label": "ball",
+    "caption": "A football player is in action among other players .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_142/base_ball_142.jpg": [],
+        "../data/final_dataset/base_ball/ball_142/base_ball_142_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_142/base_ball_142_color.jpg": [
+            "bw"
+        ]
+    }
+}

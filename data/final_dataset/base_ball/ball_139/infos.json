@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_139",
+    "label": "ball",
+    "caption": "A crowd is standing and cheering at a football game .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_139/base_ball_139.jpg": [],
+        "../data/final_dataset/base_ball/ball_139/base_ball_139_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_139/base_ball_139_color.jpg": [
+            "bw"
+        ]
+    }
+}

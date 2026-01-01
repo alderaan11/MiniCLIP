@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_103",
+    "label": "ball",
+    "caption": "A person has just thrown a snowball and hit someone in the back .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_103/base_ball_103.jpg": [],
+        "../data/final_dataset/base_ball/ball_103/base_ball_103_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_103/base_ball_103_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_127",
-    "label": "ball",
-    "caption": "A man tackles another man while playing football .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_127/ball_127.jpg": []
-    }
-}

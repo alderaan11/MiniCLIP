@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_640",
+    "label": "ball",
+    "caption": "A young boy, likely around six years old, can be seen enthusiastically playing catch in a sun-dappled park on a warm afternoon. He's tossing an orange ball back and forth with himself, laughing as he tries to juggle it, his curly brown hair bouncing with each movement. The vibrant green grass beneath him is soft and inviting, perfect for a carefree afternoon of play.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_640/new_ball_640.jpg": [],
+        "../data/final_dataset/new_ball/ball_640/new_ball_640_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_640/new_ball_640_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

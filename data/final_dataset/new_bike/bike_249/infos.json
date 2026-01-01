@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_249",
+    "label": "bike",
+    "caption": "A young boy, dressed in casual clothing, sits atop his bicycle as he takes a break on the path, his small legs dangling off the ground. The red helmet that protects his head from any potential harm catches the sunlight and adds a pop of color to the scene. Nearby, the patterned path stretches out, providing a safe route for him to ride and explore.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_249/new_bike_249.jpg": [],
+        "../data/final_dataset/new_bike/bike_249/new_bike_249_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_249/new_bike_249_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

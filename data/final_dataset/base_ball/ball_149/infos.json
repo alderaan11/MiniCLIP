@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_149",
+    "label": "ball",
+    "caption": "A football player runs with a ball , chased by the opposing team .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_149/base_ball_149.jpg": [],
+        "../data/final_dataset/base_ball/ball_149/base_ball_149_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_149/base_ball_149_color.jpg": [
+            "bw"
+        ]
+    }
+}

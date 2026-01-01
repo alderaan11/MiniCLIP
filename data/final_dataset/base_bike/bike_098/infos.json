@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_098",
+    "label": "bike",
+    "caption": "A cyclist is performing a jump by some trees .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_098/base_bike_098.jpg": [],
+        "../data/final_dataset/base_bike/bike_098/base_bike_098_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_098/base_bike_098_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

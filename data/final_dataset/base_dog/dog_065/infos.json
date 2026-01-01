@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_065",
+    "label": "dog",
+    "caption": "A woman crouches down next to her terrier dog to smile at a little girl sitting on the sidewalk .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_065/base_dog_065.jpg": [],
+        "../data/final_dataset/base_dog/dog_065/base_dog_065_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_065/base_dog_065_color.jpg": [
+            "bw"
+        ]
+    }
+}

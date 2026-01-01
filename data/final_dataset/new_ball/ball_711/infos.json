@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_711",
+    "label": "ball",
+    "caption": "A lively group of dogs gathered on the beach, their tails wagging excitedly as they watched in anticipation. A bright pink ball sat perched in the air, held aloft by someone off-camera, while one of the dogs cautiously approached, its ears perked up in interest. The sun cast a warm glow over the entire scene, illuminating the sandy beach and the joyful atmosphere that filled the air.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_711/new_ball_711.jpg": [],
+        "../data/final_dataset/new_ball/ball_711/new_ball_711_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_711/new_ball_711_color.jpg": [
+            "bw"
+        ]
+    }
+}

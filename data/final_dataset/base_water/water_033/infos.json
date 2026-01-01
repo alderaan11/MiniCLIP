@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_033",
+    "label": "water",
+    "caption": "Children sit and watch the fish moving in the pond",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_033/base_water_033.jpg": [],
+        "../data/final_dataset/base_water/water_033/base_water_033_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_033/base_water_033_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

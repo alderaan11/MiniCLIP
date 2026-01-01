@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_1072",
+    "label": "water",
+    "caption": "A young boy, surrounded by sun-kissed friends, is joyfully splashing about in a vibrant blue paddling pool on a warm summer day. The sound of their laughter echoes through the air as they take turns jumping and playing together. A nearby umbrella provides some respite from the heat, casting a cooling shadow over the lively scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1072/new_water_1072.jpg": [],
+        "../data/final_dataset/new_water/water_1072/new_water_1072_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_1072/new_water_1072_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

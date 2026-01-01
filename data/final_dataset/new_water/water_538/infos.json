@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_538",
+    "label": "water",
+    "caption": "A young girl, dressed in a crisp white coat, stands playfully in the center of a serene fountain, surrounded by gently splashing water. The sun casts a warm glow on the scene, causing the droplets to sparkle like tiny diamonds. Meanwhile, her friend, a boy with an infectious grin, looks on from the background, clearly enjoying the impromptu water feature that has brought so much joy to their afternoon.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_538/new_water_538.jpg": [],
+        "../data/final_dataset/new_water/water_538/new_water_538_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_538/new_water_538_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

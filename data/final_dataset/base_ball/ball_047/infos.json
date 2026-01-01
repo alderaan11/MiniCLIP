@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_047",
+    "label": "ball",
+    "caption": "A baseball is recoiling from an action taken on a treated field watched by others .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_047/base_ball_047.jpg": [],
+        "../data/final_dataset/base_ball/ball_047/base_ball_047_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_047/base_ball_047_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_196",
+    "label": "ball",
+    "caption": "In the sun-drenched backyard, a joyful black and white dog springs into the air, its paws splayed wide as it attempts to catch the golden soccer ball perched precariously on its upturned nose. The afternoon sunlight casts a warm glow over the scene, illuminating the dog's energetic movements as it plays with its favorite ball. As the dog leaps, the ball teeters for a moment before rolling harmlessly away, inviting another joyful pursuit.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_196/new_ball_196.jpg": [],
+        "../data/final_dataset/new_ball/ball_196/new_ball_196_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_196/new_ball_196_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

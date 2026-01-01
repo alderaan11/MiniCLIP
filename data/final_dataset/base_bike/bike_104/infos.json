@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_104",
+    "label": "bike",
+    "caption": "A bicycler is riding a bike at a racing event .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_104/base_bike_104.jpg": [],
+        "../data/final_dataset/base_bike/bike_104/base_bike_104_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_104/base_bike_104_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_927",
+    "label": "water",
+    "caption": "A young boy, likely around five years old, stands at the edge of the calm ocean water on a sun-kissed beach, his toes curling over into the cool liquid as he takes tentative steps closer to the waves. The gentle lapping of the water against the shore creates a soothing melody that is almost hypnotic in its tranquility. Seagulls wheel overhead, their cries carrying on the breeze as they scan for signs of discarded snacks or other treasures amidst the beachcomber's paradise.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_927/new_water_927.jpg": [],
+        "../data/final_dataset/new_water/water_927/new_water_927_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_927/new_water_927_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

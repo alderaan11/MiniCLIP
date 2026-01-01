@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_297",
+    "label": "bike",
+    "caption": "The city street was bustling with activity as two bikers stood next to their sleek motorcycles, their leather-clad bodies a stark contrast to the urban backdrop. The rider of one bike wore a bold design on his face paint, while his companion leaned against the other bike, eyeing the city's concrete jungle with a mixture of curiosity and disdain.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_297/new_bike_297.jpg": [],
+        "../data/final_dataset/new_bike/bike_297/new_bike_297_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_297/new_bike_297_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

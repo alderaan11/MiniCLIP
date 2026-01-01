@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_066",
-    "label": "water",
-    "caption": "A kayaker goes through the waves holding his paddle .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_066/water_066.jpg": []
-    }
-}

@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_080",
+    "label": "dog",
+    "caption": "A black and a white dog are running on the grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_080/base_dog_080.jpg": [],
+        "../data/final_dataset/base_dog/dog_080/base_dog_080_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_080/base_dog_080_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

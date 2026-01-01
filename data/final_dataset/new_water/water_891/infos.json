@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_891",
+    "label": "water",
+    "caption": "A boy in his swimsuit splashes and plays in the vast ocean, the sunlight dancing across the ripples of the water as he dives and resurfaces with joyful abandon. Seagulls wheel overhead, their cries mingling with the sound of waves crashing against the shore. In the background, a few beach umbrellas stand tall, but the boy's attention is fully fixed on the thrill of the ocean's cool waters.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_891/new_water_891.jpg": [],
+        "../data/final_dataset/new_water/water_891/new_water_891_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_891/new_water_891_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

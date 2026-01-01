@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_076",
-    "label": "dog",
-    "caption": "A black and white dog jumping into a pool after tennis balls .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_076/dog_076.jpg": []
-    }
-}

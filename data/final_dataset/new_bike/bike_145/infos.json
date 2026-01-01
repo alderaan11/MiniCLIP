@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_145",
+    "label": "bike",
+    "caption": "A man clad in an orange shirt and blue helmet zooms by, his bike's tires screeching as he navigates a sharp turn on the winding road. The sun casts long shadows behind him, illuminating the lush greenery that lines the route. In the distance, a few trees sway gently in the breeze, their leaves rustling softly as they watch the cyclist speed by.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_145/new_bike_145.jpg": [],
+        "../data/final_dataset/new_bike/bike_145/new_bike_145_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_145/new_bike_145_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

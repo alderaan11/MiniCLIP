@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_948",
+    "label": "dog",
+    "caption": "The lady, wearing a bright yellow tank top and sweatpants, expertly navigated her energetic canine companion through a challenging agility course. The dog, its fur fluffed up with excitement, sprinted towards a series of tunnels and jumps as the woman shouted encouragement. With each passing obstacle, their bond and trust in one another became increasingly evident.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_948/new_dog_948.jpg": [],
+        "../data/final_dataset/new_dog/dog_948/new_dog_948_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_948/new_dog_948_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

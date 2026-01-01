@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_188",
+    "label": "bike",
+    "caption": "The two bicycle riders glided effortlessly along the serene shoreline, their bikes' gentle hum carrying on the quiet evening air as they rode into the soft glow of twilight. The fading light cast long shadows behind them, stretching out across the smooth pavement and reflecting off the calm waters of the lake or sea beyond. The peaceful atmosphere was only punctuated by the occasional call of a distant bird or the soft lapping of waves against the shore.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_188/new_bike_188.jpg": [],
+        "../data/final_dataset/new_bike/bike_188/new_bike_188_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_188/new_bike_188_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

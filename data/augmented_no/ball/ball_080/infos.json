@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_080",
-    "label": "ball",
-    "caption": "Two big dogs play in the snow under a tree .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_080/ball_080.jpg": []
-    }
-}

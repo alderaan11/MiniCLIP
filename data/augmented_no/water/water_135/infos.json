@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_135",
-    "label": "water",
-    "caption": "A paraglider soars near a cliff and over a body of water .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_135/water_135.jpg": []
-    }
-}

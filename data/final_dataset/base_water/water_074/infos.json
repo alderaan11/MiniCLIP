@@ -1,0 +1,14 @@
+{
+    "img_stem": "water_074",
+    "label": "water",
+    "caption": "A person in a scuba suit holds a very small lobster .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_074/base_water_074.jpg": [],
+        "../data/final_dataset/base_water/water_074/base_water_074_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_074/base_water_074_color.jpg": [
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_089",
+    "label": "bike",
+    "caption": "A green motorcycle is being ridden on a wet racetrack .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_089/base_bike_089.jpg": [],
+        "../data/final_dataset/base_bike/bike_089/base_bike_089_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_089/base_bike_089_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

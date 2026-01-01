@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_119",
+    "label": "bike",
+    "caption": "a dirt biker turns across the dirt .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_119/base_bike_119.jpg": [],
+        "../data/final_dataset/base_bike/bike_119/base_bike_119_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_119/base_bike_119_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

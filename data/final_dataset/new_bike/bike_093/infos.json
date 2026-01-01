@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_093",
+    "label": "bike",
+    "caption": "A young couple stands on a quiet city street, admiring a sleek bicycle leaning against a lamppost. The woman has just finished locking her backpack to the bike's rack and is now chatting with her friend about their upcoming cycling trip. A few feet away, a busy café is filled with the aroma of freshly brewed coffee, but the couple seems oblivious to the commotion, too engrossed in their conversation.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_093/new_bike_093.jpg": [],
+        "../data/final_dataset/new_bike/bike_093/new_bike_093_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_093/new_bike_093_color.jpg": [
+            "bw"
+        ]
+    }
+}

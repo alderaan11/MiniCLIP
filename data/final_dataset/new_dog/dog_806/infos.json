@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_806",
+    "label": "dog",
+    "caption": "A playful dog has leaped into the air, its paws extended in a futile attempt to snatch a treat held aloft by a laughing man. A second canine observes from a nearby vantage point, its tail wagging with interest as it watches the commotion unfold. The atmosphere is one of joyful chaos, with all involved seeming to be thoroughly enjoying the silly game.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_806/new_dog_806.jpg": [],
+        "../data/final_dataset/new_dog/dog_806/new_dog_806_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_806/new_dog_806_color.jpg": [
+            "contrast"
+        ]
+    }
+}

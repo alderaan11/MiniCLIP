@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_202",
+    "label": "ball",
+    "caption": "The basketball player lies sprawled on the court, clutching at their injured knee as they struggle to get back up. Meanwhile, another player bursts into view from off-camera, desperate to regain possession of the ball which has been momentarily abandoned in the chaos. The action unfolds with a flurry of movement and tension, the ball hovering precariously out of frame.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_202/new_ball_202.jpg": [],
+        "../data/final_dataset/new_ball/ball_202/new_ball_202_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_202/new_ball_202_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

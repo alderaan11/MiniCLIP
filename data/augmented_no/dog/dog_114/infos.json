@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_114",
-    "label": "dog",
-    "caption": "A brown dog and a tan dog are playing in tall grass .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_114/dog_114.jpg": []
-    }
-}

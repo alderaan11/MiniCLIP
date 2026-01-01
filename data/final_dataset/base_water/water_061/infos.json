@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_061",
+    "label": "water",
+    "caption": "A child in a black shirt standing on a wooden dock near a picnic table .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_061/base_water_061.jpg": [],
+        "../data/final_dataset/base_water/water_061/base_water_061_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_061/base_water_061_color.jpg": [
+            "bw"
+        ]
+    }
+}

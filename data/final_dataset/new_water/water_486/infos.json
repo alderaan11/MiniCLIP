@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_486",
+    "label": "water",
+    "caption": "The young boy splashes in the water fountain, laughing as he tries to catch the spray on his fingers. His parents sit nearby on a bench, watching with warm smiles as they enjoy a sunny afternoon break from their daily routine. A few curious seagulls fly overhead, eyeing the commotion and awaiting an opportunity to swoop down for a refreshing drink.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_486/new_water_486.jpg": [],
+        "../data/final_dataset/new_water/water_486/new_water_486_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_486/new_water_486_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

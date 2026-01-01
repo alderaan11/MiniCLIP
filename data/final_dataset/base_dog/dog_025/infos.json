@@ -1,0 +1,20 @@
+{
+    "img_stem": "dog_025",
+    "label": "dog",
+    "caption": "A Corgi runs out of a tunnel .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_025/base_dog_025.jpg": [],
+        "../data/final_dataset/base_dog/dog_025/base_dog_025_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_025/base_dog_025_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

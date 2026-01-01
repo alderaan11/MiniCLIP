@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_137",
+    "label": "dog",
+    "caption": "A black dog is running through the shallow edge of a large body of water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_137/base_dog_137.jpg": [],
+        "../data/final_dataset/base_dog/dog_137/base_dog_137_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_137/base_dog_137_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

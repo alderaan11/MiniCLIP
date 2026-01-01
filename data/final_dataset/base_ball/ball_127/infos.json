@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_127",
+    "label": "ball",
+    "caption": "A man tackles another man while playing football .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_127/base_ball_127.jpg": [],
+        "../data/final_dataset/base_ball/ball_127/base_ball_127_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_127/base_ball_127_color.jpg": [
+            "bw"
+        ]
+    }
+}

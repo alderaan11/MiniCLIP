@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_1100",
+    "label": "water",
+    "caption": "A gentle wave laps at the shore, causing the muddy sediment to churn up small eddies in the calm water. The brown dog stands patiently at the water's edge, its ears flapping lazily in the breeze. In the distance, the sun glints off the rippled surface of the water, casting a warm glow over the serene scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1100/new_water_1100.jpg": [],
+        "../data/final_dataset/new_water/water_1100/new_water_1100_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_1100/new_water_1100_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

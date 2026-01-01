@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_015",
+    "label": "ball",
+    "caption": "A little boy points to the face of another little boy in base in a baseball game .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_015/base_ball_015.jpg": [],
+        "../data/final_dataset/base_ball/ball_015/base_ball_015_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_015/base_ball_015_color.jpg": [
+            "bw"
+        ]
+    }
+}

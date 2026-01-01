@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_023",
+    "label": "bike",
+    "caption": "A man is cycling on the road .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_023/base_bike_023.jpg": [],
+        "../data/final_dataset/base_bike/bike_023/base_bike_023_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_023/base_bike_023_color.jpg": [
+            "bw"
+        ]
+    }
+}

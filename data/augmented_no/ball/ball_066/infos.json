@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_066",
-    "label": "ball",
-    "caption": "A brown and white dog plays with a soccer ball on snowy ground .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_066/ball_066.jpg": []
-    }
-}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_100",
+    "label": "water",
+    "caption": "A black dog, its fur glistening with water droplets, can be seen sprinting towards the shore as it playsfully runs along the edge of a serene lake on a sunny afternoon. The calm surface of the water reflects the vibrant blue sky above, creating a sense of tranquility amidst the energetic scene. In the background, tall trees lean in over the lake's edge, their branches swaying gently in the breeze.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_100/new_water_100.jpg": [],
+        "../data/final_dataset/new_water/water_100/new_water_100_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_100/new_water_100_color.jpg": [
+            "bw"
+        ]
+    }
+}

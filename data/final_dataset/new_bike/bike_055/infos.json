@@ -1,0 +1,20 @@
+{
+    "img_stem": "bike_055",
+    "label": "bike",
+    "caption": "A lone cyclist navigates a winding forest path, their bike's tires kicking up small rocks as they pick up speed through the dense woodland. The surrounding trees, a mix of deciduous and evergreen species, form a vibrant canopy above, filtering dappled sunlight onto the trail below. A faint mist rises from the forest floor, adding an air of mystery to the serene scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_055/new_bike_055.jpg": [],
+        "../data/final_dataset/new_bike/bike_055/new_bike_055_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_055/new_bike_055_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

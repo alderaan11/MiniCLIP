@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_126",
-    "label": "ball",
-    "caption": "A cheerleader dressed in red smiles and cheers .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_126/ball_126.jpg": []
-    }
-}

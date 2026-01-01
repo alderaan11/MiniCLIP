@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_104",
+    "label": "ball",
+    "caption": "A black and brown dog with blue collar goes on alert by a soccer ball in the grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_104/base_ball_104.jpg": [],
+        "../data/final_dataset/base_ball/ball_104/base_ball_104_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_104/base_ball_104_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

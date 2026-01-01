@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_268",
+    "label": "bike",
+    "caption": "A lone cyclist hurtles down a rugged mountain trail, their bicycle's tires screeching on loose gravel as they navigate through a maze of rocky outcroppings and dense foliage. The rider's determination is evident in their posture, hunched low over the handlebars to maintain control as the bike picks up speed. In the distance, the mountain drops away precipitously, with a winding stream far below adding to the sense of isolation and exhilaration.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_268/new_bike_268.jpg": [],
+        "../data/final_dataset/new_bike/bike_268/new_bike_268_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_268/new_bike_268_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

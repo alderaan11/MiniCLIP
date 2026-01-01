@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_144",
-    "label": "ball",
-    "caption": "A group of football players running down the field .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_144/ball_144.jpg": []
-    }
-}

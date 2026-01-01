@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_118",
+    "label": "bike",
+    "caption": "A man on a bicycle in the city .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_118/base_bike_118.jpg": [],
+        "../data/final_dataset/base_bike/bike_118/base_bike_118_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_118/base_bike_118_color.jpg": [
+            "bw"
+        ]
+    }
+}

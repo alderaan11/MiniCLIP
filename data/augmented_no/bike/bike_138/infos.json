@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_138",
-    "label": "bike",
-    "caption": "A boy makes a jump with a dirt bike with the sun setting behind him .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_138/bike_138.jpg": []
-    }
-}

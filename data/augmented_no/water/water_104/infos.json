@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_104",
-    "label": "water",
-    "caption": "A dog swims towards a waterfall .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_104/water_104.jpg": []
-    }
-}

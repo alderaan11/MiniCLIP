@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_043",
-    "label": "water",
-    "caption": "A girl floating wearing a life vest .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_043/water_043.jpg": []
-    }
-}

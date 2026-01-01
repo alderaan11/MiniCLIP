@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_040",
-    "label": "dog",
-    "caption": "A man in a red shirt and glasses is bending down towards a small dog on a blanket with several stuffed animals .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_040/dog_040.jpg": []
-    }
-}

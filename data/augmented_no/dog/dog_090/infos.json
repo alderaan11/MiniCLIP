@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_090",
-    "label": "dog",
-    "caption": "A dog jumping in the air to retrieve a stick from a man .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_090/dog_090.jpg": []
-    }
-}

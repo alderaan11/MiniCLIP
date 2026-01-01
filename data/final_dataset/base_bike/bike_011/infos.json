@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_011",
+    "label": "bike",
+    "caption": "A man in street racer armor is examining the tire of another racer 's motorbike .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_011/base_bike_011.jpg": [],
+        "../data/final_dataset/base_bike/bike_011/base_bike_011_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_011/base_bike_011_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

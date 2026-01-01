@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_011",
-    "label": "dog",
-    "caption": "Two different breeds of brown and white dogs play on the beach .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_011/dog_011.jpg": []
-    }
-}

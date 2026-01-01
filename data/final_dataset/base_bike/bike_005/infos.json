@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_005",
+    "label": "bike",
+    "caption": "A bicycle rider is crossing a street .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_005/base_bike_005.jpg": [],
+        "../data/final_dataset/base_bike/bike_005/base_bike_005_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_005/base_bike_005_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_014",
+    "label": "water",
+    "caption": "A boy jumping in a fountain .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_014/base_water_014.jpg": [],
+        "../data/final_dataset/base_water/water_014/base_water_014_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_014/base_water_014_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

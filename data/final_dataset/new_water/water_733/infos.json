@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_733",
+    "label": "water",
+    "caption": "A young boy, covered in mud from head to toe, giggles uncontrollably as he splashes his toes in a murky puddle on the sidewalk after a spring rain shower. The puddle's surface is dotted with tiny ripples where the boy has thrown handfuls of dirt into it. In the background, a few trees stand out against a gray sky, their leaves still dripping with water from the previous night's storm.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_733/new_water_733.jpg": [],
+        "../data/final_dataset/new_water/water_733/new_water_733_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_733/new_water_733_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_103",
-    "label": "bike",
-    "caption": "A man on a motorized bike rides across a dirt road .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_103/bike_103.jpg": []
-    }
-}

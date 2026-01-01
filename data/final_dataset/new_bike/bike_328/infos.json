@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_328",
+    "label": "bike",
+    "caption": "The racing motorcycle rider lies motionless on the ground, his bike having skidded to a stop just inches from him as he struggles to get back up. The fallen rider's helmet and visor lie askew on the pavement, while his bike's sleek frame bears a faint scratch from its rough landing. In the background, another rider can be seen speeding by on their own bike, oblivious to the commotion on the ground.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_328/new_bike_328.jpg": [],
+        "../data/final_dataset/new_bike/bike_328/new_bike_328_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_328/new_bike_328_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

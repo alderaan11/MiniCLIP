@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_020",
+    "label": "bike",
+    "caption": "A young girl pedals her red bicycle through the dense woods, her curly brown hair bouncing in the sunlight filtering through the trees. By her side, a playful black and white dog trots along, its tail wagging excitedly as it chases after sticks. The air is filled with the sweet scent of blooming wildflowers and the gentle hum of the bicycle's wheels on the dirt path.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_020/new_bike_020.jpg": [],
+        "../data/final_dataset/new_bike/bike_020/new_bike_020_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_020/new_bike_020_color.jpg": [
+            "bw"
+        ]
+    }
+}

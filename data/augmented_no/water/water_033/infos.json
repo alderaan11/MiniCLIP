@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_033",
-    "label": "water",
-    "caption": "Children sit and watch the fish moving in the pond",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_033/water_033.jpg": []
-    }
-}

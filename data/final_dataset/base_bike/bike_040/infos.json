@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_040",
+    "label": "bike",
+    "caption": "A dirt biker pushes his motorcycle up a rock while another rider watches .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_040/base_bike_040.jpg": [],
+        "../data/final_dataset/base_bike/bike_040/base_bike_040_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_040/base_bike_040_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

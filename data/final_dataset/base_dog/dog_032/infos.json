@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_032",
+    "label": "dog",
+    "caption": "A little tan dog with large ears running through the grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_032/base_dog_032.jpg": [],
+        "../data/final_dataset/base_dog/dog_032/base_dog_032_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_032/base_dog_032_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_116",
-    "label": "dog",
-    "caption": "A large white dog growling at a large black dog .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_116/dog_116.jpg": []
-    }
-}

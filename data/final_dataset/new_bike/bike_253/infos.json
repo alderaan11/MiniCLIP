@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_253",
+    "label": "bike",
+    "caption": "A biker soars through the air, their mountain bike momentarily weightless as it clears a small root protruding from the forest floor. The sunlight filters through the trees above, casting dappled shadows on the dense underbrush below. In the distance, a winding trail disappears into the canopy.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_253/new_bike_253.jpg": [],
+        "../data/final_dataset/new_bike/bike_253/new_bike_253_spatial.jpg": [
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_253/new_bike_253_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

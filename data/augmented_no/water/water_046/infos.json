@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_046",
-    "label": "water",
-    "caption": "A backpacker walks down a rocky mountain .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_046/water_046.jpg": []
-    }
-}

@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_285",
+    "label": "ball",
+    "caption": "A dog's enthusiastic chase has been momentarily interrupted as it spots its beloved ball slipping under the surface of a serene lake on a warm summer day. The water's gentle ripples reveal the ball's descent into the depths, and the dog's determination to retrieve it is palpable in its focused gaze. A few lazy birds fly overhead, seemingly unaware of the drama unfolding beneath them.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_285/new_ball_285.jpg": [],
+        "../data/final_dataset/new_ball/ball_285/new_ball_285_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_285/new_ball_285_color.jpg": [
+            "saturation"
+        ]
+    }
+}

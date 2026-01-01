@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_013",
+    "label": "bike",
+    "caption": "A young boy, clad in a black helmet and bright red long-sleeved shirt, expertly navigates his motorbike over the rocky streambed, the wheels kicking up small sprays of water as he makes his way across. The bike's tires hummed softly on the rough terrain, sending ripples through the calm surface of the nearby water. Beyond the stream, a lush landscape unfolded, with tall trees and vibrant greenery stretching towards the horizon under a clear blue sky.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_013/new_bike_013.jpg": [],
+        "../data/final_dataset/new_bike/bike_013/new_bike_013_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_013/new_bike_013_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

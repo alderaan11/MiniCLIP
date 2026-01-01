@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_050",
+    "label": "bike",
+    "caption": "a froup of sled dogs pulling a man wearing an orange vest .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_050/base_bike_050.jpg": [],
+        "../data/final_dataset/base_bike/bike_050/base_bike_050_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_050/base_bike_050_color.jpg": [
+            "bw"
+        ]
+    }
+}

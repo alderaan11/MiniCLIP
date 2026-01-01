@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_147",
-    "label": "ball",
-    "caption": "A bunch of football players , and a crowd .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_147/ball_147.jpg": []
-    }
-}

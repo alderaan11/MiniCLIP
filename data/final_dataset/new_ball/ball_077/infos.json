@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_077",
+    "label": "ball",
+    "caption": "A young boy, laughing and full of energy, runs through a lush green field on a warm summer day. As he jogs by, his eyes dart down to the ball in his hand, which he's holding tightly as it bounces against his leg. The sun casts dappled shadows across the grass beneath his feet, adding to the carefree atmosphere of the scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_077/new_ball_077.jpg": [],
+        "../data/final_dataset/new_ball/ball_077/new_ball_077_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_077/new_ball_077_color.jpg": [
+            "bw"
+        ]
+    }
+}

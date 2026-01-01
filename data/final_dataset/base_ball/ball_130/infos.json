@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_130",
+    "label": "ball",
+    "caption": "A coach speaking to a football player while everyone watches .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_130/base_ball_130.jpg": [],
+        "../data/final_dataset/base_ball/ball_130/base_ball_130_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_130/base_ball_130_color.jpg": [
+            "bw"
+        ]
+    }
+}

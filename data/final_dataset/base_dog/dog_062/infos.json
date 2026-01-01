@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_062",
+    "label": "dog",
+    "caption": "A big brown dog is jumping in the water and has his mouth wide open .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_062/base_dog_062.jpg": [],
+        "../data/final_dataset/base_dog/dog_062/base_dog_062_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_062/base_dog_062_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

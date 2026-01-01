@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_129",
-    "label": "bike",
-    "caption": "a dirt biker stands in the sunset .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_129/bike_129.jpg": []
-    }
-}

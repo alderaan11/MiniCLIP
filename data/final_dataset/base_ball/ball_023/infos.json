@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_023",
+    "label": "ball",
+    "caption": "A brown dog catching a ball in silhouette .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_023/base_ball_023.jpg": [],
+        "../data/final_dataset/base_ball/ball_023/base_ball_023_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_023/base_ball_023_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

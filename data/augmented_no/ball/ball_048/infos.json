@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_048",
-    "label": "ball",
-    "caption": "Two children standing under an awning .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_048/ball_048.jpg": []
-    }
-}

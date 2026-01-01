@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_080",
+    "label": "bike",
+    "caption": "A motorcycle racer is riding a black motorcycle .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_080/base_bike_080.jpg": [],
+        "../data/final_dataset/base_bike/bike_080/base_bike_080_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_080/base_bike_080_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_984",
+    "label": "dog",
+    "caption": "A fluffy golden retriever trots along the winding path, its tail wagging lazily as it takes in the sights of the lush forest surroundings. The sunlight filtering through the canopy above casts dappled shadows on the dog's fur and the grass beneath its paws. A nearby bird chirps a cheerful greeting to the dog as it makes its way deeper into the woods.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_984/new_dog_984.jpg": [],
+        "../data/final_dataset/new_dog/dog_984/new_dog_984_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_984/new_dog_984_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

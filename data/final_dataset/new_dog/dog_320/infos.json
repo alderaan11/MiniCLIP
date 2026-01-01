@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_320",
+    "label": "dog",
+    "caption": "A black dog, its fur glistening in the sunlight, runs swiftly across a lush green field, its tail wagging enthusiastically as it gives chase to a group of honking geese flying overhead. The geese, their soft honks filling the air, seem to be playing a game of tag with the energetic canine, leading it on a merry chase through the tall grass. In the distance, a few trees sway gently in the breeze, adding to the serene and idyllic atmosphere of this sunny afternoon scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_320/new_dog_320.jpg": [],
+        "../data/final_dataset/new_dog/dog_320/new_dog_320_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_320/new_dog_320_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

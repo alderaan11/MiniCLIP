@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_037",
+    "label": "ball",
+    "caption": "A black dog, its tongue hanging out in excitement, has just successfully caught a tennis ball in mid-air with his jaws, while a white dog stands nearby, watching with eager interest as if waiting for its turn to play. The two dogs are likely playing a game of catch in a sunny park or backyard on a warm day. The grass is probably lush and green under their paws, with a few scattered leaves from the surrounding trees adding some natural color to the scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_037/new_ball_037.jpg": [],
+        "../data/final_dataset/new_ball/ball_037/new_ball_037_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_037/new_ball_037_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

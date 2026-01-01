@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_272",
+    "label": "bike",
+    "caption": "A young bicyclist, dressed in casual clothing, sits atop their mountain bike on a sturdy branch of a tall tree. The sun shines down on the scene, illuminating the rider's determined expression as they prepare to launch themselves into mid-air for a daring trick. A gentle breeze rustles through the leaves surrounding them, adding an air of serenity to the high-stakes moment.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_272/new_bike_272.jpg": [],
+        "../data/final_dataset/new_bike/bike_272/new_bike_272_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_272/new_bike_272_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

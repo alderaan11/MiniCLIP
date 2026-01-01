@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_191",
+    "label": "water",
+    "caption": "A serene winter morning unfolds at the lake's edge, where a black and brown dog joyfully frolics on the frozen ice, its paws leaving gentle impressions in the frosty surface. In the background, the lake's calm waters reflect the pale blue sky, dotted with wispy clouds that seem to be drifting lazily by. The surrounding landscape is blanketed with a thick layer of snow, adding to the peaceful atmosphere of this idyllic winter scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_191/new_water_191.jpg": [],
+        "../data/final_dataset/new_water/water_191/new_water_191_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_191/new_water_191_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

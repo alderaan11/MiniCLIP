@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_138",
+    "label": "dog",
+    "caption": "A dog is jumping into the water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_138/base_dog_138.jpg": [],
+        "../data/final_dataset/base_dog/dog_138/base_dog_138_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_138/base_dog_138_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

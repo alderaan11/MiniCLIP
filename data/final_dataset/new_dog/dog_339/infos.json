@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_339",
+    "label": "dog",
+    "caption": "A rugged canine athlete, its brown fur glistening with sweat, vaults through a blazing ring of fire as it performs a daring stunt in a circus act. The crowd gasps in awe as the dog's paws barely clear the flames, while the ringmaster looks on anxiously, his face set in a mix of excitement and concern. Behind him, the big top's colorful awning flaps lazily in the breeze, creating an incongruous splash of vibrant hues against the fiery backdrop.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_339/new_dog_339.jpg": [],
+        "../data/final_dataset/new_dog/dog_339/new_dog_339_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_339/new_dog_339_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

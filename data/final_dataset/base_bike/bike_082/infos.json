@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_082",
+    "label": "bike",
+    "caption": "A man is doing tricks on a bicycle on ramps in front of a crowd .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_082/base_bike_082.jpg": [],
+        "../data/final_dataset/base_bike/bike_082/base_bike_082_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_082/base_bike_082_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

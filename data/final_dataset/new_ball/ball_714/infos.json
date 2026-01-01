@@ -1,0 +1,14 @@
+{
+    "img_stem": "ball_714",
+    "label": "ball",
+    "caption": "A playful little dog is seen chasing after a vibrant red ball as it bounces across a lush green grassy field on a sunny day, its tail wagging excitedly in anticipation of catching the elusive ball. The dog's owner is visible in the background, smiling and cheering them on as they try to corral the errant ball. The atmosphere is one of carefree joy, with the warm sunlight casting long shadows across the grassy landscape.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_714/new_ball_714.jpg": [],
+        "../data/final_dataset/new_ball/ball_714/new_ball_714_spatial.jpg": [],
+        "../data/final_dataset/new_ball/ball_714/new_ball_714_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

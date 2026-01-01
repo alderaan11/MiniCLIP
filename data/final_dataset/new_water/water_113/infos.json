@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_113",
+    "label": "water",
+    "caption": "A young boy, likely around 5-6 years old, splashes and plays in the shallow end of a community pool, his small hands grasping for the edge as he giggles with excitement. His mother stands beside him, her arm wrapped gently around his waist, offering support as she watches him enjoy the warm summer afternoon. The sun beats down on their skin, casting a golden glow over the scene as they bask in the joy of this carefree moment together.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_113/new_water_113.jpg": [],
+        "../data/final_dataset/new_water/water_113/new_water_113_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_113/new_water_113_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

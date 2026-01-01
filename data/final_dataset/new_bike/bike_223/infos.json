@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_223",
+    "label": "bike",
+    "caption": "A cyclist, fully geared up in protective clothing, has just launched himself off a ramp, soaring high above the city skyline. The sun glints off the chrome handlebars as he performs a daring trick, momentarily weightless in mid-air. Below him, the bustling streets of the metropolis stretch out, a sea of cars and pedestrians paused in awe of his acrobatic feat.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_223/new_bike_223.jpg": [],
+        "../data/final_dataset/new_bike/bike_223/new_bike_223_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_223/new_bike_223_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

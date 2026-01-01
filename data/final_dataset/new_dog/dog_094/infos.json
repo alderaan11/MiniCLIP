@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_094",
+    "label": "dog",
+    "caption": "A fluffy collie, its fur blowing in the wind, can be seen running down a long, colorful slide at a children's playground on a sunny afternoon. The dog's tail wags excitedly as it reaches the bottom of the slide and bounds off towards the nearby swings. Nearby, a group of laughing children are watching the commotion with delight.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_094/new_dog_094.jpg": [],
+        "../data/final_dataset/new_dog/dog_094/new_dog_094_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_094/new_dog_094_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

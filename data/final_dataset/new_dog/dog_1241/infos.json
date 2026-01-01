@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_1241",
+    "label": "dog",
+    "caption": "The big grey dog, seemingly the larger of the two, has its jaws locked onto the smaller brown dog in a playful yet firm grip. The chain collar around the grey dog's neck glints in the sunlight as it tries to assert dominance over its companion. Nearby, a child's discarded ball lies abandoned on the grassy lawn, a forgotten reminder of the rambunctious playtime that led to this unexpected canine showdown.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1241/new_dog_1241.jpg": [],
+        "../data/final_dataset/new_dog/dog_1241/new_dog_1241_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_1241/new_dog_1241_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

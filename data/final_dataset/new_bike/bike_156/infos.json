@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_156",
+    "label": "bike",
+    "caption": "A cyclist, dressed in casual attire, pedals swiftly along the white line dividing the busy city center's road from the adjacent pedestrian zone. The sounds of honking cars and chatter fill the air as the rider navigates through the crowded streets with ease. In the background, a row of towering skyscrapers casts long shadows across the pavement, adding to the vibrant atmosphere of the urban landscape.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_156/new_bike_156.jpg": [],
+        "../data/final_dataset/new_bike/bike_156/new_bike_156_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_156/new_bike_156_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

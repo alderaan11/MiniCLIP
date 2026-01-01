@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_015",
+    "label": "dog",
+    "caption": "A brown dog is running after a black dog on a rocky shore .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_015/base_dog_015.jpg": [],
+        "../data/final_dataset/base_dog/dog_015/base_dog_015_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_015/base_dog_015_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_709",
+    "label": "water",
+    "caption": "The girl's jump has sent her hair flying out behind her, with loose strands blowing in the breeze above the vast expanse of the Colorado River snaking its way through the Grand Canyon far below. The clear blue water sparkles in the sunlight as it tumbles over the rocky edges, creating a mist that rises into the air and dances around the girl's legs as she lands back on solid ground. In the distance, the rugged terrain stretches out, with towering rock formations rising up from the river's edge to meet the sky.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_709/new_water_709.jpg": [],
+        "../data/final_dataset/new_water/water_709/new_water_709_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_709/new_water_709_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_061",
+    "label": "bike",
+    "caption": "A couple ride bikes next to an orange fence by the ocean .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_061/base_bike_061.jpg": [],
+        "../data/final_dataset/base_bike/bike_061/base_bike_061_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_061/base_bike_061_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

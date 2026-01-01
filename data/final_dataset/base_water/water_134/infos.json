@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_134",
+    "label": "water",
+    "caption": "A man paddling in water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_134/base_water_134.jpg": [],
+        "../data/final_dataset/base_water/water_134/base_water_134_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_134/base_water_134_color.jpg": [
+            "bw"
+        ]
+    }
+}

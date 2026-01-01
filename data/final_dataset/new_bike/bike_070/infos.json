@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_070",
+    "label": "bike",
+    "caption": "A woman in a bold outfit pedals her sleek bicycle down a bustling city street, drawing curious glances from passersby. On her back, she wears a pair of black, intricately designed wings attached to a gleaming metal frame, which seems almost too heavy for its delicate attachment points. Nearby pedestrians exchange knowing smiles and nods as they continue on their own daily routines.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_070/new_bike_070.jpg": [],
+        "../data/final_dataset/new_bike/bike_070/new_bike_070_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_070/new_bike_070_color.jpg": [
+            "contrast"
+        ]
+    }
+}

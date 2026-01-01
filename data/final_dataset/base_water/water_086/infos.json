@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_086",
+    "label": "water",
+    "caption": "A black station wagon with its lights on , partially submerged in water with a wooded area behind it .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_086/base_water_086.jpg": [],
+        "../data/final_dataset/base_water/water_086/base_water_086_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_086/base_water_086_color.jpg": [
+            "bw"
+        ]
+    }
+}

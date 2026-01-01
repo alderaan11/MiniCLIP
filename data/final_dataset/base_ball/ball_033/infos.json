@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_033",
+    "label": "ball",
+    "caption": "Four boys doing a cannonball jump in unison into the pool .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_033/base_ball_033.jpg": [],
+        "../data/final_dataset/base_ball/ball_033/base_ball_033_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_033/base_ball_033_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

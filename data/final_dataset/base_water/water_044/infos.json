@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_044",
+    "label": "water",
+    "caption": "a boy enjoys a rain shower .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_044/base_water_044.jpg": [],
+        "../data/final_dataset/base_water/water_044/base_water_044_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_water/water_044/base_water_044_color.jpg": [
+            "bw"
+        ]
+    }
+}

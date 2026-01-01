@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_099",
-    "label": "bike",
-    "caption": "A biker rides a motorcycle on a racetrack",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_099/bike_099.jpg": []
-    }
-}

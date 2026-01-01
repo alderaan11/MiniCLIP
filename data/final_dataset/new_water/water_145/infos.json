@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_145",
+    "label": "water",
+    "caption": "A warm summer day at the beach, the sun beating down on the sand as children laugh and play in the shallow waves. A young boy, clad in his bright red swimsuit, runs towards the water's edge with a carefree grin on his face, the sound of seagulls filling the air as he prepares to take another dip into the cool blue waters. The tide is low, exposing large areas of wet sand that will soon be washed away by the incoming waves.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_145/new_water_145.jpg": [],
+        "../data/final_dataset/new_water/water_145/new_water_145_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_145/new_water_145_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

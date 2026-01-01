@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_466",
+    "label": "water",
+    "caption": "\"A sleek black dog, its fur glistening in the sunlight, pads along the concrete edge of the pool, its eyes fixed intently on some point in the water below. The pool's surface reflects the surrounding trees and sky, creating an almost perfect mirror image of the scene above. In the background, a few loungers are scattered around the pool deck, adding to the relaxed atmosphere.\"",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_466/new_water_466.jpg": [],
+        "../data/final_dataset/new_water/water_466/new_water_466_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_466/new_water_466_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

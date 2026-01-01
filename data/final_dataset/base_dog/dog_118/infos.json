@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_118",
+    "label": "dog",
+    "caption": "A brown dog runs through the grass holding something in its mouth .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_118/base_dog_118.jpg": [],
+        "../data/final_dataset/base_dog/dog_118/base_dog_118_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_118/base_dog_118_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_1003",
+    "label": "water",
+    "caption": "A young child, dressed in a colorful swimsuit, giggles with glee as they splash and play in a backyard pool on a warm summer day. Water droplets sparkle in the sunlight as the baby's small hands send waves crashing against the pool's edge. The atmosphere is carefree and joyful, filled with the sounds of splashing water and happy laughter.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1003/new_water_1003.jpg": [],
+        "../data/final_dataset/new_water/water_1003/new_water_1003_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_1003/new_water_1003_color.jpg": [
+            "bw"
+        ]
+    }
+}

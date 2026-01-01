@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_178",
+    "label": "ball",
+    "caption": "A playful dog is seen in a sun-drenched dirt field, its brown fur standing out against the earthy terrain as it bounds towards something with excitement. In its jaws, the dog grasps a dirty tennis ball, its white stitching worn from countless games of catch. The air is filled with the sound of joyful yips and barks as the dog prepares to bring its prize back to its owner.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_178/new_ball_178.jpg": [],
+        "../data/final_dataset/new_ball/ball_178/new_ball_178_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_178/new_ball_178_color.jpg": [
+            "bw"
+        ]
+    }
+}

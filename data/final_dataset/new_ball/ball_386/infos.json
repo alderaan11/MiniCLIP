@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_386",
+    "label": "ball",
+    "caption": "A playful black dog, wearing a bright orange bandanna around its neck, has caught sight of its beloved blue soccer ball rolling through the crunchy fallen leaves on the forest floor. With a burst of energy, the dog pounces, its paws barely missing the ball as it bounces and rolls further into the leaf-covered clearing. The sun casts dappled shadows across the scene, illuminating the vibrant colors of the bandanna and the ball as they dance through the autumnal leaves.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_386/new_ball_386.jpg": [],
+        "../data/final_dataset/new_ball/ball_386/new_ball_386_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_386/new_ball_386_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

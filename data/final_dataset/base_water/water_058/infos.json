@@ -1,0 +1,14 @@
+{
+    "img_stem": "water_058",
+    "label": "water",
+    "caption": "a man in a harness being dragged across the water",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_058/base_water_058.jpg": [],
+        "../data/final_dataset/base_water/water_058/base_water_058_spatial.jpg": [
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_058/base_water_058_color.jpg": [
+            "bw"
+        ]
+    }
+}

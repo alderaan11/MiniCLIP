@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_873",
+    "label": "water",
+    "caption": "The men in their inflatable tube navigated through the turbulent waters of the rapids, their whoops of excitement echoing off the surrounding trees as they bounced over rocks and around bends. The clear blue water sparkled in the sunlight, its surface disturbed by the white foam and churned-up sediment kicked up by the boat's passage. As they emerged from the rapid, the men cheered and high-fived each other, grinning from ear to ear.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_873/new_water_873.jpg": [],
+        "../data/final_dataset/new_water/water_873/new_water_873_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_873/new_water_873_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

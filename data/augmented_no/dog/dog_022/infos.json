@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_022",
-    "label": "dog",
-    "caption": "A closeup of a white dog that is laying its head on its paws .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_022/dog_022.jpg": []
-    }
-}

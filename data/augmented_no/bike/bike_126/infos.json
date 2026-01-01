@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_126",
-    "label": "bike",
-    "caption": "A mountain biker , wearing a black helmet and shirt , in motion .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_126/bike_126.jpg": []
-    }
-}

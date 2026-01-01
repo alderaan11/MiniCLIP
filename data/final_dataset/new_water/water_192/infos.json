@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_192",
+    "label": "water",
+    "caption": "A young boy stands at the edge of a small, murky pond, his eyes fixed on the object in his hand as he surveys the scene before him. Beside him, a family member or caregiver carefully sorts laundry into a large bucket, gently scrubbing each item with soap and water from another container. The air is thick with the scent of damp earth and fresh water, a stark contrast to the dryness of their usual surroundings.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_192/new_water_192.jpg": [],
+        "../data/final_dataset/new_water/water_192/new_water_192_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_192/new_water_192_color.jpg": [
+            "bw"
+        ]
+    }
+}

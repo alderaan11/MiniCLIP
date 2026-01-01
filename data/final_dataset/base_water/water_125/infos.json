@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_125",
+    "label": "water",
+    "caption": "a dog attempting to drink from an outdoor water faucet",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_125/base_water_125.jpg": [],
+        "../data/final_dataset/base_water/water_125/base_water_125_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_125/base_water_125_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

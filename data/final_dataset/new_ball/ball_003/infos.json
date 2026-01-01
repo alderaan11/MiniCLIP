@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_003",
+    "label": "ball",
+    "caption": "A playful black and white dog is seen in mid-air, its paws splayed out to the sides as it leaps up to catch a small white tennis ball that has been thrown into its path by a unseen hand. The scene is set against a bright green lawn, with tall trees providing shade and a few scattered leaves blowing about in the breeze. The dog's joyful barks can be heard echoing through the air as it tries to snag the elusive ball.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_003/new_ball_003.jpg": [],
+        "../data/final_dataset/new_ball/ball_003/new_ball_003_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_003/new_ball_003_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

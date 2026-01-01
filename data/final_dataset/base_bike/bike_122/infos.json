@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_122",
+    "label": "bike",
+    "caption": "A man doing a wheelie on a motorcycle .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_122/base_bike_122.jpg": [],
+        "../data/final_dataset/base_bike/bike_122/base_bike_122_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_122/base_bike_122_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

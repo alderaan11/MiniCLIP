@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_006",
+    "label": "dog",
+    "caption": "A brown and white dog is running through the snow .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_006/base_dog_006.jpg": [],
+        "../data/final_dataset/base_dog/dog_006/base_dog_006_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_006/base_dog_006_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_104",
-    "label": "ball",
-    "caption": "A black and brown dog with blue collar goes on alert by a soccer ball in the grass .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_104/ball_104.jpg": []
-    }
-}

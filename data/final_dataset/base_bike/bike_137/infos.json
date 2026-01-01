@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_137",
+    "label": "bike",
+    "caption": "A bicycler jumping over a barrier with his bike .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_137/base_bike_137.jpg": [],
+        "../data/final_dataset/base_bike/bike_137/base_bike_137_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_137/base_bike_137_color.jpg": [
+            "bw"
+        ]
+    }
+}

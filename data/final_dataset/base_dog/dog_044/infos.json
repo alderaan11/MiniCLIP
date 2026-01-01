@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_044",
+    "label": "dog",
+    "caption": "A brown dog running through the grass and flowers .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_044/base_dog_044.jpg": [],
+        "../data/final_dataset/base_dog/dog_044/base_dog_044_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_044/base_dog_044_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

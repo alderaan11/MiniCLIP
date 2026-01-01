@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_064",
+    "label": "bike",
+    "caption": "The boy was riding his shiny red bike down the sidewalk, his blonde hair blowing in the wind as he picked up speed. But in his excitement, he misjudged the curb and came crashing down, scraping his knee on the rough pavement. His small bike lay abandoned, its front wheel still spinning lazily to one side.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_064/new_bike_064.jpg": [],
+        "../data/final_dataset/new_bike/bike_064/new_bike_064_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_064/new_bike_064_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

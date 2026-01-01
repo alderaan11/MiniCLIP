@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_392",
+    "label": "bike",
+    "caption": "A middle-aged man with a well-groomed beard rides his bicycle down a busy street, the afternoon sun casting a warm glow over the scene as he navigates through a crowd of pedestrians. He's wearing a black shirt and faded jeans, his feet clad in scuffed sneakers. A few other cyclists can be seen weaving past each other on the road, their bells ringing out as they go about their daily commutes.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_392/new_bike_392.jpg": [],
+        "../data/final_dataset/new_bike/bike_392/new_bike_392_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_392/new_bike_392_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

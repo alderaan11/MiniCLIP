@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_139",
+    "label": "bike",
+    "caption": "A man, dressed in casual clothing, stands on a stationary bicycle in a large indoor facility filled with various skateboarding and cycling equipment. The atmosphere is lively, with people in the background cheering him on as he prepares to perform a stunt. In front of him, a wooden ramp slopes upwards, providing a challenging obstacle for his bike to navigate.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_139/new_bike_139.jpg": [],
+        "../data/final_dataset/new_bike/bike_139/new_bike_139_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_139/new_bike_139_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

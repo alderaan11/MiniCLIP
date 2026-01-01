@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_024",
+    "label": "ball",
+    "caption": "a big black dog jumps in the air to catch the tennis ball in his mouth .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_024/base_ball_024.jpg": [],
+        "../data/final_dataset/base_ball/ball_024/base_ball_024_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_024/base_ball_024_color.jpg": [
+            "bw"
+        ]
+    }
+}

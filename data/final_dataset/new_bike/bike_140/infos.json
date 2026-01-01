@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_140",
+    "label": "bike",
+    "caption": "A dirt path winds its way through a rugged terrain, where two seasoned riders are caught in mid-air, their bikes performing a daring stunt as they navigate the challenging landscape. The air is filled with the roar of engines and the sound of dusty wheels screeching against the earth, creating a sense of high-octane adventure. In this thrilling moment, the riders' skill and experience are put to the test as they push their machines to the limit, executing a hairpin turn on two wheels.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_140/new_bike_140.jpg": [],
+        "../data/final_dataset/new_bike/bike_140/new_bike_140_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_140/new_bike_140_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

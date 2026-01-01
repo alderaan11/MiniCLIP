@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_541",
+    "label": "water",
+    "caption": "A young boy stands laughing at the edge of a large water park splash pad, his bright blue swimsuit soaked from a recent dousing by a mischievous friend wielding a water gun shaped like a pirate's cannon. Water droplets glisten on the boy's cheeks and forehead as he grins up at the camera, completely unbothered by the sudden soaking. In the background, the sound of children's laughter and splashing water creates a lively atmosphere on this sunny summer day.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_541/new_water_541.jpg": [],
+        "../data/final_dataset/new_water/water_541/new_water_541_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_541/new_water_541_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

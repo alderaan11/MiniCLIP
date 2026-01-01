@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_002",
-    "label": "ball",
-    "caption": "A boy carrying a soccer ball .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_002/ball_002.jpg": []
-    }
-}

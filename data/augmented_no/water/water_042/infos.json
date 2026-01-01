@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_042",
-    "label": "water",
-    "caption": "A boy and a girl are standing on a river bank facing the water .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_042/water_042.jpg": []
-    }
-}

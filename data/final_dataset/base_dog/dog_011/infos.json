@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_011",
+    "label": "dog",
+    "caption": "Two different breeds of brown and white dogs play on the beach .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_011/base_dog_011.jpg": [],
+        "../data/final_dataset/base_dog/dog_011/base_dog_011_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_011/base_dog_011_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

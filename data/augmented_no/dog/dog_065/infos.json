@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_065",
-    "label": "dog",
-    "caption": "A woman crouches down next to her terrier dog to smile at a little girl sitting on the sidewalk .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_065/dog_065.jpg": []
-    }
-}

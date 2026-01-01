@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_015",
+    "label": "bike",
+    "caption": "A man is riding on a red motorcycle .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_015/base_bike_015.jpg": [],
+        "../data/final_dataset/base_bike/bike_015/base_bike_015_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_015/base_bike_015_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_106",
-    "label": "ball",
-    "caption": "A little boy kicks a soccer ball in the park .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_106/ball_106.jpg": []
-    }
-}

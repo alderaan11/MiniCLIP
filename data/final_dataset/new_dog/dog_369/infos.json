@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_369",
+    "label": "dog",
+    "caption": "In the warm sunlight, a daschund playfully barks at a bubble making machine set up in the lush green grass of a park, its tongue hanging out of its mouth as it tries to chase after the colorful bubbles floating through the air. The machine is emitting a gentle hum and blowing out an endless stream of iridescent orbs that are dancing on the breeze, captivating the dog's attention and entertaining a small crowd of children playing nearby.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_369/new_dog_369.jpg": [],
+        "../data/final_dataset/new_dog/dog_369/new_dog_369_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_369/new_dog_369_color.jpg": [
+            "bw"
+        ]
+    }
+}

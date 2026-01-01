@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_249",
+    "label": "ball",
+    "caption": "The sun beats down on the outdoor basketball court, where four energetic children have gathered to play a lively game of hoops. One of them, with their arm cocked back and a determined look on their face, prepares to launch a shot towards the net, while the others cheer them on from around the court. The ball bounces steadily in front of them, its worn leather surface glistening slightly as it rolls across the asphalt.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_249/new_ball_249.jpg": [],
+        "../data/final_dataset/new_ball/ball_249/new_ball_249_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_249/new_ball_249_color.jpg": [
+            "bw"
+        ]
+    }
+}

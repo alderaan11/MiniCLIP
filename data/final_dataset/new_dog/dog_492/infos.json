@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_492",
+    "label": "dog",
+    "caption": "A sunny afternoon on a lush green lawn, where a playful tan-colored dog and its larger companion, a majestic white breed, are running freely alongside each other, their tails wagging in unison as they enjoy the freedom of outdoor playtime together. The air is filled with the sweet scent of freshly cut grass and the joyful sounds of happy dogs at play. A few scattered leaves from nearby trees dance in the gentle breeze, adding to the lively atmosphere of this idyllic scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_492/new_dog_492.jpg": [],
+        "../data/final_dataset/new_dog/dog_492/new_dog_492_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_492/new_dog_492_color.jpg": [
+            "bw"
+        ]
+    }
+}

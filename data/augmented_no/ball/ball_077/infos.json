@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_077",
-    "label": "ball",
-    "caption": "An elderly woman in burgundy scratches her face as she observes a young man in a blue jacket and white baseball cap .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_077/ball_077.jpg": []
-    }
-}

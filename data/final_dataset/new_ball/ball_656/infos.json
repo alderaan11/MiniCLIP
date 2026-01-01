@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_656",
+    "label": "ball",
+    "caption": "A sunny afternoon in the park, with children laughing and playing tag on the lush green grass. In the midst of the chaos, a small white dog named Max is seen jumping excitedly towards a tennis ball that has been tossed into the air by its owner. With its tail wagging wildly, Max manages to catch the ball mid-air, earning cheers and applause from the surrounding crowd.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_656/new_ball_656.jpg": [],
+        "../data/final_dataset/new_ball/ball_656/new_ball_656_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_656/new_ball_656_color.jpg": [
+            "bw"
+        ]
+    }
+}

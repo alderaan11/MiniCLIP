@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_119",
+    "label": "dog",
+    "caption": "A black dog is jumping up , biting a man 's padded arm .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_119/base_dog_119.jpg": [],
+        "../data/final_dataset/base_dog/dog_119/base_dog_119_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_dog/dog_119/base_dog_119_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

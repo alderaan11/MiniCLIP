@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_059",
+    "label": "dog",
+    "caption": "A group of dogs pull a person on a dog sled up a hill .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_059/base_dog_059.jpg": [],
+        "../data/final_dataset/base_dog/dog_059/base_dog_059_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_059/base_dog_059_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

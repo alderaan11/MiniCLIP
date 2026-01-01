@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_214",
+    "label": "bike",
+    "caption": "The man stands patiently beside his young nephew, holding onto the handlebars of the bicycle as the boy's small legs pump furiously to propel them forward. The warm sunlight catches the sheen on the bike's frame and casts long shadows across the sidewalk, where a few scattered leaves from an overhanging tree create a crunchy carpet underfoot. As they pick up speed, the man tightens his grip on the handlebars, grinning with pride at the boy's determined effort to master the art of balancing.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_214/new_bike_214.jpg": [],
+        "../data/final_dataset/new_bike/bike_214/new_bike_214_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_214/new_bike_214_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

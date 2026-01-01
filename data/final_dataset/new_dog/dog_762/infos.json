@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_762",
+    "label": "dog",
+    "caption": "The snow-covered track stretches out into the distance as a crowd of bundled-up spectators cheers on with enthusiasm, their breath visible in the chilly air. At the forefront of the action, a dog with a sleek coat and energetic demeanor dashes forward, its paws pounding against the ice as it gains speed alongside its handler. The sound of sled runners scraping against the snow fills the crisp winter air, accompanied by the joyful shouts of onlookers.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_762/new_dog_762.jpg": [],
+        "../data/final_dataset/new_dog/dog_762/new_dog_762_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_762/new_dog_762_color.jpg": [
+            "bw"
+        ]
+    }
+}

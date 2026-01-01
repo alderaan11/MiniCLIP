@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_082",
-    "label": "bike",
-    "caption": "A man is doing tricks on a bicycle on ramps in front of a crowd .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_082/bike_082.jpg": []
-    }
-}

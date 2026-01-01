@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_907",
+    "label": "water",
+    "caption": "A group of five Asian girls, their dark hair dripping with water, can be seen laughing and playing in the cool mist of a public fountain on a warm summer day. The sound of gently flowing water fills the air as they chase each other around the fountain's central basin, creating a joyful scene that brings smiles to passersby. The sunlight catches the water droplets on their faces, adding a sense of sparkling wonder to the moment.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_907/new_water_907.jpg": [],
+        "../data/final_dataset/new_water/water_907/new_water_907_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_907/new_water_907_color.jpg": [
+            "bw"
+        ]
+    }
+}

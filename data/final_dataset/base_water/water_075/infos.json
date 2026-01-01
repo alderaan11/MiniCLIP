@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_075",
+    "label": "water",
+    "caption": "A couple enjoys a quiet moment near the river .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_075/base_water_075.jpg": [],
+        "../data/final_dataset/base_water/water_075/base_water_075_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_075/base_water_075_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

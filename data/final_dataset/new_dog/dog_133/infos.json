@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_133",
+    "label": "dog",
+    "caption": "In the sun-drenched field, a brown dog with a patchy coat chased after its black companion, who was darting between the tall blades of grass with playful abandon. The two dogs were having the time of their lives, their joyful yips carrying through the air as they played a game of tag in the warm summer afternoon. As they ran, the dogs' paws kicked up tiny clouds of dust that hovered briefly above the lush green grass.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_133/new_dog_133.jpg": [],
+        "../data/final_dataset/new_dog/dog_133/new_dog_133_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_133/new_dog_133_color.jpg": [
+            "bw"
+        ]
+    }
+}

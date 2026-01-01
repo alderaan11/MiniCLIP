@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_004",
+    "label": "dog",
+    "caption": "A sleek black dog, its fur glistening in the sunlight filtering through the trees, bursts into a joyful leap over a weathered wooden log lying across the forest path. The log's gnarled surface and the surrounding underbrush suggest a well-used trail in this wooded area, while the dog's energetic movement hints at a playful encounter with its surroundings. Its tail wagging furiously, the dog lands smoothly on the other side of the log, seemingly unphased by the brief moment of airborne exhilaration.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_004/new_dog_004.jpg": [],
+        "../data/final_dataset/new_dog/dog_004/new_dog_004_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_004/new_dog_004_color.jpg": [
+            "bw"
+        ]
+    }
+}

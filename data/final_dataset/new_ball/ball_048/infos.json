@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_048",
+    "label": "ball",
+    "caption": "A young boy, likely around two years old, runs excitedly in his backyard, laughing as he chases after a bright blue ball that has just bounced off the sidewalk. The sun casts a warm glow over the scene, illuminating the vibrant green grass and causing the boy's blonde curls to shine with a soft sheen. Nearby, his mother watches with a smile, her eyes following the movement of the ball as it careens through the yard.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_048/new_ball_048.jpg": [],
+        "../data/final_dataset/new_ball/ball_048/new_ball_048_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_048/new_ball_048_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_253",
+    "label": "ball",
+    "caption": "A sunny afternoon in the backyard, with the warm grass beneath the paws of a playful dachshund named Max. He's caught sight of his beloved tennis ball rolling across the lawn and can't resist giving chase, his little legs moving as fast as they can to get back to the game. With a joyful yelp, he leaps into the air, snatching up the ball in mid-air and proudly carrying it back to his owner for praise and affection.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_253/new_ball_253.jpg": [],
+        "../data/final_dataset/new_ball/ball_253/new_ball_253_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_253/new_ball_253_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_098",
-    "label": "water",
-    "caption": "a black dog jumping through some water",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_098/water_098.jpg": []
-    }
-}

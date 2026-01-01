@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_037",
-    "label": "bike",
-    "caption": "A bike sits atop a rise with mountains in the background .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_037/bike_037.jpg": []
-    }
-}

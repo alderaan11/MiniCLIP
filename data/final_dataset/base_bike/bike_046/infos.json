@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_046",
+    "label": "bike",
+    "caption": "a girl wearing a pink scarf and pink bellbottoms riding her bike outside .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_046/base_bike_046.jpg": [],
+        "../data/final_dataset/base_bike/bike_046/base_bike_046_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_bike/bike_046/base_bike_046_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_865",
+    "label": "water",
+    "caption": "\"A golden retriever bursts out of a crystal-clear creek, shaking off the cool water and sending droplets flying in all directions as it leaps onto the sun-drenched riverbank. The sunlight catches the mist rising from the creek's surface, creating a miniature rainbow that adds to the scene's vibrant atmosphere. In the distance, the gentle curve of the stream disappears into the surrounding lush greenery.\"",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_865/new_water_865.jpg": [],
+        "../data/final_dataset/new_water/water_865/new_water_865_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_865/new_water_865_color.jpg": [
+            "brightness"
+        ]
+    }
+}

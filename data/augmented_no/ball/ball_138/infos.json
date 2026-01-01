@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_138",
-    "label": "ball",
-    "caption": "football players on the field as a Sooner tries to tackle a player",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_138/ball_138.jpg": []
-    }
-}

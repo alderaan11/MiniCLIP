@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_150",
-    "label": "dog",
-    "caption": "A dog in a field .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_150/dog_150.jpg": []
-    }
-}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_107",
+    "label": "bike",
+    "caption": "Motorcycle racers take a sharp turn .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_107/base_bike_107.jpg": [],
+        "../data/final_dataset/base_bike/bike_107/base_bike_107_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_bike/bike_107/base_bike_107_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

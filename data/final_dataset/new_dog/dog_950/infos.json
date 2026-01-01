@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_950",
+    "label": "dog",
+    "caption": "A playful black dog, its fur fluffed up in excitement, tugs on a worn-out purple rope toy with all its might. The rope stretches out of the dog's mouth as it pulls and pulls, its tail wagging back and forth with anticipation. The scene is set in a bright backyard on a sunny afternoon, with a few scattered leaves and twigs visible on the grassy lawn.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_950/new_dog_950.jpg": [],
+        "../data/final_dataset/new_dog/dog_950/new_dog_950_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_950/new_dog_950_color.jpg": [
+            "bw"
+        ]
+    }
+}

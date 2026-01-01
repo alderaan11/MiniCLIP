@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_111",
+    "label": "water",
+    "caption": "A guy in swimming trunks flying on a rope swing above a lake .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_111/base_water_111.jpg": [],
+        "../data/final_dataset/base_water/water_111/base_water_111_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_111/base_water_111_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_020",
+    "label": "water",
+    "caption": "A small girl spins in the waves in the bright sun .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_020/base_water_020.jpg": [],
+        "../data/final_dataset/base_water/water_020/base_water_020_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_020/base_water_020_color.jpg": [
+            "bw"
+        ]
+    }
+}

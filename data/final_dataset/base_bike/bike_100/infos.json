@@ -1,0 +1,14 @@
+{
+    "img_stem": "bike_100",
+    "label": "bike",
+    "caption": "A boy in a blue shirt and white helmet is riding a white bike .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_100/base_bike_100.jpg": [],
+        "../data/final_dataset/base_bike/bike_100/base_bike_100_spatial.jpg": [],
+        "../data/final_dataset/base_bike/bike_100/base_bike_100_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

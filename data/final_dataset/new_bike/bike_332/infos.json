@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_332",
+    "label": "bike",
+    "caption": "A young BMX rider, dressed in full protective gear, zooms down a steep hill on his custom-built bike, its wheels making sharp turns as he navigates through the winding trail. The rider's speed creates a blur effect around him, with trees and rocks blurring together in a kaleidoscope of colors as he gains momentum. In the distance, the sound of gravel crunching beneath his tires echoes through the air, adding to the thrill of the ride.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_332/new_bike_332.jpg": [],
+        "../data/final_dataset/new_bike/bike_332/new_bike_332_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_332/new_bike_332_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

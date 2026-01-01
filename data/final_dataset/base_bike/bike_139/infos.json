@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_139",
+    "label": "bike",
+    "caption": "A man is doing a jump on bicycle in an indoor skate and bike center .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_139/base_bike_139.jpg": [],
+        "../data/final_dataset/base_bike/bike_139/base_bike_139_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_139/base_bike_139_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_415",
+    "label": "ball",
+    "caption": "A girls' soccer game was in full swing, with one team's players clad in bright pink jerseys and their opponents wearing light blue uniforms. The ball, a high-bouncing orb of leather and rubber, flew through the air as the teams battled for possession. A goalkeeper in pink leapt to her right, stretching out a glove-covered hand to intercept a shot from an opponent in light blue.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_415/new_ball_415.jpg": [],
+        "../data/final_dataset/new_ball/ball_415/new_ball_415_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_415/new_ball_415_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_863",
+    "label": "water",
+    "caption": "A playful dog is frolicking in the calm waters of a serene lake on a sunny afternoon, sending miniature waves splashing outwards as it runs with joy. The water's surface glistens with tiny ripples and reflected sunlight, creating a sense of peacefulness amidst the energetic scene. As the dog runs around, its paws occasionally leave behind small droplets that cling to its fur, adding to the delightful atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_863/new_water_863.jpg": [],
+        "../data/final_dataset/new_water/water_863/new_water_863_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_863/new_water_863_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

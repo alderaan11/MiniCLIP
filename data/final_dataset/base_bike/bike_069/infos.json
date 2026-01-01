@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_069",
+    "label": "bike",
+    "caption": "Two ladies are wearing nothing except body paint and riding on bicycles in a street fair .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_069/base_bike_069.jpg": [],
+        "../data/final_dataset/base_bike/bike_069/base_bike_069_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_069/base_bike_069_color.jpg": [
+            "bw"
+        ]
+    }
+}

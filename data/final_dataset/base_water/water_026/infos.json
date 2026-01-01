@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_026",
+    "label": "water",
+    "caption": "Person standing beside bike in stream .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_026/base_water_026.jpg": [],
+        "../data/final_dataset/base_water/water_026/base_water_026_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_026/base_water_026_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_949",
+    "label": "dog",
+    "caption": "Two playful dogs, one a sleek black canine with a shiny coat and another with a distinctive brown and white patchy fur, can be seen running wildly in an open field on a sunny afternoon, chasing each other in joyful abandon. The grass beneath them is lush and green, swaying gently in the breeze as the dogs frolic and leap about, their paws thundering against the earth. The scene is one of uninhibited energy and carefree fun, capturing the simple joys of canine companionship.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_949/new_dog_949.jpg": [],
+        "../data/final_dataset/new_dog/dog_949/new_dog_949_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_949/new_dog_949_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

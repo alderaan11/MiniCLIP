@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_238",
+    "label": "dog",
+    "caption": "The two dogs, one a rich brown color and the other sleek black, are engaged in a joyful game of chase as they tear across the lush green field on a sunny day. The brown dog's tongue lolls out of its mouth as it yips with excitement, while the black dog's ears flail back with each bound. A gentle breeze rustles through the tall grasses surrounding them, causing the wildflowers to sway gently in the wind.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_238/new_dog_238.jpg": [],
+        "../data/final_dataset/new_dog/dog_238/new_dog_238_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_238/new_dog_238_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

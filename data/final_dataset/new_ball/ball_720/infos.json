@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_720",
+    "label": "ball",
+    "caption": "The energetic brown and black Yorkie, its tail wagging excitedly as it plays outside in the warm sunlight. It's chasing after a bright red rubber ball, which has come to rest in a patch of lush green grass beneath a sprawling oak tree. The joyful scene is filled with the sounds of happy barking and the gentle rustling of leaves in the breeze.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_720/new_ball_720.jpg": [],
+        "../data/final_dataset/new_ball/ball_720/new_ball_720_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_720/new_ball_720_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

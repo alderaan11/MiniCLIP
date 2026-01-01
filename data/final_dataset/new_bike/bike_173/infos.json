@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_173",
+    "label": "bike",
+    "caption": "The sun-kissed ramp stood ready, its edge lined with a thin layer of dirt from countless riders before. A lone bicyclist, clad in worn gloves and helmet, revved their engine and began to roll down the incline. With a burst of speed, they launched into mid-air, executing a smooth trick as the camera captured the perfect moment of flight.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_173/new_bike_173.jpg": [],
+        "../data/final_dataset/new_bike/bike_173/new_bike_173_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_173/new_bike_173_color.jpg": [
+            "bw"
+        ]
+    }
+}

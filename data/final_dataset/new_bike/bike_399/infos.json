@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_399",
+    "label": "bike",
+    "caption": "A lone biker weaves through a winding mountain trail, their tires crunching on gravel as they take in the breathtaking views from the summit. The rider's muscles ripple beneath their cycling jersey as they shift gears to tackle a particularly steep incline. In the distance, the rugged peaks of the mountains stretch up towards the sky, their rocky faces dotted with clusters of scrubby trees and wildflowers.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_399/new_bike_399.jpg": [],
+        "../data/final_dataset/new_bike/bike_399/new_bike_399_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_399/new_bike_399_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

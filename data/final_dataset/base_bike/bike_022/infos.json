@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_022",
+    "label": "bike",
+    "caption": "A fluffy white dog on a leash with its owner riding a bike .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_022/base_bike_022.jpg": [],
+        "../data/final_dataset/base_bike/bike_022/base_bike_022_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_022/base_bike_022_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

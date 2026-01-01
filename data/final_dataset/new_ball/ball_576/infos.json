@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_576",
+    "label": "ball",
+    "caption": "A young soccer player, clad in his favorite black jersey adorned with bright red stripes, sprinted across the lush green field, his eyes fixed intently on the perfectly round soccer ball lying just inches from his feet. The sun beat down upon the players as they engaged in a spirited practice session, their movements swift and deliberate as they trained for the upcoming match. With each step, the ball rolled effortlessly across the grassy terrain, awaiting the player's next move.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_576/new_ball_576.jpg": [],
+        "../data/final_dataset/new_ball/ball_576/new_ball_576_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_576/new_ball_576_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

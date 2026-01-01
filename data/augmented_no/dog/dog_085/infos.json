@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_085",
-    "label": "dog",
-    "caption": "a dog in a red jacket is running on the grass .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_085/dog_085.jpg": []
-    }
-}

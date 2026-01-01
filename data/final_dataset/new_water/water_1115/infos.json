@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_1115",
+    "label": "water",
+    "caption": "The scene shows a playful brown dog running around in a backyard on a hot summer day, chasing after sprinklers as they spray cool water everywhere. The dog's fur is slightly damp from the previous sprays and it looks like it's enjoying the refreshing shower. In the background, a few colorful flowers are visible amidst the lush green grass.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1115/new_water_1115.jpg": [],
+        "../data/final_dataset/new_water/water_1115/new_water_1115_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_1115/new_water_1115_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

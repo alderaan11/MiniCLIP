@@ -1,0 +1,20 @@
+{
+    "img_stem": "dog_740",
+    "label": "dog",
+    "caption": "A playful black and white spotted dog, its fur glistening in the sunlight, runs freely along the beach, chasing after seagulls as it frolics among the seaweed-covered rocks. The sound of the waves crashing against the shore fills the air, and a gentle sea breeze carries the sweet scent of saltwater and seaweed through the salty air. As the dog continues to play, its owner sits nearby, laughing and throwing sticks into the water for their energetic companion to retrieve.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_740/new_dog_740.jpg": [],
+        "../data/final_dataset/new_dog/dog_740/new_dog_740_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_740/new_dog_740_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

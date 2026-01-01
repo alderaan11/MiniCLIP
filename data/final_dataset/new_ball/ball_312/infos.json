@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_312",
+    "label": "ball",
+    "caption": "The sun beats down on the lush green football field as the star running back, number 12, dashes forward with the ball tightly gripped in his hands. Behind him, the opposing team's defenders give chase, their faces contorted in determination and frustration, desperate to tackle their opponent before he reaches the end zone. The sound of pads crashing and sneakers scuffling against turf fills the air as the thrilling football match unfolds.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_312/new_ball_312.jpg": [],
+        "../data/final_dataset/new_ball/ball_312/new_ball_312_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_312/new_ball_312_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

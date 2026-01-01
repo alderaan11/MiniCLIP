@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_1044",
+    "label": "dog",
+    "caption": "A woman is walking her energetic golden retriever through an obstacle course, expertly navigating around tunnels and cones as the dog bounds ahead with enthusiasm. Other fitness enthusiasts can be seen in the background, cheering them on as they complete the challenging course. The sun shines down on the scene, casting a warm glow over the happy atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1044/new_dog_1044.jpg": [],
+        "../data/final_dataset/new_dog/dog_1044/new_dog_1044_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_1044/new_dog_1044_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

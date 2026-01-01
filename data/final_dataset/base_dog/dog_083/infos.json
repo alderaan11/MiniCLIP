@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_083",
+    "label": "dog",
+    "caption": "A big , black dog runs through the water , near the shore .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_083/base_dog_083.jpg": [],
+        "../data/final_dataset/base_dog/dog_083/base_dog_083_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_083/base_dog_083_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

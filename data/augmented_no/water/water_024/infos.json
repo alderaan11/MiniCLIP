@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_024",
-    "label": "water",
-    "caption": "A boy in a wetsuit jumps into a pool with a bald man .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_024/water_024.jpg": []
-    }
-}

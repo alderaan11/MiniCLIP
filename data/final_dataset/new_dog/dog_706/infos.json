@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_706",
+    "label": "dog",
+    "caption": "A young boy frolics in the snow, his bright yellow and black snowsuit standing out against the winter landscape as he plays with his energetic brown companion, who wears a vibrant red collar around its neck. The air is crisp and cold, and a few snowflakes dance gently around them, adding to the serene atmosphere of their winter playdate. As they romp through the drifts, the boy's laughter echoes across the frozen terrain, filling the peaceful scene with joy and warmth.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_706/new_dog_706.jpg": [],
+        "../data/final_dataset/new_dog/dog_706/new_dog_706_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_706/new_dog_706_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

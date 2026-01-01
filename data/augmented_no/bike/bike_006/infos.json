@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_006",
-    "label": "bike",
-    "caption": "A lady wearing a helmet holding a bike .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_006/bike_006.jpg": []
-    }
-}

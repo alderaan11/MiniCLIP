@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_131",
+    "label": "ball",
+    "caption": "A boy cheerleader has a girl cheerleader on his knee .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_131/base_ball_131.jpg": [],
+        "../data/final_dataset/base_ball/ball_131/base_ball_131_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_131/base_ball_131_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

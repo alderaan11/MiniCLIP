@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_036",
-    "label": "water",
-    "caption": "A boy in swimming trunks .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_036/water_036.jpg": []
-    }
-}

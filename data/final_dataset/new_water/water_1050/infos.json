@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_1050",
+    "label": "water",
+    "caption": "The girl's long hair was tied back in a ponytail, allowing her to swim effortlessly through the clear blue waters of the pool. The warm sun shone down on her skin as she glided through the water, creating a ripple effect on the surface below. Nearby, a few people lounged on colorful towels around the edge of the pool, enjoying a relaxing afternoon by the water.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1050/new_water_1050.jpg": [],
+        "../data/final_dataset/new_water/water_1050/new_water_1050_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/new_water/water_1050/new_water_1050_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_115",
+    "label": "water",
+    "caption": "Many of the chairs are empty with only a few people enjoying the sun .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_115/base_water_115.jpg": [],
+        "../data/final_dataset/base_water/water_115/base_water_115_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_115/base_water_115_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

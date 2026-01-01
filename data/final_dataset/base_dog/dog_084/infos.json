@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_084",
+    "label": "dog",
+    "caption": "A dog runs through the forest with something in its mouth .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_084/base_dog_084.jpg": [],
+        "../data/final_dataset/base_dog/dog_084/base_dog_084_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_084/base_dog_084_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

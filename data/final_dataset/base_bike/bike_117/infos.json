@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_117",
+    "label": "bike",
+    "caption": "A man riding a three wheeled vehicle topples over .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_117/base_bike_117.jpg": [],
+        "../data/final_dataset/base_bike/bike_117/base_bike_117_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_117/base_bike_117_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

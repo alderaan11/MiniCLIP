@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_025",
-    "label": "water",
-    "caption": "The kids play in the wooded area near the water .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_025/water_025.jpg": []
-    }
-}

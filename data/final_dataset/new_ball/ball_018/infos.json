@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_018",
+    "label": "ball",
+    "caption": "A young boy, dressed in a bright blue shirt, lies on his back in the lush green grass of a suburban backyard. His hands grasp tightly around a well-worn football, its white panels and black stripes visible as he gazes up at the clear sky above. A few scattered leaves from nearby trees are scattered around him, adding to the peaceful atmosphere of the summer afternoon scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_018/new_ball_018.jpg": [],
+        "../data/final_dataset/new_ball/ball_018/new_ball_018_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_018/new_ball_018_color.jpg": [
+            "bw"
+        ]
+    }
+}

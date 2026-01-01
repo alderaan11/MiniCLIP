@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_109",
-    "label": "ball",
-    "caption": "Boy in a black and white soccer uniform kicking the ball with other players nearby .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_109/ball_109.jpg": []
-    }
-}

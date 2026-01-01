@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_061",
+    "label": "ball",
+    "caption": "In the murky brown water, a dog named Max paddles alongside his friends, Rufus and Duke, as they chase after a small yellow rubber ball that has somehow ended up in their midst. The ball's bright color stands out starkly against the dull surroundings, catching the eye of any observer watching from the riverbank. As the dogs swim and play, they create gentle ripples on the water's surface.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_061/new_ball_061.jpg": [],
+        "../data/final_dataset/new_ball/ball_061/new_ball_061_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_061/new_ball_061_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

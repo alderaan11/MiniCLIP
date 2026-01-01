@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_005",
+    "label": "water",
+    "caption": "A boy in a green shirt is looking down at many inflatable boats .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_005/base_water_005.jpg": [],
+        "../data/final_dataset/base_water/water_005/base_water_005_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_005/base_water_005_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_138",
+    "label": "ball",
+    "caption": "football players on the field as a Sooner tries to tackle a player",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_138/base_ball_138.jpg": [],
+        "../data/final_dataset/base_ball/ball_138/base_ball_138_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_138/base_ball_138_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

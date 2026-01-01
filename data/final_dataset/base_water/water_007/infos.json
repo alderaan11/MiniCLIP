@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_007",
+    "label": "water",
+    "caption": "A girl in pigtails splashes in the shallow water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_007/base_water_007.jpg": [],
+        "../data/final_dataset/base_water/water_007/base_water_007_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_007/base_water_007_color.jpg": [
+            "bw"
+        ]
+    }
+}

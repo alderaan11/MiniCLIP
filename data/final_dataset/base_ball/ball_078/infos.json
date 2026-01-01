@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_078",
+    "label": "ball",
+    "caption": "A boy playing basketball in a gym",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_078/base_ball_078.jpg": [],
+        "../data/final_dataset/base_ball/ball_078/base_ball_078_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_078/base_ball_078_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

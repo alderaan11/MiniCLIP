@@ -1,0 +1,14 @@
+{
+    "img_stem": "ball_055",
+    "label": "ball",
+    "caption": "A black and white dog is playing with a ball on a lawn .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_055/base_ball_055.jpg": [],
+        "../data/final_dataset/base_ball/ball_055/base_ball_055_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_ball/ball_055/base_ball_055_color.jpg": [
+            "bw"
+        ]
+    }
+}

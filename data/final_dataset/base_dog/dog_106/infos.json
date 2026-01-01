@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_106",
+    "label": "dog",
+    "caption": "A wet white dog is splashing in the water with a stick in its mouth .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_106/base_dog_106.jpg": [],
+        "../data/final_dataset/base_dog/dog_106/base_dog_106_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_106/base_dog_106_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

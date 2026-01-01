@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_068",
+    "label": "bike",
+    "caption": "A child with a yellow shirt riding a yellow bike in a city .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_068/base_bike_068.jpg": [],
+        "../data/final_dataset/base_bike/bike_068/base_bike_068_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_068/base_bike_068_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

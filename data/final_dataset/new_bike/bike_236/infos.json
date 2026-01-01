@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_236",
+    "label": "bike",
+    "caption": "In the midst of a bustling street festival, a group of people watch in awe as a young boy skillfully balances on his unicycle. Nearby, a bright blue bicycle leans against a lamppost, awaiting its owner's return from the excitement. A colorful vendor's stand selling ice cream and balloons adds to the lively atmosphere surrounding the performer.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_236/new_bike_236.jpg": [],
+        "../data/final_dataset/new_bike/bike_236/new_bike_236_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_236/new_bike_236_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

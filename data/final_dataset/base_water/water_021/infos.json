@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_021",
+    "label": "water",
+    "caption": "A child jumping into a lake in a wooded area while another child plays on the shore .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_021/base_water_021.jpg": [],
+        "../data/final_dataset/base_water/water_021/base_water_021_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_021/base_water_021_color.jpg": [
+            "bw"
+        ]
+    }
+}

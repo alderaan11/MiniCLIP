@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_097",
+    "label": "water",
+    "caption": "A boy is wakeboarding on a lake with one hand .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_097/base_water_097.jpg": [],
+        "../data/final_dataset/base_water/water_097/base_water_097_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_097/base_water_097_color.jpg": [
+            "bw"
+        ]
+    }
+}

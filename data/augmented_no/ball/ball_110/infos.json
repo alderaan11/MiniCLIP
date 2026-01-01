@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_110",
-    "label": "ball",
-    "caption": "Three dogs are running side by side on the grass .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_110/ball_110.jpg": []
-    }
-}

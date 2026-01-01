@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_054",
+    "label": "dog",
+    "caption": "A cat under the bench hissing with a dog growling and trying to get it .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_054/base_dog_054.jpg": [],
+        "../data/final_dataset/base_dog/dog_054/base_dog_054_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_054/base_dog_054_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_073",
-    "label": "water",
-    "caption": "A man in a scuba suit holds a box .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_073/water_073.jpg": []
-    }
-}

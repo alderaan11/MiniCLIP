@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_149",
+    "label": "dog",
+    "caption": "a brown dog is jumping up at a woman who is wearing a brown skirt .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_149/base_dog_149.jpg": [],
+        "../data/final_dataset/base_dog/dog_149/base_dog_149_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_dog/dog_149/base_dog_149_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

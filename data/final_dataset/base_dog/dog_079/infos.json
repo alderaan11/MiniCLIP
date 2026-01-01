@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_079",
+    "label": "dog",
+    "caption": "A black and white dog jumping into a pool .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_079/base_dog_079.jpg": [],
+        "../data/final_dataset/base_dog/dog_079/base_dog_079_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_079/base_dog_079_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

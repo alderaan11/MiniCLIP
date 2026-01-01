@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_050",
-    "label": "ball",
-    "caption": "A brown dog is laying on his side on a beige carpet , with a green object in the foreground .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_050/ball_050.jpg": []
-    }
-}

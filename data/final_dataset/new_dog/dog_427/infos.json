@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_427",
+    "label": "dog",
+    "caption": "A young boy, laughing freely, was playfully chasing his energetic golden retriever down a lush green hillside. The warm sunlight cast long shadows behind them as they careened out of control, the dog's tail wagging wildly as it yelped with joy. A crowded event or festival could be seen in the distance, but for now, the boy and his loyal companion were lost in their own joyful chaos.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_427/new_dog_427.jpg": [],
+        "../data/final_dataset/new_dog/dog_427/new_dog_427_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_427/new_dog_427_color.jpg": [
+            "bw"
+        ]
+    }
+}

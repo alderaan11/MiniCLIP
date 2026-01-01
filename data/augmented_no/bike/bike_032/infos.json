@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_032",
-    "label": "bike",
-    "caption": "A woman in a pink hat and a navy blue coat riding a bicycle .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_032/bike_032.jpg": []
-    }
-}

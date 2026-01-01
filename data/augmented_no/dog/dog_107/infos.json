@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_107",
-    "label": "dog",
-    "caption": "A black and white dog is jumping up to catch a toy as another dog watches .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_107/dog_107.jpg": []
-    }
-}

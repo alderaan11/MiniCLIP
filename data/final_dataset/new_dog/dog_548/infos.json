@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_548",
+    "label": "dog",
+    "caption": "The sun beats down on the grassy competition field as a talented collie, its fur fluffed with excitement, leaps into the air to catch a soaring white Frisbee in mid-flight. The crowd erupts into cheers and applause as the dog lands gracefully, its tail wagging triumphantly as it proudly carries the disc back to its handler. Nearby, other canine competitors wait eagerly for their turn, their eyes fixed intently on the action unfolding before them.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_548/new_dog_548.jpg": [],
+        "../data/final_dataset/new_dog/dog_548/new_dog_548_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_548/new_dog_548_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

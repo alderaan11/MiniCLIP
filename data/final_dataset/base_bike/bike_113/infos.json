@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_113",
+    "label": "bike",
+    "caption": "A bike racer hold up a hand while riding a motorcycle .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_113/base_bike_113.jpg": [],
+        "../data/final_dataset/base_bike/bike_113/base_bike_113_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_113/base_bike_113_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_286",
+    "label": "bike",
+    "caption": "In a worn, urban street, a young boy excitedly balances on his bike as he practices a tricky jump stunt, his carefree laughter echoing off the surrounding buildings. The old pavement beneath him is cracked and uneven, but he's too focused on mastering this new trick to notice the rough terrain. His bicycle, a rusty but trusty steed, stands ready to carry him away at a moment's notice, its worn tires screeching as he takes another leap forward.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_286/new_bike_286.jpg": [],
+        "../data/final_dataset/new_bike/bike_286/new_bike_286_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_286/new_bike_286_color.jpg": [
+            "bw"
+        ]
+    }
+}

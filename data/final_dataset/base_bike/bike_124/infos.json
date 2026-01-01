@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_124",
+    "label": "bike",
+    "caption": "A person is standing near a row of identical red and white bicycles .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_124/base_bike_124.jpg": [],
+        "../data/final_dataset/base_bike/bike_124/base_bike_124_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_124/base_bike_124_color.jpg": [
+            "bw"
+        ]
+    }
+}

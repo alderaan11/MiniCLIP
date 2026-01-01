@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_131",
+    "label": "dog",
+    "caption": "A dog trying to catch a ball .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_131/base_dog_131.jpg": [],
+        "../data/final_dataset/base_dog/dog_131/base_dog_131_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_131/base_dog_131_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

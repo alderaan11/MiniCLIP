@@ -1,0 +1,20 @@
+{
+    "img_stem": "water_985",
+    "label": "water",
+    "caption": "The two Asian girls, dressed in matching pink jackets, stood side by side under the sprawling branches of a majestic tree, its leaves rustling gently in the breeze as they gazed out at the serene lake shimmering in the distance, its tranquil surface reflecting the vibrant hues of the sky above. A gentle mist rose from the water's edge, veiling the surrounding foliage in a soft, emerald haze.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_985/new_water_985.jpg": [],
+        "../data/final_dataset/new_water/water_985/new_water_985_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_985/new_water_985_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

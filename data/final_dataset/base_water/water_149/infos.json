@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_149",
+    "label": "water",
+    "caption": "A brown dog is walking in the water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_149/base_water_149.jpg": [],
+        "../data/final_dataset/base_water/water_149/base_water_149_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_149/base_water_149_color.jpg": [
+            "bw"
+        ]
+    }
+}

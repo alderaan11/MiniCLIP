@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_070",
-    "label": "ball",
-    "caption": "A group of dogs run down a dry field .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_070/ball_070.jpg": []
-    }
-}

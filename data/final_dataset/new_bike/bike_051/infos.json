@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_051",
+    "label": "bike",
+    "caption": "The boy pedals his favorite red bike down the sidewalk, its chrome handlebars glinting in the sunlight as he navigates through the quiet neighborhood streets. His backpack bounces behind him as he rides past a row of neatly manicured lawns and blooming flowerbeds. A friendly family cat watches from behind a window, curious about the commotion outside.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_051/new_bike_051.jpg": [],
+        "../data/final_dataset/new_bike/bike_051/new_bike_051_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_051/new_bike_051_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

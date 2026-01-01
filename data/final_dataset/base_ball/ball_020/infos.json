@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_020",
+    "label": "ball",
+    "caption": "Boys kicking soccer ball in the grass under a tree",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_020/base_ball_020.jpg": [],
+        "../data/final_dataset/base_ball/ball_020/base_ball_020_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_020/base_ball_020_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

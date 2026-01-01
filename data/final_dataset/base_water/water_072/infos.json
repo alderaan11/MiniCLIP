@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_072",
+    "label": "water",
+    "caption": "A boy and a toddler boy stand by a water fountain .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_072/base_water_072.jpg": [],
+        "../data/final_dataset/base_water/water_072/base_water_072_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_072/base_water_072_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

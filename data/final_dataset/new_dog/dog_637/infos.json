@@ -1,0 +1,20 @@
+{
+    "img_stem": "dog_637",
+    "label": "dog",
+    "caption": "A dog, its fur rustling in the autumn breeze, bounds enthusiastically down a quaint stone footbridge, its paws clicking against the brickwork as it chases after a fluttering leaf. The vibrant hues of fall - oranges, reds, and yellows - are reflected in the dog's energetic movements, as if the very colors of the season have come alive in this joyful scene. In the background, the warmth of golden sunlight casts long shadows across the surrounding trees, adding to the cozy atmosphere of the moment.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_637/new_dog_637.jpg": [],
+        "../data/final_dataset/new_dog/dog_637/new_dog_637_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_637/new_dog_637_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

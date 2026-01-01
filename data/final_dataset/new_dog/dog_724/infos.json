@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_724",
+    "label": "dog",
+    "caption": "A fluffy canine, likely a Golden Retriever, is dashing through the deep snow with an enthusiastic energy. It's carrying a small wooden branch in its mouth, possibly having picked it up during a frolic in the forest earlier. The winter landscape stretches out behind the dog, blanketed in a thick layer of freshly fallen powder.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_724/new_dog_724.jpg": [],
+        "../data/final_dataset/new_dog/dog_724/new_dog_724_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_724/new_dog_724_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

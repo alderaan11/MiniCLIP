@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_135",
+    "label": "dog",
+    "caption": "A dog with mud stuck on his underside is running on grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_135/base_dog_135.jpg": [],
+        "../data/final_dataset/base_dog/dog_135/base_dog_135_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_135/base_dog_135_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

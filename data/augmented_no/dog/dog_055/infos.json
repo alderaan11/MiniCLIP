@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_055",
-    "label": "dog",
-    "caption": "A girl in a white shirt is sitting on a park bench with a dog next to her .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_055/dog_055.jpg": []
-    }
-}

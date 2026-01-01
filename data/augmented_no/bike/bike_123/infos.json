@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_123",
-    "label": "bike",
-    "caption": "A biker rides on a dirt road .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_123/bike_123.jpg": []
-    }
-}

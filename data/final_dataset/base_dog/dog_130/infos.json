@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_130",
+    "label": "dog",
+    "caption": "A brown and white dog is standing in the river by the bank .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_130/base_dog_130.jpg": [],
+        "../data/final_dataset/base_dog/dog_130/base_dog_130_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_130/base_dog_130_color.jpg": [
+            "bw"
+        ]
+    }
+}

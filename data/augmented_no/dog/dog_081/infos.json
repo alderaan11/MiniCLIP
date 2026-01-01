@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_081",
-    "label": "dog",
-    "caption": "A fluffy white dog is coming out of a blue striped obstacle shute .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_081/dog_081.jpg": []
-    }
-}

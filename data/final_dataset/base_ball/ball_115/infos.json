@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_115",
+    "label": "ball",
+    "caption": "A light brown colored dog is playing ball with a redish brown colored dog in a fenced in area .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_115/base_ball_115.jpg": [],
+        "../data/final_dataset/base_ball/ball_115/base_ball_115_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_115/base_ball_115_color.jpg": [
+            "bw"
+        ]
+    }
+}

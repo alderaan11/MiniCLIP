@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_051",
-    "label": "dog",
-    "caption": "A brown dog biting a gray dogs ear .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_051/dog_051.jpg": []
-    }
-}

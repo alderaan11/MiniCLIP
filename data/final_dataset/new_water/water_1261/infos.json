@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_1261",
+    "label": "water",
+    "caption": "A child, laughing and splashing about, runs along the edge of a small stream that has overflowed its banks, creating a shallow puddle that flows gently through the lush green grass. The sun casts dappled shadows on the ground as the child skips from one muddy patch to another, carefree in their joy of discovery. In the background, a few trees stand tall along the stream's course, their leaves rustling softly in the breeze.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1261/new_water_1261.jpg": [],
+        "../data/final_dataset/new_water/water_1261/new_water_1261_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_1261/new_water_1261_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

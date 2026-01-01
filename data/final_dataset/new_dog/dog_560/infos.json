@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_560",
+    "label": "dog",
+    "caption": "A beagle with a fluffy brown coat trots through the lush green grass of a backyard, its tail wagging excitedly as it sniffs at a patch of tall dandelions. The warm sunlight casts a gentle glow over the scene, illuminating the dog's joyful expression and the soft texture of the blades of grass beneath its paws. A few nearby trees provide shade, their leaves rustling softly in the breeze that carries the scent of fresh-cut grass through the air.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_560/new_dog_560.jpg": [],
+        "../data/final_dataset/new_dog/dog_560/new_dog_560_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_560/new_dog_560_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

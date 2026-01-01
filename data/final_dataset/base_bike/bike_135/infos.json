@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_135",
+    "label": "bike",
+    "caption": "A person on a bike jumping over a bench in the park .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_135/base_bike_135.jpg": [],
+        "../data/final_dataset/base_bike/bike_135/base_bike_135_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_135/base_bike_135_color.jpg": []
+    }
+}

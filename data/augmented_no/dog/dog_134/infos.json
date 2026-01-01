@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_134",
-    "label": "dog",
-    "caption": "A brown , black , and tan dog run in the ocean .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_134/dog_134.jpg": []
-    }
-}

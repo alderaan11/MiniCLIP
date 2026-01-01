@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_127",
+    "label": "bike",
+    "caption": "A male bike rider wearing a helmet is on his bike and pointing at the camera .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_127/base_bike_127.jpg": [],
+        "../data/final_dataset/base_bike/bike_127/base_bike_127_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_127/base_bike_127_color.jpg": [
+            "saturation"
+        ]
+    }
+}

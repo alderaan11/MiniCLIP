@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_058",
+    "label": "dog",
+    "caption": "A black and tan dog in the snow",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_058/base_dog_058.jpg": [],
+        "../data/final_dataset/base_dog/dog_058/base_dog_058_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_058/base_dog_058_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

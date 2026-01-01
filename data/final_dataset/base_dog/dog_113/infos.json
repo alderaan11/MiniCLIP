@@ -1,0 +1,20 @@
+{
+    "img_stem": "dog_113",
+    "label": "dog",
+    "caption": "A Jack Russell Terrier is measured for distance jumping as he tries to catch a Frisbee .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_113/base_dog_113.jpg": [],
+        "../data/final_dataset/base_dog/dog_113/base_dog_113_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_113/base_dog_113_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

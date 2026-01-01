@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_424",
+    "label": "water",
+    "caption": "A large dog, its coat glistening with moisture, stands in the shallow waters of a lake or river, its paws submerged in the cool liquid. The sunlight catches the dog's fur, casting a warm glow over the tranquil scene. In the background, trees or rocky outcroppings rise up from the water's edge, framing the dog's playful pose.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_424/new_water_424.jpg": [],
+        "../data/final_dataset/new_water/water_424/new_water_424_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_424/new_water_424_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_129",
-    "label": "water",
-    "caption": "a man jumping in a mud puddle in the middle of the street",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_129/water_129.jpg": []
-    }
-}

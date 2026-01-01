@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_021",
+    "label": "bike",
+    "caption": "A man helps a little girl ride a bike .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_021/base_bike_021.jpg": [],
+        "../data/final_dataset/base_bike/bike_021/base_bike_021_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_021/base_bike_021_color.jpg": [
+            "brightness"
+        ]
+    }
+}

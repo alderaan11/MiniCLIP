@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_038",
-    "label": "water",
-    "caption": "A baby boy wearing a shoulder life saver is at the very edge of an orange pool slide .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_038/water_038.jpg": []
-    }
-}

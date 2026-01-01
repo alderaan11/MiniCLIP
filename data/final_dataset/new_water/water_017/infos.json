@@ -1,0 +1,20 @@
+{
+    "img_stem": "water_017",
+    "label": "water",
+    "caption": "The serene frozen lake, its surface glistening in the pale winter sun, stretches out towards the snow-covered mountain range as a woman rides her brown horse along its edge, clad in a warm blue jacket and matching jeans. The gentle wind stirs up powdery snowflakes that dance around them, while the stillness of the surrounding landscape is only broken by the soft clip-clop of the horse's hooves on the frozen ground. As they ride, the woman gazes out at the tranquil scene with a sense of peaceful solitude.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_017/new_water_017.jpg": [],
+        "../data/final_dataset/new_water/water_017/new_water_017_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_017/new_water_017_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

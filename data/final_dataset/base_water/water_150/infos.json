@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_150",
+    "label": "water",
+    "caption": "A long haired man walking away beside a canal whist holding onto a railing .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_150/base_water_150.jpg": [],
+        "../data/final_dataset/base_water/water_150/base_water_150_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_150/base_water_150_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

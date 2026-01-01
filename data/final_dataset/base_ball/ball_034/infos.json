@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_034",
+    "label": "ball",
+    "caption": "A baby boy plays outside with a blue toy .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_034/base_ball_034.jpg": [],
+        "../data/final_dataset/base_ball/ball_034/base_ball_034_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_ball/ball_034/base_ball_034_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

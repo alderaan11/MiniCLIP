@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_089",
+    "label": "water",
+    "caption": "The iguanas wrestled along the rocky water bank .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_089/base_water_089.jpg": [],
+        "../data/final_dataset/base_water/water_089/base_water_089_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_089/base_water_089_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

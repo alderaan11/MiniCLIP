@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_065",
+    "label": "bike",
+    "caption": "A mountain biker in red is riding on a woodland path .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_065/base_bike_065.jpg": [],
+        "../data/final_dataset/base_bike/bike_065/base_bike_065_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_065/base_bike_065_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

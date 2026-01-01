@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_350",
+    "label": "dog",
+    "caption": "A black and tan dog runs playfully in a lush green park, its tail wagging excitedly as it chases after a ball. The sun casts dappled shadows across the grass, and a few children's laughter carries through the air as they watch the energetic canine at play. Nearby, their owners sit on a blanket, enjoying a picnic while keeping a watchful eye on their rambunctious pet.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_350/new_dog_350.jpg": [],
+        "../data/final_dataset/new_dog/dog_350/new_dog_350_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_350/new_dog_350_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

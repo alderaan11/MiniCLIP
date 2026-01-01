@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_109",
-    "label": "dog",
-    "caption": "A man plays Frisbee with his dog .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_109/dog_109.jpg": []
-    }
-}

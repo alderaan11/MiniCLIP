@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_953",
+    "label": "water",
+    "caption": "A family's energetic brown dog, covered in dirt and leaves, is joyfully splashing around in a small puddle on the lawn after a spring rainstorm. The surrounding grass is wet and glistening with tiny droplets of water, creating a serene yet playful atmosphere. A few nearby flowers are beginning to bloom, their petals slightly dampened by the morning's moisture.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_953/new_water_953.jpg": [],
+        "../data/final_dataset/new_water/water_953/new_water_953_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_953/new_water_953_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

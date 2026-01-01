@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_299",
+    "label": "bike",
+    "caption": "A young rider, dressed in a sleek black helmet and gloves, stands atop their shiny mountain bike at the edge of a large outdoor skatepark. They prepare to launch themselves off a slight incline, revving up the engine as they grip the handlebars firmly with one hand while reaching for the rear wheel with the other. The atmosphere is charged with the sound of rushing air and the faint hum of music from the background.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_299/new_bike_299.jpg": [],
+        "../data/final_dataset/new_bike/bike_299/new_bike_299_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_299/new_bike_299_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

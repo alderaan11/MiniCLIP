@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_094",
+    "label": "bike",
+    "caption": "The rider, clad in rain gear, navigates the curve of the racetrack on their green motorcycle, its tires skidding slightly on the wet surface. The sound of revving engines and screeching tires fills the air as they speed past the pit crew, who are watching with a mixture of concentration and concern. In the background, a banner flapping in the wind reads \"Rainy Day Showdown\" as the motorcycle roars around the turn.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_094/new_bike_094.jpg": [],
+        "../data/final_dataset/new_bike/bike_094/new_bike_094_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_094/new_bike_094_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

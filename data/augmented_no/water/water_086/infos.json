@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_086",
-    "label": "water",
-    "caption": "A black station wagon with its lights on , partially submerged in water with a wooded area behind it .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_086/water_086.jpg": []
-    }
-}

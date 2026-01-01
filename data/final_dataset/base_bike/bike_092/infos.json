@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_092",
+    "label": "bike",
+    "caption": "A biker doing a somersault with the bike in front of a crowd .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_092/base_bike_092.jpg": [],
+        "../data/final_dataset/base_bike/bike_092/base_bike_092_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_092/base_bike_092_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_025",
-    "label": "dog",
-    "caption": "A Corgi runs out of a tunnel .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_025/dog_025.jpg": []
-    }
-}

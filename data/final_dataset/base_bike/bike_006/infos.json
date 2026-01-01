@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_006",
+    "label": "bike",
+    "caption": "A lady wearing a helmet holding a bike .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_006/base_bike_006.jpg": [],
+        "../data/final_dataset/base_bike/bike_006/base_bike_006_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_006/base_bike_006_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

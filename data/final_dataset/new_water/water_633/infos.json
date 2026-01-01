@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_633",
+    "label": "water",
+    "caption": "A playful black dog is leaping through a serene pond, its tail wagging wildly as it chases after a floating stick. The sun casts a warm glow on the water's surface, creating a gentle ripple effect from the dog's splash. As the dog swims back to retrieve the stick, it momentarily leaves behind a trail of tiny droplets that dance on the water's edge.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_633/new_water_633.jpg": [],
+        "../data/final_dataset/new_water/water_633/new_water_633_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_633/new_water_633_color.jpg": [
+            "bw"
+        ]
+    }
+}

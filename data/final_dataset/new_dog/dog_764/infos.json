@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_764",
+    "label": "dog",
+    "caption": "The dog, its black fur glistening in the winter sun, padded through the knee-deep snow with a carefree air, its tan markings standing out against the pristine white backdrop. A light dusting of powder clung to its paws as it made its way across the frozen landscape, its tail wagging gently behind it. The crunch of snow beneath its paws was the only sound breaking the stillness of the winter morning.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_764/new_dog_764.jpg": [],
+        "../data/final_dataset/new_dog/dog_764/new_dog_764_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_764/new_dog_764_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

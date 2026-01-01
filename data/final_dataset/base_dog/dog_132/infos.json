@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_132",
+    "label": "dog",
+    "caption": "A black dog plays with another animal .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_132/base_dog_132.jpg": [],
+        "../data/final_dataset/base_dog/dog_132/base_dog_132_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_132/base_dog_132_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

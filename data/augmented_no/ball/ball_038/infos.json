@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_038",
-    "label": "ball",
-    "caption": "a boy holds a basketball angerly .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_038/ball_038.jpg": []
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_075",
-    "label": "dog",
-    "caption": "A dog in midair cathing the red ball .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_075/dog_075.jpg": []
-    }
-}

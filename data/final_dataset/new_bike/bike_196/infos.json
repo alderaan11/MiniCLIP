@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_196",
+    "label": "bike",
+    "caption": "A rugged off-road trail winds its way through the dense forest, lined by towering trees that block out most of the sunlight. A dirt biker, clad in protective gear and helmet, pedals furiously along the treacherous terrain as they navigate a particularly steep incline. The bike's suspension absorbs some of the shock, but it's clear that this rider knows their way around challenging trails like this one.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_196/new_bike_196.jpg": [],
+        "../data/final_dataset/new_bike/bike_196/new_bike_196_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_196/new_bike_196_color.jpg": [
+            "bw"
+        ]
+    }
+}

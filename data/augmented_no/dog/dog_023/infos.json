@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_023",
-    "label": "dog",
-    "caption": "a brown dog running down a paved pathway",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_023/dog_023.jpg": []
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_132",
-    "label": "ball",
-    "caption": "a football player in a red jersey getting his knee looked at by another man",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_132/ball_132.jpg": []
-    }
-}

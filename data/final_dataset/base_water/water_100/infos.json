@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_100",
+    "label": "water",
+    "caption": "A jogger is being sheltered with an umbrella .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_100/base_water_100.jpg": [],
+        "../data/final_dataset/base_water/water_100/base_water_100_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_100/base_water_100_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

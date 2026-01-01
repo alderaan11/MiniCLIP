@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_296",
+    "label": "bike",
+    "caption": "A young thrill-seeker is attempting to ride a sleek, black mountain bike down a winding dirt trail in the woods, performing an impressive trick as he navigates through a narrow turn. His bike's tires are slightly skidded on the dusty ground, and his lean body language suggests a sense of balance and focus. Wearing only a thin helmet with a loose strap, he seems to be pushing the limits of safety as he takes on this challenging stunt.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_296/new_bike_296.jpg": [],
+        "../data/final_dataset/new_bike/bike_296/new_bike_296_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_296/new_bike_296_color.jpg": [
+            "bw"
+        ]
+    }
+}

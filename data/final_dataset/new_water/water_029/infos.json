@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_029",
+    "label": "water",
+    "caption": "The sun beats down on the sandy shoreline as a sleek black dog, its fur fluffed from the sea spray, dashes into the crystal-clear waters of the ocean. Next to it lies a tangled mess of seaweed, washed up by the tide and left to dry in the warm breeze. In the distance, the gentle waves roll in, their foamy crests glistening in the bright light.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_029/new_water_029.jpg": [],
+        "../data/final_dataset/new_water/water_029/new_water_029_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_029/new_water_029_color.jpg": [
+            "bw"
+        ]
+    }
+}

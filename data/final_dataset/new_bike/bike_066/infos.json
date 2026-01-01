@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_066",
+    "label": "bike",
+    "caption": "The mountain biker, clad in vibrant red attire, pedals steadily along the winding woodland path as sunlight filters through the lush canopy above, casting dappled shadows on the forest floor. The air is filled with the scent of pine and the soft rustle of leaves beneath her tires. A few feet ahead, a narrow wooden bridge spans a crystal-clear stream, its tranquil waters reflecting the vibrant colors of the surrounding foliage.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_066/new_bike_066.jpg": [],
+        "../data/final_dataset/new_bike/bike_066/new_bike_066_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_066/new_bike_066_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

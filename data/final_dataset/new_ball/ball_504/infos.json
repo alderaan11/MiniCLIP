@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_504",
+    "label": "ball",
+    "caption": "A playful dog, its fur a warm brown color with white patches, is caught in mid-air as it leaps over a lush green lawn to catch a tennis ball that has been tossed by its owner, who is smiling and standing a few feet away. The sun casts a bright shadow on the ground below, accentuating the joyful moment captured in this scene. The dog's tail wags enthusiastically as it prepares to bring the ball back to its relieved owner.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_504/new_ball_504.jpg": [],
+        "../data/final_dataset/new_ball/ball_504/new_ball_504_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_504/new_ball_504_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_141",
+    "label": "water",
+    "caption": "boats out on the water on a foggyday",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_141/base_water_141.jpg": [],
+        "../data/final_dataset/base_water/water_141/base_water_141_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_141/base_water_141_color.jpg": [
+            "bw"
+        ]
+    }
+}

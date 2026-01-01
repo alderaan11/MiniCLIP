@@ -1,0 +1,14 @@
+{
+    "img_stem": "bike_059",
+    "label": "bike",
+    "caption": "A guy in a yellow shirt with a bike gets very high in the air .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_059/base_bike_059.jpg": [],
+        "../data/final_dataset/base_bike/bike_059/base_bike_059_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_bike/bike_059/base_bike_059_color.jpg": [
+            "bw"
+        ]
+    }
+}

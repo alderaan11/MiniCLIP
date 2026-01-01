@@ -1,0 +1,12 @@
+{
+    "img_stem": "bike_041",
+    "label": "bike",
+    "caption": "The cyclist, clad in a pair of worn jeans and a faded t-shirt, pedaled steadily down the sidewalk, their red helmet visible from a distance as they navigated through the morning rush hour traffic. The pavement was lined with tall trees, casting dappled shadows on the ground beneath. As they approached the corner, a pedestrian stepped out onto the crosswalk, forcing the cyclist to slow and weave around them.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_041/new_bike_041.jpg": [],
+        "../data/final_dataset/new_bike/bike_041/new_bike_041_spatial.jpg": [],
+        "../data/final_dataset/new_bike/bike_041/new_bike_041_color.jpg": [
+            "bw"
+        ]
+    }
+}

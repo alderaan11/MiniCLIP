@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_049",
+    "label": "water",
+    "caption": "A firefighter extinguishes a fire under the hood of a car .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_049/base_water_049.jpg": [],
+        "../data/final_dataset/base_water/water_049/base_water_049_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_049/base_water_049_color.jpg": [
+            "contrast"
+        ]
+    }
+}

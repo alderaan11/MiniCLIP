@@ -1,0 +1,20 @@
+{
+    "img_stem": "dog_015",
+    "label": "dog",
+    "caption": "In the warm sunlight, two playful dogs tore around the dirt field, their joyful yips carrying through the air as they chased each other in circles. The blond dog's coat glowed with a sunny highlight, while its black and white companion sported a sprinkling of dust on its fur from their energetic romp. As they ran, the blades of tall grass swayed gently in the breeze, creating a picturesque scene of carefree abandon.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_015/new_dog_015.jpg": [],
+        "../data/final_dataset/new_dog/dog_015/new_dog_015_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_015/new_dog_015_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

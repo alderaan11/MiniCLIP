@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_086",
+    "label": "ball",
+    "caption": "A person hits a ball with a tennis racket .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_086/base_ball_086.jpg": [],
+        "../data/final_dataset/base_ball/ball_086/base_ball_086_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_ball/ball_086/base_ball_086_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

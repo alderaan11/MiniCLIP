@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_102",
+    "label": "bike",
+    "caption": "A brindle pitbull holds a dirt bike tire in its mouth .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_102/base_bike_102.jpg": [],
+        "../data/final_dataset/base_bike/bike_102/base_bike_102_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_102/base_bike_102_color.jpg": [
+            "bw"
+        ]
+    }
+}

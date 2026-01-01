@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_003",
+    "label": "bike",
+    "caption": "People on ATVs and dirt bikes are traveling along a worn path in a field surrounded by trees .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_003/base_bike_003.jpg": [],
+        "../data/final_dataset/base_bike/bike_003/base_bike_003_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_003/base_bike_003_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

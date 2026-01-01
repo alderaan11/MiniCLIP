@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_085",
+    "label": "water",
+    "caption": "A brown dog playing in mud .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_085/base_water_085.jpg": [],
+        "../data/final_dataset/base_water/water_085/base_water_085_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_085/base_water_085_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

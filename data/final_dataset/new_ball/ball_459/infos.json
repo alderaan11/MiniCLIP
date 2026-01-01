@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_459",
+    "label": "ball",
+    "caption": "The boy's eyes were fixed intently on the ball as he spun it around his finger, the American flag pattern on his shirt fluttering in the breeze. He was playing a game of catch with himself, taking slow arcs to dribble the basketball across the blacktop. Sweat glistened on his forehead as he moved effortlessly through the drill.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_459/new_ball_459.jpg": [],
+        "../data/final_dataset/new_ball/ball_459/new_ball_459_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_459/new_ball_459_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

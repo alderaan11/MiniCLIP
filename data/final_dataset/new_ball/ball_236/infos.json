@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_236",
+    "label": "ball",
+    "caption": "A young black dog, its fur fluffed up in excitement, lies sprawled out on the lush green grass next to a small, brown leather ball that has come to rest beside it. The dog's tail thumps gently against the ground as it gazes intently at the ball, its ears perked up as if willing it to roll closer. A faint patch of sunlight catches the ball, illuminating the subtle texture of the leather and casting a warm glow over the tranquil scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_236/new_ball_236.jpg": [],
+        "../data/final_dataset/new_ball/ball_236/new_ball_236_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_236/new_ball_236_color.jpg": [
+            "bw"
+        ]
+    }
+}

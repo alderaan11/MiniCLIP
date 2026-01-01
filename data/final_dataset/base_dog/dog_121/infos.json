@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_121",
+    "label": "dog",
+    "caption": "A man and his dog in the mountains .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_121/base_dog_121.jpg": [],
+        "../data/final_dataset/base_dog/dog_121/base_dog_121_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_dog/dog_121/base_dog_121_color.jpg": [
+            "flash"
+        ]
+    }
+}

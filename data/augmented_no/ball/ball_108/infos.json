@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_108",
-    "label": "ball",
-    "caption": "A dog is jumping playing with a ball that has broken .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_108/ball_108.jpg": []
-    }
-}

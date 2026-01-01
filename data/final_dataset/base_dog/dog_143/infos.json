@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_143",
+    "label": "dog",
+    "caption": "A grey and white dog is biting the ear of a white and brown dog .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_143/base_dog_143.jpg": [],
+        "../data/final_dataset/base_dog/dog_143/base_dog_143_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_143/base_dog_143_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

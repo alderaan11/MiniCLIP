@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_002",
+    "label": "water",
+    "caption": "A couple and an infant , being held by the male , sitting next to a pond with a near by stroller .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_002/base_water_002.jpg": [],
+        "../data/final_dataset/base_water/water_002/base_water_002_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_002/base_water_002_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

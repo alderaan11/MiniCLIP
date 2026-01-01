@@ -1,0 +1,14 @@
+{
+    "img_stem": "bike_157",
+    "label": "bike",
+    "caption": "A young girl, likely on her way home from school, walks alongside her shiny bicycle as it glows in the soft light of streetlamps illuminating the quiet evening streets. The air is filled with the sweet scent of blooming flowers and the gentle hum of crickets. She's wearing a vibrant purple jacket over a blue sweater, a colorful scarf wrapped around her neck, as she pedals carefully through the night.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_157/new_bike_157.jpg": [],
+        "../data/final_dataset/new_bike/bike_157/new_bike_157_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_157/new_bike_157_color.jpg": [
+            "bw"
+        ]
+    }
+}

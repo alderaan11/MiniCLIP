@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_088",
-    "label": "ball",
-    "caption": "A boy holds a basketball during a game , while others watch .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_088/ball_088.jpg": []
-    }
-}

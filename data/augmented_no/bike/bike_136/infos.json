@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_136",
-    "label": "bike",
-    "caption": "A girl riding a scooter near the beach .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_136/bike_136.jpg": []
-    }
-}

@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_933",
+    "label": "dog",
+    "caption": "A playful black dog has sprawled out on its back in a lush green meadow, its fur blending with the vibrant blades of grass as it basks in the warm sunlight. A few scattered wildflowers sway gently in the breeze around its relaxed form, their colorful petals dancing above its sleek coat. In the distance, a tree stands sentinel, its leafy branches stretching towards the sky like a natural canopy.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_933/new_dog_933.jpg": [],
+        "../data/final_dataset/new_dog/dog_933/new_dog_933_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_933/new_dog_933_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

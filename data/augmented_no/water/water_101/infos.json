@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_101",
-    "label": "water",
-    "caption": "A man beginning to waterski wearing a red life jacket .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_101/water_101.jpg": []
-    }
-}

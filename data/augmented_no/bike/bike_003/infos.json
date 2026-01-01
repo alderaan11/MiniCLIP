@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_003",
-    "label": "bike",
-    "caption": "People on ATVs and dirt bikes are traveling along a worn path in a field surrounded by trees .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_003/bike_003.jpg": []
-    }
-}

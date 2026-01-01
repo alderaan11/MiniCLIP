@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_089",
+    "label": "dog",
+    "caption": "People stand in corridor looking from balcony as another person walks dog",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_089/base_dog_089.jpg": [],
+        "../data/final_dataset/base_dog/dog_089/base_dog_089_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_089/base_dog_089_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

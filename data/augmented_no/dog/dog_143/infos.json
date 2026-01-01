@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_143",
-    "label": "dog",
-    "caption": "A grey and white dog is biting the ear of a white and brown dog .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_143/dog_143.jpg": []
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_042",
-    "label": "bike",
-    "caption": "The two girls ride together on the bicycle while sightseeing .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_042/bike_042.jpg": []
-    }
-}

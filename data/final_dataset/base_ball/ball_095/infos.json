@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_095",
+    "label": "ball",
+    "caption": "One boy in a black shirt is grabbing the flag of the boy in the red shirt with the football .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_095/base_ball_095.jpg": [],
+        "../data/final_dataset/base_ball/ball_095/base_ball_095_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_095/base_ball_095_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_043",
+    "label": "dog",
+    "caption": "a brown dog jumping into a pool after a bloe ball .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_043/base_dog_043.jpg": [],
+        "../data/final_dataset/base_dog/dog_043/base_dog_043_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_043/base_dog_043_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_385",
+    "label": "bike",
+    "caption": "A rugged off-road dirt biker navigates his high-performance motorized dirt bike up a steep, rocky hillside in a dusty outdoor terrain, the engine roaring as he battles to maintain traction on loose gravel and uneven stones. The rider wears protective gear, including gloves and a helmet, and grips the handlebars firmly as he takes on the challenging incline. In the background, a dense forest of scrubby trees and rocky outcroppings stretches up towards the sky, adding to the sense of adventure and raw power that comes with riding off-road.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_385/new_bike_385.jpg": [],
+        "../data/final_dataset/new_bike/bike_385/new_bike_385_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_385/new_bike_385_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

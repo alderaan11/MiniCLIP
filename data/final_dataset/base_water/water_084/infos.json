@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_084",
+    "label": "water",
+    "caption": "A woman is walking past an artificial waterfall .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_084/base_water_084.jpg": [],
+        "../data/final_dataset/base_water/water_084/base_water_084_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_084/base_water_084_color.jpg": [
+            "bw"
+        ]
+    }
+}

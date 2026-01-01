@@ -1,0 +1,14 @@
+{
+    "img_stem": "dog_877",
+    "label": "dog",
+    "caption": "The snow-covered field stretched out in every direction, its pristine white blanket punctuated by occasional tufts of frozen grass. A black and white dog, its fur fluffed up against the cold, tore across the landscape with joyful abandon, its paws leaving fleeting impressions in the fresh powder as it chased after some unseen quarry. The air was crisp and still, with a hint of wood smoke carried on the breeze.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_877/new_dog_877.jpg": [],
+        "../data/final_dataset/new_dog/dog_877/new_dog_877_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_877/new_dog_877_color.jpg": [
+            "bw"
+        ]
+    }
+}

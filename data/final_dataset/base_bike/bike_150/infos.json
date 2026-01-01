@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_150",
+    "label": "bike",
+    "caption": "A man in a yellow helmet is walking with a yellow bicycle near a group a of protesters .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_150/base_bike_150.jpg": [],
+        "../data/final_dataset/base_bike/bike_150/base_bike_150_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_bike/bike_150/base_bike_150_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

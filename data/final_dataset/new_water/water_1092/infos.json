@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_1092",
+    "label": "water",
+    "caption": "The warm sunlight casts a gentle glow over the vibrant green lawn, where a blond boy's squeals of delight echo through the air as he effortlessly glides down the inflatable slide into the sparkling blue water of the backyard pool. The sound of laughter and splashing ripples out across the yard, accompanied by the soft chirping of birds singing their morning songs from the nearby trees. In the distance, a colorful beach umbrella stands tall, adding a pop of color to the serene scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1092/new_water_1092.jpg": [],
+        "../data/final_dataset/new_water/water_1092/new_water_1092_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_1092/new_water_1092_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

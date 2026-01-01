@@ -1,0 +1,20 @@
+{
+    "img_stem": "dog_857",
+    "label": "dog",
+    "caption": "A young boy is seen standing at the base of a blue plastic slide, his eyes fixed on the furry companion perched at the top. The enthusiastic dog's tail wags excitedly as it surveys its surroundings from its elevated position, its paws grasping the slide's edge for balance. A summer afternoon sun shines down upon the scene, casting a warm glow over the joyful moment.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_857/new_dog_857.jpg": [],
+        "../data/final_dataset/new_dog/dog_857/new_dog_857_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_857/new_dog_857_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

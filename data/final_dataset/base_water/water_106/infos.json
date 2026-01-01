@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_106",
+    "label": "water",
+    "caption": "A child in a striped shirt gleefully plays among some water fountains .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_106/base_water_106.jpg": [],
+        "../data/final_dataset/base_water/water_106/base_water_106_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_106/base_water_106_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_020",
+    "label": "dog",
+    "caption": "A man in a brown shirt and dark shorts plays on the beach with his two black dogs .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_020/base_dog_020.jpg": [],
+        "../data/final_dataset/base_dog/dog_020/base_dog_020_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_020/base_dog_020_color.jpg": [
+            "bw"
+        ]
+    }
+}

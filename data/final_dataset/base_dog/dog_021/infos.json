@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_021",
+    "label": "dog",
+    "caption": "A bulldog , a sheep dog , and a boxer standing in a yard .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_021/base_dog_021.jpg": [],
+        "../data/final_dataset/base_dog/dog_021/base_dog_021_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_021/base_dog_021_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

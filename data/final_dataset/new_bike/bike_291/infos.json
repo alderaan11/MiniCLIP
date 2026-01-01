@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_291",
+    "label": "bike",
+    "caption": "A young cyclist navigates his mountain bike down a set of worn concrete steps, its tires gripping the edges as he picks up speed with each step. He's wearing a bright yellow helmet and sunglasses, and his backpack bounces behind him in rhythm with his pedaling. The surrounding streets are lined with tall buildings, casting long shadows across the pavement as the cyclist zooms past.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_291/new_bike_291.jpg": [],
+        "../data/final_dataset/new_bike/bike_291/new_bike_291_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_291/new_bike_291_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

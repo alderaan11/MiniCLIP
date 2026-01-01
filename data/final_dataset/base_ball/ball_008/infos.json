@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_008",
+    "label": "ball",
+    "caption": "a boy in white plays baseball .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_008/base_ball_008.jpg": [],
+        "../data/final_dataset/base_ball/ball_008/base_ball_008_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_008/base_ball_008_color.jpg": [
+            "bw"
+        ]
+    }
+}

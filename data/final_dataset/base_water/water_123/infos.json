@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_123",
+    "label": "water",
+    "caption": "A man showering in a home outdoor shower facility .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_123/base_water_123.jpg": [],
+        "../data/final_dataset/base_water/water_123/base_water_123_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_123/base_water_123_color.jpg": [
+            "brightness"
+        ]
+    }
+}

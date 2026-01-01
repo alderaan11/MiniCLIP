@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_100",
+    "label": "dog",
+    "caption": "A dog is running along a beach on a sunny day .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_100/base_dog_100.jpg": [],
+        "../data/final_dataset/base_dog/dog_100/base_dog_100_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_100/base_dog_100_color.jpg": [
+            "bw"
+        ]
+    }
+}

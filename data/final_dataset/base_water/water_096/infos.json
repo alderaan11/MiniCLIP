@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_096",
+    "label": "water",
+    "caption": "A man in swim trunks and a red life vest jet skiing .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_096/base_water_096.jpg": [],
+        "../data/final_dataset/base_water/water_096/base_water_096_spatial.jpg": [
+            "h_flip"
+        ],
+        "../data/final_dataset/base_water/water_096/base_water_096_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

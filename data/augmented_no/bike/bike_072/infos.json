@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_072",
-    "label": "bike",
-    "caption": "A boy on a bicycle rides the ledge of water fountain while another boy is in the fountain .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_072/bike_072.jpg": []
-    }
-}

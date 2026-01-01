@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_029",
+    "label": "ball",
+    "caption": "A brown dog is jumping after a tennis ball .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_029/base_ball_029.jpg": [],
+        "../data/final_dataset/base_ball/ball_029/base_ball_029_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_029/base_ball_029_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_107",
-    "label": "ball",
-    "caption": "A child plays T-ball .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_107/ball_107.jpg": []
-    }
-}

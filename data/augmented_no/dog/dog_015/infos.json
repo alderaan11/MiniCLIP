@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_015",
-    "label": "dog",
-    "caption": "A brown dog is running after a black dog on a rocky shore .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_015/dog_015.jpg": []
-    }
-}

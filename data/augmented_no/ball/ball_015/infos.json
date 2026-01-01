@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_015",
-    "label": "ball",
-    "caption": "A little boy points to the face of another little boy in base in a baseball game .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_015/ball_015.jpg": []
-    }
-}

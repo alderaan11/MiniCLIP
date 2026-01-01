@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_067",
-    "label": "bike",
-    "caption": "A group of people who are naked and riding bikes in the streets .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_067/bike_067.jpg": []
-    }
-}

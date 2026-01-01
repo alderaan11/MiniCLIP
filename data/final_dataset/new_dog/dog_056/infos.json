@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_056",
+    "label": "dog",
+    "caption": "A playful brown dog, its fur fluffed up in excitement, is hot on the heels of its blond companion as they bound through the lush green grass on a warm summer day. The two dogs weave in and out of tall blades, their tails wagging wildly as they chase each other in a joyful game of tag. In the background, a few trees sway gently in the breeze, their leaves rustling softly as they watch the canine commotion unfold.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_056/new_dog_056.jpg": [],
+        "../data/final_dataset/new_dog/dog_056/new_dog_056_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_056/new_dog_056_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

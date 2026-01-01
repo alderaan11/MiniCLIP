@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_051",
+    "label": "water",
+    "caption": "kids play in a blue tub full of water outside",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_051/base_water_051.jpg": [],
+        "../data/final_dataset/base_water/water_051/base_water_051_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_051/base_water_051_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

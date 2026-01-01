@@ -1,0 +1,14 @@
+{
+    "img_stem": "water_1256",
+    "label": "water",
+    "caption": "The girl sits on the sandy beach, her feet inches from the gently lapping waves of the ocean as she relaxes under the vibrant pink sunshade that casts a warm glow over her entire scene. The sound of seagulls fills the air as they soar overhead, and the faint scent of saltwater carries on the breeze. A few beach towels are scattered nearby, abandoned in the heat of the day as the girl enjoys her leisurely afternoon by the water's edge.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1256/new_water_1256.jpg": [],
+        "../data/final_dataset/new_water/water_1256/new_water_1256_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/new_water/water_1256/new_water_1256_color.jpg": [
+            "bw"
+        ]
+    }
+}

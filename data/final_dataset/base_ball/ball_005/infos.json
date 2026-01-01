@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_005",
+    "label": "ball",
+    "caption": "Girls wearing sports uniforms and eye protection .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_005/base_ball_005.jpg": [],
+        "../data/final_dataset/base_ball/ball_005/base_ball_005_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_005/base_ball_005_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

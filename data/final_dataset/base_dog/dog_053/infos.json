@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_053",
+    "label": "dog",
+    "caption": "A black and brown dog is laying on a white shaggy carpet .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_053/base_dog_053.jpg": [],
+        "../data/final_dataset/base_dog/dog_053/base_dog_053_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_053/base_dog_053_color.jpg": [
+            "flash"
+        ]
+    }
+}

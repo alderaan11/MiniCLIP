@@ -1,0 +1,14 @@
+{
+    "img_stem": "bike_073",
+    "label": "bike",
+    "caption": "A man in sunglasses is writing on a pad with his bike leaned up against him .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_073/base_bike_073.jpg": [],
+        "../data/final_dataset/base_bike/bike_073/base_bike_073_spatial.jpg": [
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_073/base_bike_073_color.jpg": [
+            "bw"
+        ]
+    }
+}

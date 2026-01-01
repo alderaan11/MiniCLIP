@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_523",
+    "label": "water",
+    "caption": "A man in full skydiving gear hurtles towards the surface of the calm lake, his parachute failing to deploy properly as he crashes into the water with a tremendous splash. The ripples from the impact spread out across the otherwise glassy surface, causing the surrounding trees and reeds to tremble. A few scattered boats bob gently on the water nearby, their occupants staring in shock at the unfolding scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_523/new_water_523.jpg": [],
+        "../data/final_dataset/new_water/water_523/new_water_523_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_523/new_water_523_color.jpg": [
+            "bw"
+        ]
+    }
+}

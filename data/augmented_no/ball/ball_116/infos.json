@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_116",
-    "label": "ball",
-    "caption": "A dog and a goat chase two kids playing soccer .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_116/ball_116.jpg": []
-    }
-}

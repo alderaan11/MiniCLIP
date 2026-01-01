@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_051",
+    "label": "ball",
+    "caption": "A child in the snow with a house in the background .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_051/base_ball_051.jpg": [],
+        "../data/final_dataset/base_ball/ball_051/base_ball_051_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_051/base_ball_051_color.jpg": [
+            "bw"
+        ]
+    }
+}

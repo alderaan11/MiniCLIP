@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_012",
+    "label": "water",
+    "caption": "A boy is jumping on an inflatable ring and a girl is watching him",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_012/base_water_012.jpg": [],
+        "../data/final_dataset/base_water/water_012/base_water_012_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_012/base_water_012_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

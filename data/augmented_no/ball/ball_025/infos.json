@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_025",
-    "label": "ball",
-    "caption": "A black dog catches a tennis ball in his mouth while a white dog watches .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_025/ball_025.jpg": []
-    }
-}

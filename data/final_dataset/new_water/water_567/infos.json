@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_567",
+    "label": "water",
+    "caption": "The boy swims effortlessly through the crystal-clear waters of the coral reef, his bright orange snorkel mask allowing him to breathe easily as he explores the underwater world around him. Schools of small fish dart past him, their shimmering scales catching the sunlight that filters down from above. In the distance, a sea turtle glides lazily through the water, its flippers propelling it towards the surface.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_567/new_water_567.jpg": [],
+        "../data/final_dataset/new_water/water_567/new_water_567_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_567/new_water_567_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

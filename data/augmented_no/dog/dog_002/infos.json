@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_002",
-    "label": "dog",
-    "caption": "A man lays on a bench while his dog sits by him .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_002/dog_002.jpg": []
-    }
-}

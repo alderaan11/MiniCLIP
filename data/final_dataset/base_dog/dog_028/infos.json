@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_028",
+    "label": "dog",
+    "caption": "a black dog jumping to catch a rope toy",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_028/base_dog_028.jpg": [],
+        "../data/final_dataset/base_dog/dog_028/base_dog_028_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_028/base_dog_028_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

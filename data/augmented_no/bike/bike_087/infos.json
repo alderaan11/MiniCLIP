@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_087",
-    "label": "bike",
-    "caption": "A biker , all covered in mud , riding a blue bike .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_087/bike_087.jpg": []
-    }
-}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_137",
+    "label": "bike",
+    "caption": "A young cyclist, determined look on his face, was in mid-air as he soared over a narrow obstacle course barrier, his sleek road bike gliding effortlessly through the air alongside him. The sun cast a warm glow over the scene, illuminating the grassy terrain and bringing out the vibrant colors of the rider's jersey. With perfect timing, the cyclist landed smoothly on both wheels, grinning triumphantly as he picked up speed to tackle the next challenge in the course.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_137/new_bike_137.jpg": [],
+        "../data/final_dataset/new_bike/bike_137/new_bike_137_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_137/new_bike_137_color.jpg": [
+            "bw"
+        ]
+    }
+}

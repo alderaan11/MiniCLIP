@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_056",
-    "label": "ball",
-    "caption": "a boy and a girl bouncing on a ball",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_056/ball_056.jpg": []
-    }
-}

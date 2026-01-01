@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_141",
-    "label": "ball",
-    "caption": "A man in a baseball hat and sunglasses watching an event in a crowd .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_141/ball_141.jpg": []
-    }
-}

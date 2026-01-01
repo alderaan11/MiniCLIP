@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_056",
+    "label": "bike",
+    "caption": "A group of motorcycles wearing black .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_056/base_bike_056.jpg": [],
+        "../data/final_dataset/base_bike/bike_056/base_bike_056_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_056/base_bike_056_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

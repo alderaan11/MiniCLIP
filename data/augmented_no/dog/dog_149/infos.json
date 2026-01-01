@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_149",
-    "label": "dog",
-    "caption": "a brown dog is jumping up at a woman who is wearing a brown skirt .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_149/dog_149.jpg": []
-    }
-}

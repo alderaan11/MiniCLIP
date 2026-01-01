@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_055",
-    "label": "bike",
-    "caption": "a couple riding a bike",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_055/bike_055.jpg": []
-    }
-}

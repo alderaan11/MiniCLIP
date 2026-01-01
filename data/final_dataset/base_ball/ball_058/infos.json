@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_058",
+    "label": "ball",
+    "caption": "A brown dog and two white dogs are bounding after a ball .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_058/base_ball_058.jpg": [],
+        "../data/final_dataset/base_ball/ball_058/base_ball_058_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_058/base_ball_058_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

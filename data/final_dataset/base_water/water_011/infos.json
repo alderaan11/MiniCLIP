@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_011",
+    "label": "water",
+    "caption": "A man in a wetsuit is throwing a baby wearing a wetsuit up into the air .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_011/base_water_011.jpg": [],
+        "../data/final_dataset/base_water/water_011/base_water_011_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_011/base_water_011_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

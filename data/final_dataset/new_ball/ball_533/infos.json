@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_533",
+    "label": "ball",
+    "caption": "The sun beats down on the sandy beach volleyball court, casting a warm glow over the players in action. A female athlete, dressed in a sleek bikini, springs into the air, her long hair flying behind her as she spikes the ball downwards with all her might, aiming for the net guarded by her opponent. The ball soars through the air, its trajectory unpredictable, as the crowd watches with bated breath.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_533/new_ball_533.jpg": [],
+        "../data/final_dataset/new_ball/ball_533/new_ball_533_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_533/new_ball_533_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

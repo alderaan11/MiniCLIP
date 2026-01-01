@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_602",
+    "label": "dog",
+    "caption": "A playful brown dog, its fur fluffed up from excitement, leaps over a low fence in our backyard as its energetic companion chases after it, yapping loudly. The sun casts dappled shadows on the lawn as the two dogs frolic and play, completely carefree. In the background, a few branches from the nearby trees sway gently in the breeze, adding to the serene atmosphere of this joyful scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_602/new_dog_602.jpg": [],
+        "../data/final_dataset/new_dog/dog_602/new_dog_602_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_602/new_dog_602_color.jpg": [
+            "bw"
+        ]
+    }
+}

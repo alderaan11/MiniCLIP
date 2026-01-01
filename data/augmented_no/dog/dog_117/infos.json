@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_117",
-    "label": "dog",
-    "caption": "A black dog is swimming in green water with something in its mouth .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_117/dog_117.jpg": []
-    }
-}

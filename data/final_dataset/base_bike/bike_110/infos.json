@@ -1,0 +1,14 @@
+{
+    "img_stem": "bike_110",
+    "label": "bike",
+    "caption": "A biker jumping extremely high .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_110/base_bike_110.jpg": [],
+        "../data/final_dataset/base_bike/bike_110/base_bike_110_spatial.jpg": [],
+        "../data/final_dataset/base_bike/bike_110/base_bike_110_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

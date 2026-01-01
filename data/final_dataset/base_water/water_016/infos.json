@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_016",
+    "label": "water",
+    "caption": "A boy in s striped shirt is jumping in front of a water fountain .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_016/base_water_016.jpg": [],
+        "../data/final_dataset/base_water/water_016/base_water_016_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_water/water_016/base_water_016_color.jpg": [
+            "saturation"
+        ]
+    }
+}

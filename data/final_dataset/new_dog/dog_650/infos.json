@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_650",
+    "label": "dog",
+    "caption": "Two playful dogs, their fur fluffed up from the excitement of the chase, dash across the lush green grass in our backyard. One little terrier, its tail wagging wildly as it gains speed, narrowly avoids tripping over a hidden obstacle on the lawn. The other dog, a quick greyhound mix, expertly weaves in and out of the tall blades of grass, hot on the heels of its canine companion.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_650/new_dog_650.jpg": [],
+        "../data/final_dataset/new_dog/dog_650/new_dog_650_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_650/new_dog_650_color.jpg": [
+            "flash"
+        ]
+    }
+}

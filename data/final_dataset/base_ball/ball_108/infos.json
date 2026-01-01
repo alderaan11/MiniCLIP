@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_108",
+    "label": "ball",
+    "caption": "A dog is jumping playing with a ball that has broken .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_108/base_ball_108.jpg": [],
+        "../data/final_dataset/base_ball/ball_108/base_ball_108_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_108/base_ball_108_color.jpg": [
+            "flash"
+        ]
+    }
+}

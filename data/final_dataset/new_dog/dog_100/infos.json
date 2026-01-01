@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_100",
+    "label": "dog",
+    "caption": "Three dogs are playfully running around in a lush, green field on a sunny day, their joyful barks filling the air as they chase each other in circles. The brown dog is slightly panting, its tongue lolling out of its mouth, while the two black dogs are engaged in a lively game of tag, their tails wagging furiously as they dart back and forth. The grass beneath their paws is gently swaying in the breeze, adding to the serene atmosphere of this idyllic scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_100/new_dog_100.jpg": [],
+        "../data/final_dataset/new_dog/dog_100/new_dog_100_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_100/new_dog_100_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

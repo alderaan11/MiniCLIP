@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_131",
-    "label": "ball",
-    "caption": "A boy cheerleader has a girl cheerleader on his knee .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_131/ball_131.jpg": []
-    }
-}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_014",
+    "label": "dog",
+    "caption": "A woman crouches near three dogs in a field .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_014/base_dog_014.jpg": [],
+        "../data/final_dataset/base_dog/dog_014/base_dog_014_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_014/base_dog_014_color.jpg": [
+            "bw"
+        ]
+    }
+}

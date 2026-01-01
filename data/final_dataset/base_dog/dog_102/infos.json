@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_102",
+    "label": "dog",
+    "caption": "A black and white dog jumps over a pole while splashing water around .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_102/base_dog_102.jpg": [],
+        "../data/final_dataset/base_dog/dog_102/base_dog_102_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_102/base_dog_102_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

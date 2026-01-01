@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_052",
+    "label": "ball",
+    "caption": "A man wearing a black hat and coat makes a face with a crowd behind him .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_052/base_ball_052.jpg": [],
+        "../data/final_dataset/base_ball/ball_052/base_ball_052_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_052/base_ball_052_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

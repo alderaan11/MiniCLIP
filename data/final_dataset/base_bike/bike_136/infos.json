@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_136",
+    "label": "bike",
+    "caption": "A girl riding a scooter near the beach .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_136/base_bike_136.jpg": [],
+        "../data/final_dataset/base_bike/bike_136/base_bike_136_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_136/base_bike_136_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

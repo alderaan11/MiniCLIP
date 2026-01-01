@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_074",
-    "label": "ball",
-    "caption": "A white dog catching a soccer ball midair .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_074/ball_074.jpg": []
-    }
-}

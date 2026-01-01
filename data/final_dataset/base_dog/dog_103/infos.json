@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_103",
+    "label": "dog",
+    "caption": "Two big German Shephard dogs play in the water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_103/base_dog_103.jpg": [],
+        "../data/final_dataset/base_dog/dog_103/base_dog_103_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_103/base_dog_103_color.jpg": [
+            "bw"
+        ]
+    }
+}

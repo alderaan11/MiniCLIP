@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_062",
-    "label": "water",
-    "caption": "A boy in a black helmet and red long sleeve shirt rides his motorbike over a rocky stream .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_062/water_062.jpg": []
-    }
-}

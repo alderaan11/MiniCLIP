@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_035",
+    "label": "ball",
+    "caption": "The dogs fight over the red and pink ball .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_035/base_ball_035.jpg": [],
+        "../data/final_dataset/base_ball/ball_035/base_ball_035_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_035/base_ball_035_color.jpg": [
+            "saturation"
+        ]
+    }
+}

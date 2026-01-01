@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_128",
+    "label": "dog",
+    "caption": "A dog is trotting through a shallow stream",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_128/base_dog_128.jpg": [],
+        "../data/final_dataset/base_dog/dog_128/base_dog_128_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_128/base_dog_128_color.jpg": [
+            "saturation"
+        ]
+    }
+}

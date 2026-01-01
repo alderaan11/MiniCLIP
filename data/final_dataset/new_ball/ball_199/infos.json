@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_199",
+    "label": "ball",
+    "caption": "The cricketer, who had been fielding at cover point, stumbled while chasing after a fast-moving shot and tumbled to the ground in a heap. The ball, which had initially seemed destined for six, came to rest beside him, its leather creaking softly as it hit the grass. The wicketkeeper, anticipating a possible overthrow, began to scramble out of his stance, eye fixed intently on the prostrate player and the stranded ball.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_199/new_ball_199.jpg": [],
+        "../data/final_dataset/new_ball/ball_199/new_ball_199_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_199/new_ball_199_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

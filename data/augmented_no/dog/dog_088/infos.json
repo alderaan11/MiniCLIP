@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_088",
-    "label": "dog",
-    "caption": "Three dogs looking at a cement ledge .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_088/dog_088.jpg": []
-    }
-}

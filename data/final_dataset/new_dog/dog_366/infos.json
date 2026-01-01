@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_366",
+    "label": "dog",
+    "caption": "A playful black and white canine romps through the lush green grass, surrounded by two other furry friends - a sleek black dog with shiny fur and an energetic orange dog with a fluffy coat, all three of them seemingly enjoying the warm sunshine on a pleasant afternoon. The dogs' joyful barks fill the air as they chase each other around, their tails wagging wildly in excitement. A gentle breeze rustles through the grass, causing the blades to sway softly in the background.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_366/new_dog_366.jpg": [],
+        "../data/final_dataset/new_dog/dog_366/new_dog_366_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_366/new_dog_366_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

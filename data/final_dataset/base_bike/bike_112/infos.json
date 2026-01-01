@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_112",
+    "label": "bike",
+    "caption": "A biker does a trick on a ramp .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_112/base_bike_112.jpg": [],
+        "../data/final_dataset/base_bike/bike_112/base_bike_112_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_112/base_bike_112_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

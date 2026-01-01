@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_106",
+    "label": "bike",
+    "caption": "A group of motocross racers lined up to start .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_106/base_bike_106.jpg": [],
+        "../data/final_dataset/base_bike/bike_106/base_bike_106_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_106/base_bike_106_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

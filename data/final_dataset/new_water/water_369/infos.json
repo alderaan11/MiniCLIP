@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_369",
+    "label": "water",
+    "caption": "The dog, its fur matted from yesterday's walk, cautiously approaches the murky pond, its owner standing nearby to ensure it doesn't slip into the deeper water. The marshy vegetation around the pond's edge sways gently in the breeze as the dog wades in, its paws sinking into the squelching mud. In the distance, a few birds can be seen flying overhead, their songs punctuating the peaceful scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_369/new_water_369.jpg": [],
+        "../data/final_dataset/new_water/water_369/new_water_369_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_369/new_water_369_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

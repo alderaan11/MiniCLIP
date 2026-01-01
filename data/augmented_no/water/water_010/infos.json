@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_010",
-    "label": "water",
-    "caption": "A boy in blue shorts slides down a slide into a pool .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_010/water_010.jpg": []
-    }
-}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_016",
+    "label": "dog",
+    "caption": "A light-colored dog runs on the beach .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_016/base_dog_016.jpg": [],
+        "../data/final_dataset/base_dog/dog_016/base_dog_016_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_016/base_dog_016_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

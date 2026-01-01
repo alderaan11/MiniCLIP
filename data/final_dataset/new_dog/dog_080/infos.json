@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_080",
+    "label": "dog",
+    "caption": "A hound dog, its thick coat rustling in the breeze, pads silently along the length of a weathered log that stretches across a narrow stream in the woods. The sunlight filtering through the trees above casts dappled shadows on the forest floor as the dog continues on its way, seemingly unaware of its surroundings. A faint scent of damp earth and decaying leaves wafts up from the forest floor, mingling with the dog's musky aroma.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_080/new_dog_080.jpg": [],
+        "../data/final_dataset/new_dog/dog_080/new_dog_080_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_080/new_dog_080_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

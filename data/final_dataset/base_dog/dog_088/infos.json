@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_088",
+    "label": "dog",
+    "caption": "Three dogs looking at a cement ledge .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_088/base_dog_088.jpg": [],
+        "../data/final_dataset/base_dog/dog_088/base_dog_088_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_088/base_dog_088_color.jpg": [
+            "bw"
+        ]
+    }
+}

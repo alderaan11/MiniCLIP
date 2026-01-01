@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_039",
+    "label": "dog",
+    "caption": "A grey dog beside a black and white dog running in green grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_039/base_dog_039.jpg": [],
+        "../data/final_dataset/base_dog/dog_039/base_dog_039_spatial.jpg": [
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_039/base_dog_039_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

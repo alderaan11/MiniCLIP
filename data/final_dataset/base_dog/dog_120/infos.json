@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_120",
+    "label": "dog",
+    "caption": "A big tan dog lays on the ground looking to the side .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_120/base_dog_120.jpg": [],
+        "../data/final_dataset/base_dog/dog_120/base_dog_120_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_120/base_dog_120_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

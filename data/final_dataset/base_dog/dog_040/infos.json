@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_040",
+    "label": "dog",
+    "caption": "A man in a red shirt and glasses is bending down towards a small dog on a blanket with several stuffed animals .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_040/base_dog_040.jpg": [],
+        "../data/final_dataset/base_dog/dog_040/base_dog_040_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_040/base_dog_040_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

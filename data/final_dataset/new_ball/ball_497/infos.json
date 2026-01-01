@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_497",
+    "label": "ball",
+    "caption": "A lively golden retriever has bounded across the lush green field, its tail wagging enthusiastically as it proudly carries the bright yellow ball in its jaws. The warm sunlight casts dappled shadows on the grass beneath, while the surrounding trees provide a vibrant backdrop of leafy greens and soft blues. In the distance, a few birds can be heard singing their morning songs amidst the tranquil atmosphere of the serene countryside scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_497/new_ball_497.jpg": [],
+        "../data/final_dataset/new_ball/ball_497/new_ball_497_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_497/new_ball_497_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

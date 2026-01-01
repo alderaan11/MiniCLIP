@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_292",
+    "label": "bike",
+    "caption": "A biker soars through the air, performing a daring trick on their specially designed mountain bike as they navigate the rugged terrain of a BMX park. The sunlight catches the rider's helmet and the metallic frame of the bike, casting a warm glow over the entire scene. In the background, a few other riders can be seen warming up, their bikes leaning against a fence as they prepare to tackle the challenging trails.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_292/new_bike_292.jpg": [],
+        "../data/final_dataset/new_bike/bike_292/new_bike_292_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_292/new_bike_292_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

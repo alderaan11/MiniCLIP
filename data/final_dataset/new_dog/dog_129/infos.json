@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_129",
+    "label": "dog",
+    "caption": "A fluffy grey dog, its fur ruffled by the wind, leaps exuberantly towards a playful black and white canine companion in the midst of a winter wonderland. The snow-covered terrain glistens under the pale sunlight as the dogs frolic together, their joyful energy infectious. With a carefree bark, the grey dog lands a playful tackle on its opponent, sending them both tumbling into a gentle drift.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_129/new_dog_129.jpg": [],
+        "../data/final_dataset/new_dog/dog_129/new_dog_129_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_129/new_dog_129_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

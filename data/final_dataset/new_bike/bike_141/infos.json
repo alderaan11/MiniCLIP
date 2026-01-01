@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_141",
+    "label": "bike",
+    "caption": "A group of bicyclists, each clad in sleek racing gear, pedaled furiously down the winding road as they competed in a thrilling local cycling event. The sun cast a warm glow over the scene, illuminating the rhythmic motion of the cyclists' legs as they propelled their bikes forward with a burst of speed and energy. In the distance, a finish line banner flapped gently in the breeze, beckoning the riders toward the end of the grueling yet exhilarating race.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_141/new_bike_141.jpg": [],
+        "../data/final_dataset/new_bike/bike_141/new_bike_141_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_141/new_bike_141_color.jpg": [
+            "flash"
+        ]
+    }
+}

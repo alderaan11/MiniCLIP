@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_1124",
+    "label": "dog",
+    "caption": "A sunny afternoon in a park, with a group of friends gathered for a casual game of catch. A energetic dog, its fur fluffed up from excitement, leaps up to intercept the incoming Frisbee, momentarily distracting the player as it nips at his leg to claim the disc. The surrounding scene is filled with laughter and shouts of delight, as the friends enjoy their impromptu game together.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1124/new_dog_1124.jpg": [],
+        "../data/final_dataset/new_dog/dog_1124/new_dog_1124_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_1124/new_dog_1124_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

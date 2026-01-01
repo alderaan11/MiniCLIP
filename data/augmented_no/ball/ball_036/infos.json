@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_036",
-    "label": "ball",
-    "caption": "Two boys in a field kicking a soccer ball .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_036/ball_036.jpg": []
-    }
-}

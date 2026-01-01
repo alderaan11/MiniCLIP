@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_446",
+    "label": "ball",
+    "caption": "The sandy brown dog was running around in circles, its tail wagging excitedly as it chased after the soccer ball on the sun-kissed lawn. The ball bounced and rolled across the grass, its synthetic leather surface glinting in the bright sunlight. In the background, a few trees swayed gently in the breeze, their leaves rustling softly as the dog continued to playfully pursue its beloved ball.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_446/new_ball_446.jpg": [],
+        "../data/final_dataset/new_ball/ball_446/new_ball_446_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_446/new_ball_446_color.jpg": [
+            "bw"
+        ]
+    }
+}

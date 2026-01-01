@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_219",
+    "label": "water",
+    "caption": "\"A young boy, dressed in a brightly colored swimsuit, bursts through the air above the public pool's calm surface before making a splashy entrance into the water. The surrounding area is serene, with a few sunbathing adults nearby and the sound of children's laughter carrying on the breeze. As he breaks the surface, he lets out a triumphant yell, sending ripples through the otherwise peaceful scene.\"",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_219/new_water_219.jpg": [],
+        "../data/final_dataset/new_water/water_219/new_water_219_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_219/new_water_219_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

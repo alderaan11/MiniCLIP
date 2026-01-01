@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_071",
-    "label": "water",
-    "caption": "A boy stands on a rock in a creek , holding a stick .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_071/water_071.jpg": []
-    }
-}

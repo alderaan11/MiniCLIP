@@ -1,0 +1,20 @@
+{
+    "img_stem": "bike_387",
+    "label": "bike",
+    "caption": "A group of onlookers gathered around the dirt track, cheering as the daredevil bicycle stunt person soared through the air, their bike performing a death-defying trick with wheels spinning wildly. The audience held its collective breath as the performer seemed to pause mid-air, momentarily weightless before executing a flawless landing back on the ground. In the background, fans stood holding signs and banners with enthusiastic support messages for the talented rider.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_387/new_bike_387.jpg": [],
+        "../data/final_dataset/new_bike/bike_387/new_bike_387_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_387/new_bike_387_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

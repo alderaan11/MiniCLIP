@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_418",
+    "label": "dog",
+    "caption": "A black dog, its fur glistening in the sunlight, runs across the lush green lawn with excitement as it chases after a dead bird it has spotted on the ground. The bird, likely a victim of a predator's attack, lies motionless amidst the tall blades of grass. The dog's owner is nowhere to be seen, but the dog doesn't seem to mind, too focused on its playful pursuit of the lifeless prey.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_418/new_dog_418.jpg": [],
+        "../data/final_dataset/new_dog/dog_418/new_dog_418_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_418/new_dog_418_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

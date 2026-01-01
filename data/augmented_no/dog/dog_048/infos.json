@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_048",
-    "label": "dog",
-    "caption": "Dogs fight in grass over toy .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_048/dog_048.jpg": []
-    }
-}

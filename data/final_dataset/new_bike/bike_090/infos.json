@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_090",
+    "label": "bike",
+    "caption": "A young boy on a shiny blue bicycle with streamers attached to the handlebars has come to a halt, looking over his shoulder at the cameraman who is snapping photos in the background. The bike's chain is visible beneath the frame, and a few scattered leaves from nearby trees are stuck to the spokes. The boy seems to be enjoying the attention, grinning widely as he awaits further instruction.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_090/new_bike_090.jpg": [],
+        "../data/final_dataset/new_bike/bike_090/new_bike_090_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_090/new_bike_090_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

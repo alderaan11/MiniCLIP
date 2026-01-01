@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_070",
+    "label": "ball",
+    "caption": "A group of dogs run down a dry field .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_070/base_ball_070.jpg": [],
+        "../data/final_dataset/base_ball/ball_070/base_ball_070_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_070/base_ball_070_color.jpg": [
+            "bw"
+        ]
+    }
+}

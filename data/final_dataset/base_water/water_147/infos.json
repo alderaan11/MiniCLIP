@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_147",
+    "label": "water",
+    "caption": "A man in a yellow boat paddling down rough waters .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_147/base_water_147.jpg": [],
+        "../data/final_dataset/base_water/water_147/base_water_147_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_water/water_147/base_water_147_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_1001",
+    "label": "water",
+    "caption": "A surfer in a wetsuit and helmet stands confidently in front of a brightly colored red wall, his eyes fixed on the ocean waves visible through the open doorway behind him. The sound of gentle lapping water against the shore carries on the breeze as he adjusts his gear, preparing to dive back into the calm waters. Seagulls fly overhead, their cries mingling with the soothing rhythm of the surf.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1001/new_water_1001.jpg": [],
+        "../data/final_dataset/new_water/water_1001/new_water_1001_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_1001/new_water_1001_color.jpg": [
+            "bw"
+        ]
+    }
+}

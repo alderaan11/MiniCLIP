@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_197",
+    "label": "bike",
+    "caption": "A rugged mountain trail winds its way through a dense thicket of trees, with muddy ruts and puddles left behind by recent rainfall. A lone cyclist pedals steadily along the path, his bike splattered with mud as he navigates the treacherous terrain. Water drips from the brim of his helmet, and his legs are caked with dirt as he focuses on making it through this challenging section.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_197/new_bike_197.jpg": [],
+        "../data/final_dataset/new_bike/bike_197/new_bike_197_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_197/new_bike_197_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

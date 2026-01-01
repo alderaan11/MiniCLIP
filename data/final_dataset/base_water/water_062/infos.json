@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_062",
+    "label": "water",
+    "caption": "A boy in a black helmet and red long sleeve shirt rides his motorbike over a rocky stream .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_062/base_water_062.jpg": [],
+        "../data/final_dataset/base_water/water_062/base_water_062_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_water/water_062/base_water_062_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

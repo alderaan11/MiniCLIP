@@ -1,0 +1,14 @@
+{
+    "img_stem": "ball_066",
+    "label": "ball",
+    "caption": "A brown and white dog plays with a soccer ball on snowy ground .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_066/base_ball_066.jpg": [],
+        "../data/final_dataset/base_ball/ball_066/base_ball_066_spatial.jpg": [
+            "h_flip"
+        ],
+        "../data/final_dataset/base_ball/ball_066/base_ball_066_color.jpg": [
+            "bw"
+        ]
+    }
+}

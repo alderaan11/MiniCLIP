@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_137",
-    "label": "dog",
-    "caption": "A black dog is running through the shallow edge of a large body of water .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_137/dog_137.jpg": []
-    }
-}

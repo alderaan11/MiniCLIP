@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_931",
+    "label": "dog",
+    "caption": "In this vibrant park, a sleek black dog, its fur glistening in the sunlight, has caught sight of a colorful obstacle course set up for a local agility competition. With boundless energy, it takes off with joyful abandon, leaping over the multicolored barrier with ease and precision, its tail wagging enthusiastically as it dashes towards the next challenge. The sounds of barking dogs and cheering spectators fill the air as the dog's owner encourages it on to greater heights.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_931/new_dog_931.jpg": [],
+        "../data/final_dataset/new_dog/dog_931/new_dog_931_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_931/new_dog_931_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

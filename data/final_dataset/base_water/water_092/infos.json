@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_092",
+    "label": "water",
+    "caption": "The two dogs are enjoying a run through the surf .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_092/base_water_092.jpg": [],
+        "../data/final_dataset/base_water/water_092/base_water_092_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_092/base_water_092_color.jpg": [
+            "bw"
+        ]
+    }
+}

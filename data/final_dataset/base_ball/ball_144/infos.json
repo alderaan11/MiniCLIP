@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_144",
+    "label": "ball",
+    "caption": "A group of football players running down the field .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_144/base_ball_144.jpg": [],
+        "../data/final_dataset/base_ball/ball_144/base_ball_144_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_144/base_ball_144_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

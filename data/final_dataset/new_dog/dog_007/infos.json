@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_007",
+    "label": "dog",
+    "caption": "A lively scene unfolds in a sun-drenched backyard, where two canine companions - one sleek black and the other warm brown - engage in a playful game of chase. A bright red rubber toy bounces and spins through the air as they jump up to catch it, their joyful yips filling the afternoon air. The grass beneath them is dotted with vibrant flowers, adding splashes of color to this carefree moment.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_007/new_dog_007.jpg": [],
+        "../data/final_dataset/new_dog/dog_007/new_dog_007_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_007/new_dog_007_color.jpg": [
+            "bw"
+        ]
+    }
+}

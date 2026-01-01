@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_092",
-    "label": "bike",
-    "caption": "A biker doing a somersault with the bike in front of a crowd .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_092/bike_092.jpg": []
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_092",
-    "label": "dog",
-    "caption": "A brown dog laying on a blue cover .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_092/dog_092.jpg": []
-    }
-}

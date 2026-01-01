@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_090",
+    "label": "dog",
+    "caption": "A dog jumping in the air to retrieve a stick from a man .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_090/base_dog_090.jpg": [],
+        "../data/final_dataset/base_dog/dog_090/base_dog_090_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_090/base_dog_090_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

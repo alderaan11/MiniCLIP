@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_703",
+    "label": "ball",
+    "caption": "The boy, wearing his favorite soccer jersey, is kicking a red and white striped ball across the polished hardwood floor of his living room. The room is filled with posters of his favorite sports teams, and a few of his toys are scattered around the space, including a stack of Lego blocks on the coffee table. A large window behind him lets in a flood of sunlight, casting a warm glow over the scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_703/new_ball_703.jpg": [],
+        "../data/final_dataset/new_ball/ball_703/new_ball_703_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_703/new_ball_703_color.jpg": [
+            "bw"
+        ]
+    }
+}

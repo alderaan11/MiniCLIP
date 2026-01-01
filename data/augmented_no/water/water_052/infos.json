@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_052",
-    "label": "water",
-    "caption": "Two girls looking out over a lake towards a man fishing .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_052/water_052.jpg": []
-    }
-}

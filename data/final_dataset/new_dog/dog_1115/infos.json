@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_1115",
+    "label": "dog",
+    "caption": "A fluffy brown dog, its fur fluffed up in excitement, dashes across the lush green grass of a sunny meadow, hotly pursuing a vibrant red Frisbee as it soars through the air. The warm sunlight casts long shadows behind the blades of grass, and a few scattered wildflowers sway gently in the breeze. In the distance, a few birds can be heard singing their morning songs, adding to the carefree atmosphere of this idyllic scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1115/new_dog_1115.jpg": [],
+        "../data/final_dataset/new_dog/dog_1115/new_dog_1115_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_1115/new_dog_1115_color.jpg": [
+            "bw"
+        ]
+    }
+}

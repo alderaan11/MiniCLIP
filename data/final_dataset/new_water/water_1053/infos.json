@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_1053",
+    "label": "water",
+    "caption": "A young boy, likely around 6 years old, is playing in a swimming pool on a sunny summer day. He has his face submerged underwater, blowing bubbles as he laughs and attempts to hold his breath, completely carefree. The sound of children's laughter and splashing water fills the air as he frolics with friends and family nearby.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1053/new_water_1053.jpg": [],
+        "../data/final_dataset/new_water/water_1053/new_water_1053_spatial.jpg": [
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_1053/new_water_1053_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

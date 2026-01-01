@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_152",
+    "label": "water",
+    "caption": "On a warm summer afternoon, several black dogs enthusiastically jumped into the pool, their excited barks echoing through the air as they played together in the cool clear water. A person stood at the edge of the pool, laughing and handing out treats to the happy dogs as they splashed and frolicked about. The sun cast a gentle glow over the scene, illuminating the ripples on the surface of the water.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_152/new_water_152.jpg": [],
+        "../data/final_dataset/new_water/water_152/new_water_152_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_152/new_water_152_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

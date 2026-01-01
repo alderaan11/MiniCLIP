@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_409",
+    "label": "dog",
+    "caption": "A playful brown dog, its fur glistening in the sunlight, weaves through a challenging obstacle course, leaping over hurdles and dodging cones as it makes its way to the finish line. The sound of barks and cheering spectators fills the air, adding to the excitement of this high-energy canine competition. With its tongue lolling out of its mouth and tail wagging wildly, the dog gives it its all, refusing to be beat by the course's many twists and turns.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_409/new_dog_409.jpg": [],
+        "../data/final_dataset/new_dog/dog_409/new_dog_409_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_409/new_dog_409_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

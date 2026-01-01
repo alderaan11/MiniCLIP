@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_145",
-    "label": "ball",
-    "caption": "A group of men play a college football game .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_145/ball_145.jpg": []
-    }
-}

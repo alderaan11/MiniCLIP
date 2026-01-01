@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_100",
+    "label": "ball",
+    "caption": "A brown dog is playing with a red toy while another brown dog bounds towards the camera .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_100/base_ball_100.jpg": [],
+        "../data/final_dataset/base_ball/ball_100/base_ball_100_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_100/base_ball_100_color.jpg": [
+            "bw"
+        ]
+    }
+}

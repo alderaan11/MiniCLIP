@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_564",
+    "label": "water",
+    "caption": "A woman with long, dark hair emerges from a sparkling pool of water, her locks whipping around her face as she rises out of the cool liquid. Water droplets cascade down her hair, shimmering in the sunlight and creating tiny rainbows on her skin. As she steps onto the pool's edge, the excess water drips from her hair, leaving behind a trail of glistening droplets on the surrounding tile.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_564/new_water_564.jpg": [],
+        "../data/final_dataset/new_water/water_564/new_water_564_spatial.jpg": [
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_564/new_water_564_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

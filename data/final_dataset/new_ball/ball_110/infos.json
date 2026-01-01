@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_110",
+    "label": "ball",
+    "caption": "A sunny afternoon in the park, with children's laughter filling the air. A little boy, dressed in his favorite sports jersey, crouches down to kick a small white soccer ball with all his might. The ball flies through the air, spinning rapidly as it soars towards the goalposts standing tall on the other side of the field.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_110/new_ball_110.jpg": [],
+        "../data/final_dataset/new_ball/ball_110/new_ball_110_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_110/new_ball_110_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

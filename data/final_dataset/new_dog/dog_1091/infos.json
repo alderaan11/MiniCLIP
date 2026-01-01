@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_1091",
+    "label": "dog",
+    "caption": "A snow-covered trail stretches out into the woods, interrupted only by the occasional boulder and the tracks of small animals in the fresh powder. A black and white dog, its fur fluffed up against the cold, is momentarily airborne as it leaps over a particularly large rock in the middle of the path. The scene is bathed in pale winter sunlight that casts long shadows across the snow.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1091/new_dog_1091.jpg": [],
+        "../data/final_dataset/new_dog/dog_1091/new_dog_1091_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_1091/new_dog_1091_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_108",
-    "label": "water",
-    "caption": "black dogs jump in pool to a hand .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_108/water_108.jpg": []
-    }
-}

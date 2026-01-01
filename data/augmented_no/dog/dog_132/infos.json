@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_132",
-    "label": "dog",
-    "caption": "A black dog plays with another animal .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_132/dog_132.jpg": []
-    }
-}

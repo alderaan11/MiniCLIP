@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_220",
+    "label": "ball",
+    "caption": "A playful black dog bursts out of the shallow water, its fur slicked back, as it gives chase to a bright red ball that has been thrown into the air. The sun glints off the rippling water's surface, creating a shimmering effect that adds to the energetic atmosphere of the scene. With a joyful bark, the dog leaps through the air, attempting to catch its elusive quarry in mid-flight.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_220/new_ball_220.jpg": [],
+        "../data/final_dataset/new_ball/ball_220/new_ball_220_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_220/new_ball_220_color.jpg": [
+            "bw"
+        ]
+    }
+}

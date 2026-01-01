@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_025",
+    "label": "bike",
+    "caption": "A man and woman ride bicycles next to each other .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_025/base_bike_025.jpg": [],
+        "../data/final_dataset/base_bike/bike_025/base_bike_025_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_025/base_bike_025_color.jpg": [
+            "bw"
+        ]
+    }
+}

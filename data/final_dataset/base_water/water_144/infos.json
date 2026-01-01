@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_144",
+    "label": "water",
+    "caption": "A small boy standing near muddy water with something in his hand while someone beside him washes clothing in buckets .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_144/base_water_144.jpg": [],
+        "../data/final_dataset/base_water/water_144/base_water_144_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_144/base_water_144_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

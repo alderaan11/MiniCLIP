@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_1250",
+    "label": "water",
+    "caption": "A boy in shorts and a t-shirt is shown mid-air, leaping over a blue garden hose that's spraying water onto the lush green grass of a suburban lawn. A little girl with pigtails stands nearby, watching the scene with a look of wonder on her face. The warm sunlight casts long shadows behind them, illuminating the vibrant colors of the outdoor setting.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1250/new_water_1250.jpg": [],
+        "../data/final_dataset/new_water/water_1250/new_water_1250_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_1250/new_water_1250_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_020",
-    "label": "dog",
-    "caption": "A man in a brown shirt and dark shorts plays on the beach with his two black dogs .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_020/dog_020.jpg": []
-    }
-}

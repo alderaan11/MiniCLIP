@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_039",
-    "label": "ball",
-    "caption": "A boy dribbles a basketball in the gymnasium .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_039/ball_039.jpg": []
-    }
-}

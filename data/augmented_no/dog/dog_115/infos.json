@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_115",
-    "label": "dog",
-    "caption": "A big black dog chases a big brown dog with a green object in his mouth while another big brown dog tags behind .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_115/dog_115.jpg": []
-    }
-}

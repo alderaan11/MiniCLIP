@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_1111",
+    "label": "dog",
+    "caption": "A fluffy white Samoyed plays fetch on the beach, running back and forth to retrieve its ball as it sinks into the sand left over from the winter's snowfall. The dog's paws leave gentle impressions in the still-frozen ground, while the surrounding dunes are slowly thawing out of their winter slumber. In the distance, a few seagulls soar overhead, their cries carrying on the crisp spring air as they scan the beach for signs of life.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1111/new_dog_1111.jpg": [],
+        "../data/final_dataset/new_dog/dog_1111/new_dog_1111_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_1111/new_dog_1111_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

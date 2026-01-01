@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_067",
-    "label": "ball",
-    "caption": "A brown dog on the beach with a yellow ball in his mouth .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_067/ball_067.jpg": []
-    }
-}

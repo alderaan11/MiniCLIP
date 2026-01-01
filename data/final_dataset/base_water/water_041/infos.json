@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_041",
+    "label": "water",
+    "caption": "A boy is jumping from a body board into the ocean .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_041/base_water_041.jpg": [],
+        "../data/final_dataset/base_water/water_041/base_water_041_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_041/base_water_041_color.jpg": [
+            "bw"
+        ]
+    }
+}

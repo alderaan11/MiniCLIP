@@ -1,0 +1,14 @@
+{
+    "img_stem": "water_140",
+    "label": "water",
+    "caption": "A man casting a fishing pole .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_140/base_water_140.jpg": [],
+        "../data/final_dataset/base_water/water_140/base_water_140_spatial.jpg": [
+            "h_flip"
+        ],
+        "../data/final_dataset/base_water/water_140/base_water_140_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_056",
+    "label": "water",
+    "caption": "A girl in an innertube enjoying the lake .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_056/base_water_056.jpg": [],
+        "../data/final_dataset/base_water/water_056/base_water_056_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_056/base_water_056_color.jpg": [
+            "contrast"
+        ]
+    }
+}

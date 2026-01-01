@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_037",
+    "label": "bike",
+    "caption": "A bike sits atop a rise with mountains in the background .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_037/base_bike_037.jpg": [],
+        "../data/final_dataset/base_bike/bike_037/base_bike_037_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_037/base_bike_037_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

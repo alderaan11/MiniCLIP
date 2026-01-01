@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_029",
+    "label": "dog",
+    "caption": "A black and white Border Collie catches a Frisbee in front of an audience .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_029/base_dog_029.jpg": [],
+        "../data/final_dataset/base_dog/dog_029/base_dog_029_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_029/base_dog_029_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

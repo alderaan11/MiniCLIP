@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_695",
+    "label": "ball",
+    "caption": "A playful black dog, its fur fluffed up in excitement, stands at the edge of a small pool of water, its paws lifted off the ground as it prepares to leap forward and splash into the water after a small white ball that has just landed with a tiny ripple on the surface. The sun casts a warm glow over the scene, illuminating the dog's joyful expression and the tranquil surroundings. A few leaves from nearby trees are scattered around the pool's edge, adding a touch of natural charm to the scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_695/new_ball_695.jpg": [],
+        "../data/final_dataset/new_ball/ball_695/new_ball_695_spatial.jpg": [
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_695/new_ball_695_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

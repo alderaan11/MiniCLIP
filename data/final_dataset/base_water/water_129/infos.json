@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_129",
+    "label": "water",
+    "caption": "a man jumping in a mud puddle in the middle of the street",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_129/base_water_129.jpg": [],
+        "../data/final_dataset/base_water/water_129/base_water_129_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_water/water_129/base_water_129_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

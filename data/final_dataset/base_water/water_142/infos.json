@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_142",
+    "label": "water",
+    "caption": "Three children are jumping into the air into a swimming pool at a resort .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_142/base_water_142.jpg": [],
+        "../data/final_dataset/base_water/water_142/base_water_142_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_142/base_water_142_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

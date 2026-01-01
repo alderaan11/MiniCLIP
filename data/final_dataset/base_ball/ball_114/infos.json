@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_114",
+    "label": "ball",
+    "caption": "A brown dog holding a foam bat aiming for a ball .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_114/base_ball_114.jpg": [],
+        "../data/final_dataset/base_ball/ball_114/base_ball_114_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_114/base_ball_114_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

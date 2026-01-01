@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_052",
+    "label": "water",
+    "caption": "Two girls looking out over a lake towards a man fishing .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_052/base_water_052.jpg": [],
+        "../data/final_dataset/base_water/water_052/base_water_052_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_052/base_water_052_color.jpg": [
+            "bw"
+        ]
+    }
+}

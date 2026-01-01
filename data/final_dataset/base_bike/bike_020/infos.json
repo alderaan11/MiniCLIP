@@ -1,0 +1,14 @@
+{
+    "img_stem": "bike_020",
+    "label": "bike",
+    "caption": "A group of bicyclists riding down a path in an off road race .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_020/base_bike_020.jpg": [],
+        "../data/final_dataset/base_bike/bike_020/base_bike_020_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_bike/bike_020/base_bike_020_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_002",
+    "label": "ball",
+    "caption": "A sunny afternoon in a lush green field, with a few scattered cars parked on the sidelines, awaiting their owners' return from a leisurely walk. In the center of the frame, a playful dog, its fur fluffed up with excitement, crouches low to the ground, eyes fixed intently on a flying ball as it hurtles towards it. The air is filled with the joyful sounds of barks and the soft thud of paws hitting the grass.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_002/new_ball_002.jpg": [],
+        "../data/final_dataset/new_ball/ball_002/new_ball_002_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_002/new_ball_002_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

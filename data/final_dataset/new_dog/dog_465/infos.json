@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_465",
+    "label": "dog",
+    "caption": "A playful white terrier emerges from a bright blue inflatable tunnel, its ears flapping wildly as it shakes off the excitement of navigating through the winding tube. The tunnel, placed in a backyard play area, is surrounded by lush green grass and a few colorful toys scattered about, adding to the joyful atmosphere. With a wagging tail and a happy bark, the dog prances around the tunnel, eager to continue its fun-filled adventure.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_465/new_dog_465.jpg": [],
+        "../data/final_dataset/new_dog/dog_465/new_dog_465_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_465/new_dog_465_color.jpg": [
+            "bw"
+        ]
+    }
+}

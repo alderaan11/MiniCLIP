@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_097",
+    "label": "dog",
+    "caption": "A brown dog chases a blond one in the grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_097/base_dog_097.jpg": [],
+        "../data/final_dataset/base_dog/dog_097/base_dog_097_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_097/base_dog_097_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_126",
+    "label": "bike",
+    "caption": "A mountain biker , wearing a black helmet and shirt , in motion .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_126/base_bike_126.jpg": [],
+        "../data/final_dataset/base_bike/bike_126/base_bike_126_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_126/base_bike_126_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

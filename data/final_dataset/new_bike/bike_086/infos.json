@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_086",
+    "label": "bike",
+    "caption": "The rider, dressed in bold, colorful clothing, soared through the air as he mastered the ramps, performing precision jumps and flips on his sleek bicycle. The crowd cheered wildly as they watched him execute flawless tricks with ease, drawing in even more spectators who were mesmerized by the display of skill and agility. A makeshift ramp setup dominated the center of the scene, surrounded by enthusiastic fans who couldn't get enough of the high-flying bike stunts.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_086/new_bike_086.jpg": [],
+        "../data/final_dataset/new_bike/bike_086/new_bike_086_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_086/new_bike_086_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

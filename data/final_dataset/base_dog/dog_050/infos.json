@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_050",
+    "label": "dog",
+    "caption": "A brown dog jumping in the air on a brown plain .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_050/base_dog_050.jpg": [],
+        "../data/final_dataset/base_dog/dog_050/base_dog_050_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_050/base_dog_050_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

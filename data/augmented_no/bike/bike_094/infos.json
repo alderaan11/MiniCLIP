@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_094",
-    "label": "bike",
-    "caption": "A girl in a pink bicycle rides in front of a restaraunt .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_094/bike_094.jpg": []
-    }
-}

@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_064",
+    "label": "dog",
+    "caption": "A dog jumps for a red ball on the grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_064/base_dog_064.jpg": [],
+        "../data/final_dataset/base_dog/dog_064/base_dog_064_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_064/base_dog_064_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

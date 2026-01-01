@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_059",
+    "label": "water",
+    "caption": "A man rock climbs with a city and body of water in the background .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_059/base_water_059.jpg": [],
+        "../data/final_dataset/base_water/water_059/base_water_059_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_059/base_water_059_color.jpg": [
+            "bw"
+        ]
+    }
+}

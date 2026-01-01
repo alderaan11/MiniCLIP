@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_114",
+    "label": "water",
+    "caption": "A black dog in the water",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_114/base_water_114.jpg": [],
+        "../data/final_dataset/base_water/water_114/base_water_114_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_114/base_water_114_color.jpg": [
+            "bw"
+        ]
+    }
+}

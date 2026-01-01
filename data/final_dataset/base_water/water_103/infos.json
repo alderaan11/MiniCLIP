@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_103",
+    "label": "water",
+    "caption": "A girl in a yellow bathing suit from a cliff looks at a person in the water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_103/base_water_103.jpg": [],
+        "../data/final_dataset/base_water/water_103/base_water_103_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_103/base_water_103_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

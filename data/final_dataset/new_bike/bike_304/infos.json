@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_304",
+    "label": "bike",
+    "caption": "A man in his late twenties, dressed in all black from head to toe, expertly navigates his sleek green bicycle through the bustling streets of the city. As he pedals, he momentarily glances at a colorful sign reading \"Free Dinner\" nailed above the entrance of a nearby food truck, but quickly refocuses on the road ahead, taking the bike over the slight incline with ease. The urban scenery is filled with pedestrians and parked cars, but the man's confidence in his cycling skills allows him to weave through the crowd with precision.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_304/new_bike_304.jpg": [],
+        "../data/final_dataset/new_bike/bike_304/new_bike_304_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_304/new_bike_304_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

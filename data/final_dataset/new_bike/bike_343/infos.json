@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_343",
+    "label": "bike",
+    "caption": "A rider on a sleek road bike hurtles through a serene forest trail, his momentum carrying him over a rocky outcropping as he navigates a sharp turn around a tall oak tree in his path. The sudden maneuver catches him off guard, and he soars briefly above the ground before landing with a soft thud on the earth below. Leaves rustle in the breeze created by his passing, and the sound of gravel crunching beneath his tires echoes through the forest silence.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_343/new_bike_343.jpg": [],
+        "../data/final_dataset/new_bike/bike_343/new_bike_343_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_343/new_bike_343_color.jpg": [
+            "contrast"
+        ]
+    }
+}

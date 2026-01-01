@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_041",
-    "label": "dog",
-    "caption": "A big brown dog plays with a smaller grey dog on the grass .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_041/dog_041.jpg": []
-    }
-}

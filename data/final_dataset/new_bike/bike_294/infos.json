@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_294",
+    "label": "bike",
+    "caption": "A BMX biker soars through the air, their tires a blur as they execute a daring trick on the dirt course. The rider's sweat-drenched face is contorted in concentration, and their arms are outstretched to maintain balance as they navigate the challenging terrain. In the background, a few spectators watch from the sidelines, cheering on the biker as they prepare to land the stunt.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_294/new_bike_294.jpg": [],
+        "../data/final_dataset/new_bike/bike_294/new_bike_294_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_294/new_bike_294_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

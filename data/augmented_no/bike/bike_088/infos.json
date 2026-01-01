@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_088",
-    "label": "bike",
-    "caption": "A man on a bicycle jumping off a dirt ramp with one foot on the ground",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_088/bike_088.jpg": []
-    }
-}

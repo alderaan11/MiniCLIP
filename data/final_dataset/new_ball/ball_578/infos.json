@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_578",
+    "label": "ball",
+    "caption": "The girl, wearing her black shirt and hot pink pants, stands confidently at the tennis court's baseline, her racket held tightly in her hand as she prepares to hit the incoming serve. The ball, a bright yellow orb, hovers above the net, suspended in mid-air for a fraction of a second before it will be struck by the girl's swift swing. The sun beats down on the court, casting a warm glow over the scene as the crowd watches with bated breath.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_578/new_ball_578.jpg": [],
+        "../data/final_dataset/new_ball/ball_578/new_ball_578_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_578/new_ball_578_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

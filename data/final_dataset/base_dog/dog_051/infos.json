@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_051",
+    "label": "dog",
+    "caption": "A brown dog biting a gray dogs ear .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_051/base_dog_051.jpg": [],
+        "../data/final_dataset/base_dog/dog_051/base_dog_051_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_051/base_dog_051_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_126",
-    "label": "dog",
-    "caption": "a few different colored dogs jumping around in the grass behind a house",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_126/dog_126.jpg": []
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_098",
-    "label": "bike",
-    "caption": "A cyclist is performing a jump by some trees .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_098/bike_098.jpg": []
-    }
-}

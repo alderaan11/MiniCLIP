@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_029",
-    "label": "ball",
-    "caption": "A brown dog is jumping after a tennis ball .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_029/ball_029.jpg": []
-    }
-}

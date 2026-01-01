@@ -1,0 +1,14 @@
+{
+    "img_stem": "bike_112",
+    "label": "bike",
+    "caption": "A biker is soaring through the air, effortlessly clearing a large jump on their trusty mountain bike. The bright sunlight catches the dust kicked up by their tires as they prepare to land safely back on solid ground. With the wind ruffling their helmet and sleeves, the rider's excitement and focus are palpable in this thrilling moment of airborne adventure.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_112/new_bike_112.jpg": [],
+        "../data/final_dataset/new_bike/bike_112/new_bike_112_spatial.jpg": [
+            "h_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_112/new_bike_112_color.jpg": [
+            "flash"
+        ]
+    }
+}

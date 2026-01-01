@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_119",
-    "label": "water",
-    "caption": "A black and white dog shakes itself to get the water off",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_119/water_119.jpg": []
-    }
-}

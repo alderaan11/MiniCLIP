@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_086",
-    "label": "bike",
-    "caption": "A boy on his bike stops and looks back at the cameraman .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_086/bike_086.jpg": []
-    }
-}

@@ -1,0 +1,20 @@
+{
+    "img_stem": "dog_110",
+    "label": "dog",
+    "caption": "A black and tan dog plays with a centipede toy .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_110/base_dog_110.jpg": [],
+        "../data/final_dataset/base_dog/dog_110/base_dog_110_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_110/base_dog_110_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

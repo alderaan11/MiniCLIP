@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_025",
+    "label": "water",
+    "caption": "The kids play in the wooded area near the water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_025/base_water_025.jpg": [],
+        "../data/final_dataset/base_water/water_025/base_water_025_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_025/base_water_025_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

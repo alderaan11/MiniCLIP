@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_097",
-    "label": "ball",
-    "caption": "A child wearing a yellow jacket is jumping down from a rock .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_097/ball_097.jpg": []
-    }
-}

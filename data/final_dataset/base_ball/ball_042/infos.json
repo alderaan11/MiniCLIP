@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_042",
+    "label": "ball",
+    "caption": "A brown dog playing with a tennis ball",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_042/base_ball_042.jpg": [],
+        "../data/final_dataset/base_ball/ball_042/base_ball_042_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_042/base_ball_042_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

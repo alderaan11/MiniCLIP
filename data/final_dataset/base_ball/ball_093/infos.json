@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_093",
+    "label": "ball",
+    "caption": "A dog in mid-flight catches an orange and blue ball in a field of dead grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_093/base_ball_093.jpg": [],
+        "../data/final_dataset/base_ball/ball_093/base_ball_093_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_093/base_ball_093_color.jpg": [
+            "bw"
+        ]
+    }
+}

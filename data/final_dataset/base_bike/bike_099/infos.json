@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_099",
+    "label": "bike",
+    "caption": "A biker rides a motorcycle on a racetrack",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_099/base_bike_099.jpg": [],
+        "../data/final_dataset/base_bike/bike_099/base_bike_099_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_099/base_bike_099_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

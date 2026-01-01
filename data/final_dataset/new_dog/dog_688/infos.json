@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_688",
+    "label": "dog",
+    "caption": "The baby, wearing a bright pink onesie with white stripes, sits on the grass near a grandmotherly woman dressed in a bold red and black dress. A fluffy golden retriever, its tail wagging playfully, lies at their feet, watching the commotion with curious eyes. The dog's owner, likely the older lady, gently reaches out to pet her furry companion while trying to distract the rambunctious baby from rummaging through a nearby picnic basket.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_688/new_dog_688.jpg": [],
+        "../data/final_dataset/new_dog/dog_688/new_dog_688_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_688/new_dog_688_color.jpg": [
+            "flash"
+        ]
+    }
+}

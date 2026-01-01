@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_029",
+    "label": "bike",
+    "caption": "A lady in a white hat and sunglasses riding a bicycle .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_029/base_bike_029.jpg": [],
+        "../data/final_dataset/base_bike/bike_029/base_bike_029_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_029/base_bike_029_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "img_stem": "water_727",
+    "label": "water",
+    "caption": "A dog owner stands on the sandy beach, watching as their energetic black pet shakes off the excess saltwater from its fur, sending droplets flying in all directions. The sound of gentle waves crashing against the shore creates a soothing background noise, while seagulls wheel overhead, scanning for scraps or leftovers. As the dog's fur fluffs up, it lets out a joyful yelp, eager to continue playing in the cool ocean spray on this sun-kissed day by the water.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_727/new_water_727.jpg": [],
+        "../data/final_dataset/new_water/water_727/new_water_727_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_727/new_water_727_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

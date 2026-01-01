@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_139",
+    "label": "dog",
+    "caption": "A grey colored dog walks in wet sand at a beach .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_139/base_dog_139.jpg": [],
+        "../data/final_dataset/base_dog/dog_139/base_dog_139_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_139/base_dog_139_color.jpg": [
+            "flash"
+        ]
+    }
+}

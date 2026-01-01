@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_082",
-    "label": "water",
-    "caption": "A man in a blue shirt is spraying a sand sculpture .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_082/water_082.jpg": []
-    }
-}

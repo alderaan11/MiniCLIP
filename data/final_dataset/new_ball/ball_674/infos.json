@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_674",
+    "label": "ball",
+    "caption": "A young boy, likely in his early teens, kicks a soccer ball high up into the air with great enthusiasm. His ponytail bounces behind him as he runs forward to catch the descending ball. The sun casts a warm glow on the lush green grass of the backyard where the scene is unfolding.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_674/new_ball_674.jpg": [],
+        "../data/final_dataset/new_ball/ball_674/new_ball_674_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_674/new_ball_674_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

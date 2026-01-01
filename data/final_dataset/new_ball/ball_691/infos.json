@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_691",
+    "label": "ball",
+    "caption": "A brown dog playfully gnaws on a worn orange rubber ball, its teeth gently grasping its textured surface as it bounces lazily across a lush green lawn. The sun casts a warm glow over the scene, illuminating the dog's joyful expression and the ball's vibrant color. In the background, a few scattered leaves from nearby trees add a touch of natural beauty to the idyllic setting.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_691/new_ball_691.jpg": [],
+        "../data/final_dataset/new_ball/ball_691/new_ball_691_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_691/new_ball_691_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

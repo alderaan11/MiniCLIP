@@ -1,0 +1,14 @@
+{
+    "img_stem": "bike_153",
+    "label": "bike",
+    "caption": "A young rider, clad in helmet and gloves, soars through the air on their trusty mountain bike, executing a daring trick with precision and skill. The bike's sleek frame glints in the sunlight as it rotates in mid-air, while the rider's shadow stretches out on the ceiling above, creating an eerie yet thrilling effect. In the background, the blurred landscape of a skatepark or outdoor BMX course can be seen, adding to the sense of action and adrenaline that fills this moment.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_153/new_bike_153.jpg": [],
+        "../data/final_dataset/new_bike/bike_153/new_bike_153_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_153/new_bike_153_color.jpg": [
+            "bw"
+        ]
+    }
+}

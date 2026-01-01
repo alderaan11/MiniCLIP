@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_117",
+    "label": "ball",
+    "caption": "A furocious female tennis player about to hit a tennis ball in the air .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_117/base_ball_117.jpg": [],
+        "../data/final_dataset/base_ball/ball_117/base_ball_117_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_117/base_ball_117_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

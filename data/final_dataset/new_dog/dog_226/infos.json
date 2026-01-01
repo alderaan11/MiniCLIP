@@ -1,0 +1,14 @@
+{
+    "img_stem": "dog_226",
+    "label": "dog",
+    "caption": "A dog stands alert, its ears perked up, as it surveys its surroundings with a mixture of curiosity and caution. The brown dog that caught its attention has wandered into its territory, and the white dog's hackles are raised in response. For a moment, the two dogs lock eyes, their gazes tense with unspoken tension.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_226/new_dog_226.jpg": [],
+        "../data/final_dataset/new_dog/dog_226/new_dog_226_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_226/new_dog_226_color.jpg": [
+            "bw"
+        ]
+    }
+}

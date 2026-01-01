@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_045",
+    "label": "bike",
+    "caption": "A biker is wearing all black gear with buildings and a tree with no leaves nearby .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_045/base_bike_045.jpg": [],
+        "../data/final_dataset/base_bike/bike_045/base_bike_045_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_045/base_bike_045_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

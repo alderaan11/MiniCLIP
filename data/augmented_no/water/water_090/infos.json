@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_090",
-    "label": "water",
-    "caption": "A jacketed man with his back to the camera is overlooking the water .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_090/water_090.jpg": []
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_051",
-    "label": "ball",
-    "caption": "A child in the snow with a house in the background .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_051/ball_051.jpg": []
-    }
-}

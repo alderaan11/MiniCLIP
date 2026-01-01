@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_139",
-    "label": "dog",
-    "caption": "A grey colored dog walks in wet sand at a beach .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_139/dog_139.jpg": []
-    }
-}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_310",
+    "label": "water",
+    "caption": "A playful black and white dog is seen jumping around in the calm waters of a serene lake on a sunny day, its joyful yips echoing across the peaceful surroundings. The water's gentle ripples reflect the bright blue sky above, creating a sense of tranquility. A few scattered leaves from nearby trees float lazily on the surface of the lake, adding to the idyllic scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_310/new_water_310.jpg": [],
+        "../data/final_dataset/new_water/water_310/new_water_310_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_310/new_water_310_color.jpg": [
+            "brightness"
+        ]
+    }
+}

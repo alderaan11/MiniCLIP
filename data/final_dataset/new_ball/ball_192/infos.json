@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_192",
+    "label": "ball",
+    "caption": "A young boy, dressed in bright yellow shorts, crouches down low to kick a soccer ball across the court. The basketball hoops tower above him, but for now, his focus is on the game at hand, as he takes a moment to line up his shot before kicking the ball with all his might. The sunlight catches the bounce of the ball as it soars through the air, adding a burst of energy to the scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_192/new_ball_192.jpg": [],
+        "../data/final_dataset/new_ball/ball_192/new_ball_192_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_192/new_ball_192_color.jpg": [
+            "bw"
+        ]
+    }
+}

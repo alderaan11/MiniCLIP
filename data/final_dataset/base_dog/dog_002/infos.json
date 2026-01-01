@@ -1,0 +1,14 @@
+{
+    "img_stem": "dog_002",
+    "label": "dog",
+    "caption": "A man lays on a bench while his dog sits by him .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_002/base_dog_002.jpg": [],
+        "../data/final_dataset/base_dog/dog_002/base_dog_002_spatial.jpg": [
+            "h_flip"
+        ],
+        "../data/final_dataset/base_dog/dog_002/base_dog_002_color.jpg": [
+            "brightness"
+        ]
+    }
+}

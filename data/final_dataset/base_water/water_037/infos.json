@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_037",
+    "label": "water",
+    "caption": "Three boys in baggy bathing suits play in splashing water in front a of grey , block wall .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_037/base_water_037.jpg": [],
+        "../data/final_dataset/base_water/water_037/base_water_037_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_037/base_water_037_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

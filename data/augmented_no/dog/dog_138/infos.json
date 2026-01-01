@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_138",
-    "label": "dog",
-    "caption": "A dog is jumping into the water .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_138/dog_138.jpg": []
-    }
-}

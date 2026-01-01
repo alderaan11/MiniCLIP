@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_068",
+    "label": "water",
+    "caption": "A boy in a pool squirts a bright green water gun .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_068/base_water_068.jpg": [],
+        "../data/final_dataset/base_water/water_068/base_water_068_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_068/base_water_068_color.jpg": [
+            "bw"
+        ]
+    }
+}

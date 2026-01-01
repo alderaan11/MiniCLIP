@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_132",
+    "label": "water",
+    "caption": "A boy holding a hose next to a man while another boy watches on , held by a woman .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_132/base_water_132.jpg": [],
+        "../data/final_dataset/base_water/water_132/base_water_132_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_132/base_water_132_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

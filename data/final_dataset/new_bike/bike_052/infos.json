@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_052",
+    "label": "bike",
+    "caption": "The man, wearing a bright orange vest to enhance his visibility in the snowy terrain, has paused from riding his sleek mountain bike to give a command to the team of eager sled dogs pulling it behind him. The dogs, their fur fluffed up against the cold, strain on their harnesses as they haul the bike and its rider up a gentle incline through the frozen landscape.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_052/new_bike_052.jpg": [],
+        "../data/final_dataset/new_bike/bike_052/new_bike_052_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_052/new_bike_052_color.jpg": [
+            "bw"
+        ]
+    }
+}

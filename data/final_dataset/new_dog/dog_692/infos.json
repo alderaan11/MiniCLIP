@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_692",
+    "label": "dog",
+    "caption": "A brown dog, its fur fluffed up from excitement, is sprinting alongside a chain link fence as it chases after something on the other side. Its companion, a darker-colored dog with a more laid-back demeanor, stands nearby, watching the commotion with interest. The dogs' owners are likely nearby, shouting encouragement or trying to catch their pets before they escape through the open gate.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_692/new_dog_692.jpg": [],
+        "../data/final_dataset/new_dog/dog_692/new_dog_692_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_692/new_dog_692_color.jpg": [
+            "bw"
+        ]
+    }
+}

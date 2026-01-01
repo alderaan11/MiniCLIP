@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_105",
+    "label": "bike",
+    "caption": "A blue motorcycle is jumping over some colored barrels .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_105/base_bike_105.jpg": [],
+        "../data/final_dataset/base_bike/bike_105/base_bike_105_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_bike/bike_105/base_bike_105_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

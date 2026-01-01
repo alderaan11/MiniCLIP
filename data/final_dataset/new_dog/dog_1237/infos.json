@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_1237",
+    "label": "dog",
+    "caption": "A playful interaction unfolds as two dogs engage in a lively game of tug-of-war, their tails wagging furiously as they chase each other around the yard. One dog, with its tongue lolling out of its mouth, clamps down on a bright red rubber toy, while the other dog eagerly tries to snatch it away, teeth bared in a friendly growl. The warm sunlight casts a golden glow over the scene, capturing the joy and energy of these two canine companions.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1237/new_dog_1237.jpg": [],
+        "../data/final_dataset/new_dog/dog_1237/new_dog_1237_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_1237/new_dog_1237_color.jpg": [
+            "bw"
+        ]
+    }
+}

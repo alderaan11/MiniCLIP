@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_047",
+    "label": "water",
+    "caption": "A blond boy in a blue tee shirts stands smiling before a craft of green nylon fabric .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_047/base_water_047.jpg": [],
+        "../data/final_dataset/base_water/water_047/base_water_047_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_047/base_water_047_color.jpg": [
+            "bw"
+        ]
+    }
+}

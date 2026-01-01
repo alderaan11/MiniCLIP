@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_094",
-    "label": "ball",
-    "caption": "a determined girl is hitting a volleyball",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_094/ball_094.jpg": []
-    }
-}

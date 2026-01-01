@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_075",
+    "label": "water",
+    "caption": "The sun casts a warm glow over the serene lake, its calm waters reflecting the vibrant colors of the surrounding trees. Two people sit on a blanket of soft green grass, watching as their children effortlessly glide across the water's surface on brightly colored bicycles. A tranquil scene unfolds, one that invites relaxation and connection with nature.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_075/new_water_075.jpg": [],
+        "../data/final_dataset/new_water/water_075/new_water_075_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_075/new_water_075_color.jpg": [
+            "bw"
+        ]
+    }
+}

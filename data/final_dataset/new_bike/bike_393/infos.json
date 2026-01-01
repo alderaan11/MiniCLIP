@@ -1,0 +1,20 @@
+{
+    "img_stem": "bike_393",
+    "label": "bike",
+    "caption": "The sun-dappled forest trail stretched out before him, winding through towering trees as a boy in an orange shirt expertly navigated his dirt bike over roots and rocks. His bright helmet glistened with dew as he picked up speed, the roar of the engine echoing off the tree trunks. A burst of sunlight filtering through the canopy above highlighted the dust kicked up by the bike's tires as it devoured the terrain.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_393/new_bike_393.jpg": [],
+        "../data/final_dataset/new_bike/bike_393/new_bike_393_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_393/new_bike_393_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

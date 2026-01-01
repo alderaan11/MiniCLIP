@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_095",
+    "label": "dog",
+    "caption": "A playful golden retriever runs joyfully across the lush green lawn, its paws pounding against the earth as it leaps into the air to catch the brightly colored Frisbee soaring through the clear blue sky. The sun casts a long, straight shadow behind the dog's retreating form, stretching out towards the trees in the distance. As the dog lands safely on the grass, it lets out a triumphant bark and prances around, its tail wagging excitedly.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_095/new_dog_095.jpg": [],
+        "../data/final_dataset/new_dog/dog_095/new_dog_095_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_095/new_dog_095_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

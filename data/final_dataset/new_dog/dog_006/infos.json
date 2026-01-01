@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_006",
+    "label": "dog",
+    "caption": "In a serene green meadow, a sleek black canine ambles through the lush grass, its tail wagging gently as it proudly carries a vibrant green rubber toy in its mouth. The warm sunlight casts a golden glow on the scene, illuminating the soft textures of the dog's fur and the blades of grass swaying around it. As the dog continues its leisurely stroll, it seems completely carefree, lost in the joy of playing with its beloved toy.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_006/new_dog_006.jpg": [],
+        "../data/final_dataset/new_dog/dog_006/new_dog_006_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_006/new_dog_006_color.jpg": [
+            "bw"
+        ]
+    }
+}

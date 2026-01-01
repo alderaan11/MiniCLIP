@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_056",
+    "label": "ball",
+    "caption": "a boy and a girl bouncing on a ball",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_056/base_ball_056.jpg": [],
+        "../data/final_dataset/base_ball/ball_056/base_ball_056_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_056/base_ball_056_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

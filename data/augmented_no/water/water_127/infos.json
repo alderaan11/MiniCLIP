@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_127",
-    "label": "water",
-    "caption": "People are sitting on step along the water and fishing .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_127/water_127.jpg": []
-    }
-}

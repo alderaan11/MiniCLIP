@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_098",
-    "label": "ball",
-    "caption": "A dog runs through green grass with a tennis ball in its mouth .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_098/ball_098.jpg": []
-    }
-}

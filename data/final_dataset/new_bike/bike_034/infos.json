@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_034",
+    "label": "bike",
+    "caption": "The man in the beret pedaled his bicycle down the cobblestone street, weaving past pedestrians who stopped to glance at the colorful market stalls set up along the way. A few children played tag on the sidewalk, their laughter carrying through the crisp morning air as they chased each other towards the city square. The sun cast a warm glow over the scene, illuminating the vibrant flowers arranged in a nearby vendor's cart.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_034/new_bike_034.jpg": [],
+        "../data/final_dataset/new_bike/bike_034/new_bike_034_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_bike/bike_034/new_bike_034_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

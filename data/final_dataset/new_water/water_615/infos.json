@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_615",
+    "label": "water",
+    "caption": "A small child, likely around two years old, bends down to reach into a refreshing water fountain on a warm summer day. The fountain's gentle spray creates a soothing mist in the air as the child's tiny hands grasp for the cool water, their face tilted upwards with excitement. Nearby, a few sunbathing adults lounge on nearby benches, enjoying the peaceful atmosphere of the outdoor park.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_615/new_water_615.jpg": [],
+        "../data/final_dataset/new_water/water_615/new_water_615_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_615/new_water_615_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

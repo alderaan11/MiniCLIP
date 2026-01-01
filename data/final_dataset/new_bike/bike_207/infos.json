@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_207",
+    "label": "bike",
+    "caption": "The man pedals steadily down the snowy hill, his legs pumping in unison as he navigates the winding path ahead. The winter landscape stretches out before him, with bare trees and frozen fields extending into the distance. His bike's tires crunch softly on the snow-covered road as he picks up speed, a hint of exhilaration on his face.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_207/new_bike_207.jpg": [],
+        "../data/final_dataset/new_bike/bike_207/new_bike_207_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_207/new_bike_207_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

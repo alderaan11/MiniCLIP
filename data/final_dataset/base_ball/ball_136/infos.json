@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_136",
+    "label": "ball",
+    "caption": "A football player from the Sooners is about to be taken down by the opposing team in a game .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_136/base_ball_136.jpg": [],
+        "../data/final_dataset/base_ball/ball_136/base_ball_136_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_136/base_ball_136_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

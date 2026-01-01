@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_712",
+    "label": "ball",
+    "caption": "In the warm sunlight of a spring afternoon, a playful dog runs around the lush green lawn, its tail wagging enthusiastically as it chases after a bright red ball. The ball bounces and rolls across the grass, leading the dog on an exciting game of catch. With each leap, the dog seems to jump higher than before, its paws barely touching the ground as it gives chase.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_712/new_ball_712.jpg": [],
+        "../data/final_dataset/new_ball/ball_712/new_ball_712_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_712/new_ball_712_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

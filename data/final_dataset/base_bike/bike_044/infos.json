@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_044",
+    "label": "bike",
+    "caption": "Four bicyclists ride along a dirt road between two wire fences .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_044/base_bike_044.jpg": [],
+        "../data/final_dataset/base_bike/bike_044/base_bike_044_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_044/base_bike_044_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_078",
+    "label": "bike",
+    "caption": "A bike rider is doing a stunt on a bicycle over a forest .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_078/base_bike_078.jpg": [],
+        "../data/final_dataset/base_bike/bike_078/base_bike_078_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_078/base_bike_078_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

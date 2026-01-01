@@ -1,0 +1,14 @@
+{
+    "img_stem": "dog_104",
+    "label": "dog",
+    "caption": "A dog on two legs with its mouth opened toward a blue ball in the air .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_104/base_dog_104.jpg": [],
+        "../data/final_dataset/base_dog/dog_104/base_dog_104_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_104/base_dog_104_color.jpg": [
+            "bw"
+        ]
+    }
+}

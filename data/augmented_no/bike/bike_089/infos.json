@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_089",
-    "label": "bike",
-    "caption": "A green motorcycle is being ridden on a wet racetrack .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_089/bike_089.jpg": []
-    }
-}

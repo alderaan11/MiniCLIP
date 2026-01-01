@@ -1,0 +1,14 @@
+{
+    "img_stem": "bike_088",
+    "label": "bike",
+    "caption": "A man on a bicycle jumping off a dirt ramp with one foot on the ground",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_088/base_bike_088.jpg": [],
+        "../data/final_dataset/base_bike/bike_088/base_bike_088_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_088/base_bike_088_color.jpg": []
+    }
+}

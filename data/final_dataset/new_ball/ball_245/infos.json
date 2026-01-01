@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_245",
+    "label": "ball",
+    "caption": "In a sun-drenched park, a playful black and white dog enthusiastically chases after its favorite worn-out ball, which has a noticeable tear in its surface, as it rolls across the lush green grass. The energetic canine's tail wags furiously with excitement, its tongue lolling out of its mouth in joyful abandon. The scene is filled with the warm sounds of children laughing and playing in the background.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_245/new_ball_245.jpg": [],
+        "../data/final_dataset/new_ball/ball_245/new_ball_245_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_245/new_ball_245_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

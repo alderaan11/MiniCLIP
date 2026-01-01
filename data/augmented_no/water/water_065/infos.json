@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_065",
-    "label": "water",
-    "caption": "A group of bicyclists getting ready for a ride .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_065/water_065.jpg": []
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_016",
-    "label": "ball",
-    "caption": "A man in red shorts jumping in back of a volleyball net .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_016/ball_016.jpg": []
-    }
-}

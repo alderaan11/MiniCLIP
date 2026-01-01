@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_389",
+    "label": "bike",
+    "caption": "A young girl zooms by on her sleek bicycle, weaving through the crowd as she heads down the busy street. She wears a bright smile as she pedals quickly, her ponytail bobbing behind her. In the background, people of all ages hurry to and fro, going about their daily business amidst the vibrant urban scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_389/new_bike_389.jpg": [],
+        "../data/final_dataset/new_bike/bike_389/new_bike_389_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_389/new_bike_389_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

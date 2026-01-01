@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_150",
-    "label": "water",
-    "caption": "A long haired man walking away beside a canal whist holding onto a railing .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_150/water_150.jpg": []
-    }
-}

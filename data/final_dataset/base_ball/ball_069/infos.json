@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_069",
+    "label": "ball",
+    "caption": "Two bald men on a park bench wearing small yellow traffic cones .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_069/base_ball_069.jpg": [],
+        "../data/final_dataset/base_ball/ball_069/base_ball_069_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_069/base_ball_069_color.jpg": [
+            "bw"
+        ]
+    }
+}

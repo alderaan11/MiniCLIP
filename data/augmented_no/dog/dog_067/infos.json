@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_067",
-    "label": "dog",
-    "caption": "A black dog carries an orange tennis ball in his mouth as he swims .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_067/dog_067.jpg": []
-    }
-}

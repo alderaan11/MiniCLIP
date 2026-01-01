@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_846",
+    "label": "dog",
+    "caption": "A playful black and brown dog is seen tussling with its companion, their paws and snouts locked in a joyful wrestle on the grassy backyard. Meanwhile, another smaller dog looks on curiously from a nearby patch of sunlight, observing the commotion with great interest. The air is filled with the happy yips and barks of the playful canine pair as they frolic together.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_846/new_dog_846.jpg": [],
+        "../data/final_dataset/new_dog/dog_846/new_dog_846_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_846/new_dog_846_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

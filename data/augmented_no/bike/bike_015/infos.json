@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_015",
-    "label": "bike",
-    "caption": "A man is riding on a red motorcycle .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_015/bike_015.jpg": []
-    }
-}

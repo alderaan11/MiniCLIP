@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_1224",
+    "label": "water",
+    "caption": "A dog splashes playfully in a puddle of murky water, its fur matted with damp mud. The surrounding area appears to be a rural landscape, with tall trees and overgrown bushes visible in the background. A faint mist rises from the surface of the water, casting a subtle veil over the scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1224/new_water_1224.jpg": [],
+        "../data/final_dataset/new_water/water_1224/new_water_1224_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_1224/new_water_1224_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

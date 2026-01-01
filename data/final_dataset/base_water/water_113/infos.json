@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_113",
+    "label": "water",
+    "caption": "Two dogs are running through water carrying a rope and red float in their mouths .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_113/base_water_113.jpg": [],
+        "../data/final_dataset/base_water/water_113/base_water_113_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_113/base_water_113_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "img_stem": "bike_021",
+    "label": "bike",
+    "caption": "A woman, likely on her daily commute, pedals steadily along a winding path through a lush park, surrounded by a group of energetic dogs running playfully alongside her as she navigates the bike. The sun casts dappled shadows across the grass beneath their feet, and the sound of laughter carries through the air as they enjoy this pleasant morning outing together. In the background, trees sway gently in the breeze, adding to the serene atmosphere of this idyllic scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_021/new_bike_021.jpg": [],
+        "../data/final_dataset/new_bike/bike_021/new_bike_021_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_021/new_bike_021_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

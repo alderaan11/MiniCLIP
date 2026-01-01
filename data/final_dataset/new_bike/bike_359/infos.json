@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_359",
+    "label": "bike",
+    "caption": "A thrilling dirt bike competition has drawn in a large crowd, cheering on the riders as they speed around the rugged track. The rider in question, clad in his bright red uniform, performs a daring jump over a row of tires, sending dust flying through the air and grinning from ear to ear. The roar of engines and shouts of excitement fill the atmosphere as he hurtles towards the next turn, his bike's wheels spinning wildly on the loose dirt.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_359/new_bike_359.jpg": [],
+        "../data/final_dataset/new_bike/bike_359/new_bike_359_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_359/new_bike_359_color.jpg": [
+            "bw"
+        ]
+    }
+}

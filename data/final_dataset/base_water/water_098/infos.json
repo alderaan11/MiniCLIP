@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_098",
+    "label": "water",
+    "caption": "a black dog jumping through some water",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_098/base_water_098.jpg": [],
+        "../data/final_dataset/base_water/water_098/base_water_098_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_098/base_water_098_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_146",
+    "label": "bike",
+    "caption": "A group of cyclists race uphill on foot with their bikes on their shoulders .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_146/base_bike_146.jpg": [],
+        "../data/final_dataset/base_bike/bike_146/base_bike_146_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_146/base_bike_146_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

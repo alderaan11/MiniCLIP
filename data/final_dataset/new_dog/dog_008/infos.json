@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_008",
+    "label": "dog",
+    "caption": "A young light-colored dog, its fur glistening in the sunlight, runs enthusiastically along the shoreline, its paws kicking up small waves as it chases after a seagull that has flown too close to the water's edge. The sound of gentle lapping and playful barking fills the air as the dog frolics in the shallows, completely carefree. A beach umbrella stands nearby, providing some shade for its owner who is watching with a smile on their face.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_008/new_dog_008.jpg": [],
+        "../data/final_dataset/new_dog/dog_008/new_dog_008_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_008/new_dog_008_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

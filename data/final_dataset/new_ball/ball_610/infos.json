@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_610",
+    "label": "ball",
+    "caption": "The field hockey game was intense, with the goalie crouched low in front of the goal, glove hand stretched out to block the incoming puck as it hurtled towards the net at high speed. The crowd held its collective breath as the ball flashed past the goalie's face, narrowly missing a crucial save. In the background, the opposing team's forwards could be seen pressing forward, their sticks poised to strike and send the ball careening back towards the goalie.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_610/new_ball_610.jpg": [],
+        "../data/final_dataset/new_ball/ball_610/new_ball_610_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_610/new_ball_610_color.jpg": [
+            "bw"
+        ]
+    }
+}

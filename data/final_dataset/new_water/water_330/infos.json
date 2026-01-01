@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_330",
+    "label": "water",
+    "caption": "A young brown dog, its fur fluffed up from the cool water, sprints joyfully along the sandy shoreline as a gentle wave from the nearby ocean crests and crashes onto the shore behind it. The sun shines down on the scene, casting a warm glow over the entire moment. Seagulls wheel overhead, their cries carrying on the breeze as they scan the waters for potential prey.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_330/new_water_330.jpg": [],
+        "../data/final_dataset/new_water/water_330/new_water_330_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_330/new_water_330_color.jpg": [
+            "bw"
+        ]
+    }
+}

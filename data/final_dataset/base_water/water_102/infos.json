@@ -1,0 +1,20 @@
+{
+    "img_stem": "water_102",
+    "label": "water",
+    "caption": "A boy in a swimsuit walking in the sand towards the water",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_102/base_water_102.jpg": [],
+        "../data/final_dataset/base_water/water_102/base_water_102_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_102/base_water_102_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

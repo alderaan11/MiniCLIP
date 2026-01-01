@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_038",
+    "label": "bike",
+    "caption": "A man in shorts and a tank top pedals his bicycle along the sandy beach, the sound of the waves crashing against the shore mingling with the rhythmic creaking of the bike's wheels. Seagulls fly overhead, their cries carrying on the breeze as they search for scraps in the beachgoers' wake. In the distance, a sailboat glides effortlessly across the calm water, its mast and sails reflected perfectly in the mirror-like surface of the ocean.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_038/new_bike_038.jpg": [],
+        "../data/final_dataset/new_bike/bike_038/new_bike_038_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_038/new_bike_038_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

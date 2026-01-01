@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_114",
+    "label": "bike",
+    "caption": "A guy performing a bicycle jump trick for an audience .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_114/base_bike_114.jpg": [],
+        "../data/final_dataset/base_bike/bike_114/base_bike_114_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_bike/bike_114/base_bike_114_color.jpg": [
+            "bw"
+        ]
+    }
+}

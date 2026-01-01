@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_039",
+    "label": "ball",
+    "caption": "A boy dribbles a basketball in the gymnasium .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_039/base_ball_039.jpg": [],
+        "../data/final_dataset/base_ball/ball_039/base_ball_039_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_039/base_ball_039_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

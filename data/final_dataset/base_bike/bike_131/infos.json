@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_131",
+    "label": "bike",
+    "caption": "A BMX biker performing a wall-ride on a ramp .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_131/base_bike_131.jpg": [],
+        "../data/final_dataset/base_bike/bike_131/base_bike_131_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_131/base_bike_131_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

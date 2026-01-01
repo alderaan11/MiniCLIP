@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_081",
+    "label": "dog",
+    "caption": "A fluffy white dog is coming out of a blue striped obstacle shute .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_081/base_dog_081.jpg": [],
+        "../data/final_dataset/base_dog/dog_081/base_dog_081_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_081/base_dog_081_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

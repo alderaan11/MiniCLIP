@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_095",
-    "label": "bike",
-    "caption": "A man on a bicycle rides on a mountain .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_095/bike_095.jpg": []
-    }
-}

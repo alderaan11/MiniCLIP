@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_060",
+    "label": "bike",
+    "caption": "A cyclist is performing a jump next to a black advertising banner .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_060/base_bike_060.jpg": [],
+        "../data/final_dataset/base_bike/bike_060/base_bike_060_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_060/base_bike_060_color.jpg": [
+            "bw"
+        ]
+    }
+}

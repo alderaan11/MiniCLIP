@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_064",
+    "label": "water",
+    "caption": "A man in a blue canoe battling through rough waves",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_064/base_water_064.jpg": [],
+        "../data/final_dataset/base_water/water_064/base_water_064_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_064/base_water_064_color.jpg": [
+            "bw"
+        ]
+    }
+}

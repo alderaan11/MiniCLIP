@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_095",
-    "label": "water",
-    "caption": "A guy waterskiing behind a boat .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_095/water_095.jpg": []
-    }
-}

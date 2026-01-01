@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_275",
+    "label": "bike",
+    "caption": "The sun casts a warm glow over the tree-lined road as a happy couple pedals their one-seater bike in tandem, the rhythmic motion of their pedaling creating a sense of harmony with nature. The trees' leafy branches stretch out above them, forming a verdant canopy that provides a serene backdrop for their leisurely ride. As they glide effortlessly along, the gentle breeze rustles through the leaves and carries the sweet scent of blooming flowers on the air.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_275/new_bike_275.jpg": [],
+        "../data/final_dataset/new_bike/bike_275/new_bike_275_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_275/new_bike_275_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

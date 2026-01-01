@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_007",
+    "label": "ball",
+    "caption": "A boy in blue with a football sprawls in the grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_007/base_ball_007.jpg": [],
+        "../data/final_dataset/base_ball/ball_007/base_ball_007_spatial.jpg": [
+            "h_flip"
+        ],
+        "../data/final_dataset/base_ball/ball_007/base_ball_007_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

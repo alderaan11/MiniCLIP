@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_232",
+    "label": "bike",
+    "caption": "A group of dirtbikers speed down the muddy track, their tires kicking up clouds of mud as they navigate the treacherous terrain. One rider in particular catches my eye, his bike's suspension compressed as he hits a particularly rough patch and narrowly avoids wiping out. The sound of revving engines and screeching tires fills the air as the riders continue to push themselves to the limit on this demanding course.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_232/new_bike_232.jpg": [],
+        "../data/final_dataset/new_bike/bike_232/new_bike_232_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_232/new_bike_232_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

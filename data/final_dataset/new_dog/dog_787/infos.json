@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_787",
+    "label": "dog",
+    "caption": "A sunny afternoon casts a warm glow over a lush green field, where two dogs frolic together in joyful abandon. A sleek black canine runs circles around its brown-and-white companion, their playful barks filling the air as they chase each other in an endless game of tag. As they play, the vibrant colors of the surrounding landscape - from the bright blue sky to the verdant blades of grass - serve as a picturesque backdrop for this heartwarming scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_787/new_dog_787.jpg": [],
+        "../data/final_dataset/new_dog/dog_787/new_dog_787_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_787/new_dog_787_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

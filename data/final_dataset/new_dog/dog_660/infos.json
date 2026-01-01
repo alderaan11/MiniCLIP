@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_660",
+    "label": "dog",
+    "caption": "Outside a primary school, a group of children in their uniforms stand eagerly beside a small playground, chatting excitedly with each other as they wait for recess to begin. Amidst them, a fluffy golden retriever wagging its tail joyfully plays catch with one of the kids, adding to the lively atmosphere of the morning scene. The dog's owner, a smiling teacher, watches over the children from a nearby bench, making sure everyone stays safe and happy.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_660/new_dog_660.jpg": [],
+        "../data/final_dataset/new_dog/dog_660/new_dog_660_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_660/new_dog_660_color.jpg": [
+            "bw"
+        ]
+    }
+}

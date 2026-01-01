@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_115",
+    "label": "bike",
+    "caption": "A cyclist wearing blue and yellow riding past trees .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_115/base_bike_115.jpg": [],
+        "../data/final_dataset/base_bike/bike_115/base_bike_115_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_115/base_bike_115_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

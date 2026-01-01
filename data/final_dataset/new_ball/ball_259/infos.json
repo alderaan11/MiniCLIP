@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_259",
+    "label": "ball",
+    "caption": "The boy expertly kicked the ball downfield, his soccer uniform stained from a previous tackle. As he sprinted past the goalposts, his teammates cheered him on, their voices carrying across the lush green grass of the field. The sun beat down on the players, casting long shadows behind them as they chased after the rolling ball.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_259/new_ball_259.jpg": [],
+        "../data/final_dataset/new_ball/ball_259/new_ball_259_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_259/new_ball_259_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

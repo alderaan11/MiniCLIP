@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_087",
+    "label": "water",
+    "caption": "A group of people stand in the sand looking out at the water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_087/base_water_087.jpg": [],
+        "../data/final_dataset/base_water/water_087/base_water_087_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_087/base_water_087_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_125",
+    "label": "bike",
+    "caption": "A cyclist is laying on his motorbike while in the air .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_125/base_bike_125.jpg": [],
+        "../data/final_dataset/base_bike/bike_125/base_bike_125_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_125/base_bike_125_color.jpg": [
+            "bw"
+        ]
+    }
+}

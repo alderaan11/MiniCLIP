@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_065",
+    "label": "water",
+    "caption": "A group of bicyclists getting ready for a ride .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_065/base_water_065.jpg": [],
+        "../data/final_dataset/base_water/water_065/base_water_065_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_065/base_water_065_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

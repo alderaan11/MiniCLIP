@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_148",
+    "label": "ball",
+    "caption": "A football player passes the football to a teammate as the crowd looks on .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_148/base_ball_148.jpg": [],
+        "../data/final_dataset/base_ball/ball_148/base_ball_148_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_148/base_ball_148_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

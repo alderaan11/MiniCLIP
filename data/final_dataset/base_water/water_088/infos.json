@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_088",
+    "label": "water",
+    "caption": "A black and white spotted dog is jumping over the small stream of water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_088/base_water_088.jpg": [],
+        "../data/final_dataset/base_water/water_088/base_water_088_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_088/base_water_088_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

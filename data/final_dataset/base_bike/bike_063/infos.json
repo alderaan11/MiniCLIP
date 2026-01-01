@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_063",
+    "label": "bike",
+    "caption": "a boy falls off his red bike .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_063/base_bike_063.jpg": [],
+        "../data/final_dataset/base_bike/bike_063/base_bike_063_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_bike/bike_063/base_bike_063_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

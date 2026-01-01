@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_110",
-    "label": "water",
-    "caption": "A man in a maroon bathing suit swings on a rope on a lake .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_110/water_110.jpg": []
-    }
-}

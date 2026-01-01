@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_024",
+    "label": "bike",
+    "caption": "A group of people ride bikes while holding onto large trash bags .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_024/base_bike_024.jpg": [],
+        "../data/final_dataset/base_bike/bike_024/base_bike_024_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_024/base_bike_024_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

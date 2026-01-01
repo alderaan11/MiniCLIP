@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_035",
+    "label": "water",
+    "caption": "A blonde boy wearing a blue life vest and camo shorts jumps off a diveboard into a blue lake .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_035/base_water_035.jpg": [],
+        "../data/final_dataset/base_water/water_035/base_water_035_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_035/base_water_035_color.jpg": [
+            "bw"
+        ]
+    }
+}

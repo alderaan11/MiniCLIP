@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_073",
+    "label": "bike",
+    "caption": "A woman in a blue tank top and shorts is jogging down an asphalt road, her ponytail bouncing with each step, while to her left, a cyclist wearing a yellow jersey and matching helmet pedals steadily towards her, the rhythmic sound of his wheels on the pavement filling the air as he passes by. The sun casts long shadows across the road behind him, illuminating the slight incline that leads up to a distant hill in the background. A few trees line the roadside, their leaves rustling gently in the breeze.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_073/new_bike_073.jpg": [],
+        "../data/final_dataset/new_bike/bike_073/new_bike_073_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_073/new_bike_073_color.jpg": [
+            "flash"
+        ]
+    }
+}

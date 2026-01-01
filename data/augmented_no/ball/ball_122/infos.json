@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_122",
-    "label": "ball",
-    "caption": "A man runs on the football field carrying the ball in front of the ref .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_122/ball_122.jpg": []
-    }
-}

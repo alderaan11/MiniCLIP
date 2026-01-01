@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_134",
-    "label": "bike",
-    "caption": "A biker patiently waits as his friend bikes ahead of him .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_134/bike_134.jpg": []
-    }
-}

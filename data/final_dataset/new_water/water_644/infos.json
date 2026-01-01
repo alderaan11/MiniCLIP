@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_644",
+    "label": "water",
+    "caption": "A bright summer afternoon sun casts a warm glow over the small backyard, where two playful dogs - one with a tanned coat, the other with a snowy white fur - frolic and splash around in a compact baby pool filled with crystal-clear water. The refreshing liquid provides the perfect escape for the energetic duo as they chase each other in circles, creating miniature waves on its surface. A few strategically placed sun loungers nearby invite relaxation, but they are currently occupied by the dogs' joyful barks and splashing fun.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_644/new_water_644.jpg": [],
+        "../data/final_dataset/new_water/water_644/new_water_644_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_644/new_water_644_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

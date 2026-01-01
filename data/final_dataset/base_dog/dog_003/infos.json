@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_003",
+    "label": "dog",
+    "caption": "A black and white dog is running in a grassy garden surrounded by a white fence .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_003/base_dog_003.jpg": [],
+        "../data/final_dataset/base_dog/dog_003/base_dog_003_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_dog/dog_003/base_dog_003_color.jpg": [
+            "bw"
+        ]
+    }
+}

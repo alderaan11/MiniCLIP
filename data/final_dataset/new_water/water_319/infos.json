@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_319",
+    "label": "water",
+    "caption": "A warm summer day has brought the family to the park for a refreshing splash in the large public fountain. The child, excited by the cool water, runs around with abandon, laughing and shrieking as they try to get away from the gentle sprays. Nearby, their father and younger brother enjoy a more leisurely stroll along the surrounding walkway.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_319/new_water_319.jpg": [],
+        "../data/final_dataset/new_water/water_319/new_water_319_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_319/new_water_319_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

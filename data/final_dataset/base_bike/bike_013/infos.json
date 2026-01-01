@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_013",
+    "label": "bike",
+    "caption": "A man riding his bike on a hill .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_013/base_bike_013.jpg": [],
+        "../data/final_dataset/base_bike/bike_013/base_bike_013_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_013/base_bike_013_color.jpg": [
+            "bw"
+        ]
+    }
+}

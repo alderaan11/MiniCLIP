@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_178",
+    "label": "bike",
+    "caption": "A young boy with a determined look on his face is perched on a shiny red bicycle, his feet precariously positioned on the handlebars as he gains confidence in his cycling skills. His bright blue helmet sits slightly askew on his messy brown hair, and a carefree grin spreads across his face. The sun casts a warm glow over the scene, illuminating the grassy park where this enthusiastic rider is honing his balance and bike-handling abilities.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_178/new_bike_178.jpg": [],
+        "../data/final_dataset/new_bike/bike_178/new_bike_178_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_178/new_bike_178_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

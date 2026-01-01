@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_091",
+    "label": "ball",
+    "caption": "The dog with the green collar and ball is running behind the dog with the red collar",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_091/base_ball_091.jpg": [],
+        "../data/final_dataset/base_ball/ball_091/base_ball_091_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_091/base_ball_091_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

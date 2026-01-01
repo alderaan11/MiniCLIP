@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_085",
+    "label": "bike",
+    "caption": "A small child on riding toy and a larger child on a small bicycle with training wheels .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_085/base_bike_085.jpg": [],
+        "../data/final_dataset/base_bike/bike_085/base_bike_085_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_085/base_bike_085_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

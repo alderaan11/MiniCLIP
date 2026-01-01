@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_013",
-    "label": "bike",
-    "caption": "A man riding his bike on a hill .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_013/bike_013.jpg": []
-    }
-}

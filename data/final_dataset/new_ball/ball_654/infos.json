@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_654",
+    "label": "ball",
+    "caption": "A sunny afternoon finds two playful white dogs frolicking in their yard, their tails wagging excitedly as they give chase to a vibrant red orb bouncing through the air. The ball, worn from repeated playtime, is still remarkably bouncy, its bright color catching the eye of anyone watching the commotion it causes. As the dogs leap and bound after it, their joyful yips echo through the yard, filling the air with infectious energy.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_654/new_ball_654.jpg": [],
+        "../data/final_dataset/new_ball/ball_654/new_ball_654_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_654/new_ball_654_color.jpg": [
+            "bw"
+        ]
+    }
+}

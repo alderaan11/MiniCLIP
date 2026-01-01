@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_1114",
+    "label": "dog",
+    "caption": "The man stood in his backyard, patiently guiding his energetic black poodle through a series of obedience commands. The poodle's tail wagged furiously as it struggled to focus on the task at hand, its owner's cheerful voice offering words of encouragement. A bright yellow shirt made the man stand out against the lush green grass, as he worked to instill good manners in his rambunctious pet.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1114/new_dog_1114.jpg": [],
+        "../data/final_dataset/new_dog/dog_1114/new_dog_1114_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_1114/new_dog_1114_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

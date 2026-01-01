@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_122",
-    "label": "dog",
-    "caption": "Two brownish dogs are fighting .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_122/dog_122.jpg": []
-    }
-}

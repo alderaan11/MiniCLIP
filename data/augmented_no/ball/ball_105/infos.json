@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_105",
-    "label": "ball",
-    "caption": "A man in swim trunks hits a ball with a paddle , while on the beach .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_105/ball_105.jpg": []
-    }
-}

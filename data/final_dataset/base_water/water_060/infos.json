@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_060",
+    "label": "water",
+    "caption": "A fisherman is reeling his rod while another relaxes in a boat on water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_060/base_water_060.jpg": [],
+        "../data/final_dataset/base_water/water_060/base_water_060_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_060/base_water_060_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

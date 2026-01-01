@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_120",
+    "label": "water",
+    "caption": "A boy in a large pool .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_120/base_water_120.jpg": [],
+        "../data/final_dataset/base_water/water_120/base_water_120_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_120/base_water_120_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

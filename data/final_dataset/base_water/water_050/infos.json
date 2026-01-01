@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_050",
+    "label": "water",
+    "caption": "A half-dressed man walks into a river at the bottom of a small waterfall .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_050/base_water_050.jpg": [],
+        "../data/final_dataset/base_water/water_050/base_water_050_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_050/base_water_050_color.jpg": [
+            "bw"
+        ]
+    }
+}

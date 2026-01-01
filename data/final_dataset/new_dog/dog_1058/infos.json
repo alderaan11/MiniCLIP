@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_1058",
+    "label": "dog",
+    "caption": "The dogs, their fur fluffed up against the cold, ran through the snow-covered park, chasing each other in joyful circles as they barked excitedly. Behind them, the towering skyscrapers of the city rose up, their peaks lost in the grey winter clouds. As the dogs played on, a few curious onlookers stopped to watch, smiling at the infectious energy of the happy pack.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1058/new_dog_1058.jpg": [],
+        "../data/final_dataset/new_dog/dog_1058/new_dog_1058_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_1058/new_dog_1058_color.jpg": [
+            "bw"
+        ]
+    }
+}

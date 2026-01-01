@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_075",
+    "label": "dog",
+    "caption": "A dog in midair cathing the red ball .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_075/base_dog_075.jpg": [],
+        "../data/final_dataset/base_dog/dog_075/base_dog_075_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_075/base_dog_075_color.jpg": [
+            "bw"
+        ]
+    }
+}

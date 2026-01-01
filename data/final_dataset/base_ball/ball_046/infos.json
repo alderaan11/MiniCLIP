@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_046",
+    "label": "ball",
+    "caption": "A girl in a ballet fairy costume is touched by a wand .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_046/base_ball_046.jpg": [],
+        "../data/final_dataset/base_ball/ball_046/base_ball_046_spatial.jpg": [
+            "h_flip"
+        ],
+        "../data/final_dataset/base_ball/ball_046/base_ball_046_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

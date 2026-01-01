@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_192",
+    "label": "bike",
+    "caption": "A girl clad in a reflective jacket pedals her bike along a dimly lit street, the wheels humming softly on the pavement as she makes her way home from a late-night ride with friends. The streetlights cast long shadows behind the parked cars and buildings, creating an eerie yet peaceful atmosphere. A faint glow emanates from the nearby houses, illuminating the girl's determined face as she navigates through the quiet evening streets.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_192/new_bike_192.jpg": [],
+        "../data/final_dataset/new_bike/bike_192/new_bike_192_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_192/new_bike_192_color.jpg": [
+            "bw"
+        ]
+    }
+}

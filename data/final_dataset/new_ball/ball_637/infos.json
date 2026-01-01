@@ -1,0 +1,20 @@
+{
+    "img_stem": "ball_637",
+    "label": "ball",
+    "caption": "A young rugby player sprawled out on the lush green grass, his arm stretched out to grasp the leather-bound ball that had slipped from his fingers during the previous play. The bright sunlight cast long shadows across the field as he struggled to get back into position for the next tackle. Nearby teammates cheered him on, their voices carrying through the crisp afternoon air.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_637/new_ball_637.jpg": [],
+        "../data/final_dataset/new_ball/ball_637/new_ball_637_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_637/new_ball_637_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

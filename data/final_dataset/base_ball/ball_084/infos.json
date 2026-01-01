@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_084",
+    "label": "ball",
+    "caption": "A laughing boy lies on a pit of blue balls .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_084/base_ball_084.jpg": [],
+        "../data/final_dataset/base_ball/ball_084/base_ball_084_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_084/base_ball_084_color.jpg": [
+            "bw"
+        ]
+    }
+}

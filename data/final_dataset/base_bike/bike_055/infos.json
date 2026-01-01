@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_055",
+    "label": "bike",
+    "caption": "a couple riding a bike",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_055/base_bike_055.jpg": [],
+        "../data/final_dataset/base_bike/bike_055/base_bike_055_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_bike/bike_055/base_bike_055_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

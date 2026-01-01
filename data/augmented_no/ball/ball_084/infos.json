@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_084",
-    "label": "ball",
-    "caption": "A laughing boy lies on a pit of blue balls .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_084/ball_084.jpg": []
-    }
-}

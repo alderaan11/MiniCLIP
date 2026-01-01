@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_191",
+    "label": "ball",
+    "caption": "A woman, likely a mother, is playfully chasing after her young son as he runs around in a park on a sunny day. She's holding onto a white tennis ball tightly, her arm extended behind her as she tries to catch up to her energetic child. The boy's laughter echoes through the air as he darted away from his mom, ball-free once again.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_191/new_ball_191.jpg": [],
+        "../data/final_dataset/new_ball/ball_191/new_ball_191_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_191/new_ball_191_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

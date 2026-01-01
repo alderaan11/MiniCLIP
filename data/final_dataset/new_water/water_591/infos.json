@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_591",
+    "label": "water",
+    "caption": "A young boy, wearing a swimming cap to protect his hair, and goggles to keep water out of his eyes, enthusiastically runs through the calm surface of the pool, creating ripples in the reflected sunlight. Behind him, another child effortlessly glides through the water, their strokes smooth and natural as they follow the first boy's lead. The sound of splashing and laughter fills the air, accompanied by the warmth of a sunny day spent enjoying the water.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_591/new_water_591.jpg": [],
+        "../data/final_dataset/new_water/water_591/new_water_591_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_591/new_water_591_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

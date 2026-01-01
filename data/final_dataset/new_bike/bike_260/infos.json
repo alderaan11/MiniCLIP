@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_260",
+    "label": "bike",
+    "caption": "A rugged dirt path winds through a dense forest, lined with ferns and overgrown vegetation. A rider in camouflage gear and a black helmet speeds by on his bike, kicking up clouds of mud as he navigates the bumpy terrain. The sound of revving engine echoes through the trees, mingling with the chirping birds and rustling leaves.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_260/new_bike_260.jpg": [],
+        "../data/final_dataset/new_bike/bike_260/new_bike_260_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_260/new_bike_260_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

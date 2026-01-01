@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_083",
+    "label": "ball",
+    "caption": "In a lush green park, a playful big black dog proudly carries a bright blue ball in his mouth as he runs alongside two energetic Corgis who are yelping with excitement to join in on the fun game of fetch. The warm sunlight casts a gentle glow over the scene, highlighting the vibrant colors of the dogs and the ball. In the background, a few trees sway gently in the breeze, adding a sense of tranquility to the lively atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_083/new_ball_083.jpg": [],
+        "../data/final_dataset/new_ball/ball_083/new_ball_083_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_083/new_ball_083_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

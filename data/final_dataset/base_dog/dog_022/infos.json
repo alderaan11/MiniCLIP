@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_022",
+    "label": "dog",
+    "caption": "A closeup of a white dog that is laying its head on its paws .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_022/base_dog_022.jpg": [],
+        "../data/final_dataset/base_dog/dog_022/base_dog_022_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_dog/dog_022/base_dog_022_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

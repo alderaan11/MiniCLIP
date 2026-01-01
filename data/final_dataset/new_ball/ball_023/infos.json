@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_023",
+    "label": "ball",
+    "caption": "As the black and white dog bursts into the sparkling pool, its joyful yelp fills the air as it effortlessly glides across the water with a worn rubber ball clutched tightly in its jaws. The ball, which has been retrieved from a previous game of fetch on the sun-drenched lawn, is now floating alongside its owner's splashing form. A few carefree moments of aquatic play will soon give way to a refreshing afternoon nap under the warm sun.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_023/new_ball_023.jpg": [],
+        "../data/final_dataset/new_ball/ball_023/new_ball_023_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_023/new_ball_023_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

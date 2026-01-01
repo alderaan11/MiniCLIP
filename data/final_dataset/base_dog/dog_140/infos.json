@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_140",
+    "label": "dog",
+    "caption": "A brown dog brings up some dust as he runs around a field .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_140/base_dog_140.jpg": [],
+        "../data/final_dataset/base_dog/dog_140/base_dog_140_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_140/base_dog_140_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

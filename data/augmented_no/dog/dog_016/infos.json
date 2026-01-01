@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_016",
-    "label": "dog",
-    "caption": "A light-colored dog runs on the beach .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_016/dog_016.jpg": []
-    }
-}

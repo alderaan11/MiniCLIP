@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_004",
+    "label": "ball",
+    "caption": "A boys baseball team wear their uniforms .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_004/base_ball_004.jpg": [],
+        "../data/final_dataset/base_ball/ball_004/base_ball_004_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_004/base_ball_004_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

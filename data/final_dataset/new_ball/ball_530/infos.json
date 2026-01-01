@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_530",
+    "label": "ball",
+    "caption": "A man in casual attire, wearing blue jeans and a striped shirt under a dark blue jacket, stands with his arm outstretched, holding onto a ball as a black dog leaps forward, its paws almost touching the man's hand in mid-air. The scene is set outdoors on a sunny day, perhaps in a backyard or park, where the man has likely been playing fetch with the enthusiastic dog. The ball itself is a bright, eye-catching color against the muted tones of the surrounding environment.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_530/new_ball_530.jpg": [],
+        "../data/final_dataset/new_ball/ball_530/new_ball_530_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_530/new_ball_530_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

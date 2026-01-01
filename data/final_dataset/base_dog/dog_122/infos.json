@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_122",
+    "label": "dog",
+    "caption": "Two brownish dogs are fighting .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_122/base_dog_122.jpg": [],
+        "../data/final_dataset/base_dog/dog_122/base_dog_122_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_122/base_dog_122_color.jpg": [
+            "flash"
+        ]
+    }
+}

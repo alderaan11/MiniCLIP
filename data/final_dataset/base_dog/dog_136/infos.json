@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_136",
+    "label": "dog",
+    "caption": "A dog is running with a yellow tennis ball and wearing a red harness .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_136/base_dog_136.jpg": [],
+        "../data/final_dataset/base_dog/dog_136/base_dog_136_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_136/base_dog_136_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

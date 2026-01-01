@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_062",
+    "label": "bike",
+    "caption": "A little boy with a blue shirt is wearing a helmet and riding a two wheeled bike .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_062/base_bike_062.jpg": [],
+        "../data/final_dataset/base_bike/bike_062/base_bike_062_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_062/base_bike_062_color.jpg": [
+            "bw"
+        ]
+    }
+}

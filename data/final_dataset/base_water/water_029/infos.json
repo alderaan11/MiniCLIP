@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_029",
+    "label": "water",
+    "caption": "A little girl with arms outstretched plays with others at a sprinkler park .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_029/base_water_029.jpg": [],
+        "../data/final_dataset/base_water/water_029/base_water_029_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_029/base_water_029_color.jpg": [
+            "bw"
+        ]
+    }
+}

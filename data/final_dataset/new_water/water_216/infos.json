@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_216",
+    "label": "water",
+    "caption": "A group of children are splashing around in the outdoor pool on a warm summer day, their laughter and shouts carrying through the air as they play games like Marco Polo. One boy wears green shorts and swims past another who's clad in black shorts, creating a vibrant splash in the clear blue water. Nearby, an adult supervisor watches over the kids with a friendly smile, ensuring everyone stays safe and has fun.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_216/new_water_216.jpg": [],
+        "../data/final_dataset/new_water/water_216/new_water_216_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_216/new_water_216_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

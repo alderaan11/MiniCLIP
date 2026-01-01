@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_128",
+    "label": "bike",
+    "caption": "A disabled athlete is competing with his sponsored gear along a street lined with spectators .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_128/base_bike_128.jpg": [],
+        "../data/final_dataset/base_bike/bike_128/base_bike_128_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_128/base_bike_128_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

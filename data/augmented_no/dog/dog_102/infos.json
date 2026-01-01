@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_102",
-    "label": "dog",
-    "caption": "A black and white dog jumps over a pole while splashing water around .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_102/dog_102.jpg": []
-    }
-}

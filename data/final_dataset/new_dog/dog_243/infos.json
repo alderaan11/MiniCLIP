@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_243",
+    "label": "dog",
+    "caption": "A cheerful black and white dog, its fur fluffed up against the cold, leaps through the powdery snow in a park filled with bare trees. The winter sun casts a pale light over the scene, illuminating the dog's joyful expression as it plays freely. In the background, a few people can be seen bundled up on benches, watching the dog with warm smiles.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_243/new_dog_243.jpg": [],
+        "../data/final_dataset/new_dog/dog_243/new_dog_243_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_243/new_dog_243_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

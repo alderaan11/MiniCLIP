@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_538",
+    "label": "ball",
+    "caption": "On the sun-baked diamond, a baseball player crouched low to his left, glove stretched out in a desperate attempt to snag a thrown pitch as a speedy runner slid frantically towards safety, their cleats screeching against the dirt infield. The ball seemed to hang suspended for an eternity, leaving both the catcher and the umpire frozen in anticipation of what was about to unfold.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_538/new_ball_538.jpg": [],
+        "../data/final_dataset/new_ball/ball_538/new_ball_538_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_538/new_ball_538_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

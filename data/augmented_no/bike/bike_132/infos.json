@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_132",
-    "label": "bike",
-    "caption": "A bicycle gets airborne .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_132/bike_132.jpg": []
-    }
-}

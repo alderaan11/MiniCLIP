@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_058",
-    "label": "bike",
-    "caption": "A man fiddles with a shopping bag outside near a shopping cart .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_058/bike_058.jpg": []
-    }
-}

@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_107",
+    "label": "water",
+    "caption": "A blonde man is wakeboarding and is jumping into the air .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_107/base_water_107.jpg": [],
+        "../data/final_dataset/base_water/water_107/base_water_107_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_107/base_water_107_color.jpg": [
+            "bw"
+        ]
+    }
+}

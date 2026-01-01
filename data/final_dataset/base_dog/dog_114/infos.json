@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_114",
+    "label": "dog",
+    "caption": "A brown dog and a tan dog are playing in tall grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_114/base_dog_114.jpg": [],
+        "../data/final_dataset/base_dog/dog_114/base_dog_114_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_114/base_dog_114_color.jpg": [
+            "bw"
+        ]
+    }
+}

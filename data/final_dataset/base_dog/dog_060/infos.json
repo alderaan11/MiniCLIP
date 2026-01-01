@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_060",
+    "label": "dog",
+    "caption": "A snow dog in a red harness .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_060/base_dog_060.jpg": [],
+        "../data/final_dataset/base_dog/dog_060/base_dog_060_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_060/base_dog_060_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_246",
+    "label": "ball",
+    "caption": "In the midst of a lively game, two playful black dogs are engrossed in a thrilling tug-of-war over a small red rubber ball, their eager faces fixed on the coveted prize as they try to wrestle it away from each other. The grassy field around them is dotted with scattered leaves and twigs, a testament to the energetic exchange that's unfolding. The atmosphere is one of joyful chaos, with both dogs completely absorbed in the game, oblivious to everything else.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_246/new_ball_246.jpg": [],
+        "../data/final_dataset/new_ball/ball_246/new_ball_246_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_246/new_ball_246_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

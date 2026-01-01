@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_062",
-    "label": "bike",
-    "caption": "A little boy with a blue shirt is wearing a helmet and riding a two wheeled bike .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_062/bike_062.jpg": []
-    }
-}

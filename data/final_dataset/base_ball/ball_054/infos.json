@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_054",
+    "label": "ball",
+    "caption": "A dog jumping in midair above grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_054/base_ball_054.jpg": [],
+        "../data/final_dataset/base_ball/ball_054/base_ball_054_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_054/base_ball_054_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

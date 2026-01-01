@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_087",
-    "label": "dog",
-    "caption": "A black dog retrieves a cloth from a streambed .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_087/dog_087.jpg": []
-    }
-}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_769",
+    "label": "dog",
+    "caption": "In a lush green meadow, a sleek black dog is seen in full sprint, its paws pounding against the soft grass as it plays with abandon. A bright purple collar adorns its neck, while a matching leash lies abandoned on the ground behind it, having clearly been cast aside in the heat of the moment. As the sun shines down upon the scene, the dog's joyful energy is palpable, bringing a sense of carefree joy to all who behold it.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_769/new_dog_769.jpg": [],
+        "../data/final_dataset/new_dog/dog_769/new_dog_769_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_769/new_dog_769_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

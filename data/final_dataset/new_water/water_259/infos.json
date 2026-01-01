@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_259",
+    "label": "water",
+    "caption": "The little blonde girl stands in front of a majestic fountain, its waters glistening in the sunlight as they cascade down into a small pool below. A few pigeons strut about on the edge of the fountain, looking for crumbs to snack on, while the girl appears completely absorbed in the scene before her, eyes fixed intently on the flowing water. The surrounding architecture is a mix of old and new, with worn stone walls giving way to sleek modern glass and steel just beyond the pool's edge.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_259/new_water_259.jpg": [],
+        "../data/final_dataset/new_water/water_259/new_water_259_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_259/new_water_259_color.jpg": [
+            "saturation"
+        ]
+    }
+}

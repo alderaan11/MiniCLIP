@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_086",
-    "label": "ball",
-    "caption": "A person hits a ball with a tennis racket .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_086/ball_086.jpg": []
-    }
-}

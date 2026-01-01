@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_064",
-    "label": "bike",
-    "caption": "A girl making a sad face standing in front of her tricycle",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_064/bike_064.jpg": []
-    }
-}

@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_094",
+    "label": "water",
+    "caption": "A man wakeboards in a red vest and smiles for the camera .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_094/base_water_094.jpg": [],
+        "../data/final_dataset/base_water/water_094/base_water_094_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_094/base_water_094_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

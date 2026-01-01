@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_103",
+    "label": "dog",
+    "caption": "A brown dog with a shiny black collar walks quietly beside its owner, its nose twitching as it sniffs at the leaves of a nearby bush. The warm sunlight casts dappled shadows on the grass beneath their feet. A few scattered petals from the bush's flowers lie scattered around the dog's paws.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_103/new_dog_103.jpg": [],
+        "../data/final_dataset/new_dog/dog_103/new_dog_103_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_103/new_dog_103_color.jpg": [
+            "bw"
+        ]
+    }
+}

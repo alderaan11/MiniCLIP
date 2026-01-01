@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_009",
+    "label": "bike",
+    "caption": "A man in a red biker suit on a red dirt bike going down a muddy road .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_009/base_bike_009.jpg": [],
+        "../data/final_dataset/base_bike/bike_009/base_bike_009_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_009/base_bike_009_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

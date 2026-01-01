@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_205",
+    "label": "water",
+    "caption": "A dog stands at the edge of a small pool of calm water, partially enclosed by a rugged rocky outcropping that provides a natural barrier between the tranquil scene and the surrounding landscape. The sun casts a warm glow over the scene, illuminating the subtle ripples on the water's surface as the dog gazes curiously into its reflection. A few strategically placed boulders add to the sense of seclusion, creating a serene oasis amidst the natural surroundings.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_205/new_water_205.jpg": [],
+        "../data/final_dataset/new_water/water_205/new_water_205_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_205/new_water_205_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

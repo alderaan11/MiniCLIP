@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_116",
+    "label": "bike",
+    "caption": "A crowd of onlookers gathered in a sun-drenched outdoor arena, cheering as a skilled biker launched himself into the air on his sleek mountain bike. The athlete soared over a small ramp, performing a daring trick with precision and control, the wind whipping through his hair as he sailed above the ground. As he landed smoothly back on the wheels of his bike, the audience erupted into applause, whistles, and cheers of approval.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_116/new_bike_116.jpg": [],
+        "../data/final_dataset/new_bike/bike_116/new_bike_116_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_116/new_bike_116_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

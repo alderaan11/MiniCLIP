@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_041",
-    "label": "water",
-    "caption": "A boy is jumping from a body board into the ocean .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_041/water_041.jpg": []
-    }
-}

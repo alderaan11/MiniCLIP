@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_709",
+    "label": "ball",
+    "caption": "In a lush green park, two energetic brown dogs, their tails wagging excitedly, chase after a bright red rubber ball as it bounces across the grassy terrain. The warm sunlight casts a pleasant glow on the scene, illuminating the joyful moment of play between the canine friends and their beloved ball. A gentle breeze rustles through the surrounding trees, adding to the idyllic atmosphere of carefree fun.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_709/new_ball_709.jpg": [],
+        "../data/final_dataset/new_ball/ball_709/new_ball_709_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_709/new_ball_709_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

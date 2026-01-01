@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_010",
+    "label": "bike",
+    "caption": "a biker enjoys a coffee .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_010/base_bike_010.jpg": [],
+        "../data/final_dataset/base_bike/bike_010/base_bike_010_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_010/base_bike_010_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

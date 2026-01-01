@@ -1,0 +1,20 @@
+{
+    "img_stem": "bike_079",
+    "label": "bike",
+    "caption": "A bikers flips upside down .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_079/base_bike_079.jpg": [],
+        "../data/final_dataset/base_bike/bike_079/base_bike_079_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_079/base_bike_079_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

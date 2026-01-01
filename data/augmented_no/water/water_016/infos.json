@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_016",
-    "label": "water",
-    "caption": "A boy in s striped shirt is jumping in front of a water fountain .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_016/water_016.jpg": []
-    }
-}

@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_002",
+    "label": "bike",
+    "caption": "A cyclist is riding a bicycle on a curved road up a hill .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_002/base_bike_002.jpg": [],
+        "../data/final_dataset/base_bike/bike_002/base_bike_002_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_002/base_bike_002_color.jpg": [
+            "bw"
+        ]
+    }
+}

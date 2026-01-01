@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_690",
+    "label": "ball",
+    "caption": "In a lush green park, a playful brown dog can be seen enthusiastically chasing after a bright red ball that has rolled across the grass, its owner trailing behind with a patient smile on their face as they watch the scene unfold in the warm sunshine. The sound of children's laughter carries through the air as families enjoy a leisurely afternoon in the park. Meanwhile, the dog's joyful barks and excited yips fill the atmosphere as it pursues the tantalizing ball.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_690/new_ball_690.jpg": [],
+        "../data/final_dataset/new_ball/ball_690/new_ball_690_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_690/new_ball_690_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

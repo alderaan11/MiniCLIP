@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_140",
+    "label": "bike",
+    "caption": "Two dirt bike riders in midair .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_140/base_bike_140.jpg": [],
+        "../data/final_dataset/base_bike/bike_140/base_bike_140_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_140/base_bike_140_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

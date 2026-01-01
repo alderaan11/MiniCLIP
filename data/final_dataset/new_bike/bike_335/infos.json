@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_335",
+    "label": "bike",
+    "caption": "A rugged mountain trail winds its way through a dense forest, the air thick with the scent of damp earth and greenery. A young BMX biker, clad in protective gear from helmet to knee pads, expertly navigates the muddy terrain on his trusty bike, the wheels kicking up clouds of mud with each turn. The sound of rushing water echoes through the trees as the trail begins to slope downward, leading the rider into a lush valley below.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_335/new_bike_335.jpg": [],
+        "../data/final_dataset/new_bike/bike_335/new_bike_335_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_335/new_bike_335_color.jpg": [
+            "bw"
+        ]
+    }
+}

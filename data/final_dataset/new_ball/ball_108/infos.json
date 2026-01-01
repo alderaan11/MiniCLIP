@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_108",
+    "label": "ball",
+    "caption": "A playful black and brown dog, wearing a distinctive blue collar, has suddenly stopped in its tracks to investigate a shiny soccer ball lying on the lush green grass of a backyard lawn. The sun casts a warm glow over the scene, highlighting the textures of the dog's fur and the blades of grass as it crouches low to sniff at the abandoned ball. The sound of children playing in the distance adds to the tranquil atmosphere, as if this moment of canine curiosity is just one fleeting instant in a joyful afternoon of outdoor fun.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_108/new_ball_108.jpg": [],
+        "../data/final_dataset/new_ball/ball_108/new_ball_108_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_108/new_ball_108_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

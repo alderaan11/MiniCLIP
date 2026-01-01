@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_069",
+    "label": "dog",
+    "caption": "dogs running on a cold but sunny morning",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_069/base_dog_069.jpg": [],
+        "../data/final_dataset/base_dog/dog_069/base_dog_069_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_dog/dog_069/base_dog_069_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

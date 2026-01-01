@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_054",
-    "label": "water",
-    "caption": "A father and a child are playing in the pool",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_054/water_054.jpg": []
-    }
-}

@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_032",
+    "label": "water",
+    "caption": "A man is pulled behind a boat on a knee board while another doing the same begins to fall .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_032/base_water_032.jpg": [],
+        "../data/final_dataset/base_water/water_032/base_water_032_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_032/base_water_032_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_147",
+    "label": "dog",
+    "caption": "A large orange dog and a little orange dog with another third dog in the grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_147/base_dog_147.jpg": [],
+        "../data/final_dataset/base_dog/dog_147/base_dog_147_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_147/base_dog_147_color.jpg": [
+            "bw"
+        ]
+    }
+}

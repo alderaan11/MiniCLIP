@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_099",
-    "label": "ball",
-    "caption": "A brown dog plays with a bright orange ball in the snow .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_099/ball_099.jpg": []
-    }
-}

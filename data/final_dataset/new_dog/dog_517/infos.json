@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_517",
+    "label": "dog",
+    "caption": "A sleek greyhound bursts across the dusty dirt track, its lean muscles rippling beneath its short coat as it hurtles towards the finish line. The roar of the crowd rises to a crescendo in the background, while the greyhound's ears flail back and forth in its excitement. As it crosses the finish line, its handler rushes forward to congratulate the triumphant canine athlete.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_517/new_dog_517.jpg": [],
+        "../data/final_dataset/new_dog/dog_517/new_dog_517_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_517/new_dog_517_color.jpg": [
+            "bw"
+        ]
+    }
+}

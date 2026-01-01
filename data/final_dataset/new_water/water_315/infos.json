@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_315",
+    "label": "water",
+    "caption": "The sun-kissed beach stretches out before them, the warm grains of sand shifting gently beneath their feet as they gaze out at the vast expanse of turquoise water. The boy in his vibrant orange shirt and red hat looks carefree, his eyes scanning the horizon for signs of excitement, while the girl beside him, clad in her crisp white top and blue pants, appears lost in thought, her eyes fixed on some point beyond the waves. The soothing sound of the ocean's gentle lapping against the shore creates a calming atmosphere, a perfect summer day unfolding before them.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_315/new_water_315.jpg": [],
+        "../data/final_dataset/new_water/water_315/new_water_315_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_315/new_water_315_color.jpg": [
+            "bw"
+        ]
+    }
+}

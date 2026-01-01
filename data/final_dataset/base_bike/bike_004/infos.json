@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_004",
+    "label": "bike",
+    "caption": "A bicyclist riding on a city street .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_004/base_bike_004.jpg": [],
+        "../data/final_dataset/base_bike/bike_004/base_bike_004_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_004/base_bike_004_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

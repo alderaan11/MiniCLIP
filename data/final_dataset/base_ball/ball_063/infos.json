@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_063",
+    "label": "ball",
+    "caption": "A boy takes a football from another boy .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_063/base_ball_063.jpg": [],
+        "../data/final_dataset/base_ball/ball_063/base_ball_063_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_063/base_ball_063_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

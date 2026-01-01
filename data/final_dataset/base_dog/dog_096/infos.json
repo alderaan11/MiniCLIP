@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_096",
+    "label": "dog",
+    "caption": "A brown dog carrying a black object .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_096/base_dog_096.jpg": [],
+        "../data/final_dataset/base_dog/dog_096/base_dog_096_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_096/base_dog_096_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

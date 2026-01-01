@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_225",
+    "label": "bike",
+    "caption": "A lone bicyclist pedals steadily up a winding hill, surrounded by dense woods that stretch up towards the sky on either side of the narrow road. The sun filters through the leafy canopy above, casting dappled shadows across the asphalt beneath the wheels of the bike. As the rider climbs higher, the sound of birdsong grows louder and the scent of pine wafts through the air.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_225/new_bike_225.jpg": [],
+        "../data/final_dataset/new_bike/bike_225/new_bike_225_spatial.jpg": [
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_225/new_bike_225_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_1188",
+    "label": "water",
+    "caption": "A group of friends can be seen laughing and chatting as they participate in a fitness class on the sandy beach, their instructor guiding them through a series of exercises while the sun shines brightly overhead. The sound of seagulls fills the air as waves gently lap at the shore nearby, adding to the lively atmosphere of the session. As the group concludes their workout, they high-five each other and take a moment to cool off in the refreshing ocean spray.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1188/new_water_1188.jpg": [],
+        "../data/final_dataset/new_water/water_1188/new_water_1188_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_1188/new_water_1188_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_028",
-    "label": "dog",
-    "caption": "a black dog jumping to catch a rope toy",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_028/dog_028.jpg": []
-    }
-}

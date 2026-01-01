@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_358",
+    "label": "dog",
+    "caption": "A small terrier, its tail wagging excitedly, is hot on the heels of its larger companion, a playful golden retriever. The two dogs are careening through a lush green park, their paws pounding against the grass as they engage in a joyful game of tag. As they chase each other, the smaller dog yips happily, while the larger one lets out a deep bark of delight.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_358/new_dog_358.jpg": [],
+        "../data/final_dataset/new_dog/dog_358/new_dog_358_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_358/new_dog_358_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

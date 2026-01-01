@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_149",
-    "label": "ball",
-    "caption": "A football player runs with a ball , chased by the opposing team .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_149/ball_149.jpg": []
-    }
-}

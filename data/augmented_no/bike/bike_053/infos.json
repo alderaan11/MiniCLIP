@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_053",
-    "label": "bike",
-    "caption": "a biker bikes through the woods .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_053/bike_053.jpg": []
-    }
-}

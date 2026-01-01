@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_343",
+    "label": "ball",
+    "caption": "In the sun-drenched backyard, a playful black and white dog runs around in excitement, its tail wagging furiously as it carries a worn rubber ball in its mouth. The ball's bright red texture provides a pop of color against the otherwise monochromatic scene, which is dominated by the dog's speckled coat and the lush green grass beneath. As the dog trots along, it suddenly pauses to drop the ball at its owner's feet, eager for another round of fetch.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_343/new_ball_343.jpg": [],
+        "../data/final_dataset/new_ball/ball_343/new_ball_343_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_343/new_ball_343_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

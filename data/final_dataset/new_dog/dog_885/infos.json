@@ -1,0 +1,20 @@
+{
+    "img_stem": "dog_885",
+    "label": "dog",
+    "caption": "A playful Dalmatian is frolicking near its favorite tree, chasing after a leaf that has caught its attention on a crisp autumn afternoon. The sun casts dappled shadows on the grass as the dog's energetic barks echo through the air. A nearby bird watches from a safe distance, curious about the commotion caused by the enthusiastic canine.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_885/new_dog_885.jpg": [],
+        "../data/final_dataset/new_dog/dog_885/new_dog_885_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_885/new_dog_885_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

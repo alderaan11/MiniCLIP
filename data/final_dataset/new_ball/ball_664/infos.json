@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_664",
+    "label": "ball",
+    "caption": "A group of friends have gathered in a backyard for a casual barbecue, with a few lounging on picnic blankets while others busily flip burgers on the grill. Nearby, a brown dog named Max suddenly becomes obsessed with chasing after a bright red Frisbee as it soars through the air, his tail wagging excitedly as he bounds across the lawn in hot pursuit of the flying disc. Amidst the commotion, one enthusiastic player is seen cheering Max on from the sidelines, laughing and encouraging him to catch the elusive ball.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_664/new_ball_664.jpg": [],
+        "../data/final_dataset/new_ball/ball_664/new_ball_664_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_ball/ball_664/new_ball_664_color.jpg": [
+            "flash"
+        ]
+    }
+}

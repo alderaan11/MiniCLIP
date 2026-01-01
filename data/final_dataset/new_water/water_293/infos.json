@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_293",
+    "label": "water",
+    "caption": "A serene wooden walkway stretches out over calm waters, providing a picturesque path for families to enjoy a leisurely stroll. A young child, wearing a bright orange t-shirt, excitedly explores the water's edge, no doubt fascinated by the ripples and reflections below. As they wander along the dock, the gentle lapping of the water against the wooden planks creates a soothing background melody.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_293/new_water_293.jpg": [],
+        "../data/final_dataset/new_water/water_293/new_water_293_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_293/new_water_293_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

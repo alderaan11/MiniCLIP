@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_101",
+    "label": "ball",
+    "caption": "A man in a black cap and shirt smiling while holding a white grey and black rectangular object .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_101/base_ball_101.jpg": [],
+        "../data/final_dataset/base_ball/ball_101/base_ball_101_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_101/base_ball_101_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

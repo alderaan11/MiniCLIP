@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_134",
-    "label": "ball",
-    "caption": "Oklahoma University 's Sooners football team playing against a rival .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_134/ball_134.jpg": []
-    }
-}

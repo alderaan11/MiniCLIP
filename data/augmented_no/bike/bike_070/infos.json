@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_070",
-    "label": "bike",
-    "caption": "A female on a bike is wearing black wings , and a metal halo , while others walk by .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_070/bike_070.jpg": []
-    }
-}

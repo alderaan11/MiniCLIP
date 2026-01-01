@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_123",
+    "label": "dog",
+    "caption": "A black dog is running in the water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_123/base_dog_123.jpg": [],
+        "../data/final_dataset/base_dog/dog_123/base_dog_123_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_123/base_dog_123_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_035",
-    "label": "bike",
-    "caption": "A person in a blue jacket , wearing a bicycle helmet is riding a bike",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_035/bike_035.jpg": []
-    }
-}

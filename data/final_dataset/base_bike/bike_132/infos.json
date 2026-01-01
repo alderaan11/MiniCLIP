@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_132",
+    "label": "bike",
+    "caption": "A bicycle gets airborne .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_132/base_bike_132.jpg": [],
+        "../data/final_dataset/base_bike/bike_132/base_bike_132_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_132/base_bike_132_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

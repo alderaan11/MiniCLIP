@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_023",
+    "label": "dog",
+    "caption": "a brown dog running down a paved pathway",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_023/base_dog_023.jpg": [],
+        "../data/final_dataset/base_dog/dog_023/base_dog_023_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_023/base_dog_023_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_072",
+    "label": "ball",
+    "caption": "A big black dog carries a blue ball while two Corgis run at his side .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_072/base_ball_072.jpg": [],
+        "../data/final_dataset/base_ball/ball_072/base_ball_072_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_072/base_ball_072_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

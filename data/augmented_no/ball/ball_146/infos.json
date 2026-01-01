@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_146",
-    "label": "ball",
-    "caption": "A football player clutches the ball while running down the field .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_146/ball_146.jpg": []
-    }
-}

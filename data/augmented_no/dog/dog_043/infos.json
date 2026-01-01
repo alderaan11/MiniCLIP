@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_043",
-    "label": "dog",
-    "caption": "a brown dog jumping into a pool after a bloe ball .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_043/dog_043.jpg": []
-    }
-}

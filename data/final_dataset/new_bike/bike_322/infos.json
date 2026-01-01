@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_322",
+    "label": "bike",
+    "caption": "A rugged dirt path winds through a sun-drenched landscape, flanked by tall trees and rocky outcroppings. A man in blue jeans and a worn jacket stands atop his bike, the engine revving as he prepares to launch himself over a small jump. The scene is one of high-octane freedom, with the thrill of off-road adventure palpable in every detail.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_322/new_bike_322.jpg": [],
+        "../data/final_dataset/new_bike/bike_322/new_bike_322_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_322/new_bike_322_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

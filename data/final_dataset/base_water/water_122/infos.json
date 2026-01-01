@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_122",
+    "label": "water",
+    "caption": "A big brown dog floats in a canoe on the river at sunset .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_122/base_water_122.jpg": [],
+        "../data/final_dataset/base_water/water_122/base_water_122_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_122/base_water_122_color.jpg": [
+            "bw"
+        ]
+    }
+}

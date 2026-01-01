@@ -1,0 +1,15 @@
+{
+    "img_stem": "bike_047",
+    "label": "bike",
+    "caption": "A motocross rider rides in the air over a bar .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_047/base_bike_047.jpg": [],
+        "../data/final_dataset/base_bike/bike_047/base_bike_047_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_047/base_bike_047_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

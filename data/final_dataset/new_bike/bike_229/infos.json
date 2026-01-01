@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_229",
+    "label": "bike",
+    "caption": "The rider, dressed in casual athletic wear, soars through the air as they execute a smooth jump over a small obstacle on their sleek mountain bike. The surrounding sky is a brilliant blue with only a few wispy clouds scattered across it, providing a clear contrast to the vibrant colors of the rider's outfit. As they momentarily leave the ground, the wind ruffles their hair and the bike's tires are slightly blurred from the motion, capturing the dynamic moment in mid-air.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_229/new_bike_229.jpg": [],
+        "../data/final_dataset/new_bike/bike_229/new_bike_229_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_229/new_bike_229_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

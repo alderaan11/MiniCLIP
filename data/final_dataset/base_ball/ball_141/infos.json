@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_141",
+    "label": "ball",
+    "caption": "A man in a baseball hat and sunglasses watching an event in a crowd .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_141/base_ball_141.jpg": [],
+        "../data/final_dataset/base_ball/ball_141/base_ball_141_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_141/base_ball_141_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

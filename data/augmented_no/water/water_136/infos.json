@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_136",
-    "label": "water",
-    "caption": "A black dog carrying a colorful ball swims .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_136/water_136.jpg": []
-    }
-}

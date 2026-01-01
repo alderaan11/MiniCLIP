@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_133",
+    "label": "bike",
+    "caption": "A biker jumps an obstacle .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_133/base_bike_133.jpg": [],
+        "../data/final_dataset/base_bike/bike_133/base_bike_133_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_133/base_bike_133_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

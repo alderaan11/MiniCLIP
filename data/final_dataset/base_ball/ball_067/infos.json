@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_067",
+    "label": "ball",
+    "caption": "A brown dog on the beach with a yellow ball in his mouth .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_067/base_ball_067.jpg": [],
+        "../data/final_dataset/base_ball/ball_067/base_ball_067_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_067/base_ball_067_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

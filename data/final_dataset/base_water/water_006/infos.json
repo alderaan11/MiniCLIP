@@ -1,0 +1,13 @@
+{
+    "img_stem": "water_006",
+    "label": "water",
+    "caption": "A girl paddling down a large river , as seen from behind her .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_006/base_water_006.jpg": [],
+        "../data/final_dataset/base_water/water_006/base_water_006_spatial.jpg": [],
+        "../data/final_dataset/base_water/water_006/base_water_006_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

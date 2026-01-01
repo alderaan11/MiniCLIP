@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_655",
+    "label": "dog",
+    "caption": "A grey-furred dog, its black patches stark against its white coat, leaps over a row of hurdles in the agility course at the annual canine showcase, its tail wagging excitedly as it bounds towards the next obstacle. The crowd cheers and applauds from behind the fence, their faces a blur as they watch the high-energy competition unfold. Nearby, a handler patiently waits with a leashed dog, ready for its turn to show off its skills in the jumping event.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_655/new_dog_655.jpg": [],
+        "../data/final_dataset/new_dog/dog_655/new_dog_655_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_655/new_dog_655_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

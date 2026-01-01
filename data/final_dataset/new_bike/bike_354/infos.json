@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_354",
+    "label": "bike",
+    "caption": "The dirt biker, wearing goggles and a helmet, zooms down the winding downhill course, their tires kicking up small rocks and dust as they navigate the turn with precision. The bike's suspension absorbs the shock of the rough terrain, allowing the rider to maintain control as they hurtle towards the next bend. In the background, a blur of green trees and rocky outcroppings whizz by, adding to the sense of speed and exhilaration.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_354/new_bike_354.jpg": [],
+        "../data/final_dataset/new_bike/bike_354/new_bike_354_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_354/new_bike_354_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

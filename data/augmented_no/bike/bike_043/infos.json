@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_043",
-    "label": "bike",
-    "caption": "a long bicyclist wearing a white helmet riding down a mountain path",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_043/bike_043.jpg": []
-    }
-}

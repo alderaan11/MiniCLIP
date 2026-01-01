@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_185",
+    "label": "water",
+    "caption": "A sleek black dog, its fur glistening with dew, has just snatched a struggling bird from the calm surface of the pool. The bird's frantic flapping sends ripples through the water as the dog proudly holds it in its jaws, momentarily victorious in this impromptu game of underwater tag. In the background, the sun casts a warm glow over the serene scene, illuminating the surrounding garden where a few vibrant flowers add a pop of color to the tranquil atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_185/new_water_185.jpg": [],
+        "../data/final_dataset/new_water/water_185/new_water_185_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_185/new_water_185_color.jpg": [
+            "bw"
+        ]
+    }
+}

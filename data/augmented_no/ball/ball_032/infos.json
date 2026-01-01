@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_032",
-    "label": "ball",
-    "caption": "A spotted dog , a black dog , and a puppy converging on a tennis ball .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_032/ball_032.jpg": []
-    }
-}

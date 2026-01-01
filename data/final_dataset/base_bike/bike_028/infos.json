@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_028",
+    "label": "bike",
+    "caption": "A girl is taking a picture of a girl and guy on a colorfully decorated pink bike .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_028/base_bike_028.jpg": [],
+        "../data/final_dataset/base_bike/bike_028/base_bike_028_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_028/base_bike_028_color.jpg": [
+            "bw"
+        ]
+    }
+}

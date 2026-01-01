@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_009",
+    "label": "dog",
+    "caption": "a black and white dog jumping in the air to get a toy .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_009/base_dog_009.jpg": [],
+        "../data/final_dataset/base_dog/dog_009/base_dog_009_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_009/base_dog_009_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

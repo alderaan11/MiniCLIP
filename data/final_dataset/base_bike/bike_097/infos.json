@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_097",
+    "label": "bike",
+    "caption": "A man and a woman with three bikes and a silver car .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_097/base_bike_097.jpg": [],
+        "../data/final_dataset/base_bike/bike_097/base_bike_097_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_097/base_bike_097_color.jpg": [
+            "flash"
+        ]
+    }
+}

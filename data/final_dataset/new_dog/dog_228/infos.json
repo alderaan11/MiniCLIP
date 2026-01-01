@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_228",
+    "label": "dog",
+    "caption": "Two dogs, one black and sleek, the other with a fluffy coat, are engaged in a rambunctious game of chase on a crisp winter morning. The snow-covered grass glistens as they run past, their paws making tiny prints in the pristine blanket. In the background, the remnants of a recent snowfall still cling to the road, its faded lines visible beneath the fresh layer of white.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_228/new_dog_228.jpg": [],
+        "../data/final_dataset/new_dog/dog_228/new_dog_228_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_228/new_dog_228_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

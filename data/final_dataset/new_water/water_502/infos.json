@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_502",
+    "label": "water",
+    "caption": "A young boy is playfully splashing his terrier, Max, on a warm summer afternoon in their backyard. The sun beats down on the lush green grass as the boy enthusiastically uses his water gun to give Max a cooling treat, bringing out a joyful bark from the grateful dog. Water droplets glisten on the dog's fur as he eagerly opens his mouth for another squirt.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_502/new_water_502.jpg": [],
+        "../data/final_dataset/new_water/water_502/new_water_502_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_502/new_water_502_color.jpg": [
+            "bw"
+        ]
+    }
+}

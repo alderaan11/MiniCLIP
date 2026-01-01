@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_048",
+    "label": "dog",
+    "caption": "A black dog, its fur fluffed up from the morning dew, dashes across the lush green lawn with reckless abandon, its paws barely touching the ground as it chases after a fluttering ball of paper. The sun casts dappled shadows on the grass beneath its energetic form, creating a dynamic and carefree atmosphere that perfectly captures the dog's playful spirit. In the distance, the faint outline of a nearby house hints at the quiet suburban surroundings, adding to the scene's idyllic charm.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_048/new_dog_048.jpg": [],
+        "../data/final_dataset/new_dog/dog_048/new_dog_048_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_048/new_dog_048_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

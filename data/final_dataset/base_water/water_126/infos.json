@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_126",
+    "label": "water",
+    "caption": "a body boarder is being dumped on the beach by a wave whilst other surfers are standing around in the water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_126/base_water_126.jpg": [],
+        "../data/final_dataset/base_water/water_126/base_water_126_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_126/base_water_126_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

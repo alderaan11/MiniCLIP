@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_140",
-    "label": "dog",
-    "caption": "A brown dog brings up some dust as he runs around a field .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_140/dog_140.jpg": []
-    }
-}

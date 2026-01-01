@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_615",
+    "label": "dog",
+    "caption": "A sunny afternoon in a park with lush green grass and tall trees, a blond woman in casual clothing laughs as she throws a stick for her energetic orange dog to catch. The dog, its fur fluffed up from excitement, leaps into the air with an acrobatic twist, its paws outstretched in pursuit of the flying stick. As the dog bounds towards it, the woman's eyes light up with delight at the joyous display of canine enthusiasm.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_615/new_dog_615.jpg": [],
+        "../data/final_dataset/new_dog/dog_615/new_dog_615_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_615/new_dog_615_color.jpg": [
+            "bw"
+        ]
+    }
+}

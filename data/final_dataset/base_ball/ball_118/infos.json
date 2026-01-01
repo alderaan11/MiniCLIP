@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_118",
+    "label": "ball",
+    "caption": "A boy plays basketball .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_118/base_ball_118.jpg": [],
+        "../data/final_dataset/base_ball/ball_118/base_ball_118_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_118/base_ball_118_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

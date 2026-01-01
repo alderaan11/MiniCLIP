@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_010",
+    "label": "water",
+    "caption": "A boy in blue shorts slides down a slide into a pool .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_010/base_water_010.jpg": [],
+        "../data/final_dataset/base_water/water_010/base_water_010_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_010/base_water_010_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

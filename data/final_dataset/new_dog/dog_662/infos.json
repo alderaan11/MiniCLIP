@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_662",
+    "label": "dog",
+    "caption": "A lively black and tan dog, its fur fluffed up in excitement, leaps effortlessly into the air, catching itself mid-stride as it plays tag with its owner in the lush green grass. The warm sunlight casts long shadows behind the wooden fence that borders the yard, adding depth to the serene scene. As the dog lands back on all fours, its tail wagging furiously, it lets out a joyful yelp, inviting its companion to join in the fun.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_662/new_dog_662.jpg": [],
+        "../data/final_dataset/new_dog/dog_662/new_dog_662_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_662/new_dog_662_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

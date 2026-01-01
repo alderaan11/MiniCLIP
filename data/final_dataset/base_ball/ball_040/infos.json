@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_040",
+    "label": "ball",
+    "caption": "A group of boys play flag football while some bystanders watch .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_040/base_ball_040.jpg": [],
+        "../data/final_dataset/base_ball/ball_040/base_ball_040_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_040/base_ball_040_color.jpg": [
+            "bw"
+        ]
+    }
+}

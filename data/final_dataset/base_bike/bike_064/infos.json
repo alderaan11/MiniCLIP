@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_064",
+    "label": "bike",
+    "caption": "A girl making a sad face standing in front of her tricycle",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_064/base_bike_064.jpg": [],
+        "../data/final_dataset/base_bike/bike_064/base_bike_064_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_064/base_bike_064_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

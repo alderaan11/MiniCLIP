@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_125",
-    "label": "water",
-    "caption": "a dog attempting to drink from an outdoor water faucet",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_125/water_125.jpg": []
-    }
-}

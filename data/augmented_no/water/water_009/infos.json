@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_009",
-    "label": "water",
-    "caption": "a boy cleans the bubbles off his face .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_009/water_009.jpg": []
-    }
-}

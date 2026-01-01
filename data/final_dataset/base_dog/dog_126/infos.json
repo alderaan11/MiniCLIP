@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_126",
+    "label": "dog",
+    "caption": "a few different colored dogs jumping around in the grass behind a house",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_126/base_dog_126.jpg": [],
+        "../data/final_dataset/base_dog/dog_126/base_dog_126_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_dog/dog_126/base_dog_126_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

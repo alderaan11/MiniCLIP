@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_698",
+    "label": "water",
+    "caption": "A group of energetic dogs can be seen playing together at a beach on a sunny day, their paws splashing in the calm ocean water as they chase each other and bark with joy. The warm sand glistens beneath them, while a few seagulls soar overhead, watching the commotion with interest. In the distance, the gentle lapping of the waves against the shore creates a soothing melody that complements the dogs' exuberant playfulness.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_698/new_water_698.jpg": [],
+        "../data/final_dataset/new_water/water_698/new_water_698_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_698/new_water_698_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

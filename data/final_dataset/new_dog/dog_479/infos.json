@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_479",
+    "label": "dog",
+    "caption": "A playful little white dog is running freely through the warm sandy beach, its paws leaving tiny footprints in the fine grains. The sun shines brightly overhead, casting a gentle glow over the scene as the dog frolics and explores the shore. Nearby, a few seagulls soar overhead, watching the commotion with curiosity.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_479/new_dog_479.jpg": [],
+        "../data/final_dataset/new_dog/dog_479/new_dog_479_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_479/new_dog_479_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

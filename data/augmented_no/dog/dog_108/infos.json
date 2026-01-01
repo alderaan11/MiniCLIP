@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_108",
-    "label": "dog",
-    "caption": "The two dogs are in the water retrieving a stick .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_108/dog_108.jpg": []
-    }
-}

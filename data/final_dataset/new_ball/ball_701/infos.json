@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_701",
+    "label": "ball",
+    "caption": "A group of children on a grassy field are engaged in a heated game of soccer, their youthful energy and laughter filling the air. A young boy in a bright red jersey is struggling to maintain possession of the ball as another player in a crisp white shirt makes a valiant attempt to steal it away from him. The sun casts a warm glow over the scene, illuminating the joy and determination on the faces of these young athletes.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_701/new_ball_701.jpg": [],
+        "../data/final_dataset/new_ball/ball_701/new_ball_701_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_ball/ball_701/new_ball_701_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

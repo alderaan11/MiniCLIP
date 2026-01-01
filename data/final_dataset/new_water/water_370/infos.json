@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_370",
+    "label": "water",
+    "caption": "A young boy, dressed in casual clothing, is standing on a large puddle formed by recent rainfall. He's laughing with glee as he takes a jump into the water, creating a splash and sending droplets flying in all directions. The puddle is surrounded by a big yellow dot of mud, possibly from a fallen leaf or a burst of paint, adding to the boy's delight as he plays on this mini-water park.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_370/new_water_370.jpg": [],
+        "../data/final_dataset/new_water/water_370/new_water_370_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_370/new_water_370_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

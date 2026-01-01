@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_038",
+    "label": "water",
+    "caption": "A baby boy wearing a shoulder life saver is at the very edge of an orange pool slide .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_038/base_water_038.jpg": [],
+        "../data/final_dataset/base_water/water_038/base_water_038_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_038/base_water_038_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

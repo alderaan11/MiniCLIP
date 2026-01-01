@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_213",
+    "label": "ball",
+    "caption": "The tennis player, her ponytail bouncing behind her, swings her racquet in a smooth arc as she prepares to strike the ball. The ball itself, a yellow sphere with white stitching, sits poised on the edge of the court, awaiting its fate. For a moment, time seems to slow as the player's arm extends and then snaps back, ready to make contact with the ball.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_213/new_ball_213.jpg": [],
+        "../data/final_dataset/new_ball/ball_213/new_ball_213_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_213/new_ball_213_color.jpg": [
+            "bw"
+        ]
+    }
+}

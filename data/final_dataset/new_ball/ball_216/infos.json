@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_216",
+    "label": "ball",
+    "caption": "A playful afternoon unfolds as two energetic brown and black dogs, their tails wagging excitedly, chase after a plastic bag blown through the lush green grass of a backyard, momentarily forgetting about the ball that had been left abandoned nearby, its bright colors standing out against the verdant scenery. The air is filled with the joyful barks of the dogs as they frolic in the sun-dappled lawn, their paws scrambling to catch up to the elusive bag. The ball, it seems, has taken a backseat to the more thrilling game of tag, but it remains a constant presence on the periphery of this lively scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_216/new_ball_216.jpg": [],
+        "../data/final_dataset/new_ball/ball_216/new_ball_216_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_216/new_ball_216_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

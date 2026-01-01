@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_260",
+    "label": "water",
+    "caption": "Two dogs, one with a brown coat and the other with a predominantly black coat but some brown undertones, are seen frolicking in a tranquil body of water on a warm day. The larger black dog has a stick firmly gripped between its jaws as it playfully carries it through the shallow waters, while the smaller brown dog bounds alongside, seemingly enjoying the excitement of the moment. The gentle ripples on the surface of the water add to the idyllic scene, creating a soothing atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_260/new_water_260.jpg": [],
+        "../data/final_dataset/new_water/water_260/new_water_260_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_260/new_water_260_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

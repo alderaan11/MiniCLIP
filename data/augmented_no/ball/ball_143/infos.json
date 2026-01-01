@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_143",
-    "label": "ball",
-    "caption": "An American footballer in red is being tackled by three players in white whilst other red players look on .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_143/ball_143.jpg": []
-    }
-}

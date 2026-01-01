@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_881",
+    "label": "dog",
+    "caption": "The brown and white dog wades through the deep snow, its fur fluffed up against the cold, as it searches for a patch of untouched ground to do its business. The dog's tail wags tentatively as it sniffs the air, taking in the crisp scent of winter. In the background, a few bare trees stand out starkly against the blanket of white, their branches etched against the grey sky like delicate pen and ink drawings.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_881/new_dog_881.jpg": [],
+        "../data/final_dataset/new_dog/dog_881/new_dog_881_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_881/new_dog_881_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

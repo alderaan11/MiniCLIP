@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_020",
-    "label": "bike",
-    "caption": "A group of bicyclists riding down a path in an off road race .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_020/bike_020.jpg": []
-    }
-}

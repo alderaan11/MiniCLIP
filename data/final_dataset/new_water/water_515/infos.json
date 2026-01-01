@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_515",
+    "label": "water",
+    "caption": "A young boy stands at a window, gazing out at his friend who is using a hose to douse the glass with cool, clear water on a warm day. The scene unfolds in front of a modest suburban home, where laughter and playful shouts can be heard carrying through the air. As the water droplets run down the pane, they create tiny streaks that reflect the sun's rays, adding a momentary sparkle to the scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_515/new_water_515.jpg": [],
+        "../data/final_dataset/new_water/water_515/new_water_515_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_515/new_water_515_color.jpg": [
+            "bw"
+        ]
+    }
+}

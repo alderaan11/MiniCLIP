@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_097",
-    "label": "bike",
-    "caption": "A man and a woman with three bikes and a silver car .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_097/bike_097.jpg": []
-    }
-}

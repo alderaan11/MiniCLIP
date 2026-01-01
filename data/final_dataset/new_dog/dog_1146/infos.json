@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_1146",
+    "label": "dog",
+    "caption": "A large, shaggy canine bursts through the tall grass of a sun-drenched field, its playful barks carrying on the breeze as it chases after a fluttering dandelion seed in mid-air. The bright blue sky above provides a stunning backdrop for the joyful scene, with only a few wispy clouds scattered across it to suggest a gentle summer's day. As the dog frolics, its long fur ruffles and flows behind it like a golden cloak.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1146/new_dog_1146.jpg": [],
+        "../data/final_dataset/new_dog/dog_1146/new_dog_1146_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_1146/new_dog_1146_color.jpg": [
+            "bw"
+        ]
+    }
+}

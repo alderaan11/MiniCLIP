@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_130",
+    "label": "water",
+    "caption": "a big tan dog running threw the shallow water with a stick in his mouth .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_130/base_water_130.jpg": [],
+        "../data/final_dataset/base_water/water_130/base_water_130_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_130/base_water_130_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

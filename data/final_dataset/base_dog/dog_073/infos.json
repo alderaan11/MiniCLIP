@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_073",
+    "label": "dog",
+    "caption": "A puppy plays with an adult dog in the snow .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_073/base_dog_073.jpg": [],
+        "../data/final_dataset/base_dog/dog_073/base_dog_073_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_073/base_dog_073_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

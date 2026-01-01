@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_107",
+    "label": "ball",
+    "caption": "A child plays T-ball .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_107/base_ball_107.jpg": [],
+        "../data/final_dataset/base_ball/ball_107/base_ball_107_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_107/base_ball_107_color.jpg": [
+            "bw"
+        ]
+    }
+}

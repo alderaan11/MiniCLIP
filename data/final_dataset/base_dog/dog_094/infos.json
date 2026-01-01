@@ -1,0 +1,12 @@
+{
+    "img_stem": "dog_094",
+    "label": "dog",
+    "caption": "A black dog carrying an object out of the water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_094/base_dog_094.jpg": [],
+        "../data/final_dataset/base_dog/dog_094/base_dog_094_spatial.jpg": [],
+        "../data/final_dataset/base_dog/dog_094/base_dog_094_color.jpg": [
+            "flash"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_014",
-    "label": "dog",
-    "caption": "A woman crouches near three dogs in a field .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_014/dog_014.jpg": []
-    }
-}

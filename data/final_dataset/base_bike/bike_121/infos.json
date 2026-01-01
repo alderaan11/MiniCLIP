@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_121",
+    "label": "bike",
+    "caption": "A bicyclist is performing a midair stunt .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_121/base_bike_121.jpg": [],
+        "../data/final_dataset/base_bike/bike_121/base_bike_121_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_121/base_bike_121_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

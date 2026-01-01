@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_1133",
+    "label": "dog",
+    "caption": "A person sits at a small kitchen table, intently focusing on their meal as they take another bite. A curious canine stands beside them, its nose inches from the plate, watching with rapt attention as if trying to understand why it hasn't been offered any of the food. The dog's owner seems oblivious to their pet's hungry gaze, too engrossed in eating to notice the longing expression on their furry companion's face.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1133/new_dog_1133.jpg": [],
+        "../data/final_dataset/new_dog/dog_1133/new_dog_1133_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_1133/new_dog_1133_color.jpg": [
+            "bw"
+        ]
+    }
+}

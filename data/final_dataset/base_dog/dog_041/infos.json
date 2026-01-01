@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_041",
+    "label": "dog",
+    "caption": "A big brown dog plays with a smaller grey dog on the grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_041/base_dog_041.jpg": [],
+        "../data/final_dataset/base_dog/dog_041/base_dog_041_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_041/base_dog_041_color.jpg": [
+            "bw"
+        ]
+    }
+}

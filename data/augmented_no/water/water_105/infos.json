@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_105",
-    "label": "water",
-    "caption": "A group of children play in the street where water is sprayed .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_105/water_105.jpg": []
-    }
-}

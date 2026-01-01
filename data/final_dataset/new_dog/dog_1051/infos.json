@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_1051",
+    "label": "dog",
+    "caption": "A woman, likely in her mid-30s due to her plump figure, sat on a park bench, enjoying a street food treat - a chili cheese dog. By her side, her energetic dog, a scruffy little terrier mix with a wagging tail, watched her with eager eyes, hoping for scraps. The woman absent-mindedly reached out to pet the dog as she savored the flavors of the spicy hot dog.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1051/new_dog_1051.jpg": [],
+        "../data/final_dataset/new_dog/dog_1051/new_dog_1051_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_1051/new_dog_1051_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

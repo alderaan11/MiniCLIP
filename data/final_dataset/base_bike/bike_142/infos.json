@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_142",
+    "label": "bike",
+    "caption": "A clown with a big hat riding a bicycle .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_142/base_bike_142.jpg": [],
+        "../data/final_dataset/base_bike/bike_142/base_bike_142_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_142/base_bike_142_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_374",
+    "label": "water",
+    "caption": "A sunny day at the backyard, with a small paddling pool filled to just the right level for splashing fun. The boy, wearing his favorite red shorts, takes a running jump and lands with a giggle in the cool water, sending droplets flying everywhere. His parents sit nearby on a patio set, keeping a watchful eye while they enjoy their afternoon coffee.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_374/new_water_374.jpg": [],
+        "../data/final_dataset/new_water/water_374/new_water_374_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_374/new_water_374_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

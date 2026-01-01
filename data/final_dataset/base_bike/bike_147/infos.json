@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_147",
+    "label": "bike",
+    "caption": "A boy wearing full riding gear is riding his bike down a paved road .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_147/base_bike_147.jpg": [],
+        "../data/final_dataset/base_bike/bike_147/base_bike_147_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_147/base_bike_147_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

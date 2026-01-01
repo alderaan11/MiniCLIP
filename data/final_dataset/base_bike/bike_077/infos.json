@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_077",
+    "label": "bike",
+    "caption": "a bicyclist jumping with his bike in midair",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_077/base_bike_077.jpg": [],
+        "../data/final_dataset/base_bike/bike_077/base_bike_077_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_077/base_bike_077_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

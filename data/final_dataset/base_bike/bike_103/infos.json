@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_103",
+    "label": "bike",
+    "caption": "A man on a motorized bike rides across a dirt road .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_103/base_bike_103.jpg": [],
+        "../data/final_dataset/base_bike/bike_103/base_bike_103_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_103/base_bike_103_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

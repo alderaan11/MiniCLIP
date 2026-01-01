@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_026",
-    "label": "bike",
-    "caption": "A guy outside playing a guitar and smoking a cigarette .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_026/bike_026.jpg": []
-    }
-}

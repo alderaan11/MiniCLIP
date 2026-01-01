@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_502",
+    "label": "ball",
+    "caption": "A fluffy brown dog is bounding across the lush green grass of a bustling city park, its tail wagging excitedly as it chases after a small white ball. The sun casts warm shadows on the ground as the dog leaps into the air, paws outstretched, in an attempt to catch the flying ball. In the background, other people can be seen picnicking or walking their own dogs, oblivious to the enthusiastic game unfolding before them.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_502/new_ball_502.jpg": [],
+        "../data/final_dataset/new_ball/ball_502/new_ball_502_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_502/new_ball_502_color.jpg": [
+            "saturation"
+        ]
+    }
+}

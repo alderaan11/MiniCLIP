@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_115",
+    "label": "dog",
+    "caption": "A big black dog chases a big brown dog with a green object in his mouth while another big brown dog tags behind .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_115/base_dog_115.jpg": [],
+        "../data/final_dataset/base_dog/dog_115/base_dog_115_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_115/base_dog_115_color.jpg": [
+            "brightness"
+        ]
+    }
+}

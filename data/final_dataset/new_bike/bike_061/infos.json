@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_061",
+    "label": "bike",
+    "caption": "A cyclist is performing a thrilling jump on their sleek black bicycle, the wheels momentarily lifted off the ground as they soar over a slight incline. In the background, a large black advertising banner stretches out across a nearby fence, partially obscuring a row of parked cars. The scene captures the exhilaration and freedom of cycling, with the rider's focused expression and the bike's streamlined design conveying a sense of speed and agility.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_061/new_bike_061.jpg": [],
+        "../data/final_dataset/new_bike/bike_061/new_bike_061_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_061/new_bike_061_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

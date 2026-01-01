@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_055",
+    "label": "water",
+    "caption": "A man hangs upside in the air over the water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_055/base_water_055.jpg": [],
+        "../data/final_dataset/base_water/water_055/base_water_055_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_055/base_water_055_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

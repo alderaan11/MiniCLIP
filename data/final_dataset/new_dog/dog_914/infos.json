@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_914",
+    "label": "dog",
+    "caption": "A playful black dog, its fur fluffed up by the sea breeze, bounds effortlessly off the sandy beach, sending waves of sand flying in all directions as it leaps into the air. The sun beats down on its back, highlighting the joyful abandon with which it pursues some unseen target, its tail wagging wildly as it catches itself mid-leap and turns to make another attempt at catching whatever has caught its attention. In the distance, a few beachgoers can be seen laughing and cheering it on.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_914/new_dog_914.jpg": [],
+        "../data/final_dataset/new_dog/dog_914/new_dog_914_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_914/new_dog_914_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

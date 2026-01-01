@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_135",
-    "label": "bike",
-    "caption": "A person on a bike jumping over a bench in the park .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_135/bike_135.jpg": []
-    }
-}

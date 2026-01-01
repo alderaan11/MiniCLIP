@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_034",
+    "label": "dog",
+    "caption": "A brown and white and a black and white dog hauling in a floating toy from the ocean .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_034/base_dog_034.jpg": [],
+        "../data/final_dataset/base_dog/dog_034/base_dog_034_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_034/base_dog_034_color.jpg": [
+            "bw"
+        ]
+    }
+}

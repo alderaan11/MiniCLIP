@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_225",
+    "label": "dog",
+    "caption": "A middle-aged man sits comfortably on a worn green bench, situated atop a lush grassy hill that stretches out before him. He's fully engaged with his black companion, a lively dog that has captured his attention and affection as it playfully chases after sticks and explores the surrounding area. The serene atmosphere is filled with the soothing sounds of nature and the joyful energy of the man and his loyal canine friend.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_225/new_dog_225.jpg": [],
+        "../data/final_dataset/new_dog/dog_225/new_dog_225_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_225/new_dog_225_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

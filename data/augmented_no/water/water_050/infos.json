@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_050",
-    "label": "water",
-    "caption": "A half-dressed man walks into a river at the bottom of a small waterfall .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_050/water_050.jpg": []
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_008",
-    "label": "dog",
-    "caption": "A dog prepares to catch a thrown object in a field with nearby cars .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_008/dog_008.jpg": []
-    }
-}

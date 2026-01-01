@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_113",
-    "label": "ball",
-    "caption": "A group of young boys playing soccer .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_113/ball_113.jpg": []
-    }
-}

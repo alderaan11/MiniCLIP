@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_011",
-    "label": "water",
-    "caption": "A man in a wetsuit is throwing a baby wearing a wetsuit up into the air .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_011/water_011.jpg": []
-    }
-}

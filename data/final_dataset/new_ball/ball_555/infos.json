@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_555",
+    "label": "ball",
+    "caption": "In the well-lit gymnasium, a group of athletic men stand facing each other, their sweat-drenched faces set in determined expressions as they prepare to engage in a high-intensity basketball drill. At the center of the action lies a bouncy, yellowed ball, its leather surface bearing the scars of countless intense matches and practices. The air is thick with tension, the only sound the soft hum of the gym's ventilation system and the occasional bounce of the ball on the polished floor.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_555/new_ball_555.jpg": [],
+        "../data/final_dataset/new_ball/ball_555/new_ball_555_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_555/new_ball_555_color.jpg": [
+            "bw"
+        ]
+    }
+}

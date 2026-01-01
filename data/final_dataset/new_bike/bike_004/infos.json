@@ -1,0 +1,20 @@
+{
+    "img_stem": "bike_004",
+    "label": "bike",
+    "caption": "A cyclist wearing a helmet pedals slowly across the street, looking both ways before continuing on their route. The rider's bike, adorned with a water bottle holder and a small basket in front, moves steadily as they navigate through the busy urban scene. Cars and other vehicles slow down to give the cyclist a safe passage.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_004/new_bike_004.jpg": [],
+        "../data/final_dataset/new_bike/bike_004/new_bike_004_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_004/new_bike_004_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

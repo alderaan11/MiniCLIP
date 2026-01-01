@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_365",
+    "label": "ball",
+    "caption": "A young athlete in a blue jersey, number 13 emblazoned on his back, takes a run-up to kick the ball during a local soccer match. His teammate and friend watches intently from the sidelines, offering words of encouragement as the player prepares for what he hopes will be a game-changing shot. The stadium's lush green grass stretches out behind them, with a few scattered fans cheering on their team.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_365/new_ball_365.jpg": [],
+        "../data/final_dataset/new_ball/ball_365/new_ball_365_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_365/new_ball_365_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

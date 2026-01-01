@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_001",
+    "label": "bike",
+    "caption": "A young boy, likely around 6 years old, sits astride a shiny red bicycle with training wheels, his helmet securely fastened to his head as he practices riding in his neighborhood. The bike's handlebars are slightly higher than usual, indicating it is designed for kids and has been adjusted to fit the child's height. Nearby, his parents or guardians stand watchfully nearby, offering words of encouragement as they supervise their child's learning experience.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_001/new_bike_001.jpg": [],
+        "../data/final_dataset/new_bike/bike_001/new_bike_001_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/new_bike/bike_001/new_bike_001_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

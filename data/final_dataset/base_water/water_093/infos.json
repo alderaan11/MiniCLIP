@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_093",
+    "label": "water",
+    "caption": "A couple of people are standing and the person in the red coat is pointing at the body of water .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_093/base_water_093.jpg": [],
+        "../data/final_dataset/base_water/water_093/base_water_093_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_093/base_water_093_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

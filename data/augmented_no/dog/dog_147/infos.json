@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_147",
-    "label": "dog",
-    "caption": "A large orange dog and a little orange dog with another third dog in the grass .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_147/dog_147.jpg": []
-    }
-}

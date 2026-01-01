@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_492",
+    "label": "water",
+    "caption": "A young girl, perhaps around 8 years old, is laughing and splashing in the warm sunlight filtering down onto the swimming pool. She's holding onto the edge of the pool with one hand, her toes curled over the side, as she playsfully tries to get a towel that has slipped from her grasp. The cool water ripples outward from where she's been paddling, creating a tiny wave that catches the sunlight and sends shimmering sparks dancing across the surrounding deck.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_492/new_water_492.jpg": [],
+        "../data/final_dataset/new_water/water_492/new_water_492_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_492/new_water_492_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

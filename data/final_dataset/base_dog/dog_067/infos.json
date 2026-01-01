@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_067",
+    "label": "dog",
+    "caption": "A black dog carries an orange tennis ball in his mouth as he swims .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_067/base_dog_067.jpg": [],
+        "../data/final_dataset/base_dog/dog_067/base_dog_067_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_067/base_dog_067_color.jpg": [
+            "bw"
+        ]
+    }
+}

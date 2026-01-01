@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_444",
+    "label": "water",
+    "caption": "A small, energetic brown dog is swimming around in a large blue tub filled with calm, clear water, its paws barely touching the bottom as it paddles and plays. The sunlight catches the ripples on the surface of the water, creating a mesmerizing display of reflected light. In the background, a few toys or objects are scattered about, adding to the scene's sense of casual, carefree fun.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_444/new_water_444.jpg": [],
+        "../data/final_dataset/new_water/water_444/new_water_444_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_444/new_water_444_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

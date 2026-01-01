@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_022",
-    "label": "water",
-    "caption": "Two blonde boys , one in a camouflage shirt and the other in blue , are having a water fight .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_022/water_022.jpg": []
-    }
-}

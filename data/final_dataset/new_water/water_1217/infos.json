@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_1217",
+    "label": "water",
+    "caption": "A young girl sits on the edge of a wooden table, her head bent over a white plastic bucket as she cools off from the warm summer sun. A few beads of water trickle down her forehead, and a small puddle forms at the bottom of the bucket. The scene is set against a backdrop of a garden or yard, with lush greenery visible in the background.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1217/new_water_1217.jpg": [],
+        "../data/final_dataset/new_water/water_1217/new_water_1217_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_1217/new_water_1217_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

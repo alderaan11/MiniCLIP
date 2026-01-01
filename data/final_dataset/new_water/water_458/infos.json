@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_458",
+    "label": "water",
+    "caption": "A wet brown dog, likely after a refreshing dip in a nearby lake or stream, shakes off excess water from its body onto a rocky outcropping. The sunlight catches the droplets of water glistening on the dog's fur as it stands proudly on the rugged terrain. In the background, the calm surface of the water reflects the surrounding landscape, creating a serene and peaceful atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_458/new_water_458.jpg": [],
+        "../data/final_dataset/new_water/water_458/new_water_458_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_458/new_water_458_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

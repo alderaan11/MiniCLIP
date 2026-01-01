@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_005",
-    "label": "ball",
-    "caption": "Girls wearing sports uniforms and eye protection .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_005/ball_005.jpg": []
-    }
-}

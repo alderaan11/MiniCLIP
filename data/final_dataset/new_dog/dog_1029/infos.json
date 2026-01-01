@@ -1,0 +1,20 @@
+{
+    "img_stem": "dog_1029",
+    "label": "dog",
+    "caption": "A woman in athletic wear is seen standing beside a energetic dog as it leaps through a dog agility course, its paws scrambling for traction on the springy surface. The woman's face is tense with concentration as she encourages her pet to navigate the complex obstacle course. In the background, other dogs can be heard barking excitedly as their owners cheer them on.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1029/new_dog_1029.jpg": [],
+        "../data/final_dataset/new_dog/dog_1029/new_dog_1029_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_1029/new_dog_1029_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_048",
+    "label": "bike",
+    "caption": "A man rides a bike on a dirt path .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_048/base_bike_048.jpg": [],
+        "../data/final_dataset/base_bike/bike_048/base_bike_048_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_048/base_bike_048_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

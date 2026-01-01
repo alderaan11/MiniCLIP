@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_039",
+    "label": "water",
+    "caption": "Two children on surfboards wave to each other .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_039/base_water_039.jpg": [],
+        "../data/final_dataset/base_water/water_039/base_water_039_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_039/base_water_039_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

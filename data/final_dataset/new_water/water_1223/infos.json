@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_1223",
+    "label": "water",
+    "caption": "A young boy, his dark hair plastered to his forehead, laughs as he splashes in the shallow pool of water on a warm summer afternoon. His eyes shine with joy as he plays with the cool liquid, sending droplets flying in all directions. A towel lies nearby, forgotten in the excitement of this carefree moment.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1223/new_water_1223.jpg": [],
+        "../data/final_dataset/new_water/water_1223/new_water_1223_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_1223/new_water_1223_color.jpg": [
+            "bw"
+        ]
+    }
+}

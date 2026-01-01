@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_082",
+    "label": "water",
+    "caption": "A man in a blue shirt is spraying a sand sculpture .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_082/base_water_082.jpg": [],
+        "../data/final_dataset/base_water/water_082/base_water_082_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_082/base_water_082_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

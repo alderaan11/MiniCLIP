@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_121",
-    "label": "water",
-    "caption": "A girl kisses her mother goodbye before she waits with the other children to start school .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_121/water_121.jpg": []
-    }
-}

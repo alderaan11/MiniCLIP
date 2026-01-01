@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_045",
+    "label": "water",
+    "caption": "A girl standing in the ocean",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_045/base_water_045.jpg": [],
+        "../data/final_dataset/base_water/water_045/base_water_045_spatial.jpg": [
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_045/base_water_045_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

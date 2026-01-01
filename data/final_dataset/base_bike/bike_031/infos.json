@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_031",
+    "label": "bike",
+    "caption": "A bicyclist dressed in all black in traffic .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_031/base_bike_031.jpg": [],
+        "../data/final_dataset/base_bike/bike_031/base_bike_031_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_031/base_bike_031_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

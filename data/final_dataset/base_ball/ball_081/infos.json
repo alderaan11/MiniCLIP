@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_081",
+    "label": "ball",
+    "caption": "A child holds a football and runs from other children .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_081/base_ball_081.jpg": [],
+        "../data/final_dataset/base_ball/ball_081/base_ball_081_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_081/base_ball_081_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

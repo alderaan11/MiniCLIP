@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_049",
+    "label": "ball",
+    "caption": "A goalie tries to catch a ball during a soccer game .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_049/base_ball_049.jpg": [],
+        "../data/final_dataset/base_ball/ball_049/base_ball_049_spatial.jpg": [
+            "v_flip"
+        ],
+        "../data/final_dataset/base_ball/ball_049/base_ball_049_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

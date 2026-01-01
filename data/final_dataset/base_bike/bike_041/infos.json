@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_041",
+    "label": "bike",
+    "caption": "A bearded man wearing a bandanna is pointing his finger whilst riding a bicycle .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_041/base_bike_041.jpg": [],
+        "../data/final_dataset/base_bike/bike_041/base_bike_041_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_041/base_bike_041_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_007",
-    "label": "dog",
-    "caption": "A brown dog chases the water from a sprinkler on a lawn .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_007/dog_007.jpg": []
-    }
-}

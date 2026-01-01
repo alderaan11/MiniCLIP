@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_001",
+    "label": "water",
+    "caption": "A child and a woman are at waters edge in a big city .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_001/base_water_001.jpg": [],
+        "../data/final_dataset/base_water/water_001/base_water_001_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_001/base_water_001_color.jpg": [
+            "bw"
+        ]
+    }
+}

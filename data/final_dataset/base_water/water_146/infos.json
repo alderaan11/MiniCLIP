@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_146",
+    "label": "water",
+    "caption": "A kayaker falling down a waterfall",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_146/base_water_146.jpg": [],
+        "../data/final_dataset/base_water/water_146/base_water_146_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_146/base_water_146_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

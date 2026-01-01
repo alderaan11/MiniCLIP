@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_1246",
+    "label": "dog",
+    "caption": "A Beagle dog, its brown fur glistening in the sunlight, trots along the shoreline at the beach, its tail wagging excitedly as it sniffs the salty air. Seagulls fly overhead, casting long shadows on the sand behind the dog. The sound of waves gently lapping against the shore creates a soothing background noise as the Beagle continues its leisurely stroll.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1246/new_dog_1246.jpg": [],
+        "../data/final_dataset/new_dog/dog_1246/new_dog_1246_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_1246/new_dog_1246_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_079",
+    "label": "ball",
+    "caption": "A playful golden retriever stands on a sun-drenched beach, its tongue lolling out of its mouth as it gazes eagerly at a bright yellow ball lying a few feet away in the sand. The dog's tail wags excitedly, betraying its anticipation to pounce and catch the ball mid-air. As the waves gently lap at the shore behind it, the dog takes a moment to position itself for the perfect catch.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_079/new_ball_079.jpg": [],
+        "../data/final_dataset/new_ball/ball_079/new_ball_079_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_ball/ball_079/new_ball_079_color.jpg": [
+            "bw"
+        ]
+    }
+}

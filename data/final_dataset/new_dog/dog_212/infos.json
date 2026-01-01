@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_212",
+    "label": "dog",
+    "caption": "The scene captures a lively moment in a backyard, where a brown dog has wandered off to explore, while two other canine companions engage in a joyful play session nearby. A large black and white dog appears to be initiating the playful interaction with a smaller black dog, who is happily reciprocating with energetic movements. The atmosphere is one of carefree fun and camaraderie among these three furry friends.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_212/new_dog_212.jpg": [],
+        "../data/final_dataset/new_dog/dog_212/new_dog_212_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_212/new_dog_212_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

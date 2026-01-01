@@ -1,0 +1,13 @@
+{
+    "img_stem": "ball_067",
+    "label": "ball",
+    "caption": "A lively black and white dog, its fur fluffed up with excitement, is bounding across the lush green lawn, a rubber ball clutched tightly in its jaws as it tries to catch it mid-air. The sun casts dappled shadows on the grass beneath, adding warmth and depth to the scene of joyful playfulness. In the background, a few scattered trees sway gently in the breeze, their leaves rustling softly amidst the commotion.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_067/new_ball_067.jpg": [],
+        "../data/final_dataset/new_ball/ball_067/new_ball_067_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_067/new_ball_067_color.jpg": []
+    }
+}

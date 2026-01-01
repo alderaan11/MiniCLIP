@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_589",
+    "label": "water",
+    "caption": "The dog, a sleek black Labrador Retriever, runs along the sandy beach, its paws splashing in the calm turquoise water as it chases after a school of playful seagulls. The sun shines brightly overhead, casting a warm glow over the serene scene, with a few wispy clouds drifting lazily across the blue sky. In the distance, a few boats bob gently on the waves, their sails billowing softly in the gentle breeze.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_589/new_water_589.jpg": [],
+        "../data/final_dataset/new_water/water_589/new_water_589_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_589/new_water_589_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_474",
+    "label": "ball",
+    "caption": "A group of boys in a local soccer league are gathered on the field, their bright team hats a stark contrast to the lush green grass beneath their feet. One boy, with his eyes fixed intently on the ball at his feet, prepares to kick it forward to his teammate. As he runs, the other players give chase, their shouts and laughter carrying through the crisp afternoon air as they battle for control of the soccer ball.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_474/new_ball_474.jpg": [],
+        "../data/final_dataset/new_ball/ball_474/new_ball_474_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_474/new_ball_474_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

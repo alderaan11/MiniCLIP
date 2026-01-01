@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_076",
+    "label": "ball",
+    "caption": "Children play basketball on a court .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_076/base_ball_076.jpg": [],
+        "../data/final_dataset/base_ball/ball_076/base_ball_076_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_ball/ball_076/base_ball_076_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

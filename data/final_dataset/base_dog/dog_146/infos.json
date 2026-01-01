@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_146",
+    "label": "dog",
+    "caption": "a couple dogs in and around a small lake of water near a highway",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_146/base_dog_146.jpg": [],
+        "../data/final_dataset/base_dog/dog_146/base_dog_146_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_146/base_dog_146_color.jpg": [
+            "bw"
+        ]
+    }
+}

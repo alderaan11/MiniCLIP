@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_109",
+    "label": "dog",
+    "caption": "A man plays Frisbee with his dog .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_109/base_dog_109.jpg": [],
+        "../data/final_dataset/base_dog/dog_109/base_dog_109_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_109/base_dog_109_color.jpg": [
+            "bw"
+        ]
+    }
+}

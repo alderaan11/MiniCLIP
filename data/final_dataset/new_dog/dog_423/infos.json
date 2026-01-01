@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_423",
+    "label": "dog",
+    "caption": "A playful scene unfolds as a curious dog chases after a startled cat, who had been peacefully resting on a bed with its owner. The dog's excitement gets the best of it, and it gently nips at the cat's tail, causing both animals to tumble onto the soft blankets. Despite the commotion, the cat remains remarkably calm, while the dog looks up with a mischievous grin, already anticipating the next round of play.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_423/new_dog_423.jpg": [],
+        "../data/final_dataset/new_dog/dog_423/new_dog_423_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_423/new_dog_423_color.jpg": [
+            "flash",
+            "brightness"
+        ]
+    }
+}

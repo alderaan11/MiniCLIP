@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_061",
+    "label": "dog",
+    "caption": "A black and a white dog on the snow .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_061/base_dog_061.jpg": [],
+        "../data/final_dataset/base_dog/dog_061/base_dog_061_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_061/base_dog_061_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

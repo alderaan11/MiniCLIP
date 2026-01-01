@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_328",
+    "label": "dog",
+    "caption": "A fluffy black and white dog is running happily in a lush green meadow, chasing after a bright red striped flying disc that has just landed in the tall grass nearby. The sun casts a warm glow over the scene, with a few scattered leaves from the nearby trees adding a touch of autumnal color to the landscape. As the dog pounces on the disc, its tail wags excitedly, ready for the next playtime session.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_328/new_dog_328.jpg": [],
+        "../data/final_dataset/new_dog/dog_328/new_dog_328_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_328/new_dog_328_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

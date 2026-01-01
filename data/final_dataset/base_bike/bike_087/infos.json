@@ -1,0 +1,20 @@
+{
+    "img_stem": "bike_087",
+    "label": "bike",
+    "caption": "A biker , all covered in mud , riding a blue bike .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_087/base_bike_087.jpg": [],
+        "../data/final_dataset/base_bike/bike_087/base_bike_087_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_087/base_bike_087_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_094",
-    "label": "water",
-    "caption": "A man wakeboards in a red vest and smiles for the camera .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_094/water_094.jpg": []
-    }
-}

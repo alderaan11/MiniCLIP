@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_014",
-    "label": "water",
-    "caption": "A boy jumping in a fountain .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_014/water_014.jpg": []
-    }
-}

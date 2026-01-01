@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_038",
+    "label": "bike",
+    "caption": "A man in a red jacket holds his bike for the picture .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_038/base_bike_038.jpg": [],
+        "../data/final_dataset/base_bike/bike_038/base_bike_038_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_bike/bike_038/base_bike_038_color.jpg": [
+            "bw"
+        ]
+    }
+}

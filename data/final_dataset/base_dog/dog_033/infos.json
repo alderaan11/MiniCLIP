@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_033",
+    "label": "dog",
+    "caption": "A black and white dog is running through the field .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_033/base_dog_033.jpg": [],
+        "../data/final_dataset/base_dog/dog_033/base_dog_033_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_033/base_dog_033_color.jpg": [
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_116",
+    "label": "dog",
+    "caption": "A large white dog growling at a large black dog .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_116/base_dog_116.jpg": [],
+        "../data/final_dataset/base_dog/dog_116/base_dog_116_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_116/base_dog_116_color.jpg": [
+            "bw"
+        ]
+    }
+}

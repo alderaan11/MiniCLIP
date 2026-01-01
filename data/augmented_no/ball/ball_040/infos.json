@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_040",
-    "label": "ball",
-    "caption": "A group of boys play flag football while some bystanders watch .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_040/ball_040.jpg": []
-    }
-}

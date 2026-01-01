@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_049",
+    "label": "bike",
+    "caption": "A boy on a bike rides around the neighborhood .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_049/base_bike_049.jpg": [],
+        "../data/final_dataset/base_bike/bike_049/base_bike_049_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_049/base_bike_049_color.jpg": [
+            "bw"
+        ]
+    }
+}

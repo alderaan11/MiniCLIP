@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_072",
+    "label": "ball",
+    "caption": "A playful black dog is seen leaping from the top of a large, weathered hay bale in a rustic field, its paws splayed out to the sides as it attempts to catch a red rubber ball that has just been tossed into the air by an unseen person off-camera. The sun casts long shadows across the lush green grass as the dog's joyful energy is palpable amidst the serene countryside backdrop. In the distance, a few wispy clouds drift lazily across a bright blue sky, adding to the carefree atmosphere of the scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_072/new_ball_072.jpg": [],
+        "../data/final_dataset/new_ball/ball_072/new_ball_072_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_ball/ball_072/new_ball_072_color.jpg": [
+            "brightness",
+            "contrast"
+        ]
+    }
+}

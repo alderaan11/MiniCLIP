@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_085",
-    "label": "ball",
-    "caption": "A man in a black t-shirt looking down as he holds a drink .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_085/ball_085.jpg": []
-    }
-}

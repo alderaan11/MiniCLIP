@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_019",
+    "label": "dog",
+    "caption": "A black and white dog catches a toy in midair .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_019/base_dog_019.jpg": [],
+        "../data/final_dataset/base_dog/dog_019/base_dog_019_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_019/base_dog_019_color.jpg": [
+            "bw"
+        ]
+    }
+}

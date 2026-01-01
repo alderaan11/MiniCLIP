@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_145",
-    "label": "dog",
-    "caption": "A little white dog begs .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_145/dog_145.jpg": []
-    }
-}

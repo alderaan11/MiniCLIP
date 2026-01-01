@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_632",
+    "label": "dog",
+    "caption": "A small, energetic dog has cornered a young girl against a parked police cruiser in a quiet neighborhood street. The child's eyes are wide with alarm as she tries to shield herself from the snapping dog's advances, while the cruiser's lights and sirens seem ominously out of place. A few passersby rush towards the commotion, shouting for the dog to back down and calm the situation.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_632/new_dog_632.jpg": [],
+        "../data/final_dataset/new_dog/dog_632/new_dog_632_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_632/new_dog_632_color.jpg": [
+            "bw"
+        ]
+    }
+}

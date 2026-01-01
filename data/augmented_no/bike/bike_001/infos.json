@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_001",
-    "label": "bike",
-    "caption": "A child with a helmet on his head rides a bike .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_001/bike_001.jpg": []
-    }
-}

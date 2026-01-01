@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_075",
-    "label": "water",
-    "caption": "A couple enjoys a quiet moment near the river .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_075/water_075.jpg": []
-    }
-}

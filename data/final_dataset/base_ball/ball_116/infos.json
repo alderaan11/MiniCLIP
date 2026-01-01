@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_116",
+    "label": "ball",
+    "caption": "A dog and a goat chase two kids playing soccer .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_116/base_ball_116.jpg": [],
+        "../data/final_dataset/base_ball/ball_116/base_ball_116_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_116/base_ball_116_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

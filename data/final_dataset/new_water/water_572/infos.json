@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_572",
+    "label": "water",
+    "caption": "The sun casts dappled shadows on the forest floor as a gentle stream meanders through the woods, its crystal-clear waters reflecting the blue sky above. In the middle of this serene scene, a rugged jeep stands quietly, its tires suspended over the water's edge, as if taking in the peaceful surroundings. The air is filled with the sweet scent of blooming wildflowers and the soft chirping of birds, creating a sense of tranquility that seems to envelop everything in its path.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_572/new_water_572.jpg": [],
+        "../data/final_dataset/new_water/water_572/new_water_572_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_572/new_water_572_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

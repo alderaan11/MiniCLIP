@@ -1,0 +1,14 @@
+{
+    "img_stem": "water_071",
+    "label": "water",
+    "caption": "A boy stands on a rock in a creek , holding a stick .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_071/base_water_071.jpg": [],
+        "../data/final_dataset/base_water/water_071/base_water_071_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_water/water_071/base_water_071_color.jpg": [
+            "flash"
+        ]
+    }
+}

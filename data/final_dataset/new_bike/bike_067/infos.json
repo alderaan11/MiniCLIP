@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_067",
+    "label": "bike",
+    "caption": "A young boy, dressed in casual outdoor clothing, sits atop his mountain bike at the top of a winding trail, looking excited to begin his descent. The trail stretches out before him, disappearing into the dense foliage of the surrounding forest. In the background, a few trees can be seen, their leaves rustling gently in the breeze.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_067/new_bike_067.jpg": [],
+        "../data/final_dataset/new_bike/bike_067/new_bike_067_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_067/new_bike_067_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

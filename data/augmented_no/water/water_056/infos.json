@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_056",
-    "label": "water",
-    "caption": "A girl in an innertube enjoying the lake .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_056/water_056.jpg": []
-    }
-}

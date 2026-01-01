@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_148",
-    "label": "ball",
-    "caption": "A football player passes the football to a teammate as the crowd looks on .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_148/ball_148.jpg": []
-    }
-}

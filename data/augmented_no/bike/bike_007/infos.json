@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_007",
-    "label": "bike",
-    "caption": "Bicyclists are standing at an intersection .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_007/bike_007.jpg": []
-    }
-}

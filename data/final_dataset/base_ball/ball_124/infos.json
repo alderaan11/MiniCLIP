@@ -1,0 +1,15 @@
+{
+    "img_stem": "ball_124",
+    "label": "ball",
+    "caption": "a crowd wearing red , cheers on the red football team .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_124/base_ball_124.jpg": [],
+        "../data/final_dataset/base_ball/ball_124/base_ball_124_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_124/base_ball_124_color.jpg": [
+            "bw"
+        ]
+    }
+}

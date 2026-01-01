@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_042",
+    "label": "dog",
+    "caption": "A big dog catches a ball on his nose",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_042/base_dog_042.jpg": [],
+        "../data/final_dataset/base_dog/dog_042/base_dog_042_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_042/base_dog_042_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

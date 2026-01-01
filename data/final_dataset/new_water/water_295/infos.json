@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_295",
+    "label": "water",
+    "caption": "A group of young children, laughing and shrieking with excitement, are splashing in the calm waters of a natural lake or ocean, their bright summer clothes a stark contrast to the cool liquid beneath them. Nearby, a rock formation juts out from the water's edge, providing a natural barrier between the kids' play area and the rest of the serene surroundings. As they frolic and dive into the refreshing depths, their joyful shouts carry through the air, mingling with the soothing sound of lapping waves against the shore.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_295/new_water_295.jpg": [],
+        "../data/final_dataset/new_water/water_295/new_water_295_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_295/new_water_295_color.jpg": [
+            "bw"
+        ]
+    }
+}

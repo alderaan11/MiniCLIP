@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_036",
+    "label": "water",
+    "caption": "A boy in swimming trunks .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_036/base_water_036.jpg": [],
+        "../data/final_dataset/base_water/water_036/base_water_036_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_036/base_water_036_color.jpg": [
+            "bw"
+        ]
+    }
+}

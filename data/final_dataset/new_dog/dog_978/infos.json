@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_978",
+    "label": "dog",
+    "caption": "A small, energetic dog is seen bounding through a flaming hoop as it performs in a dog agility competition. The obstacle course is set against a backdrop of cheering spectators and trainers guiding their pets through the challenging jumps and tunnels. With its tongue lolling out of its mouth and ears flapping wildly, the dog's enthusiasm and agility are on full display as it clears the fiery ring with ease.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_978/new_dog_978.jpg": [],
+        "../data/final_dataset/new_dog/dog_978/new_dog_978_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/new_dog/dog_978/new_dog_978_color.jpg": [
+            "bw"
+        ]
+    }
+}

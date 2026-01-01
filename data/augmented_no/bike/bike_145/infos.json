@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_145",
-    "label": "bike",
-    "caption": "A man in an orange shirt and blue helmet races his bike .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_145/bike_145.jpg": []
-    }
-}

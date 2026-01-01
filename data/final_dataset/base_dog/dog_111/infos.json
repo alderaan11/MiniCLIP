@@ -1,0 +1,15 @@
+{
+    "img_stem": "dog_111",
+    "label": "dog",
+    "caption": "A black and white dog climbs a leaning tree trunk .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_111/base_dog_111.jpg": [],
+        "../data/final_dataset/base_dog/dog_111/base_dog_111_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_111/base_dog_111_color.jpg": [
+            "bw"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_390",
+    "label": "ball",
+    "caption": "A tall, athletic man with a smooth, shaved head stands confidently on the worn wooden floor of a basketball court. His eyes are fixed intently on the ball held securely in his right hand, his grip firm but relaxed as he prepares to pass or shoot. The fluorescent lights overhead cast a bright glow over the scene, illuminating the player's sweat-drenched brow and the vibrant colors of his jersey.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_390/new_ball_390.jpg": [],
+        "../data/final_dataset/new_ball/ball_390/new_ball_390_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_390/new_ball_390_color.jpg": [
+            "bw"
+        ]
+    }
+}

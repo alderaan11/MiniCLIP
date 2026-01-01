@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_067",
+    "label": "water",
+    "caption": "A kayaker is battling waves in a purple boat while wearing rain gear .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_067/base_water_067.jpg": [],
+        "../data/final_dataset/base_water/water_067/base_water_067_spatial.jpg": [
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_067/base_water_067_color.jpg": [
+            "bw"
+        ]
+    }
+}

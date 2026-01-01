@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_065",
+    "label": "ball",
+    "caption": "A woman is climbing a volleyball net on a beach as two others watch .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_065/base_ball_065.jpg": [],
+        "../data/final_dataset/base_ball/ball_065/base_ball_065_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_065/base_ball_065_color.jpg": [
+            "bw"
+        ]
+    }
+}

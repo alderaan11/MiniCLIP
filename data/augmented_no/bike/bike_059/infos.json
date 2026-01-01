@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_059",
-    "label": "bike",
-    "caption": "A guy in a yellow shirt with a bike gets very high in the air .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_059/bike_059.jpg": []
-    }
-}

@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_133",
+    "label": "water",
+    "caption": "A group of friends ride the current in a raft .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_133/base_water_133.jpg": [],
+        "../data/final_dataset/base_water/water_133/base_water_133_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_133/base_water_133_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

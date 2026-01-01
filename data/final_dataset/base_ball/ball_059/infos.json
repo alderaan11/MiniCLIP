@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_059",
+    "label": "ball",
+    "caption": "A boy standing and watching a group of people on a basketball court .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_059/base_ball_059.jpg": [],
+        "../data/final_dataset/base_ball/ball_059/base_ball_059_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_059/base_ball_059_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation"
+        ]
+    }
+}

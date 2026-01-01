@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_026",
+    "label": "ball",
+    "caption": "A boy hitting a soccer ball with his chest .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_026/base_ball_026.jpg": [],
+        "../data/final_dataset/base_ball/ball_026/base_ball_026_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_026/base_ball_026_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

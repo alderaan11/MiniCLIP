@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_068",
-    "label": "dog",
-    "caption": "A black and grey dog runs in a field with its tongue hanging out .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_068/dog_068.jpg": []
-    }
-}

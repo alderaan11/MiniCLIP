@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_012",
+    "label": "dog",
+    "caption": "A black dog carries a green toy in his mouth as he walks through the grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_012/base_dog_012.jpg": [],
+        "../data/final_dataset/base_dog/dog_012/base_dog_012_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_012/base_dog_012_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

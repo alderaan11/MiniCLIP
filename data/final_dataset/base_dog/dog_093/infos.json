@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_093",
+    "label": "dog",
+    "caption": "A brown dog and two black dogs in an overgrown grassy field .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_093/base_dog_093.jpg": [],
+        "../data/final_dataset/base_dog/dog_093/base_dog_093_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/base_dog/dog_093/base_dog_093_color.jpg": [
+            "bw"
+        ]
+    }
+}

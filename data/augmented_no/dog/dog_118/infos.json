@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_118",
-    "label": "dog",
-    "caption": "A brown dog runs through the grass holding something in its mouth .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_118/dog_118.jpg": []
-    }
-}

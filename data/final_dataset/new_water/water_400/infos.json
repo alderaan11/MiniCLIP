@@ -1,0 +1,15 @@
+{
+    "img_stem": "water_400",
+    "label": "water",
+    "caption": "A brown dog, its fur glistening in the sunlight, leaps from the edge of the beach and soars through the air before splashing into the calm waters below. The sound of the waves gently lapping at the shore fills the air as the dog paddles around in the shallow water. A few seagulls fly overhead, their cries echoing above the rhythmic beat of the waves.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_400/new_water_400.jpg": [],
+        "../data/final_dataset/new_water/water_400/new_water_400_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_400/new_water_400_color.jpg": [
+            "bw"
+        ]
+    }
+}

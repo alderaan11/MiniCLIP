@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_513",
+    "label": "water",
+    "caption": "The sun beats down on the lush green lawn, where three excited boys have just launched themselves off the edge of the pool deck into the cool blue waters below. The sound of their joyful laughter carries across the backyard as they splash and play in the shallow end, sending droplets flying upwards to sparkle in the sunlight. A colorful inflatable float bobs gently on the surface of the water nearby, adding a pop of vibrancy to the scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_513/new_water_513.jpg": [],
+        "../data/final_dataset/new_water/water_513/new_water_513_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_water/water_513/new_water_513_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

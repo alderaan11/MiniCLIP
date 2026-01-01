@@ -1,0 +1,19 @@
+{
+    "img_stem": "ball_088",
+    "label": "ball",
+    "caption": "A boy holds a basketball during a game , while others watch .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_088/base_ball_088.jpg": [],
+        "../data/final_dataset/base_ball/ball_088/base_ball_088_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_088/base_ball_088_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

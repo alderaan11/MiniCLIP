@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_071",
+    "label": "water",
+    "caption": "The kids laughed and splashed in the blue tub, filled to the brim with refreshing water on this sunny summer day. A nearby sprinkler system added extra fun to their playtime, misting the air with fine droplets of cool water. As they played, the warmth of the sun-kissed grass felt comforting beneath their bare feet.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_071/new_water_071.jpg": [],
+        "../data/final_dataset/new_water/water_071/new_water_071_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_071/new_water_071_color.jpg": [
+            "flash",
+            "saturation"
+        ]
+    }
+}

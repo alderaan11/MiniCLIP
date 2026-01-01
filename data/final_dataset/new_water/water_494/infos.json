@@ -1,0 +1,20 @@
+{
+    "img_stem": "water_494",
+    "label": "water",
+    "caption": "A tranquil scene unfolds near a serene canal, where a woman sits on a bench, taking in the beauty of nature. The soft light casts a warm glow on her face as she gazes out at a lush flower bed, its vibrant colors reflected perfectly in the calm waters below. In the distance, the gentle sound of running water echoes through the air, adding to the peaceful ambiance of this idyllic setting.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_494/new_water_494.jpg": [],
+        "../data/final_dataset/new_water/water_494/new_water_494_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_494/new_water_494_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

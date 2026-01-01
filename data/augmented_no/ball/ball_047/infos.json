@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_047",
-    "label": "ball",
-    "caption": "A baseball is recoiling from an action taken on a treated field watched by others .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_047/ball_047.jpg": []
-    }
-}

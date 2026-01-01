@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_071",
+    "label": "dog",
+    "caption": "A brown dog stands in a lush field with the stunning clouds and mountains behind it .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_071/base_dog_071.jpg": [],
+        "../data/final_dataset/base_dog/dog_071/base_dog_071_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_071/base_dog_071_color.jpg": [
+            "bw"
+        ]
+    }
+}

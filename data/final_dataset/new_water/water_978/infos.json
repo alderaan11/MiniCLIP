@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_978",
+    "label": "water",
+    "caption": "A young boy, likely dressed in casual clothes and carrying a backpack, can be seen running down a sidewalk on a typical day. As he approaches the center of the image, his feet splash into a puddle created by yesterday's rain, with water splashing up around his toes. The surrounding area appears to be a quiet suburban neighborhood, with trees and buildings in the background adding context to the scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_978/new_water_978.jpg": [],
+        "../data/final_dataset/new_water/water_978/new_water_978_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_978/new_water_978_color.jpg": [
+            "bw"
+        ]
+    }
+}

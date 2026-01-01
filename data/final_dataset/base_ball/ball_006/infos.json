@@ -1,0 +1,18 @@
+{
+    "img_stem": "ball_006",
+    "label": "ball",
+    "caption": "A little girl in a colorful dress is playing with a blue and red soccer ball .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_006/base_ball_006.jpg": [],
+        "../data/final_dataset/base_ball/ball_006/base_ball_006_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_006/base_ball_006_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

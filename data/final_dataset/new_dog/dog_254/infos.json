@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_254",
+    "label": "dog",
+    "caption": "A brown dog, its fur fluffed up against the cold, shook off the snow that had accumulated on its coat as it emerged from a snowy backyard. The dog's tail wagged enthusiastically as it danced around in circles, sending snow flying in all directions. In the background, a snow-covered fence and a few bare trees stood out against the grey winter sky.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_254/new_dog_254.jpg": [],
+        "../data/final_dataset/new_dog/dog_254/new_dog_254_spatial.jpg": [
+            "v_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_254/new_dog_254_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

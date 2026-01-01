@@ -1,0 +1,17 @@
+{
+    "img_stem": "ball_025",
+    "label": "ball",
+    "caption": "A black dog catches a tennis ball in his mouth while a white dog watches .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_025/base_ball_025.jpg": [],
+        "../data/final_dataset/base_ball/ball_025/base_ball_025_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_025/base_ball_025_color.jpg": [
+            "bw"
+        ]
+    }
+}

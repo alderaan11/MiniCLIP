@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_035",
+    "label": "bike",
+    "caption": "A person in a blue jacket , wearing a bicycle helmet is riding a bike",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_035/base_bike_035.jpg": [],
+        "../data/final_dataset/base_bike/bike_035/base_bike_035_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_bike/bike_035/base_bike_035_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

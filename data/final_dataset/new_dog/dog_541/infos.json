@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_541",
+    "label": "dog",
+    "caption": "In the lush green grass of the countryside, a playful black dog can be seen running around with unbridled energy, its tail wagging excitedly as it chases after a brightly coloured toy. The sun shines down upon the scene, casting a warm glow over the entire landscape. As the dog bounds through the field, the toy darts back and forth in front of it, leading the eager canine on a merry game of tag.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_541/new_dog_541.jpg": [],
+        "../data/final_dataset/new_dog/dog_541/new_dog_541_spatial.jpg": [
+            "h_flip",
+            "crop"
+        ],
+        "../data/final_dataset/new_dog/dog_541/new_dog_541_color.jpg": [
+            "flash",
+            "contrast"
+        ]
+    }
+}

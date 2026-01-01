@@ -1,8 +1,0 @@
-{
-    "img_stem": "ball_114",
-    "label": "ball",
-    "caption": "A brown dog holding a foam bat aiming for a ball .",
-    "imgs_paths": {
-        "../data/augmented_no/ball/ball_114/ball_114.jpg": []
-    }
-}

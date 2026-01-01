@@ -1,0 +1,18 @@
+{
+    "img_stem": "dog_055",
+    "label": "dog",
+    "caption": "A girl in a white shirt is sitting on a park bench with a dog next to her .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_055/base_dog_055.jpg": [],
+        "../data/final_dataset/base_dog/dog_055/base_dog_055_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_055/base_dog_055_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

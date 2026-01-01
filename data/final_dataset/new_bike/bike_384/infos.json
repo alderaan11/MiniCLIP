@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_384",
+    "label": "bike",
+    "caption": "Two riders on mountain bikes, one of whom has taken a tumble, were helped to their feet by the other rider in a rural dirt trail setting with rocky terrain and lush greenery. The fallen biker, dusty and shaken, struggled to regain his balance while his companion offered support. The bike lay nearby, its wheels askew as if it had been knocked from under its rider's control.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_384/new_bike_384.jpg": [],
+        "../data/final_dataset/new_bike/bike_384/new_bike_384_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_384/new_bike_384_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

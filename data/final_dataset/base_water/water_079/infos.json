@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_079",
+    "label": "water",
+    "caption": "A man maneuvers a motorcycle through a rocky stream .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_079/base_water_079.jpg": [],
+        "../data/final_dataset/base_water/water_079/base_water_079_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_079/base_water_079_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

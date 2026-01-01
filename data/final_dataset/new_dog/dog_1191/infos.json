@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_1191",
+    "label": "dog",
+    "caption": "A serene riverside path winds its way through a lush green landscape, lined with tall trees that provide dappled shade on a warm summer day. A happy child perches precariously on a unicycle, balancing as they glide along the path while their proud owner looks on from behind. By their side trots a playful golden retriever, its tail wagging enthusiastically as it keeps pace with the young rider's wobbly attempts at balance and coordination.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_1191/new_dog_1191.jpg": [],
+        "../data/final_dataset/new_dog/dog_1191/new_dog_1191_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_1191/new_dog_1191_color.jpg": [
+            "saturation"
+        ]
+    }
+}

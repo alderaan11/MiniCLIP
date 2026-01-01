@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_109",
+    "label": "bike",
+    "caption": "a lone bicyclist jumping in the air over a ramp .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_109/base_bike_109.jpg": [],
+        "../data/final_dataset/base_bike/bike_109/base_bike_109_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_109/base_bike_109_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_001",
+    "label": "bike",
+    "caption": "A child with a helmet on his head rides a bike .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_001/base_bike_001.jpg": [],
+        "../data/final_dataset/base_bike/bike_001/base_bike_001_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_001/base_bike_001_color.jpg": [
+            "flash",
+            "brightness",
+            "contrast"
+        ]
+    }
+}

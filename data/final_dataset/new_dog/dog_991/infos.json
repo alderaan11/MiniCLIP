@@ -1,0 +1,17 @@
+{
+    "img_stem": "dog_991",
+    "label": "dog",
+    "caption": "A friendly labrador retriever stands proudly on top of a weathered tree trunk, its fur fluffed up slightly from the chill in the air. In the background, a guy with a rugged look can be seen walking towards the scene, perhaps having called out to his loyal companion or simply enjoying the crisp morning atmosphere. The fallen tree's gnarled branches create a picturesque frame for this serene moment of canine companionship.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_991/new_dog_991.jpg": [],
+        "../data/final_dataset/new_dog/dog_991/new_dog_991_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_991/new_dog_991_color.jpg": [
+            "saturation",
+            "contrast"
+        ]
+    }
+}

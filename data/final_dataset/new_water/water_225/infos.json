@@ -1,0 +1,18 @@
+{
+    "img_stem": "water_225",
+    "label": "water",
+    "caption": "A young child, splashing in the shallow water, giggles as they make their way towards the beach on a warm summer day. The sunlight catches the tiny ripples on the surface of the water, creating a sparkling effect that adds to the excitement of the moment. In the background, palm trees stand tall, their leaves swaying gently in the breeze.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_225/new_water_225.jpg": [],
+        "../data/final_dataset/new_water/water_225/new_water_225_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_225/new_water_225_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

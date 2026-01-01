@@ -1,0 +1,17 @@
+{
+    "img_stem": "bike_053",
+    "label": "bike",
+    "caption": "a biker bikes through the woods .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_053/base_bike_053.jpg": [],
+        "../data/final_dataset/base_bike/bike_053/base_bike_053_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_053/base_bike_053_color.jpg": [
+            "bw"
+        ]
+    }
+}

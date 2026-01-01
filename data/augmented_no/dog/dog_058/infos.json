@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_058",
-    "label": "dog",
-    "caption": "A black and tan dog in the snow",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_058/dog_058.jpg": []
-    }
-}

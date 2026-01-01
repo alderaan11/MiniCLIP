@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_063",
-    "label": "dog",
-    "caption": "a brown dog is leaping into a garden swimming pool .",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_063/dog_063.jpg": []
-    }
-}

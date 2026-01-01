@@ -1,0 +1,16 @@
+{
+    "img_stem": "bike_031",
+    "label": "bike",
+    "caption": "The woman pedals through the park, her ponytail bouncing behind her as she navigates the winding path on her worn mountain bike. The sunlight catches the beads of sweat on her forehead, and her eyes squint slightly as she looks ahead to the next turn in the trail. A faint blur trails behind her wheels as she picks up speed, the image softening into a haze that hints at the exercise intensity.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_031/new_bike_031.jpg": [],
+        "../data/final_dataset/new_bike/bike_031/new_bike_031_spatial.jpg": [
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_031/new_bike_031_color.jpg": [
+            "bw"
+        ]
+    }
+}

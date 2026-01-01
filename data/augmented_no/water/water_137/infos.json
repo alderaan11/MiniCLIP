@@ -1,8 +1,0 @@
-{
-    "img_stem": "water_137",
-    "label": "water",
-    "caption": "A boy gets flipped into the river by another boy .",
-    "imgs_paths": {
-        "../data/augmented_no/water/water_137/water_137.jpg": []
-    }
-}

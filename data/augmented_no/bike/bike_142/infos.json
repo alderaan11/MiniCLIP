@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_142",
-    "label": "bike",
-    "caption": "A clown with a big hat riding a bicycle .",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_142/bike_142.jpg": []
-    }
-}

@@ -1,0 +1,14 @@
+{
+    "img_stem": "ball_110",
+    "label": "ball",
+    "caption": "Three dogs are running side by side on the grass .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_110/base_ball_110.jpg": [],
+        "../data/final_dataset/base_ball/ball_110/base_ball_110_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_110/base_ball_110_color.jpg": [
+            "bw"
+        ]
+    }
+}

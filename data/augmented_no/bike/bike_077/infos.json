@@ -1,8 +1,0 @@
-{
-    "img_stem": "bike_077",
-    "label": "bike",
-    "caption": "a bicyclist jumping with his bike in midair",
-    "imgs_paths": {
-        "../data/augmented_no/bike/bike_077/bike_077.jpg": []
-    }
-}

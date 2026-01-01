@@ -1,0 +1,16 @@
+{
+    "img_stem": "dog_211",
+    "label": "dog",
+    "caption": "A golden retriever ambling along the beach, its paws sinking slightly into the cool sand as it makes its way towards the water's edge. The warm sun casts a gentle glow over the scene, illuminating the dog's fluffy coat and the subtle ripples on the surface of the ocean. Seagulls wheel overhead, their cries carrying on the breeze as they scan for food amidst the beachgoers and beachcombers.",
+    "imgs_paths": {
+        "../data/final_dataset/new_dog/dog_211/new_dog_211.jpg": [],
+        "../data/final_dataset/new_dog/dog_211/new_dog_211_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_dog/dog_211/new_dog_211_color.jpg": [
+            "bw"
+        ]
+    }
+}

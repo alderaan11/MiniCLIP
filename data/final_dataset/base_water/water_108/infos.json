@@ -1,0 +1,16 @@
+{
+    "img_stem": "water_108",
+    "label": "water",
+    "caption": "black dogs jump in pool to a hand .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_108/base_water_108.jpg": [],
+        "../data/final_dataset/base_water/water_108/base_water_108_spatial.jpg": [
+            "h_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_water/water_108/base_water_108_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

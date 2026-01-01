@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_018",
+    "label": "ball",
+    "caption": "A baby lies almost completely covered by bright colored plastic balls .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_018/base_ball_018.jpg": [],
+        "../data/final_dataset/base_ball/ball_018/base_ball_018_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_ball/ball_018/base_ball_018_color.jpg": [
+            "bw"
+        ]
+    }
+}

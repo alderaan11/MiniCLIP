@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_599",
+    "label": "ball",
+    "caption": "A man is walking his energetic brown dog on a sunny afternoon, strolling through a lush green field where a red rubber ball has been kicked by the dog, sending it flying in all directions. The dog's tail is wagging excitedly as it chases after the ball, with the man laughing and following closely behind to join in the fun. As they play together, the warm sunlight casts long shadows across the grass, creating a serene and idyllic scene.",
+    "imgs_paths": {
+        "../data/final_dataset/new_ball/ball_599/new_ball_599.jpg": [],
+        "../data/final_dataset/new_ball/ball_599/new_ball_599_spatial.jpg": [
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_ball/ball_599/new_ball_599_color.jpg": [
+            "brightness",
+            "saturation"
+        ]
+    }
+}

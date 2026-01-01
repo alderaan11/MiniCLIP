@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_1060",
+    "label": "water",
+    "caption": "A serene lake on a summer afternoon, its calm surface reflecting the lush greenery of the surrounding trees. Two playful dogs, their fur glistening with droplets of water, can be seen frolicking together at the lake's edge, engaged in a joyful game of tug-of-war with a rubber toy that they've carefully chosen to play with while submerged up to their paws in the cool, clear water.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_1060/new_water_1060.jpg": [],
+        "../data/final_dataset/new_water/water_1060/new_water_1060_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_1060/new_water_1060_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "img_stem": "dog_008",
+    "label": "dog",
+    "caption": "A dog prepares to catch a thrown object in a field with nearby cars .",
+    "imgs_paths": {
+        "../data/final_dataset/base_dog/dog_008/base_dog_008.jpg": [],
+        "../data/final_dataset/base_dog/dog_008/base_dog_008_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "rotate"
+        ],
+        "../data/final_dataset/base_dog/dog_008/base_dog_008_color.jpg": [
+            "flash",
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

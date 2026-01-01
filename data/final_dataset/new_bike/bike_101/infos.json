@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_101",
+    "label": "bike",
+    "caption": "The motocross rider expertly navigates their dirt bike down the steep hill, the wheels leaving behind a trail of disturbed earth as they gain speed. The rider's focus is intense, eyes fixed on the path ahead as they prepare for the next jump. In the background, a few scattered trees and rocky outcroppings dot the hillside, adding to the rugged terrain that the bike is designed to conquer.",
+    "imgs_paths": {
+        "../data/final_dataset/new_bike/bike_101/new_bike_101.jpg": [],
+        "../data/final_dataset/new_bike/bike_101/new_bike_101_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_bike/bike_101/new_bike_101_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

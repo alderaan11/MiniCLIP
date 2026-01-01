@@ -1,0 +1,18 @@
+{
+    "img_stem": "bike_111",
+    "label": "bike",
+    "caption": "A bicycle stunt jump is being perforced in a city .",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_111/base_bike_111.jpg": [],
+        "../data/final_dataset/base_bike/bike_111/base_bike_111_spatial.jpg": [
+            "h_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_111/base_bike_111_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

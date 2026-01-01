@@ -1,0 +1,19 @@
+{
+    "img_stem": "water_916",
+    "label": "water",
+    "caption": "A small Jack Russell Terrier, its fur fluffed up from the morning dew, bounded through the tall grass at the edge of the forest, its tail wagging excitedly as it chased after a particularly tantalizing fly. The air was filled with the sweet scent of blooming wildflowers and the gentle lapping of water against the riverbank stones. As the dog neared the stream's edge, it paused for a moment, then sprang into the cool, clear water with a joyful yelp.",
+    "imgs_paths": {
+        "../data/final_dataset/new_water/water_916/new_water_916.jpg": [],
+        "../data/final_dataset/new_water/water_916/new_water_916_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/new_water/water_916/new_water_916_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

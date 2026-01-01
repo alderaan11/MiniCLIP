@@ -1,8 +1,0 @@
-{
-    "img_stem": "dog_089",
-    "label": "dog",
-    "caption": "People stand in corridor looking from balcony as another person walks dog",
-    "imgs_paths": {
-        "../data/augmented_no/dog/dog_089/dog_089.jpg": []
-    }
-}

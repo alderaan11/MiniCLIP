@@ -1,0 +1,19 @@
+{
+    "img_stem": "bike_101",
+    "label": "bike",
+    "caption": "A guy doing a wallride on his bike",
+    "imgs_paths": {
+        "../data/final_dataset/base_bike/bike_101/base_bike_101.jpg": [],
+        "../data/final_dataset/base_bike/bike_101/base_bike_101_spatial.jpg": [
+            "h_flip",
+            "v_flip",
+            "crop",
+            "rotate"
+        ],
+        "../data/final_dataset/base_bike/bike_101/base_bike_101_color.jpg": [
+            "brightness",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

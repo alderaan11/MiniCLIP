@@ -1,0 +1,16 @@
+{
+    "img_stem": "ball_122",
+    "label": "ball",
+    "caption": "A man runs on the football field carrying the ball in front of the ref .",
+    "imgs_paths": {
+        "../data/final_dataset/base_ball/ball_122/base_ball_122.jpg": [],
+        "../data/final_dataset/base_ball/ball_122/base_ball_122_spatial.jpg": [
+            "crop"
+        ],
+        "../data/final_dataset/base_ball/ball_122/base_ball_122_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}

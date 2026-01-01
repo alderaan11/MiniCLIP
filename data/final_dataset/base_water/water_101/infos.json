@@ -1,0 +1,17 @@
+{
+    "img_stem": "water_101",
+    "label": "water",
+    "caption": "A man beginning to waterski wearing a red life jacket .",
+    "imgs_paths": {
+        "../data/final_dataset/base_water/water_101/base_water_101.jpg": [],
+        "../data/final_dataset/base_water/water_101/base_water_101_spatial.jpg": [
+            "h_flip",
+            "v_flip"
+        ],
+        "../data/final_dataset/base_water/water_101/base_water_101_color.jpg": [
+            "flash",
+            "saturation",
+            "contrast"
+        ]
+    }
+}
