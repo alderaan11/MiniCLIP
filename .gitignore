@@ -1,1 +1,1 @@
-./notebooks/bert-small-sst2
+./notebooks/bert-small-sst2models/*.pth
