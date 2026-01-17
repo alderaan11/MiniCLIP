@@ -1,1 +1,5 @@
 ./notebooks/bert-small-sst2models/*.pth
+./models
+./data/augmented
+./data/flicker
+./data/flick_long_subset
