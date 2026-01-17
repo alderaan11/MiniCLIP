@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_816",
+    "label": "water",
+    "caption": "A playful black and white dog runs through the shallow waters of a nearby stream, its fur getting damp in the process. The dog's owner is standing on the riverbank, watching with amusement as their energetic pet frolics in the water, a stick held loosely in its mouth. A few soggy leaves float gently downstream from the disturbance caused by the happy commotion.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_816/new_water_816.jpg": []
+    }
+}

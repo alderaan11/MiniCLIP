@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_600",
+    "label": "ball",
+    "caption": "A young boy kicks the ball across the lush green field, chasing after it as it rolls and bounces towards the nearby apartment building in the distance. The sun casts a warm glow over the scene, illuminating the vibrant colors of the grass and the bright jersey the boy wears as he plays with abandon. In the background, the towering apartment complex stands sentinel, its windows reflecting the happy commotion of the game.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_600/new_ball_600.jpg": []
+    }
+}

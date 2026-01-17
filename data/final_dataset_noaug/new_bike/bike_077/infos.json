@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_077",
+    "label": "bike",
+    "caption": "A rugged, asphalt road stretches out before him as he revs up his powerful motorcycle, the engine roaring to life beneath him. The man in a sleek black and white helmet and jacket stands poised on the back of the bike, his knees slightly bent in anticipation of the stunt he's about to perform. A small crowd is gathered at the edge of the road, eagerly watching as he prepares to take off with a burst of speed and adrenaline.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_077/new_bike_077.jpg": []
+    }
+}

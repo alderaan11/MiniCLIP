@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_593",
+    "label": "ball",
+    "caption": "A young boy with glasses perched on the end of his nose stands knee-deep in the warm sand, gazing up at the sky as he expertly tosses a bright yellow ball into the air. The sun casts a gentle glow over the serene scene, illuminating the subtle grains of sand that dance around the boy's feet. For a brief moment, time seems to stand still as the ball soars through its arc, suspended in mid-air like a fleeting promise of joy and carefree abandon.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_593/new_ball_593.jpg": []
+    }
+}

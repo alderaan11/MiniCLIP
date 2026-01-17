@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_009",
+    "label": "bike",
+    "caption": "A biker, dressed in casual clothing, sits on the edge of a sidewalk café, taking a break from their ride to enjoy a cup of coffee. The bike leans against the railing behind them, its tires gleaming in the morning sun. A few passersby glance over at the scene, perhaps curious about the rider's relaxed demeanor.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_009/new_bike_009.jpg": []
+    }
+}

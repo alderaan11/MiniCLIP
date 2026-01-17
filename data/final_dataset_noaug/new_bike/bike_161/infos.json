@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_161",
+    "label": "bike",
+    "caption": "A rugged mountain biker expertly navigates the twists and turns of a challenging single-track trail, their tires gripping the loose gravel as they pick up speed. The sun casts dappled shadows on the forest floor, and the sound of rushing water echoes through the trees from a nearby stream. A vibrant pink jersey stands out against the muted greens of the woodland surroundings, a testament to the rider's competitive spirit.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_161/new_bike_161.jpg": []
+    }
+}

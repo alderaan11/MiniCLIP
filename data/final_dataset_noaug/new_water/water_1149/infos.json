@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1149",
+    "label": "water",
+    "caption": "A vibrant splash of colour fills the air as a carefree young girl, clad in a bright and playful bathing suit, hurtles down a winding water slide, her laughter echoing through the warm summer air. As she reaches the end of the chute, she's gently tossed into the cool, clear waters below, sending ripples out across the pool's surface. The surrounding deck is filled with the sounds of joyful screams and splashing fun, creating a lively atmosphere on this sun-kissed day by the water's edge.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1149/new_water_1149.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_221",
+    "label": "ball",
+    "caption": "A sunny afternoon in a park, with lush green grass stretching out as far as the eye can see. A brown dog, its fur fluffed up from excitement, runs eagerly towards a brightly colored ball that lies on the ground a short distance away, its leather surface scratched from repeated play. As the dog approaches, it picks up the ball in its jaws and proudly carries it back to its owner, who is watching with a warm smile on their face.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_221/new_ball_221.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_168",
+    "label": "dog",
+    "caption": "A brown dog stands isolated in front of a snowbank, its fur fluffed up against the chill of the winter air. The surrounding landscape is quiet and still, with no signs of human activity to be seen. A few scattered snowflakes dance around the dog's head, casting a gentle spell over the otherwise tranquil scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_168/new_dog_168.jpg": []
+    }
+}

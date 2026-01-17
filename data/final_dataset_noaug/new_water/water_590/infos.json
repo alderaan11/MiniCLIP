@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_590",
+    "label": "water",
+    "caption": "A group of happy children, accompanied by a few adults, are splashing around in the vibrant water fountain on the grassy ground, laughing and shrieking with delight as they playfully chase each other through the cool mist. The warm sunlight catches the droplets of water suspended in mid-air, creating a shimmering effect that adds to the playful atmosphere. A few colorful flowers are scattered nearby, their petals slightly damp from the splashing children, adding a pop of color to the scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_590/new_water_590.jpg": []
+    }
+}

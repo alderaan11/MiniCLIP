@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_725",
+    "label": "ball",
+    "caption": "A playful black and white dog, its fur fluffed up from excitement, runs eagerly across the vast open grassy plane, its eyes fixed intently on a brightly colored ball bouncing ahead of it. The sun casts a warm glow over the scene, illuminating the dog's joyful expression as it gives chase. In the distance, the rolling hills stretch out, providing a serene backdrop to the lively pursuit.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_725/new_ball_725.jpg": []
+    }
+}

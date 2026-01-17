@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_033",
+    "label": "bike",
+    "caption": "A woman in a pink hat and navy blue coat pedals down a winding suburban street, the morning sunlight casting a warm glow on her face as she effortlessly navigates her bicycle around a curve. A few leaves rustle in the gentle breeze, drifting to the ground at her feet. In the background, a row of neatly manicured lawns stretches out, with a few residents beginning to emerge from their front doors for their daily morning routines.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_033/new_bike_033.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_662",
+    "label": "ball",
+    "caption": "A playful brown dog is seen running rapidly across a lush green lawn, its eyes fixed intently on a bright yellow ball as it careens out of control in front of it. The ball's trajectory has been altered by the dog's frantic pursuit, causing it to bounce and roll unpredictably across the grass. A sunny afternoon sky provides a picturesque backdrop for this energetic scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_662/new_ball_662.jpg": []
+    }
+}

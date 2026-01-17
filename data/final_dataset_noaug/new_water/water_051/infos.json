@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_051",
+    "label": "water",
+    "caption": "Three rambunctious boys are engaged in a lively game of splash tag, their laughter and shouts carrying on the warm summer air as they frolic in the cool water at the base of a grey concrete wall. The sound of splashing echoes off the wall's smooth surface, adding to the joyful chaos of the scene. As they play, they create miniature waves that lap gently against the wall's base, leaving tiny rivulets of water trickling down its face.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_051/new_water_051.jpg": []
+    }
+}

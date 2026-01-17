@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_304",
+    "label": "water",
+    "caption": "Two men, their athletic builds evident in their toned arms and legs, expertly navigate the rocks at the base of a thunderous waterfall. The sunlight catches the mist that rises from the falls, casting a veil of diamonds across the surrounding landscape as it cascades down into the crystal-clear pool below. In this serene yet exhilarating scene, the roar of the water provides a soothing background melody to their physical exertion.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_304/new_water_304.jpg": []
+    }
+}

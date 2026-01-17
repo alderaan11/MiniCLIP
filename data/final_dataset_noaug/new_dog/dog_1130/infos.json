@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1130",
+    "label": "dog",
+    "caption": "A fluffy tan dog, its curly coat fluffed up against the cold, bounds through the snow-covered backyard with joyful abandon, a stick clutched tightly in its jaws as it playfully leaps over a mound of powder. The crisp winter air carries the scent of fresh-cut grass and wood smoke from a nearby fire pit, adding to the cozy atmosphere of the scene. As the dog runs, its tail wags furiously, leaving behind a trail of disturbed snow in its wake.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1130/new_dog_1130.jpg": []
+    }
+}

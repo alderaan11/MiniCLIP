@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_042",
+    "label": "ball",
+    "caption": "In this lively scene, two playful dogs have stopped their energetic game of chase to engage in a more curious activity - sniffing each other out. Meanwhile, one of the dogs has wandered over to a nearby ball that had been left on the ground, and is now attempting to pick it up in its mouth, momentarily forgetting about the interesting smell wafting from its companion's rear end. As they continue to explore each other, the ball rolls away, enticing the dog to give chase once again.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_042/new_ball_042.jpg": []
+    }
+}

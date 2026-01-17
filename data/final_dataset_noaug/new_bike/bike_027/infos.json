@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_027",
+    "label": "bike",
+    "caption": "A couple enjoying a leisurely afternoon on a park bench, the woman's hand resting casually on her partner's knee as they take in the scenery around them. Nearby, their black bikes are leaning against the railing of a nearby bike rack, their sleek frames gleaming in the sunlight. The couple seems completely at ease with each other and their surroundings, taking a welcome break from their daily routine.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_027/new_bike_027.jpg": []
+    }
+}

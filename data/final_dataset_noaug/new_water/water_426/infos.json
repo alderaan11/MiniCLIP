@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_426",
+    "label": "water",
+    "caption": "A young girl, laughing freely, stands in a small rain puddle on the sidewalk, her bright dress splattered with droplets of water. The puddle's edges glisten in the sunlight, reflecting the vibrant colors around it. Nearby, leaves and petals from fallen flowers cling to the wet pavement, adding subtle touches of color to the scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_426/new_water_426.jpg": []
+    }
+}

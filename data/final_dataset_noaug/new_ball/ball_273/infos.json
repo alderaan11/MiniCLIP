@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_273",
+    "label": "ball",
+    "caption": "A football player in a blue and yellow uniform is tackling another player in a white and gold uniform, both of whom are struggling to maintain possession of the ball as they crash to the ground in a cloud of dust and grass.\n\nThe players' movements are intense and urgent, their faces twisted with effort as they fight for control of the orb. The ball itself is partially hidden from view beneath them, its smooth surface glistening faintly in the sunlight that filters down through the stadium's open roof.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_273/new_ball_273.jpg": []
+    }
+}

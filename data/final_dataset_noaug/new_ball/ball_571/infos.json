@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_571",
+    "label": "ball",
+    "caption": "The soccer player's foot connected with the ball, sending it soaring through the air as the other player lunged to try and intercept it. The ground beneath their feet was slick from the morning rain, making every move a potential slip-up. The referee blew his whistle, calling out for a free kick in favor of the player whose ball had been stolen away.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_571/new_ball_571.jpg": []
+    }
+}

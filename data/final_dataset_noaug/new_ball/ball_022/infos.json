@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_022",
+    "label": "ball",
+    "caption": "A playful dog, its tail wagging excitedly, leaps through the air in pursuit of a bright red ball, which has been tossed by its owner on a sunny afternoon in the park. The ball hangs momentarily suspended above the lush green grass before the dog makes contact with it, their paws and snout colliding in mid-air as they strive to catch the elusive object. The joyful scene is filled with the happy sounds of children at play and the warm breeze rustling through the leaves of nearby trees.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_022/new_ball_022.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_333",
+    "label": "ball",
+    "caption": "A soggy football lay abandoned on the muddy turf, its laces flailing in every direction as the rain continued to drizzle down around it. Nearby, a player knelt in the mud, carefully folding the ball into a compact shape before tucking it under his arm and rising to his feet. The sound of cheering fans could be heard in the distance, mingling with the patter of raindrops on the stadium's seats.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_333/new_ball_333.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_670",
+    "label": "water",
+    "caption": "A boy stands in a pool outside, surrounded by lush greenery and warm sunlight filtering through the trees. The sound of children's laughter carries through the air as he jumps up to grab the diving board behind him, his eyes shining with excitement. A few colorful pool floats bob gently on the surface of the water, adding a playful touch to the serene atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_670/new_water_670.jpg": []
+    }
+}

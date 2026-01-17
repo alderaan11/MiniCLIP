@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_265",
+    "label": "ball",
+    "caption": "A playful dog, its fur mottled black, white, and brown, is running around in the sunshine on a warm sandy beach. Its tail wagging enthusiastically, it has just thrown a ball into the air with its mouth, which is flying through the sky in an arc before plummeting back down towards the sand. The ball itself is a vibrant green and pink color, a joyful contrast to the duller tones of the surroundings.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_265/new_ball_265.jpg": []
+    }
+}

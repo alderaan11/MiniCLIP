@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_909",
+    "label": "dog",
+    "caption": "A middle-aged man sat on the grass, his arm casually draped around the neck of his loyal canine companion, who was gazing up at him with adoring eyes. The dog's tail wagged lazily as it sniffed at the base of the nearby white building, its owner laughing and scratching behind its ears. In the warm sunlight, the scene seemed frozen in a moment of serene contentment.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_909/new_dog_909.jpg": []
+    }
+}

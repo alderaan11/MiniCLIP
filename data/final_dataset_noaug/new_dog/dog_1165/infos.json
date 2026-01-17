@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1165",
+    "label": "dog",
+    "caption": "In a sunny backyard, a playful bundle of energy - a small puppy with light blue eyes - runs around a larger dog, who is patiently tolerating the youngster's enthusiasm as they chase each other in circles. The big dog's coat is a vibrant mix of black, white, and orange hues, while its companion's fur is still a soft grey, hinting at its youthful age. As they play together, their joyful yips fill the air, accompanied by the warmth of a summer day.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1165/new_dog_1165.jpg": []
+    }
+}

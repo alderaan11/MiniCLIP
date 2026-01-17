@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_238",
+    "label": "bike",
+    "caption": "A young boy, perhaps on his summer break from school, has managed to get some air on his trusty bicycle as he zooms along a busy urban path. The handrail of the nearby staircase stands out as a stark contrast to the boy's carefree joyride, its metal railing glinting in the sunlight that filters down between the tall buildings surrounding the walkway. As he soars above the pavement, his bike's wheels momentarily leave the ground, creating a brief moment of weightlessness before he comes back down with a gentle thud.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_238/new_bike_238.jpg": []
+    }
+}

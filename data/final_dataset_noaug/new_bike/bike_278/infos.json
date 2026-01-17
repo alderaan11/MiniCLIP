@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_278",
+    "label": "bike",
+    "caption": "A rugged dirt track stretches out into the distance, lined by tall trees and overgrown bushes, providing a challenging terrain for riders to test their skills. In the center of the frame, a man clad in gray gear, helmet securely fastened, expertly navigates his dirt bike around a bend, the machine's tires kicking up clouds of dust with each turn. The atmosphere is one of intense focus and competition, as if this rider is part of a high-stakes off-road racing event.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_278/new_bike_278.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_018",
+    "label": "bike",
+    "caption": "A motorcycle racer leans his sleek, black bike against a railing, taking a brief moment to catch his breath after completing a lap around the winding track. The bike's chrome accents glint in the sunlight as the rider adjusts his gloves and prepares for the next turn. In the background, the roar of cheering crowds and revving engines fills the air, adding to the excitement of the high-speed competition.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_018/new_bike_018.jpg": []
+    }
+}

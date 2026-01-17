@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_420",
+    "label": "ball",
+    "caption": "Two golden dogs, their fur glistening in the sunlight, playfully chase each other on the beach as they engage in a game of catch with a vibrant blue ball. The dog holding the ball momentarily pauses to let out a joyful bark before passing it to its companion, who is eagerly waiting for the next throw. The sound of the waves crashing against the shore provides a soothing background melody to this carefree scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_420/new_ball_420.jpg": []
+    }
+}

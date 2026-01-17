@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_958",
+    "label": "water",
+    "caption": "A black dog, its fur still damp from its recent splash, wades through the shallow water's edge, its paws sinking into the cool, clear liquid. The sunlight catches the gentle ripples on the surface of the water, creating a mesmerizing display of light and shadow. In the background, a few rocks jut out of the water's surface, providing a natural barrier between the dog and the open sea beyond.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_958/new_water_958.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_375",
+    "label": "ball",
+    "caption": "The highschool player, sporting a white jersey with green trim, expertly navigated the ball down the court as their teammate set up for a potential pass. The opposing team's defender, clad in dark colors, attempted to disrupt the play by positioning themselves between the ball and the basket. The referee watched closely from behind, ready to intervene if necessary.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_375/new_ball_375.jpg": []
+    }
+}

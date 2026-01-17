@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1053",
+    "label": "dog",
+    "caption": "In a cozy living room, a small black dog named Max stands proudly on his hind legs, wearing a delicate pink tutu that adds a touch of whimsy to the scene. The tutu appears to be hand-sewn with intricate lace and ribbons, matching the dog's owner's love for crafting and creative expression. As Max strikes a pose, he looks up at his owner, who is sitting on the couch behind him, laughing and snapping photos with her phone.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1053/new_dog_1053.jpg": []
+    }
+}

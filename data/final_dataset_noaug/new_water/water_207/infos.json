@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_207",
+    "label": "water",
+    "caption": "A young boy, laughing as he tries to shake off the soaking wet clothes, stands in the downpour with his arms raised in surrender. Rainwater pours off the brim of his cap and drips from the tip of his nose. The sound of raindrops hitting the pavement creates a soothing melody in the background.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_207/new_water_207.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_031",
+    "label": "water",
+    "caption": "\"A young girl, likely around six years old, twirls playfully in the calm waters of a beachside bay on a warm summer afternoon. The sun casts a gentle glow over the scene, illuminating the ripples caused by her spinning and creating a mesmerizing display of light and water. Seagulls soar overhead, their cries carrying on the breeze as they watch the carefree girl's antics.\"",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_031/new_water_031.jpg": []
+    }
+}

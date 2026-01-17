@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_687",
+    "label": "dog",
+    "caption": "A small black-and-white terrier, its fur fluffed up by the wind, sprints across the sun-drenched yellow field with reckless abandon, its tail wagging wildly as it chases after something in the distance. The dog's paws barely touch the ground before it springs into the air again, its joy infectious and unbridled. A nearby fencepost stands sentinel against the vibrant backdrop of the field, a reminder that this exuberant pup is still contained within its designated playing area.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_687/new_dog_687.jpg": []
+    }
+}

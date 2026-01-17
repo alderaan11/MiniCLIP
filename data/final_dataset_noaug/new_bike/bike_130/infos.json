@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_130",
+    "label": "bike",
+    "caption": "A lone dirt biker stands at the crest of a rugged hill, gazing out over the vast expanse of golden grasslands as the sun begins its descent below the horizon. The worn leather jacket and mud-caked boots on the rider suggest that this is more than just a casual ride - it's a deliberate choice to be out here in the fading light. A faint trail of disturbed earth leading up to the hill tells the story of the biker's earlier journey through these dusty terrain.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_130/new_bike_130.jpg": []
+    }
+}

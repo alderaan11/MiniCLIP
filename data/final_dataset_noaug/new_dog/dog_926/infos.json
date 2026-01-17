@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_926",
+    "label": "dog",
+    "caption": "A sleek black dog, its fur a sharp contrast to the vibrant yellow tunnel it's just exited from, trots alongside its handler at the dog show. The man in a bright blue shirt gives gentle guidance as they move through the course, the dog's ears perked up with concentration. Nearby, other competitors and their owners await their turns, creating a lively atmosphere amidst the excitement of the canine competition.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_926/new_dog_926.jpg": []
+    }
+}

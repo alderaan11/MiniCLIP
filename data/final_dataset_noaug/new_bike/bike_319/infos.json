@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_319",
+    "label": "bike",
+    "caption": "A skilled bicyclist, clad in protective gear, is about to launch themselves over a small wooden jump, expertly navigating the trajectory to land smoothly on the other side. Nearby, a dense bush and a worn wooden building provide a rustic backdrop for the daredevil stunt. As the rider gains speed, their bike's tires grip the dirt path, ready to absorb the impact of the landing.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_319/new_bike_319.jpg": []
+    }
+}

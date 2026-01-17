@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1248",
+    "label": "water",
+    "caption": "A young boy, likely around 6-8 years old, is shown swimming underwater with ease, his bright blue swimsuit visible as he glides through the clear water. He's clutching a small plastic toy in his hand, probably one of his favorites, and his eyes are wide with excitement as he explores this new dimension. The sunlight from above casts shimmering ripples on the water's surface, creating an inviting atmosphere for this carefree moment.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1248/new_water_1248.jpg": []
+    }
+}

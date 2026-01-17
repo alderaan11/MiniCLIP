@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_158",
+    "label": "bike",
+    "caption": "A young boy pedals his bicycle down a quiet neighborhood street, his little brother giggling with delight as he holds onto the handlebars from his perch in the child's seat attached to the back of the bike. The boy's helmet and gloves indicate that his parents have taught him how to ride safely, but it's clear he still needs to get used to balancing a passenger on board. As the bike glides along, the little brother's eyes are fixed on the world whizzing by, a look of sheer joy on his face.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_158/new_bike_158.jpg": []
+    }
+}

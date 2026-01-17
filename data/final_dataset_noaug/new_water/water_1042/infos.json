@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1042",
+    "label": "water",
+    "caption": "A small backyard pool, surrounded by lush greenery, catches the warm sunlight on a sunny summer afternoon. A young child, laughing with joy, is sliding down a miniature water slide into the cool blue waters of the pool. Nearby, a parent or caregiver is snapping photos to capture the carefree moment.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1042/new_water_1042.jpg": []
+    }
+}

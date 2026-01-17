@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_458",
+    "label": "dog",
+    "caption": "A playful brown and white dog, its tail wagging excitedly, has just launched itself over a brightly colored red and yellow pole in a joyful display of agility. The dog's joyful barks fill the air as it lands safely on the other side, eager for another attempt to clear this challenging obstacle course. The sun casts a warm glow over the scene, illuminating the dog's happy expression and highlighting its athletic prowess.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_458/new_dog_458.jpg": []
+    }
+}

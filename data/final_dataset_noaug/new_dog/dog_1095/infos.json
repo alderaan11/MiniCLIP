@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1095",
+    "label": "dog",
+    "caption": "In the warm sunlight, a rambunctious medium brown dog bursts into a playful leap, clearing the low brick wall with ease as it bounds towards the patch of dirt beyond. The surrounding garden appears well-maintained, with neat shrubs and a meandering path made of small stones leading up to the barrier. A few loose bricks lie scattered about, suggesting the dog's enthusiasm has also inspired some minor excavation work.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1095/new_dog_1095.jpg": []
+    }
+}

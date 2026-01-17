@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_011",
+    "label": "bike",
+    "caption": "A rugged mountain trail winds its way through the rocky terrain, disappearing into a lush forest in the distance. A helmeted rider navigates his sleek bike with precision, the wheels kicking up small rocks as he takes a sharp turn onto a narrow ledge carved out of the stone face. The bright sun casts long shadows across the landscape as the rider pauses for a moment to take in the breathtaking view from the top of the mountain.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_011/new_bike_011.jpg": []
+    }
+}

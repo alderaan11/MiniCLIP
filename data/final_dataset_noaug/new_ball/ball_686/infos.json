@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_686",
+    "label": "ball",
+    "caption": "A black dog, its fur glistening with water droplets, has just splashed into the lake's calm surface to retrieve a tennis ball that had been thrown in earlier. The dog's tail wags excitedly as it swims back towards its owner, who is standing on the shore, waiting for the catch. As the dog emerges from the water, it proudly carries the ball clutched tightly between its teeth.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_686/new_ball_686.jpg": []
+    }
+}

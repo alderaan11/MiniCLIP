@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_364",
+    "label": "ball",
+    "caption": "A happy golden retriever is frolicking in the calm waters of a serene lake on a warm summer day, its tail wagging playfully as it effortlessly swims with an orange ball clutched tightly in its jaws. The sunlight reflects off the ripples in the water, casting a gentle glow across the tranquil scene. As the dog paddles along, the ball bobs up and down just below the surface, adding to the joyful atmosphere of this idyllic lakeside moment.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_364/new_ball_364.jpg": []
+    }
+}

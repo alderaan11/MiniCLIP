@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_084",
+    "label": "water",
+    "caption": "A climber scales the rugged face of a rock formation, his muscles tensed as he makes his way upward with careful precision. Behind him, the glittering expanse of a lake stretches out to the horizon, its calm surface reflecting the bright blue sky above. The cityscape in the distance provides a striking contrast to the natural beauty of the surrounding landscape.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_084/new_water_084.jpg": []
+    }
+}

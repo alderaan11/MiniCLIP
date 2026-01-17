@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_273",
+    "label": "bike",
+    "caption": "A thrill-seeking biker has mounted a narrow, high-wire bicycle in preparation for a death-defying stunt at an outdoor festival. The crowd gathered below is filled with cheering spectators, all eager to see if the daredevil will successfully complete the balancing act. As the performer adjusts his helmet and readies himself for takeoff, the air is electric with anticipation.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_273/new_bike_273.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_917",
+    "label": "water",
+    "caption": "A young black dog, its fur fluffed up in excitement, springs off the edge of the pool deck with reckless abandon, its paws leaving brief impressions in the surrounding tiles as it leaps into the sparkling water below. The sun beats down on the scene, causing ripples to dance across the surface of the pool as the dog splashes and frolics within its cool, clear depths. A nearby lounge chair lies abandoned on the deck, a forgotten towel still draped over its back.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_917/new_water_917.jpg": []
+    }
+}

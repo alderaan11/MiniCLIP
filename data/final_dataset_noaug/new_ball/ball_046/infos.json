@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_046",
+    "label": "ball",
+    "caption": "Children laugh and play as they wade through the colorful balls, their bright smiles reflected in the plastic orbs surrounding them. The air is filled with the sounds of giggles and playful shouts as they toss the balls around, creating a joyful mess in the pit. In the center of it all stands a mother, capturing the moment on her camera to preserve the memories of this special playdate.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_046/new_ball_046.jpg": []
+    }
+}

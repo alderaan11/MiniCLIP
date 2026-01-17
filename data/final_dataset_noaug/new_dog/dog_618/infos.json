@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_618",
+    "label": "dog",
+    "caption": "In a lush green meadow, a playful golden retriever carries a sturdy stick in its mouth as it trots alongside its owner, who is wearing a worn denim jacket and sunglasses, enjoying a leisurely afternoon stroll on a sunny day. The dog's tail wags excitedly as it tries to decide whether to drop the stick at its master's feet or continue to carry it proudly.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_618/new_dog_618.jpg": []
+    }
+}

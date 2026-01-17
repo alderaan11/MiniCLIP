@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_372",
+    "label": "bike",
+    "caption": "A BMX rider, clad in protective gear and sporting a confident grin, skillfully navigates the rough terrain of a concrete wall, their bicycle's sturdy frame and fat tires absorbing the shocks as they execute a series of smooth, fluid wall rides. The sun casts a warm glow over the scene, illuminating the rider's sweat-drenched brow and highlighting the vibrant colors of their bike and clothing. In the background, a blur of blurred buildings and streets fades into the distance, adding to the sense of energy and dynamism emanating from this thrilling display of BMX prowess.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_372/new_bike_372.jpg": []
+    }
+}

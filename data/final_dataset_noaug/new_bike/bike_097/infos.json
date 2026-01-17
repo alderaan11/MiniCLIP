@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_097",
+    "label": "bike",
+    "caption": "A cyclist, clad in athletic gear, soared through the air, performing a daring somersault on their trusty mountain bike as it glided effortlessly across the finish line of a packed cycling competition. The crowd erupted into cheers and applause, cheering on the talented biker as they successfully completed the thrilling stunt. In the background, a sea of eager spectators held up signs and banners in support of their favorite riders.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_097/new_bike_097.jpg": []
+    }
+}

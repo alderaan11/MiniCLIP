@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_023",
+    "label": "bike",
+    "caption": "A sunny afternoon in the park, where children's laughter echoes through the air as families enjoy quality time together. A fluffy white dog, its fur blowing gently in the breeze, trots eagerly alongside its owner on a bike, the wheels rolling smoothly over the pavement as they cruise along the designated path. The scent of freshly cut grass and blooming flowers wafts through the scene, adding to the warm and carefree atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_023/new_bike_023.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_309",
+    "label": "bike",
+    "caption": "The man's hands move deftly as he tightens the bolt, his focus solely on repairing the wheel. The bicycle leans against a workbench, its chain hanging limply from the gears. In the background, cycling magazines and tools line the shelves of the shop, adding to the atmosphere of a bustling cycling store.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_309/new_bike_309.jpg": []
+    }
+}

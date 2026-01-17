@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_749",
+    "label": "water",
+    "caption": "The child's face is pressed up against the cool pane of glass, its breath misting as it gazes longingly at the rain-soaked playground below. A puddle has formed on the pavement where children had earlier splashed through on their way to the swings, and the sound of dripping water echoes through the air. Beyond the window, the droplets on the playground's surface glisten like a miniature mirror reflecting the grey sky above.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_749/new_water_749.jpg": []
+    }
+}

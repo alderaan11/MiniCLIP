@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1032",
+    "label": "water",
+    "caption": "A sunny day has brought out this energetic black dog, who is now joyfully splashing around in the shallow pool of sparkling water with its favorite green rubber toy bobbing about on the surface. The warm breeze carries the scent of nearby blooming flowers through the air as the dog frolics in the cool liquid, completely carefree. Its playful yips and barks echo out across the tranquil scene, creating a lively atmosphere amidst the serene surroundings.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1032/new_water_1032.jpg": []
+    }
+}

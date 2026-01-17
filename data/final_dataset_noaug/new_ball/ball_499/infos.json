@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_499",
+    "label": "ball",
+    "caption": "The man and his teammate stood facing each other, their eyes fixed on the small, white beer pong ball as it bounced off the table after being shot by the man's friend. The air was charged with the sounds of laughter and clinking glasses as they played out a friendly game in the dimly lit room. A few empty bottles and cans littered the surface of the table around them, adding to the relaxed atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_499/new_ball_499.jpg": []
+    }
+}

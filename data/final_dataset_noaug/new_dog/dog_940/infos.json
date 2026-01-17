@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_940",
+    "label": "dog",
+    "caption": "A young girl in shorts plays enthusiastically in her backyard, laughing as she runs towards her dark brown dog, which has suddenly jumped up from its nap under the shade of a nearby tree to join in on the fun. The dog's tail wags excitedly as it bounds through the grass behind her, creating a joyful commotion that fills the warm afternoon air with happiness and energy. As they play together, the girl looks down at her furry companion with adoration, scratching its ears affectionately.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_940/new_dog_940.jpg": []
+    }
+}

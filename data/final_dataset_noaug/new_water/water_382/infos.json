@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_382",
+    "label": "water",
+    "caption": "A serene summer afternoon unfolds in a lush backyard, where a gentle brook meanders through the greenery, its soothing melody accompanied by the sweet songs of birds. In the midst of this idyllic scene, a little girl holds the nozzle of a water hose, carefully aiming it at a thirsty dog who laps up the refreshing stream with evident delight. As the sun shines down upon them, the cool water provides a perfect respite from the warmth of the day.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_382/new_water_382.jpg": []
+    }
+}

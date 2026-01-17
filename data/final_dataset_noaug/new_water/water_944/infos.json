@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_944",
+    "label": "water",
+    "caption": "The boy stands knee-deep in the gentle waves, his blue shorts clinging to his legs as he gazes out at the horizon with a look of joyful concentration. The sun beats down on his skin, causing him to squint slightly as he tries to catch the perfect wave. Seagulls wheel overhead, their cries carrying on the breeze as they scan the shoreline for scraps.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_944/new_water_944.jpg": []
+    }
+}

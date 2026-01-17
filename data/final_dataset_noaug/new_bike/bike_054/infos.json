@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_054",
+    "label": "bike",
+    "caption": "A group of friends, all in their early twenties, stroll along a vibrant city street on a sunny afternoon. Two of them, laughing and chatting, ride a colorful bicycle together, while the others walk alongside, taking in the sights and sounds of the bustling urban scene. The bicycle, decorated with flowers or stickers, weaves its way through pedestrians, adding to the lively atmosphere of the neighborhood.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_054/new_bike_054.jpg": []
+    }
+}

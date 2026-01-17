@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_380",
+    "label": "water",
+    "caption": "In the frozen landscape, two dogs - a sleek black one and its companion, a snowy white dog - can be seen racing and playing together near a tranquil lake, where their footprints have disturbed the otherwise serene surface of the icy water. The snow-covered shore stretches out in both directions, with a few bare trees standing guard over the peaceful scene. In the distance, the soft hum of a frozen waterfall can be heard, its misty veil rising into the crisp winter air.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_380/new_water_380.jpg": []
+    }
+}

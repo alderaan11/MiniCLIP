@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_734",
+    "label": "water",
+    "caption": "A group of young friends has gathered in a lush green field, where a sudden spring shower has created numerous puddles, one of which they have decided to occupy. The muddy water splashes and glistens in the sunlight as the boys sit together, laughing and enjoying their impromptu water park. In the background, tall blades of grass sway gently, adding to the serene atmosphere of the scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_734/new_water_734.jpg": []
+    }
+}

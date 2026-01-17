@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_010",
+    "label": "ball",
+    "caption": "A playful brown dog splashes through the calm waters of a lake, its fur glistening with droplets as it bounds effortlessly across the surface. In its mouth, the dog proudly carries a tennis ball, its white and fuzzy texture visible even from afar. As it runs, the dog's tail wags excitedly, adding to the carefree atmosphere of this serene lakeside scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_010/new_ball_010.jpg": []
+    }
+}

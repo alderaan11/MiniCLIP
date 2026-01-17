@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_189",
+    "label": "ball",
+    "caption": "A thrilling soccer match is underway, with two blue-clad teams facing off against each other in a heated competition. In the midst of all the action, one player expertly kicks the ball towards his teammate, who is running down the field with incredible speed and agility. The white stripes on their uniforms stand out as they chase after the ball, their movements swift and purposeful.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_189/new_ball_189.jpg": []
+    }
+}

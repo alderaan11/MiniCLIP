@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_240",
+    "label": "bike",
+    "caption": "A young boy is riding his bicycle down a dirt path, building up speed as he approaches the wooden ramp in front of him. With a burst of adrenaline, he launches himself off the ramp, soaring through the air on his bike, capturing the perfect moment just before landing with a gentle thud back on solid ground. The sun casts a warm glow over the entire scene, illuminating the boy's carefree smile as he takes in the thrill of flight.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_240/new_bike_240.jpg": []
+    }
+}

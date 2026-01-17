@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_549",
+    "label": "dog",
+    "caption": "A playful black poodle is frolicking in the park, its little legs moving swiftly as it chases after a vibrant red chew toy. Its companion, a brown poodle, watches with interest from a nearby spot of sunlight, tail wagging lazily in anticipation of the game to come. The air is filled with the happy barks and joyful energy of two dogs at play.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_549/new_dog_549.jpg": []
+    }
+}

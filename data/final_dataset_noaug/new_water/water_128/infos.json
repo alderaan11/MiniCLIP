@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_128",
+    "label": "water",
+    "caption": "A playful brown dog is splashing in a puddle of muddy water, its fur speckled with dirt and glistening with dew. The sun casts a warm glow over the scene, illuminating the ripples on the surface of the water as the dog frolics about. Nearby, a lush green lawn stretches out, dotted with vibrant flowers that add a pop of color to the tranquil moment.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_128/new_water_128.jpg": []
+    }
+}

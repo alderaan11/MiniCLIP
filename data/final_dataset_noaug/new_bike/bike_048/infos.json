@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_048",
+    "label": "bike",
+    "caption": "A young girl is pedaling her bike along a quiet neighborhood street, the warm sunlight glinting off the bright pink scarf wrapped around her neck and tied in a loose bow at the back of her head. She's wearing a pair of vibrant pink bellbottom jeans that flair out from her knees as she rides, adding to the carefree atmosphere of the scene. The bike itself is a sturdy-looking mountain bike with chunky tires, perfect for navigating the suburban streets where she lives.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_048/new_bike_048.jpg": []
+    }
+}

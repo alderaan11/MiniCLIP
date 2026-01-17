@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_340",
+    "label": "dog",
+    "caption": "In this idyllic backyard setting, two dogs of contrasting colors engage in a high-energy game of tag. The white dog, its fur ruffled with excitement, gives chase as it bounds across the lush green grass, hot on the heels of its sleek black companion. As they run, their joyful yips fill the air, creating a carefree atmosphere that is quintessentially canine.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_340/new_dog_340.jpg": []
+    }
+}

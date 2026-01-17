@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1015",
+    "label": "water",
+    "caption": "A serene lakefront setting on a warm summer evening, with a lone musician strumming a soulful tune on his guitar from the wooden bleachers overlooking the calm water's edge. The sound of gentle ripples lapping against the shore creates a soothing melody that complements the music, as a solitary figure sits in peaceful contemplation amidst this idyllic scene. In the distance, a few sailboats can be seen drifting lazily across the lake's surface.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1015/new_water_1015.jpg": []
+    }
+}

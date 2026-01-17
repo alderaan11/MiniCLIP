@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_172",
+    "label": "bike",
+    "caption": "The sun beats down on the paved road as the red-clad cyclist pedals furiously, their face set in a determined expression. In hot pursuit, another rider wearing blue jersey and matching shorts gains ground, their eyes fixed intently on the leader. The roar of the crowd echoes through the air as these two competitors battle for first place in the grueling bike race.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_172/new_bike_172.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_681",
+    "label": "dog",
+    "caption": "Two playful dogs are enjoying each other's company in a sunny backyard, their tails wagging enthusiastically as they engage in a friendly game of sniffing and exploring one another's scent. The black dog's shiny coat glistens with dew, while its brown companion's fur is still slightly damp from a recent splash in the nearby sprinklers. As they continue to investigate each other, their ears perk up in delight, reveling in the simple joys of canine companionship.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_681/new_dog_681.jpg": []
+    }
+}

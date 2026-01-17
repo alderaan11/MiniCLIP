@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_484",
+    "label": "ball",
+    "caption": "The brown and white dog, its tongue lolling out of its mouth, is running full-tilt with a small yellow rubber ball clutched tightly in its jaws. The ball bounces precariously at each stride, threatening to slip free from the dog's grasp but somehow staying just within reach. As the dog runs, it suddenly darts to the left, narrowly avoiding a collision with a nearby tree trunk.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_484/new_ball_484.jpg": []
+    }
+}

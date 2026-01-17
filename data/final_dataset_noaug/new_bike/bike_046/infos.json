@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_046",
+    "label": "bike",
+    "caption": "The dirt road stretched out before the bicyclists, winding its way between two weathered wire fences that seemed to bookend the landscape. The riders were fully immersed in their exercise, pedaling steadily as they took in the rural scenery. A few loose strands of barbed wire hung from one of the fences, a reminder of the countryside's rustic charm.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_046/new_bike_046.jpg": []
+    }
+}

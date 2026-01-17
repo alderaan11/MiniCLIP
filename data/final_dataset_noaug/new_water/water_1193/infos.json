@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1193",
+    "label": "water",
+    "caption": "Children's laughter echoes through the park as they frolic in the refreshing spray of the fountain, their faces beaming with delight as they try to catch the droplets of water on their tongues. The warm sunlight casts a golden glow on the scene, illuminating the vibrant flowers and lush greenery surrounding the fountain. Nearby, parents sit on benches, smiling at the joyful sight of their children playing freely in the cool water's misty veil.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1193/new_water_1193.jpg": []
+    }
+}

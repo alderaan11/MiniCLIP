@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_315",
+    "label": "dog",
+    "caption": "The sun casts a warm glow over a quiet suburban street as a playful Dachshund, its little legs moving quickly, trots alongside its owner on a leash. The dog's tail wags excitedly as it sniffs at every new smell, pausing occasionally to look up at its owner with big brown eyes. They are headed towards the nearby park where they'll likely spend some time walking and socializing with other dogs.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_315/new_dog_315.jpg": []
+    }
+}

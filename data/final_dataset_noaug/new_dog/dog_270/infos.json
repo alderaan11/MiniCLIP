@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_270",
+    "label": "dog",
+    "caption": "A playful brown and white dog, its fur fluffed up by the gentle breeze, soars through the air with effortless ease as it pursues its favorite purple Frisbee, which has been thrown to its delight above the lush green grass of the park. The warm sunlight catches the flying disc, creating a vibrant splash of color against the serene natural backdrop. With a joyful yelp, the dog's paws stretch out in mid-air, ready to grasp its beloved toy as it floats just out of reach.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_270/new_dog_270.jpg": []
+    }
+}

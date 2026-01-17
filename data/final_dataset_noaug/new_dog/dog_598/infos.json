@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_598",
+    "label": "dog",
+    "caption": "A sleek black and white canine bursts through a obstacle course, its paws pounding the ground as it weaves between two brightly colored yellow poles. The dog's fur ruffles in the wind as it rounds the second pole with ease, its tail wagging triumphantly. In the background, a blurred figure of a trainer or owner can be seen cheering on the energetic competitor.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_598/new_dog_598.jpg": []
+    }
+}

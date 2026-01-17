@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_496",
+    "label": "ball",
+    "caption": "A female tennis player stands poised on the court, her racquet at the ready as she takes aim for a powerful forehand shot. Her eyes are fixed intently on the ball, which teeters precariously on the edge of the baseline, awaiting its fate. The air is charged with anticipation as the player prepares to unleash her swing and send the ball flying down the line.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_496/new_ball_496.jpg": []
+    }
+}

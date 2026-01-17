@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1028",
+    "label": "dog",
+    "caption": "A fluffy golden retriever, its fur fluffed up from the wind, darts across the sun-drenched field with reckless abandon, its tail wagging wildly as it chases after something - perhaps a ball or a butterfly. The vibrant yellow flowers of the wildflower meadow sway gently in the breeze, their delicate petals glowing like tiny suns against the soft green grass. As the dog runs, its paws kick up small clouds of dirt and debris, leaving behind a trail of disturbed earth and crushed blooms in its wake.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1028/new_dog_1028.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_314",
+    "label": "bike",
+    "caption": "A rugged mountain biking trail winds its way through the dense woods, the sunlight filtering through the canopy above to illuminate the dirt path and the rider's helmet as they pick up speed. The biker, dressed in a worn pair of gloves and sturdy shoes, pedals furiously as they navigate the challenging terrain. In the background, the trees seem to close in on either side, their branches tangling overhead to form a canopy that blocks out most of the sunlight.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_314/new_bike_314.jpg": []
+    }
+}

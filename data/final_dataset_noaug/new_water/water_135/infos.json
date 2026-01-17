@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_135",
+    "label": "water",
+    "caption": "A sunny afternoon on the beach, the sound of waves gently lapping at the shore as two energetic dogs dash back and forth through the shallow water, their tails wagging wildly as they playfully splash each other. The warm sand beneath their paws and the cool ocean spray on their fur add to the joy of this impromptu game of fetch. Seagulls soar overhead, watching with curiosity as the canine duo brings laughter and excitement to the tranquil seaside scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_135/new_water_135.jpg": []
+    }
+}

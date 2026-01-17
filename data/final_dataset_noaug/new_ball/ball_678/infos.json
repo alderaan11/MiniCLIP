@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_678",
+    "label": "ball",
+    "caption": "In the warm sunlight of an afternoon park, two energetic dogs are engaged in a lively game of catch with their owner's tossed ball flying through the air. As one dog leaps up to intercept the ball, its companion picks up speed, racing towards the action with its tail wagging excitedly. The joyful scene is filled with the happy barks and playful yips of the two dogs as they chase after the ball in a game of energetic tag.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_678/new_ball_678.jpg": []
+    }
+}

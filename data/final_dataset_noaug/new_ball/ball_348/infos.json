@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_348",
+    "label": "ball",
+    "caption": "The man in the bright flower patterned shirt gripped the worn leather bowling ball tightly, his eyes fixed on the lanes as he prepared to take a shot. The dimly lit bowling alley was filled with the murmur of conversations and the thud of crashing pins, creating an air of excitement and friendly competition. As he lifted his arm, the ball's yellow stripe gleamed under the fluorescent lights above.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_348/new_ball_348.jpg": []
+    }
+}

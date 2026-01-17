@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1143",
+    "label": "dog",
+    "caption": "A brown dog, its fur fluffed up slightly from the excitement of playtime, runs energetically through a lush green grassy field on a sunny day. The sunlight casts dappled shadows across the ground as the dog weaves in and out of tall blades of grass, its tail wagging happily behind it. In the distance, a few trees stand sentinel, their leaves rustling gently in the breeze.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1143/new_dog_1143.jpg": []
+    }
+}

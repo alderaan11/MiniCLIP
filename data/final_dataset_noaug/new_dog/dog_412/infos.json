@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_412",
+    "label": "dog",
+    "caption": "A sunny afternoon in a suburban yard, with three energetic dogs - two golden retrievers and one playful beagle - running freely around the lush green grass, their joyful barks filling the air as they chase each other in a game of tag. The warm sunlight casts a golden glow on the scene, illuminating the vibrant flowers blooming in the garden beds nearby. As the dogs play, a gentle breeze rustles through the leaves of the tall oak tree standing sentinel at the edge of the yard, adding to the tranquil atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_412/new_dog_412.jpg": []
+    }
+}

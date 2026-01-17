@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_168",
+    "label": "bike",
+    "caption": "A man in his mid-30s, dressed in casual black clothing, pedals his bicycle quickly across the street while another pedestrian, also walking at a moderate pace, catches his attention by strolling down the sidewalk with their adorable dog by their side. The sun casts a warm glow over the scene, illuminating the smooth pavement beneath the wheels of the bike. In the background, a few parked cars line the curb, adding to the suburban street's laid-back atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_168/new_bike_168.jpg": []
+    }
+}

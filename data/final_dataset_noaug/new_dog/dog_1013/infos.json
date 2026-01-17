@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1013",
+    "label": "dog",
+    "caption": "Two playful dogs are running together in a lush green meadow, their joyful yips filling the air as they chase each other around a cluster of wildflowers. The black and white dog, with its distinctive markings, is slightly larger than its brown companion, but they're both moving at a frantic pace, their paws pounding against the soft earth. As they run, the warm sunlight catches the grass, casting a serene glow over the entire scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1013/new_dog_1013.jpg": []
+    }
+}

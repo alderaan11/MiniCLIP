@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1252",
+    "label": "dog",
+    "caption": "A sunny afternoon in the park, with children's laughter and birdsong filling the air, provides the backdrop for a joyful scene of canine play. A brown and white dog, its fur fluffed up with excitement, darts after a black and white dog through the lush green grass, their tails wagging wildly as they chase each other in circles. The dogs' owners, sitting on a nearby bench, watch with smiles, happy to see their pets enjoying the fresh air and exercise.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1252/new_dog_1252.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_099",
+    "label": "bike",
+    "caption": "A young girl in a pink bicycle is pedaling slowly in front of a bustling restaurant, where patrons sit at outdoor tables sipping their coffee and enjoying the morning atmosphere. The bike's bell rings out as she approaches, and she smiles brightly as she passes by. A few tables have umbrellas, providing shade from the warm sun beating down on the sidewalk.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_099/new_bike_099.jpg": []
+    }
+}

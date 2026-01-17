@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_662",
+    "label": "water",
+    "caption": "A golden retriever wades through the calm lake, its fur fluffed up to keep the cool water from seeping in. The dog's tail wagging enthusiastically as it searches for the perfect spot to retrieve a stick it spotted earlier, now partially submerged in the clear blue water. With a joyful yelp, the dog plunges forward, stick held firmly in its jaws, and emerges triumphantly on the other side of the lake.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_662/new_water_662.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_201",
+    "label": "bike",
+    "caption": "A dirt biker speeds down a rugged trail, their bike's tires kicking up clouds of dust as they navigate through a series of challenging jumps and turns. The rider's helmet and gloves glint in the sunlight, and their jersey is stained with dirt and sweat from the intense ride. In the background, a small crowd cheers them on, surrounded by tall trees and the occasional rocky outcropping.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_201/new_bike_201.jpg": []
+    }
+}

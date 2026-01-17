@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_578",
+    "label": "dog",
+    "caption": "On a sun-kissed beach, two dogs - one sleek black and the other rusty brown - are enjoying a joyous game of fetch, their energetic playfulness radiating as they sprint along the shoreline. The brown dog has just caught sight of a flying stick in mid-air and is leaping with all its might to catch it, while the black dog runs by its side, ready to provide encouragement or take over when needed. As the dogs frolic, the warm sand glistens beneath their paws, and the sound of waves gently lapping at the shore adds to the serene atmosphere of this idyllic beach scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_578/new_dog_578.jpg": []
+    }
+}

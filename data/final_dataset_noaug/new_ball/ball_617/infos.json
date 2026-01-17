@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_617",
+    "label": "ball",
+    "caption": "A playful white dog, its fur fluffed up from the cool water, leaps into the shallow pool to chase after a green rubber ball that has bounced off the shore. The sun glints off the ripples in the water as the dog splashes and snatches the ball mid-air, momentarily holding it triumphantly between its jaws before bounding out of the pool with its prize. In the distance, a few trees lean over the edge of the pool, their leaves rustling gently in the breeze.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_617/new_ball_617.jpg": []
+    }
+}

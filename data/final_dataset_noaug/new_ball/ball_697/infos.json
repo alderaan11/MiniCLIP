@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_697",
+    "label": "ball",
+    "caption": "The sun is shining down on the sandy beach, where a brown and white dog stands proudly, its tail wagging gently as it gazes out at the vast expanse of ocean. Next to the dog lies a small tennis ball, its white surface slightly faded from countless days spent playing in the sun. The sound of seagulls fills the air as the dog contemplates whether to chase after a wave or pick up its trusty companion for another game of catch.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_697/new_ball_697.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_350",
+    "label": "bike",
+    "caption": "A young bicyclist, dressed in casual streetwear, is seen executing a daring stunt on his sleek mountain bike as it skids over a vibrant, graffiti-covered wall in a city alleyway. The bike's tires screech against the rough concrete as the rider attempts to maintain balance and control. In the background, a mix of urban decay and artistic expression dominates the scene, with peeling paint and colorful tags adorning the walls.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_350/new_bike_350.jpg": []
+    }
+}

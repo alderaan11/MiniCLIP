@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_233",
+    "label": "bike",
+    "caption": "A young cyclist, clad in a helmet and sunglasses, prepares to launch himself off a small ramp on his sleek mountain bike, as his friends cheer him on from the sidelines. The sun casts a warm glow over the scene, illuminating the grassy hillside where the rider has set up his jump. With a burst of adrenaline-fueled speed, he soars through the air, his bike glinting in the sunlight as it momentarily leaves the ground.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_233/new_bike_233.jpg": []
+    }
+}

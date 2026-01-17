@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_999",
+    "label": "dog",
+    "caption": "A fluffy brown dog, its fur dusty from the dirt trail beneath its paws, runs enthusiastically towards the camera with its tongue hanging out of its mouth. The sun casts long shadows behind it as it speeds down the winding path, surrounded by the rugged grandeur of snow-capped mountains rising up in the distance. In the background, a few trees cling to the mountain's slope, their leaves a vibrant green against the deep blue sky.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_999/new_dog_999.jpg": []
+    }
+}

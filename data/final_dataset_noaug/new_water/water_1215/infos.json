@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1215",
+    "label": "water",
+    "caption": "A group of children from diverse backgrounds gather at the center of a bustling city square, their faces filled with joy as they splash in the large fountain. The sound of laughter and splashing water fills the air as they take turns squirting each other with the water jets. In the background, busy office workers and street performers go about their daily routines, creating a vibrant and lively atmosphere amidst the cool mist of the fountain's spray.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1215/new_water_1215.jpg": []
+    }
+}

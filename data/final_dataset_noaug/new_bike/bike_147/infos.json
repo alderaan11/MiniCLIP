@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_147",
+    "label": "bike",
+    "caption": "The woman on her sleek road bike expertly navigated the turn, her aerodynamic helmet and sunglasses a testament to her training regimen as she sped through the winding course. The sun glinted off the pavement, casting a warm glow over the scene as she leaned into the corner, her tires screeching softly in protest of the sharp curve. With each stroke of her pedals, she picked up speed, her determination and athleticism on full display.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_147/new_bike_147.jpg": []
+    }
+}

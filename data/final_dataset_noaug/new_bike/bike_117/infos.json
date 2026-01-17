@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_117",
+    "label": "bike",
+    "caption": "A cyclist wearing blue and yellow lycra pedals down a winding forest path, the sun casting dappled shadows on the ground beneath her wheels as she picks up speed. The trees, swaying gently in the breeze, provide a serene backdrop to the rhythmic motion of her ride. In the distance, a hint of a wooden signpost catches her eye, marking the entrance to a nearby trailhead.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_117/new_bike_117.jpg": []
+    }
+}

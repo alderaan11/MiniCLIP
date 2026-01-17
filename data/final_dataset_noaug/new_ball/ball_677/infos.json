@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_677",
+    "label": "ball",
+    "caption": "A playful black dog is positioned in a lush green backyard, its eyes fixed intently on a high-flying ball as it prepares to leap into action. The sun casts a warm glow over the scene, illuminating the joyful moment as the canine's muscles tense for the catch. A few scattered leaves and blades of grass are visible around the dog's paws, adding a sense of natural spontaneity to the snapshot.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_677/new_ball_677.jpg": []
+    }
+}

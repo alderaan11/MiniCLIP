@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_058",
+    "label": "dog",
+    "caption": "A rugged, sun-dappled forest trail winds its way through the dense underbrush as two dogs amble along side by side, their paws padding softly on the earthy path. The black dog, with its shiny coat glistening in the dappled light, trots ahead of its companion, a white dog whose fur is slightly mussed from playing in the forest's leaf litter. As they walk, the dogs' tails wag happily, their joy infectious as they explore this beautiful woodland sanctuary together.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_058/new_dog_058.jpg": []
+    }
+}

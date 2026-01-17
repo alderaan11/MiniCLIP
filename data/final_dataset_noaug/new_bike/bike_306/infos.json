@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_306",
+    "label": "bike",
+    "caption": "A young boy, likely around 8 years old, is riding a shiny black bicycle down a quiet suburban street lined with tall trees and neatly manicured lawns. He wears a bright blue helmet to ensure his safety as he zooms along, his ponytail flying behind him in the breeze. His mother watches from the sidewalk nearby, smiling proudly at her son's carefree joy on two wheels.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_306/new_bike_306.jpg": []
+    }
+}

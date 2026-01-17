@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_702",
+    "label": "dog",
+    "caption": "A fluffy golden retriever trots through the pristine winter landscape, its paws sinking into the powdery snow as it makes its way down a winding path. In the distance, a figure in a parka can be seen trudging along the same trail, their movements slow and deliberate against the backdrop of frosty trees. The dog's tail wags excitedly as it sniffs at a snow-covered branch, momentarily pausing in its journey to investigate the frozen treat.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_702/new_dog_702.jpg": []
+    }
+}

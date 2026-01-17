@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_482",
+    "label": "ball",
+    "caption": "The sun beats down on the cracked sidewalk as a group of boys laugh and shout, their feet moving in unison as they chase after a worn leather soccer ball. One boy jumps high into the air, attempting to head the ball away from an opponent's outstretched foot. The scene is one of joyful chaos, with the ball bouncing erratically across the pavement.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_482/new_ball_482.jpg": []
+    }
+}

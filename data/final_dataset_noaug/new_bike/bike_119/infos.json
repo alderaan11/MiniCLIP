@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_119",
+    "label": "bike",
+    "caption": "A man on a three-wheeled vehicle, often used by seniors or people with mobility issues due to its stability and balance, loses control while riding it down a gentle slope. The man's feet are lifted off the ground as he falls onto his right side, indicating a momentary loss of balance. A nearby fence or railing serves as a warning about the hazardous terrain ahead.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_119/new_bike_119.jpg": []
+    }
+}

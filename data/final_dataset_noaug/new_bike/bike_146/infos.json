@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_146",
+    "label": "bike",
+    "caption": "A young boy, dressed in bright orange safety gear, pedaled his shiny new bicycle down the winding road as the warm sunlight caught the afternoon breeze. The pavement stretched out before him, lined with trees whose leaves rustled gently in the wind. As he rode, a fluttering bird flitted across the road ahead, momentarily distracting the boy from the thrill of the ride.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_146/new_bike_146.jpg": []
+    }
+}

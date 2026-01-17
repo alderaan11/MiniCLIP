@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_132",
+    "label": "bike",
+    "caption": "The BMX biker, clad in a helmet and knee pads, navigates his sturdy mountain bike up a rugged ramp, its wheels making contact with the wall just above the concrete floor as he executes a smooth wall-ride trick. The rider's focus is intense as he balances on two wheels, the bike's frame flexing slightly under the impact of the stunt. Sweat drips down his brow as he carefully controls the speed and trajectory of his ride, the ramp stretching out behind him like an urban playground.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_132/new_bike_132.jpg": []
+    }
+}

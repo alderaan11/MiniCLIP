@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_290",
+    "label": "bike",
+    "caption": "A group of runners, their faces set in determined expressions, pounded the pavement as they rounded the final corner of the park's running trail. In the distance, a biker zoomed past them, pedaling furiously to keep up with the blistering pace set by the front-runner. The sound of pounding feet and screeching tires filled the air as the runners and cyclist hurtled towards the finish line.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_290/new_bike_290.jpg": []
+    }
+}

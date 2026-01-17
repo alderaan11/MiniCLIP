@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_278",
+    "label": "ball",
+    "caption": "The sun shines down on the lush green soccer field as two young girls, their orange and white uniforms gleaming with dew, sprint across the grass in pursuit of the ball. The little orb bounces and rolls across the ground, occasionally coming to rest at their feet before being kicked or headed back into play. Amidst the laughter and shouts of encouragement from the girls' teammates, the joyful chaos of a lively soccer match unfolds on this sunny afternoon.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_278/new_ball_278.jpg": []
+    }
+}

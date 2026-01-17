@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_682",
+    "label": "ball",
+    "caption": "The sun beats down on the lush green grass of the park as two energetic dogs, one black and one white, chase after a vibrant blue soccer ball. The sound of their joyful barks fills the air as they playfully jostle for position, each determined to be the first to reach the ball. In the background, a few scattered trees provide shade from the sun, their leaves rustling gently in the breeze.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_682/new_ball_682.jpg": []
+    }
+}

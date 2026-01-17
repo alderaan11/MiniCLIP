@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1010",
+    "label": "dog",
+    "caption": "A playful brown and white dog, its tail wagging excitedly as it leaps over a vibrant red, yellow, and white pole, which stands upright in a lush green meadow on a sunny afternoon. The dog's joyful yelp echoes through the air as it lands safely on the other side, its paws barely touching the ground. In the background, a few trees sway gently in the breeze, their leaves rustling softly amidst the happy commotion caused by the energetic canine.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1010/new_dog_1010.jpg": []
+    }
+}

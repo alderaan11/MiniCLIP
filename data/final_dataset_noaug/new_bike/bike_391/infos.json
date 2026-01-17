@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_391",
+    "label": "bike",
+    "caption": "A young boy, likely around 8-10 years old, is joyfully performing a backflip off his bicycle in a suburban neighborhood. He's wearing a bright red shirt and dark blue jeans, his blonde hair flying out from under his baseball cap as he soars through the air. The bike itself appears to be a standard kid's model, with training wheels still attached, but the boy is clearly confident enough on it to attempt this thrilling stunt.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_391/new_bike_391.jpg": []
+    }
+}

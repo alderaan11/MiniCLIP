@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_601",
+    "label": "water",
+    "caption": "The warm sunlight casts a gentle glow over the lively scene, as a young boy and his rambunctious toddler brother frolic in the cool mist of the fountain. Water sprays high into the air, creating a refreshing atmosphere on what promises to be a sweltering summer day. The sound of their joyful laughter echoes off the walls of the adjacent building, adding to the carefree ambiance of this impromptu playdate.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_601/new_water_601.jpg": []
+    }
+}

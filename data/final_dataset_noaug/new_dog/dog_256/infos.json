@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_256",
+    "label": "dog",
+    "caption": "A snow-covered landscape stretched out before the energetic canine, its fluffy white coat glistening in the morning light as it bounded through the powdery drifts with unbridled joy. The dog's owner watched from a nearby hill, laughing at the spectacle of their usually sedate pet reduced to a bundle of kinetic energy by the simple thrill of playing in the snow. A few scattered trees stood sentinel along the horizon, their bare branches etched sharply against the brilliant blue sky.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_256/new_dog_256.jpg": []
+    }
+}

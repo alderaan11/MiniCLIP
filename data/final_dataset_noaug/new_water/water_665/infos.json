@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_665",
+    "label": "water",
+    "caption": "A skateboarder zooms down a scenic coastal road, the warm sun beating down on his bare skin as he navigates the smooth asphalt. To his left, the turquoise ocean sparkles in the distance, its gentle waves rolling towards the shore. The air is filled with the sweet scent of saltwater and the sound of seagulls crying overhead.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_665/new_water_665.jpg": []
+    }
+}

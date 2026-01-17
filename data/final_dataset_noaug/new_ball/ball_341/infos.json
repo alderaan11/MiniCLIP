@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_341",
+    "label": "ball",
+    "caption": "A basketball player, clad in an orange uniform, has momentarily turned to glance over their shoulder, giving away their defensive strategy to their teammate, who is positioned behind them, eyes fixed intently on the action unfolding on the court.\n\nThe ball bounces erratically across the hardwood floor as a nearby opponent tries to anticipate and capitalize on the brief lapse in focus from the player. The gym's bright lights cast a sharp glare on the polished surface, illuminating the fleeting moment of hesitation.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_341/new_ball_341.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_668",
+    "label": "water",
+    "caption": "A mother leads her young child through the shallow waters of a lake, their footsteps slow and careful as they navigate the cool, clear water. The sunlight catches the ripples on the surface, creating a mesmerizing pattern of light and shadow. Nearby, tall trees lean in towards the lake's edge, their leaves rustling softly in the gentle breeze.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_668/new_water_668.jpg": []
+    }
+}

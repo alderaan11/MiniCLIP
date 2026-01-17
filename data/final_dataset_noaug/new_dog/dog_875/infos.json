@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_875",
+    "label": "dog",
+    "caption": "A playful golden retriever has managed to get its jaws stuck on a worn-out beach towel, causing its owner to let out a frustrated laugh as she tries to pry it loose from her grasp. The warm sunlight casts a gentle glow over the scene, illuminating the rough patches of sand and the rocky shoreline behind them. Seagulls wheel overhead, their raucous cries mingling with the sound of waves crashing against the shore.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_875/new_dog_875.jpg": []
+    }
+}

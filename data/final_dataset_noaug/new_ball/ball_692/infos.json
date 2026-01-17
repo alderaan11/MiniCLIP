@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_692",
+    "label": "ball",
+    "caption": "A young girl sits cross-legged on a bright blue mat, surrounded by a vibrant heap of balls in various colors, each one slightly different from the last. Her eyes shine with excitement as she reaches out to grab another ball and add it to her growing collection. The sun shines down on the scene, casting a warm glow over the happy child and her treasure trove of colorful orbs.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_692/new_ball_692.jpg": []
+    }
+}

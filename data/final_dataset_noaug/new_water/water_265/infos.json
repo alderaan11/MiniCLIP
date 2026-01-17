@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_265",
+    "label": "water",
+    "caption": "A lone figure in blue pants can be seen taking a moment to catch his breath at the edge of a rugged cliff, gazing out over a vast expanse of calm water below. The surrounding landscape appears rocky and unforgiving, with sparse vegetation clinging to the edges of the cliff face. As he prepares to make his next move, the gentle lapping of waves against the shore creates a soothing melody that carries across the stillness.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_265/new_water_265.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_206",
+    "label": "ball",
+    "caption": "A sunny afternoon in the park, with three children laughing and chasing each other as they playfully kick around a soccer ball in the sandy playground area. The ball bounces and rolls across the sand, momentarily getting stuck before one of the kids expertly digs it out and continues the game. Their joyous shouts and giggles fill the air as they take turns trying to score goals.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_206/new_ball_206.jpg": []
+    }
+}

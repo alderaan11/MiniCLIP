@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_136",
+    "label": "ball",
+    "caption": "At a lively high school football game, a boy cheerleader enthusiastically balances on one knee while cradling a large, inflated \"Spirit Ball\" in his other arm, as he attempts to entice the crowd with some energetic cheers and dance moves. A girl cheerleader, also dressed in matching uniform, sits playfully on his knee, giggling and leaning against him for support. As the boy cheerleader tosses the Spirit Ball into the air, the girl reaches out to catch it, momentarily breaking into a grin as she holds it securely.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_136/new_ball_136.jpg": []
+    }
+}

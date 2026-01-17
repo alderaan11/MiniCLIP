@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_623",
+    "label": "ball",
+    "caption": "The sun beats down on the sandy beach as three excited dogs, their fur fluffed up with excitement, chase after a colorful beach ball that has been tossed into the calm waters of the ocean. The ball bounces and splashes in the shallow water, sending droplets flying in all directions as the dogs yelp and leap in pursuit. In the background, a few beach umbrellas stand sentinel against the bright blue sky, while seagulls wheel overhead, watching the commotion with curious eyes.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_623/new_ball_623.jpg": []
+    }
+}

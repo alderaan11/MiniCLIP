@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_185",
+    "label": "ball",
+    "caption": "The sun beats down on the lush green outfield grass as a young baseball player, clad in a vibrant green and yellow jersey with white lettering, takes off into a joyful leap to catch the incoming ball. His friends cheer him on from behind home plate, their faces filled with excitement and anticipation. The air is thick with the smell of freshly cut grass and the sound of crackling bats fills the warm summer air as the game continues to unfold.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_185/new_ball_185.jpg": []
+    }
+}

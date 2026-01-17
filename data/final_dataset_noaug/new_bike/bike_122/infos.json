@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_122",
+    "label": "bike",
+    "caption": "The sun beats down on a dusty motocross track as a daring bicyclist launches off a massive jump, soaring through the air in a heart-stopping midair stunt. The bike's wheels seem to hover momentarily before the rider lands with a thud, sending dirt flying in all directions. In the background, a crowd of cheering spectators strains against the safety fencing, captivated by the death-defying display.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_122/new_bike_122.jpg": []
+    }
+}

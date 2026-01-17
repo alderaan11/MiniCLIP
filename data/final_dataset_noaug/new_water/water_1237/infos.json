@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1237",
+    "label": "water",
+    "caption": "A little girl with brown hair, likely dressed in casual summer clothing, is having fun on a warm day, laughing as she plays in a garden hose. The water sprays out of the nozzle in rhythmic bursts, creating a refreshing mist that adds to her joyful expression. In the background, a few sun-drenched flowers and lush greenery can be seen, adding to the carefree atmosphere of the scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1237/new_water_1237.jpg": []
+    }
+}

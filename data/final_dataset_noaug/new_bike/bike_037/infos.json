@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_037",
+    "label": "bike",
+    "caption": "A cyclist clad in a bright blue jacket, wearing a sturdy bicycle helmet, pedals down a scenic coastal path, the wind blowing through their hair as they take in the breathtaking ocean views on one side and lush greenery on the other. The bike's tires hum smoothly over the well-maintained pavement, its sleek frame reflecting the sunlight as it glides effortlessly towards the distant horizon. The rider's relaxed posture suggests a familiar route, a sense of freedom and joy evident in every stroke of the pedals.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_037/new_bike_037.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_388",
+    "label": "bike",
+    "caption": "A man in a gray suit, likely on his way to work, has stopped at a street corner to secure his bicycle with a sturdy lock. The bike's sleek frame and shiny wheels catch the morning light as he gives it a final tug to ensure it won't budge. With its owner safely locked away, the bike stands tall among other parked vehicles on the quiet suburban street.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_388/new_bike_388.jpg": []
+    }
+}

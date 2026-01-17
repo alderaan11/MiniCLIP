@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1184",
+    "label": "water",
+    "caption": "A young boy is splashing in the puddles created by the rain, his small hands making waves as he twirls around with excitement. The older adult standing beside him has a gentle grip on his hand, offering reassurance and balance as they explore the rainy day together. Water droplets sparkle like tiny diamonds on their clothing as they enjoy this impromptu playtime in the downpour.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1184/new_water_1184.jpg": []
+    }
+}

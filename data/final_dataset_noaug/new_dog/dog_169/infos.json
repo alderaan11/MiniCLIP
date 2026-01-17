@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_169",
+    "label": "dog",
+    "caption": "A majestic St Bernard bursts through the snowy landscape, its thick coat glistening in the winter sunlight as it gives chase to a ball thrown by a joyful owner. The frozen terrain stretches out before them, with towering trees and rolling hills receding into the distance. As the dog runs, its paws leave behind tiny impressions in the pristine snow, creating a fleeting but charming trail of evidence of its playful adventure.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_169/new_dog_169.jpg": []
+    }
+}

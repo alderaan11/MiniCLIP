@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_036",
+    "label": "bike",
+    "caption": "An elderly woman pedals her bicycle slowly through the crowded city streets, her gray hair tied back in a ponytail as she navigates around pedestrians and parked cars. In front of her, a yellow taxi speeds down the road, its horn blaring as it prepares to pass by. The warm sunlight catches the dust motes dancing in the air, casting a golden glow over the bustling scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_036/new_bike_036.jpg": []
+    }
+}

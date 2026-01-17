@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_307",
+    "label": "bike",
+    "caption": "The sun beats down on the dusty track as a dirt bike roars to life, its rider clad in protective gear and helmet, preparing for the next lap of the grueling competition. The crowd gathered around cheers and chants, eager to see their favorite riders take on the challenging course. In the distance, a sea of bikes can be seen parked at the edge of the track, waiting for their turn to rev up and tackle the demanding terrain.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_307/new_bike_307.jpg": []
+    }
+}

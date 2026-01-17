@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1004",
+    "label": "water",
+    "caption": "\"A serene lake on a warm summer day, surrounded by lush green trees and vibrant wildflowers that line its tranquil shores. A brown dog, its fur glistening with dew, paddles effortlessly through the calm water as it carries its prized stick, its joyful barks carrying across the peaceful landscape.\"",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1004/new_water_1004.jpg": []
+    }
+}

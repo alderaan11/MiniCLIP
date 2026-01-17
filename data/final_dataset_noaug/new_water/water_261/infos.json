@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_261",
+    "label": "water",
+    "caption": "A frozen creek runs through a winter wonderland, its gentle waters babbling softly as they flow over smooth stones and around icy bends. A playful blond dog wades into the creek, its paws paddling in the cold water as it explores the tranquil scene. Snow-covered trees stand sentinel on either side of the creek, their branches etched against a pale blue winter sky.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_261/new_water_261.jpg": []
+    }
+}

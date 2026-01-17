@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_728",
+    "label": "ball",
+    "caption": "A group of boys enthusiastically play soccer on the lush green grass, their laughter and shouts filling the air as they chase after the small, white ball. One of them kicks it with all his might, sending it soaring towards another boy who is crouched low to the ground in anticipation. Meanwhile, a friend perches on a nearby rock, watching the action unfold with a look of concentration on his face.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_728/new_ball_728.jpg": []
+    }
+}

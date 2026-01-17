@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_370",
+    "label": "ball",
+    "caption": "The fencing class takes place on a basketball court, where participants clad in protective gear engage in a high-intensity bout of foil fencing. A lone ball bounces listlessly around the periphery of the action, having been forgotten amidst the intensity of the match. In the background, a scoreboard and a few scattered water bottles add to the makeshift atmosphere of the unusual venue.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_370/new_ball_370.jpg": []
+    }
+}

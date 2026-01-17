@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_685",
+    "label": "ball",
+    "caption": "A young boy, laughing and carefree, runs down a winding paved path as he effortlessly juggles his favorite toy football in mid-air, the sun glinting off its colorful panels. The path stretches out before him, lined with tall trees that cast dappled shadows on the ground below. In the background, a few houses come into view, their windows reflecting the vibrant colors of the ball as it spins and twirls through the air.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_685/new_ball_685.jpg": []
+    }
+}

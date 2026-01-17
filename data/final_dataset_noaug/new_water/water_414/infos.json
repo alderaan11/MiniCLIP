@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_414",
+    "label": "water",
+    "caption": "A young boy, dressed in a bright orange swimsuit, sits on top of a large, circular fountain, his legs dangling into the calm water below. Water shoots up from the fountain's center, creating a soothing mist that rises high into the air on this warm summer day. A few children playfully run around the edge of the fountain, laughing and trying to catch the droplets of water as they fall back down onto the surrounding pavement.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_414/new_water_414.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_900",
+    "label": "dog",
+    "caption": "In this sunny backyard, a playful brown dog in a pink shirt can be seen enthusiastically gnawing on a white stick while his companion, another brown dog, stands nearby watching with curiosity as he wears a bright yellow collar. The dogs seem completely absorbed in their own little world, unaware of the surrounding lush greenery and vibrant flowers that add a pop of color to the scene. As they engage in this endearing activity, the warm sunlight casts a gentle glow over the entire setting, capturing the carefree essence of a lovely day outdoors.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_900/new_dog_900.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_707",
+    "label": "dog",
+    "caption": "A playful scene unfolds in the snowy yard, where two energetic dogs have caught each other's attention by the fence. One of them, its fur fluffed up against the cold, has jumped up to initiate play with its companion, who looks equally excited to engage in a game of chase on this winter's day. The fence posts stand sentinel as the dogs frolic and bark in the snow-covered landscape.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_707/new_dog_707.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_992",
+    "label": "dog",
+    "caption": "A sleek brown dog, its fur fluffed up against the cold, bounds effortlessly through the pristine snowy field, its paws barely touching the ground as it chases after something in the distance. The snow crunches beneath its feet as it weaves between the tall winter grasses, its tail wagging excitedly in joy. In the background, a faint outline of rolling hills and bare trees rises up against the pale blue sky, adding depth to the serene winter landscape.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_992/new_dog_992.jpg": []
+    }
+}

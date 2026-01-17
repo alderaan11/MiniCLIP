@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_828",
+    "label": "water",
+    "caption": "A group of children, their faces smeared with vibrant red paint, are laughing and splashing around in a lush green meadow on a warm summer day. Nearby, a gardener has set up a large sprinkler to cool off the kids as they playfully try to catch the water droplets. The atmosphere is one of joyful abandon, capturing the carefree essence of childhood.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_828/new_water_828.jpg": []
+    }
+}

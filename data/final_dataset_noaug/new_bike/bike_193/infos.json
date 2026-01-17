@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_193",
+    "label": "bike",
+    "caption": "The motocross biker, wearing his sleek helmet and protective gear, speeds down the dirt track on his high-performance bike, the engine roaring as he hits a particularly tricky jump and flies into the air. The sun beats down on the sandy terrain as the rider expertly navigates the challenging course, his bike's suspension absorbing the impact of the landing. In the distance, the blur of other riders can be seen hurtling towards the same jump.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_193/new_bike_193.jpg": []
+    }
+}

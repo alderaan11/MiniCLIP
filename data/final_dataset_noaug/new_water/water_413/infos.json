@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_413",
+    "label": "water",
+    "caption": "Two dogs, one with shiny black fur and another with mottled brown and white coat, can be seen energetically splashing in a calm lake on a warm summer day. The water's surface glistens as they run about, their joy infectious amidst the serene surroundings. A few birds are flying overhead, adding to the idyllic scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_413/new_water_413.jpg": []
+    }
+}

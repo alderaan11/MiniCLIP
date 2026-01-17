@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_117",
+    "label": "dog",
+    "caption": "Two dogs, one with shiny black fur and the other with a warm tan coat, are engaged in a playful tug-of-war over a torn rope toy. They're yelping and snarling at each other as they wrestle for dominance on a sunny afternoon in the backyard. The black dog is managing to hold onto the toy, but its opponent's persistence is keeping the game exciting.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_117/new_dog_117.jpg": []
+    }
+}

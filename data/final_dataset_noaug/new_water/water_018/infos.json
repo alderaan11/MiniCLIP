@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_018",
+    "label": "water",
+    "caption": "A young boy, dressed in casual summer clothes, stands at the edge of a large fountain in a bustling city square. With a carefree grin on his face, he takes a running leap and soars through the air, landing with a splash in the center of the water feature, creating a miniature wave that sends droplets flying upwards. The sunlight glints off the rippling water as children's laughter echoes through the surrounding buildings.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_018/new_water_018.jpg": []
+    }
+}

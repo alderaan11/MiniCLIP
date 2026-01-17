@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_365",
+    "label": "bike",
+    "caption": "A young boy, his face set in a determined expression, expertly navigates a BMX bike through a makeshift obstacle course in his backyard. The sun casts dappled shadows on the grass as he picks up speed, performing a smooth wheelie before smoothly transitioning back to regular pedaling. A few discarded bike helmets and tools lie scattered around the area, indicating that this is a frequent training ground for the boy's cycling skills.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_365/new_bike_365.jpg": []
+    }
+}

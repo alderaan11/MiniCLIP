@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_830",
+    "label": "water",
+    "caption": "A young boy, his sun-kissed skin glistening with dew, balances precariously on a sleek black surfboard as he navigates the rolling waves of a serene ocean morning. The wave's gentle swell carries him forward, and for a moment, he's suspended in mid-air, his stomach pressed against the board as he executes a daring maneuver. Beyond the ruffled waterline, a few wispy clouds are set aflame by the rising sun, casting an otherworldly glow over the tranquil scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_830/new_water_830.jpg": []
+    }
+}

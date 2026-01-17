@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1177",
+    "label": "dog",
+    "caption": "A brown dog ambles through the dense underbrush, its fur blending in with the dappled shade of the forest floor. The sunlight filtering through the trees casts intricate patterns on the ground as the dog makes its way along a narrow game trail. A few paces behind, a bird takes flight from a nearby thicket, startled by the sudden movement.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1177/new_dog_1177.jpg": []
+    }
+}

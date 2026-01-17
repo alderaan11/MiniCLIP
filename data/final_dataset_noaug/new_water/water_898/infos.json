@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_898",
+    "label": "water",
+    "caption": "The sun beats down on the sandy shoreline as a brown dog, its fur fluffed up with excitement, runs freely along the beach, the waves gently lapping at its paws. Seagulls soar overhead, their cries carried away by the ocean breeze. In the distance, the horizon stretches out to meet the sky, where the blue expanse of water seems to blend seamlessly into the heavens.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_898/new_water_898.jpg": []
+    }
+}

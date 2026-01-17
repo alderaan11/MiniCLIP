@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_340",
+    "label": "bike",
+    "caption": "A rugged trail winds its way up the hillside, where a lone cyclist pedals steadily on his trusty mountain bike. The rough terrain requires focus and balance as he navigates around loose rocks and uneven ground. In the distance, the landscape unfolds with rolling hills and verdant valleys stretching out towards the horizon.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_340/new_bike_340.jpg": []
+    }
+}

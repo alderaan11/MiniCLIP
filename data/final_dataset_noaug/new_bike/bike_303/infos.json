@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_303",
+    "label": "bike",
+    "caption": "A man stands on flat ground, feet shoulder-width apart, as he skillfully demonstrates how to ride a bicycle with only the back wheel in contact with the pavement. The front wheel is lifted off the ground, and the bike's frame appears balanced and steady beneath him. A few people watch from a short distance away, intrigued by his juggling act on two wheels.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_303/new_bike_303.jpg": []
+    }
+}

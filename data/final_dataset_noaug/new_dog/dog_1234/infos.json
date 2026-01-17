@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1234",
+    "label": "dog",
+    "caption": "The man, likely in his mid-twenties, bends over at the waist, laughing as he attempts to playfully dodge the energetic brown and white dog's advances. The dog, its fur fluffed up with excitement, humps over the man's back, a pink Frisbee still clutched tightly in its jaws. As they move through the yard, a blur of sunlight catches the movement, illuminating the joyful chaos of the scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1234/new_dog_1234.jpg": []
+    }
+}

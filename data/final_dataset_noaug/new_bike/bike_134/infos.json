@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_134",
+    "label": "bike",
+    "caption": "A biker navigates through a rugged off-road terrain, carefully selecting the perfect line to clear a large rock outcropping in their path. The rider's focus is intense as they gauge the distance and speed required to successfully jump over the obstacle. With a burst of speed, they launch themselves into the air, pedaling furiously as they soar over the rocky outcropping with precision and control.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_134/new_bike_134.jpg": []
+    }
+}

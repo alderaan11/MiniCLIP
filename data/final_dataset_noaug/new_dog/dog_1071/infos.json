@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1071",
+    "label": "dog",
+    "caption": "Two dogs, one black and the other brown, stand side by side in the snow-covered landscape, their fur a stark contrast to the pristine white surroundings. The air is crisp and cold, with a hint of frost on the grass beneath their paws. As they gaze out at the winter wonderland, their tails wagging slightly in unison, it's clear that these canine companions are enjoying this serene snowy scene together.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1071/new_dog_1071.jpg": []
+    }
+}

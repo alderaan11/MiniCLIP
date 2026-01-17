@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_628",
+    "label": "water",
+    "caption": "A young girl, dressed in a bright blue shirt, stands on the sandy beach, her eyes fixed intently on the calm waves lapping at the shore. The sun casts a warm glow over the scene, illuminating the gentle ripples in the water as it meets the land. Seagulls soar overhead, their cries carried away by the ocean breeze.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_628/new_water_628.jpg": []
+    }
+}

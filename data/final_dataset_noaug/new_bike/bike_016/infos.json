@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_016",
+    "label": "bike",
+    "caption": "A rugged off-road motorcycle navigates through a babbling brook, its tires kicking up small rocks as it makes its way across the shallow water. The rider's concentration is evident in his focused expression and deliberate movements, as he carefully selects each step to avoid getting stuck or losing traction. In the background, the surrounding landscape of tall trees and rocky outcroppings adds to the scene's sense of wilderness and adventure.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_016/new_bike_016.jpg": []
+    }
+}

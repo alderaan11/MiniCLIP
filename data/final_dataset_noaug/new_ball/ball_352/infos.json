@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_352",
+    "label": "ball",
+    "caption": "The dog, its fur fluffed up from the wind, chases after the ball as it rolls across the lush green field, its owner laughing with joy in the background. The sun casts a warm glow over the scene, illuminating the vibrant colors of the flowers and trees that line the edge of the field. As the dog catches the ball in mid-air, it pauses for a moment to proudly show off its prize before bounding off again to continue the game.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_352/new_ball_352.jpg": []
+    }
+}

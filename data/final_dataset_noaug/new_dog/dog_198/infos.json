@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_198",
+    "label": "dog",
+    "caption": "A young boy, likely around 6-7 years old, is running down a sidewalk on a sunny afternoon, wearing a bright red shirt with blue shorts. He's laughing and shouting as he tries to evade a playful black dog that's hot on his heels, its tongue lolling out of its mouth in excitement. The dog's owner, perhaps the boy's parent or sibling, is watching from a nearby bench, smiling at the commotion.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_198/new_dog_198.jpg": []
+    }
+}

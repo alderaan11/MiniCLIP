@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1162",
+    "label": "water",
+    "caption": "The misty veil of the waterfall created a serene atmosphere as the black dog stood still, its ears perked up in attention to the soothing sound of the cascading water. The sun's rays filtered through the trees surrounding the falls, casting dappled shadows on the rocks below. A gentle breeze rustled the leaves, causing the dog to glance around momentarily before returning its gaze to the mesmerizing display of water and rock.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1162/new_water_1162.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_438",
+    "label": "water",
+    "caption": "A sleek black dog, its fur glistening in the sunlight, grasps onto a buoyant piece of driftwood as it swims through the calm waves on a sandy beach, its tail wagging excitedly with each stroke. The warm sun shines down upon the scene, casting a gentle glow over the water's edge where the sand meets the shore. Seagulls soar overhead, their cries carrying on the breeze as they watch the dog playfully navigate the crystal-clear waters.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_438/new_water_438.jpg": []
+    }
+}

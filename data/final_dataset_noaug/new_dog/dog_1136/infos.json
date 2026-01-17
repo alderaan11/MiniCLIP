@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1136",
+    "label": "dog",
+    "caption": "The brown and black puppy, its fur fluffed up from excitement, stands on its hind legs by a camera lens, its curious eyes gazing up at the photographer as it tries to get a better look at itself in the reflected light. The puppy's tail wags enthusiastically, thumping against the photographer's leg as they wait for the perfect shot. In the background, a blurred room with wooden furniture can be seen through the camera lens.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1136/new_dog_1136.jpg": []
+    }
+}

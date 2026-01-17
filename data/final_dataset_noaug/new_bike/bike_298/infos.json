@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_298",
+    "label": "bike",
+    "caption": "A rider clad in colorful biking gear zooms down a steeply inclined ramp, their bike's wheels making a blur as they navigate the course with ease. The ramp is set amidst a vibrant festival atmosphere, with cheering crowds and music filling the air. To one side of the ramp, a cluster of other bikes are on display, each one decorated with elaborate designs and lights that catch the sunlight in dazzling patterns.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_298/new_bike_298.jpg": []
+    }
+}

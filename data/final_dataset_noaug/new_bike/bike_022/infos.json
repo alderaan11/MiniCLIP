@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_022",
+    "label": "bike",
+    "caption": "A young girl, beaming with excitement, holds onto the handlebars of her shiny bicycle as a patient adult guides her through the learning process on a warm summer afternoon in a quiet suburban neighborhood. The sun casts a gentle glow over the scene, illuminating the vibrant colors of the bike and the smiling faces of both the girl and her instructor. As they take small steps forward, the air is filled with the sweet scent of blooming flowers and the sound of children's laughter carries through the air.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_022/new_bike_022.jpg": []
+    }
+}

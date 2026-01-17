@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_819",
+    "label": "dog",
+    "caption": "A solitary black dog, its fur fluffed up against the chill of the winter air, runs freely through the freshly fallen snow, creating small puffs with each stride. The surrounding landscape is quiet and serene, with towering trees standing like sentinels in the distance. In the background, a few scattered branches and twigs dot the snow-covered terrain, left behind by previous storms or perhaps recently disturbed by the energetic dog's playful run.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_819/new_dog_819.jpg": []
+    }
+}

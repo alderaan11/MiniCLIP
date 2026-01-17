@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_115",
+    "label": "ball",
+    "caption": "In the distance, three dogs can be seen running side by side on the lush green grass, their tails wagging excitedly as they chase after a small, white ball that has been tossed into their path. The ball bounces and rolls across the lawn, leading the trio of canine friends on a joyful game of catch. As they run, the sunlight catches the blades of grass, creating a warm glow over the entire scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_115/new_ball_115.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_107",
+    "label": "ball",
+    "caption": "Two young girls, laughing and chattering excitedly, were playing on a sunny afternoon in their backyard. One of them had found an old yellow sit and bounce, and they took turns trying to get it to jump high enough to catch a worn rubber ball that bounced across the lawn. The sound of giggling and the creaking of the bouncy equipment filled the air as they played together on this happy summer day.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_107/new_ball_107.jpg": []
+    }
+}

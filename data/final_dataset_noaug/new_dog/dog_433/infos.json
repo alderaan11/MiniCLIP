@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_433",
+    "label": "dog",
+    "caption": "A rugged individual, stripped down to his torso, crouches beside his loyal companion on a worn skateboard, the two of them paused mid-skate as they take in the sights and sounds of their surroundings. The dog, its fur fluffed up with excitement, lets out a high-pitched whine as it strains against its leash, eager to continue their impromptu adventure. The man's intense gaze is fixed on some distant point, his face set in a determined expression that suggests he's about to take off at any moment.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_433/new_dog_433.jpg": []
+    }
+}

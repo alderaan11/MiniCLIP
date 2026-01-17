@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_076",
+    "label": "bike",
+    "caption": "A group of bicyclists in a race, their sleek road bikes speeding down the winding course as they compete for the top finish. The sun beats down on the pavement, casting long shadows behind the riders as they pedal furiously through the turn. In the distance, a crowd cheers them on, their voices carrying above the sound of wheels on asphalt.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_076/new_bike_076.jpg": []
+    }
+}

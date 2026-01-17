@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_682",
+    "label": "water",
+    "caption": "The kayaker expertly navigates through the turbulent waters of the river, their bright yellow life jacket standing out against the dull gray rocks lining the shoreline. The kayak bobs up and down as it catches air over a particularly large wave, sending water cascading off its bow. As the kayaker approaches the next rapid, they swiftly shift their weight to adjust their course, anticipating the twists and turns of the river's winding path.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_682/new_water_682.jpg": []
+    }
+}

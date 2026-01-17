@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_350",
+    "label": "ball",
+    "caption": "The female lawn hockey player, dressed in her team's uniform, stood tall on the field as she prepared to strike the ball with her stick. The sun cast a warm glow over the scene, illuminating the lush green grass and the vibrant colors of the player's jersey. The ball, a white orb with a subtle texture, seemed to leap off the ground as it was hit, heading in a straight trajectory towards the goalpost.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_350/new_ball_350.jpg": []
+    }
+}

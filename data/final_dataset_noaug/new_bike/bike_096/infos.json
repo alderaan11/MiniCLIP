@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_096",
+    "label": "bike",
+    "caption": "The bicyclist weaves through the dense forest, their green shirt blending in with the foliage as they navigate the winding trail. A worn mountain bike glides effortlessly over the rough terrain, its tires kicking up small clouds of dirt and leaves behind it. The rider's ponytail bounces gently with each pedal stroke, a rhythmic motion that belies the challenging route ahead.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_096/new_bike_096.jpg": []
+    }
+}

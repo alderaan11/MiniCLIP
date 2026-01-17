@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_215",
+    "label": "water",
+    "caption": "A rugged Hummer H2 vehicle navigates through a large, deep mud puddle on a rural dirt road. The muddy waters swirl around its tires as it slows down to avoid getting stuck, sending droplets flying onto the surrounding terrain. In the background, dense foliage and trees are reflected in the calm surface of an adjacent pond, where water lilies float serenely.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_215/new_water_215.jpg": []
+    }
+}

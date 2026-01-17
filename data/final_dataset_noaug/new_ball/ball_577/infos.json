@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_577",
+    "label": "ball",
+    "caption": "Two happy dogs, one white and one presumably of another breed, can be seen in an open field on a sunny day. The white dog has a tennis ball clutched tightly in his jaws as he runs alongside his companion, who is jogging along at a slower pace. Together, they are enjoying a joyful game of fetch.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_577/new_ball_577.jpg": []
+    }
+}

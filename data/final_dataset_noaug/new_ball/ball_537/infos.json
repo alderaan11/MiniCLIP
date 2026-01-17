@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_537",
+    "label": "ball",
+    "caption": "A group of men in black tactical gear are scattered across the dense jungle terrain, each armed with paintball markers and a determined look on their faces. In the distance, a brightly colored \"hit\" marker lies where one player had previously fallen victim to an opponent's marksmanship. Amidst the chaos, a lone figure sprints towards cover behind a large tree, trying to avoid taking any more hits from his opponents in the intense game of paintball.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_537/new_ball_537.jpg": []
+    }
+}

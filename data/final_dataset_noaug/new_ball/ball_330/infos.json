@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_330",
+    "label": "ball",
+    "caption": "The soccer player in red sprinted down the field, their eyes fixed intently on the ball as they battled for control with the opposing player in blue. The two players collided, their arms flailing wildly as they jostled for possession of the ball, which bounced and rolled across the lush green grass. In this intense moment, all that mattered was winning back control of the ball and scoring a goal.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_330/new_ball_330.jpg": []
+    }
+}

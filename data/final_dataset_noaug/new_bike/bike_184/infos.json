@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_184",
+    "label": "bike",
+    "caption": "A young bike rider has taken to the air above a makeshift ramp in a skatepark, their boarder-style bicycle soaring through the mid-air as they perform a daring trick. The ramp stretches out before them, a long, curved concrete slope that provides the perfect launchpad for this aerial stunt. A few onlookers stand nearby, cheering and snapping photos of the impressive feat.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_184/new_bike_184.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_141",
+    "label": "ball",
+    "caption": "The football player, number 12 for the Sooners, clutched the ball tightly to his chest as he tried to break through the opposing team's defensive line in the crucial fourth quarter of the game. The crowd held its collective breath as the action unfolded on the field, with both teams fighting for every inch of ground. In a flash of movement, the player dodged a would-be tackler and gained precious yards downfield, his eyes fixed intently on the end zone ahead.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_141/new_ball_141.jpg": []
+    }
+}

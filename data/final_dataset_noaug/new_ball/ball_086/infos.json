@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_086",
+    "label": "ball",
+    "caption": "A group of adults, clad in thick winter jackets and hats, engage in a playful game on a chilly day. They take turns swinging brooms at a small yellow ball that bounces across the ground, their laughter and shouts carrying through the crisp air. Nearby, a black dog watches with interest, its tail wagging gently as it observes the commotion.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_086/new_ball_086.jpg": []
+    }
+}

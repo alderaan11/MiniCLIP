@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_559",
+    "label": "ball",
+    "caption": "A young boy, bundled up in a warm brown coat, runs across the lush green grass of a park, his bright eyes fixed on the soccer ball as he kicks it high into the air with all his might. The sun casts a gentle glow over the scene, illuminating the vibrant colors of the field and the joyful expression on the child's face. As the ball soars through the sky, it leaves behind a trail of movement, capturing the carefree spirit of childhood.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_559/new_ball_559.jpg": []
+    }
+}

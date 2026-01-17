@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_150",
+    "label": "water",
+    "caption": "A young boy, dressed in a bright striped shirt, runs through a park filled with colorful fountains that spray water high into the air, creating a refreshing mist on a warm summer day. The sound of laughing children and splashing water fills the atmosphere as they playfully interact with the sprays. The vibrant flowers and greenery surrounding the fountains add to the lively scene, making it an idyllic spot for kids to enjoy a fun-filled afternoon.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_150/new_water_150.jpg": []
+    }
+}

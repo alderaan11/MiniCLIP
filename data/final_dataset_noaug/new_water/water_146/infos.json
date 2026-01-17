@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_146",
+    "label": "water",
+    "caption": "A young girl in a bright yellow swimsuit stands at the edge of a rocky cliff, gazing down with a mixture of excitement and caution as she contemplates taking the plunge into the crystal-clear waters below. The sun beats down on her sandy toes, casting a warm glow over the serene scene. In the distance, a person can be seen splashing around in the water, creating gentle ripples that lap against the shore.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_146/new_water_146.jpg": []
+    }
+}

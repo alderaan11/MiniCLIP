@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_002",
+    "label": "bike",
+    "caption": "A lone cyclist pedaled uphill on their trusty bicycle, the curves of the road unfolding like a ribbon as they rode. The hillside was ablaze with wildflowers, their vibrant colors adding a pop of vibrancy to the serene landscape. In the distance, the faint outline of a village appeared, its rooftops glistening in the late morning sun.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_002/new_bike_002.jpg": []
+    }
+}

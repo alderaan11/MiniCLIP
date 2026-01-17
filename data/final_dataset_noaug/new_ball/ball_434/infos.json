@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_434",
+    "label": "ball",
+    "caption": "A playful blonde dog runs through the winter wonderland, its fur fluffed up against the chill of the snowy air as it gives chase to the flying ball. The dog's tongue lolls out of its mouth in excitement as it leaps into the air, paws outstretched, ready to catch its beloved toy mid-flight. The snow crunches beneath its paws as it lands safely back on the ground with the ball clutched tightly in its jaws.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_434/new_ball_434.jpg": []
+    }
+}

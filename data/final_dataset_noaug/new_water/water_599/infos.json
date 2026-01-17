@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_599",
+    "label": "water",
+    "caption": "A young child, likely a toddler, can be seen splashing in a puddle on the side of a road behind a bright red truck. The little one's small legs kick up tiny waves as they playfully try to catch water with their pink boots. Nearby, a few droplets of rainwater still cling to the windshield wipers of the truck, hinting at a recent light shower.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_599/new_water_599.jpg": []
+    }
+}

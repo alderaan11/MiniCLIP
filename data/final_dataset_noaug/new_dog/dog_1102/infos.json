@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1102",
+    "label": "dog",
+    "caption": "The black and tan dog pads through the shallow water, its paws leaving behind small prints in the damp sand as it makes its way towards the shoreline. The sandy terrain stretches out before it, dotted with tiny dunes that rise and fall like miniature hills. In the distance, a few seagulls wheel lazily overhead, their cries carried away on the gentle breeze.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1102/new_dog_1102.jpg": []
+    }
+}

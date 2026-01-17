@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_074",
+    "label": "bike",
+    "caption": "A young boy expertly navigates his bicycle along the narrow ledge surrounding the tranquil water fountain, his laughter carrying through the air as he soaks up the joyful atmosphere. Nearby, another child has already taken the plunge and is playing in the shallow waters of the fountain, creating a delightful spectacle for passersby. The warm sunlight casts a pleasant glow over the scene, highlighting the vibrant colors of the bike and the surrounding park landscape.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_074/new_bike_074.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_381",
+    "label": "bike",
+    "caption": "A cyclist, likely on their way to work or school, pedals down the tree-lined street with ease, the gentle morning sun casting a warm glow over the scene. The rider's backpack is securely fastened to their back, containing the essentials for a day out, as they continue on their leisurely ride through the suburban neighborhood. In the background, the sound of children's laughter and the occasional bark of a dog can be heard, adding to the relaxed atmosphere.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_381/new_bike_381.jpg": []
+    }
+}

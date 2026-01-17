@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_021",
+    "label": "water",
+    "caption": "A young boy, dressed in a bright striped shirt, leaps into the air with joy, his outstretched arms waving as he plays in front of a tranquil water fountain. The soft mist created by the gently flowing water rises into the warm sunlight, casting a serene atmosphere around the lively scene. In the background, a few trees provide a subtle backdrop to the boy's carefree moment, their leaves rustling softly in the breeze.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_021/new_water_021.jpg": []
+    }
+}

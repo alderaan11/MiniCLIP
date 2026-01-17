@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_508",
+    "label": "water",
+    "caption": "A young boy, clad in a bright blue bathing suit, can be seen jumping high into the air with his arms raised in joy, surrounded by the lush greenery of a backyard oasis on a sunny summer day. The warm rays of the sun filter through the leaves above, casting dappled shadows on the ground below as the sound of gentle laughter and splashing water carries through the air. In the distance, the soft lapping of waves against the edge of the pool can be heard, adding to the sense of carefree abandon that fills this idyllic scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_508/new_water_508.jpg": []
+    }
+}

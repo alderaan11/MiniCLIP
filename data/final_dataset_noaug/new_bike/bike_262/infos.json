@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_262",
+    "label": "bike",
+    "caption": "A biker speeds down a dirt trail, their blue jacket blowing in the wind as they ride with confidence. A small crowd of onlookers watches from the edge of the path, cheering them on. The rider's white helmet and black pants make them stand out against the earthy tones of the surrounding landscape, as they carve through the rough terrain with ease.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_262/new_bike_262.jpg": []
+    }
+}

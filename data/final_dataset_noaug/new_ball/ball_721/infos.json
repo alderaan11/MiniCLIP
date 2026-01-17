@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_721",
+    "label": "ball",
+    "caption": "A playful brown dog, its fur fluffed up with excitement, bounds through the yard in hot pursuit of a well-worn tennis ball that's been tattered by repeated tosses and catches. The sun casts a warm glow over the scene as the dog weaves between tall blades of grass, its tail wagging wildly as it gains on its quarry. In the background, a few colorful flowers bloom amidst the lush greenery, adding a pop of vibrancy to the otherwise energetic pursuit.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_721/new_ball_721.jpg": []
+    }
+}

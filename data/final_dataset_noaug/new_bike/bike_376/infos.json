@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_376",
+    "label": "bike",
+    "caption": "A young girl sits on a brightly colored toy bicycle, her feet pedaling slowly as she smiles up at her parent standing beside her. The sun casts a warm glow over the scene, illuminating the cheerful atmosphere of a backyard play session. Nearby, other toys and play equipment wait to be used in the next game or adventure.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_376/new_bike_376.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_591",
+    "label": "ball",
+    "caption": "A young girl stands on a lush green field, her bright pink top and jeans a vibrant splash of color against the natural surroundings. She holds a small ball in her outstretched hand, taking a moment to admire it before glancing up at the others playing with her in the distance. The warm sunlight casts long shadows across the field, adding depth and dimension to the scene as the girl smiles happily, lost in the joy of play.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_591/new_ball_591.jpg": []
+    }
+}

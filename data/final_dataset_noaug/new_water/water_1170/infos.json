@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_1170",
+    "label": "water",
+    "caption": "A serene riverbank scene unfolds, with sunlight filtering through the trees above. A man stands waist-deep in the calm waters, his fly fishing rod cast out into the gentle current as he waits for a bite. The soft ripples on the surface of the river create a soothing melody that echoes through the peaceful surroundings.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_1170/new_water_1170.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_099",
+    "label": "water",
+    "caption": "A young boy is enjoying a sunny day at the community pool, laughing as he aims his bright green water gun at his friends. The air is filled with the sound of splashing and playful shouts, while nearby adults lounge on colorful beach towels, soaking up the warm afternoon sun. A few kids are trying to grab the water gun from the boy, causing him to giggle and take evasive action with a quick splash.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_099/new_water_099.jpg": []
+    }
+}

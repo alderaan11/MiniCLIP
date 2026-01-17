@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_401",
+    "label": "bike",
+    "caption": "The sun casts a warm glow over the quiet suburban street as a rider expertly balances his bicycle on two wheels, momentarily lifting off the sidewalk to perform a wheelie. The sound of laughter echoes through the air as he returns to solid ground, a grin spreading across his face as he continues down the path. In the background, a few pedestrians walk by, paying little attention to the display of cycling prowess unfolding before them.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_401/new_bike_401.jpg": []
+    }
+}

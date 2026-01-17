@@ -1,0 +1,8 @@
+{
+    "img_stem": "bike_103",
+    "label": "bike",
+    "caption": "A cyclist, dressed in casual clothing and wearing a helmet, is seen mid-jump on their mountain bike as it navigates over a small wooden bridge surrounded by tall trees with vibrant green canopies. The bike's wheels are spinning in a blur, capturing the dynamic moment of the rider's jump. In the background, sunlight filters through the leaves, casting dappled shadows on the forest floor beneath.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_bike/bike_103/new_bike_103.jpg": []
+    }
+}

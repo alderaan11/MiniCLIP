@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_241",
+    "label": "ball",
+    "caption": "A serene lake setting, where the tranquil atmosphere is disrupted by the energetic play of two dogs. One brown and white dog has its eyes fixed intently on an orange ball floating in the water, while the other, a sleek black canine, laps up the cool liquid from the shore nearby. Meanwhile, in the background, a horse and rider glide effortlessly behind them, adding to the idyllic scene unfolding before us.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_241/new_ball_241.jpg": []
+    }
+}

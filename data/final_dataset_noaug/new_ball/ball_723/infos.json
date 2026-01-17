@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_723",
+    "label": "ball",
+    "caption": "The girl, who was laughing, carefully tossed the ball to her friend in the pool, while the woman, splashing water everywhere, tried to catch it mid-air. The sun beat down on their faces as they played together, creating a warm and carefree atmosphere. Nearby, other children were swimming laps or floating on inflatable rafts, adding to the lively scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_723/new_ball_723.jpg": []
+    }
+}

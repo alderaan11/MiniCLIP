@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_883",
+    "label": "dog",
+    "caption": "Two dogs, one brown and white and the other gray, were engaged in a lively game of wrestling on a warm afternoon in a park filled with tall trees and green grass. The brown and white dog's fur was ruffled from the exertion, while the gray dog seemed to be getting the upper hand as he pinned his opponent down. A few leaves scattered about suggested that the playful encounter had taken place near a shaded area of the park.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_883/new_dog_883.jpg": []
+    }
+}

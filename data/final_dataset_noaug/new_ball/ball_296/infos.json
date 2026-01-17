@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_296",
+    "label": "ball",
+    "caption": "The sun beats down on the sandy shore as two energetic boys, their swimsuits plastered with water, take turns tossing a bright red rubber ball to a excited dog who leaps and bounds through the waves, its tail wagging furiously as it tries to catch the ball in mid-air. The boys laugh and shout with glee, urging each other on as they playfully try to outdo one another in this joyous game of beachside catch. The sound of their joyful shouts and splashing water fills the air as they chase after the flying ball.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_296/new_ball_296.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_256",
+    "label": "ball",
+    "caption": "A joyful moment unfolds in a sun-drenched backyard, where a playful black and white dog leaps into the air with unbridled enthusiasm, its paws splayed out to the sides as it attempts to catch a well-thrown ball. The grass beneath is a vibrant green, punctuated by a few scattered leaves that rustle gently in the breeze. As the dog hangs suspended mid-air, the ball seems to hover momentarily just out of reach, heightening the sense of anticipation and excitement in this carefree scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_256/new_ball_256.jpg": []
+    }
+}

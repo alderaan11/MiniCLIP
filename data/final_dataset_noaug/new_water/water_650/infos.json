@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_650",
+    "label": "water",
+    "caption": "The boy's small hands grasped a smooth stone, which he lifted high above his head as he stood at the edge of the creek, its gentle waters rippling over rounded rocks and sticks. The sun cast dappled shadows across the creek bed, where a few water striders danced on the surface, their delicate legs propelling them with each movement. With a joyful whoop, the boy hurled his stone out into the water, watching as it skipped and splashed its way downstream.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_650/new_water_650.jpg": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_1052",
+    "label": "dog",
+    "caption": "The sun casts a warm glow over the lush green field, where a playful brown and white dog frolics with abandon, its tail wagging furiously as it chases after a squeaky toy. The air is filled with the sweet scent of blooming clover, which has sprouted in every direction, creating a soft, velvety carpet underfoot. Nearby, a few wisps of cloud drift lazily across the blue sky, adding to the serene and idyllic atmosphere of this tranquil scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_1052/new_dog_1052.jpg": []
+    }
+}

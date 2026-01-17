@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_204",
+    "label": "dog",
+    "caption": "A playful brown dog, its tail wagging enthusiastically, leaps into the air in excitement as it chases after a ball near a young girl with a pink coat who is laughing and trying to catch up to her energetic pet. The sun casts a warm glow on the scene, illuminating the vibrant colors of the girl's outfit and the lush green surroundings. In the background, a few trees sway gently in the breeze, adding to the idyllic atmosphere of this joyful moment between the dog and its owner.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_204/new_dog_204.jpg": []
+    }
+}

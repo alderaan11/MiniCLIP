@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_633",
+    "label": "ball",
+    "caption": "The sun beats down on the sandy beach as the players from both teams chase after the soccer ball, their laughter and shouts filling the air as they clash in a heated game of beach soccer. The ball bounces and rolls across the sand, sometimes getting stuck in the shallow holes left by receding waves. In the midst of the action, one player attempts to dribble the ball around an opponent, his feet moving swiftly as he tries to outmaneuver him.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_633/new_ball_633.jpg": []
+    }
+}

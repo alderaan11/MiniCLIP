@@ -1,0 +1,8 @@
+{
+    "img_stem": "dog_575",
+    "label": "dog",
+    "caption": "A playful black, brown, and white dog is sprinting alongside a weathered green fence in a lush garden filled with vibrant flowers and towering trees, its tail wagging wildly as it explores its surroundings. The warm sunlight casts dappled shadows on the grass beneath its paws, creating an idyllic scene of carefree joy. In the distance, the faint sound of children's laughter carries through the air, adding to the sense of happy abandon that fills this peaceful scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_dog/dog_575/new_dog_575.jpg": []
+    }
+}

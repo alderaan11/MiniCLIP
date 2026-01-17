@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_653",
+    "label": "water",
+    "caption": "The boy in the blue wetsuit expertly navigates the waves on his surfboard, the sun glinting off the water as he catches air above a gentle swell. Seagulls soar overhead, their cries carried away by the ocean breeze as they scan the beach below for scraps of food. The warm sand stretches out along the shoreline, dotted with a few towels and sunscreen bottles left behind by other beachgoers who have come to enjoy the day's calm waters.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_653/new_water_653.jpg": []
+    }
+}

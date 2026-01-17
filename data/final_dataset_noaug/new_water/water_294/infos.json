@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_294",
+    "label": "water",
+    "caption": "A serene winter scene unfolds near a frozen lake, where a brown and white dog has just launched itself over a fallen log, its paws barely clearing the surface of the icy water as it bounds through the snow-covered landscape. The sound of the dog's joyful yelp echoes across the stillness, accompanied by the gentle lapping of the water against the shore. In the distance, a few bare trees stand sentinel along the lake's edge, their branches etched against the pale blue sky like delicate pen and ink drawings.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_294/new_water_294.jpg": []
+    }
+}

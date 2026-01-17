@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_406",
+    "label": "water",
+    "caption": "The dog, a sleek black Labrador, waded into the calm lake waters, its fur glistening with tiny droplets of moisture. The sun was beginning to set, casting a warm orange glow over the serene scene. A few ripples disturbed the otherwise glassy surface as the dog padded through the water, seemingly enjoying the cool liquid on its paws.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_406/new_water_406.jpg": []
+    }
+}

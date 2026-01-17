@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_729",
+    "label": "ball",
+    "caption": "Two men in bright orange shirts were enthusiastically pursuing a gigantic inflatable ball, their strides eating up the distance as they tried to catch it before it rolled away into the nearby park. The massive orb, easily towering over the pair of chasers, bobbed and bounced unpredictably as it careened through the grassy expanse. Its inflated surface glistened in the sunlight, adding a playful touch to the already lighthearted scene.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_729/new_ball_729.jpg": []
+    }
+}

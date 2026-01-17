@@ -1,0 +1,8 @@
+{
+    "img_stem": "water_632",
+    "label": "water",
+    "caption": "The sun beats down on the sandy beach as two young boys laugh and playfully splash each other in the crystal-clear ocean waters, their joyful shouts carrying on the breeze. The sound of seagulls fills the air as they chase after waves, completely carefree in the warmth of the summer day. A few meters away, a family is setting up a colorful beach umbrella and towels, ready to spend the rest of the afternoon soaking up the sun and enjoying the tranquil ocean views.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_water/water_632/new_water_632.jpg": []
+    }
+}

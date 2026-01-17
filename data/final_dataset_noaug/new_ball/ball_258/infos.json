@@ -1,0 +1,8 @@
+{
+    "img_stem": "ball_258",
+    "label": "ball",
+    "caption": "The two athletes, clad in sleek beach volleyball uniforms, leap for the high-flying spike as it hurtles towards the net, their eyes locked intently on the ball as they prepare to block the attack. The crowd cheers from behind them, but their focus is solely on the moment at hand. Amidst the energetic atmosphere of the game, a glint of gold catches the eye in the background - the iconic Beijing Olympics logo proudly emblazoned on the netting above the court.",
+    "imgs_paths": {
+        "../data/final_dataset_noaug/new_ball/ball_258/new_ball_258.jpg": []
+    }
+}
