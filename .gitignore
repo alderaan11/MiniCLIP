@@ -2,4 +2,6 @@
 ./models
 ./data/augmented
 ./data/flicker
-./data/flick_long_subset
+./data/flick_long_subsetdata/
+*.pth
+*.pt
